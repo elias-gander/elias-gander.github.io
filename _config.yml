@@ -28,3 +28,13 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+defaults:
+    -
+      scope:
+        path: ""
+        type: "posts"
+      values:
+        layout: "post"
+        comments: true
+        

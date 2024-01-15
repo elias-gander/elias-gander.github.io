@@ -5,4 +5,4 @@ title:  "Brennende Wadln"
 
 Auffi & obi
 
-{% include map.html map_link="https://en.frame.mapy.cz/s/panofubaho" %}
+{% include map.html url="https://en.frame.mapy.cz/s/panofubaho" %}

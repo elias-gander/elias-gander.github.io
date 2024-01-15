@@ -7,4 +7,4 @@ entries:
 
   - title: Letzte Einträge
     post_list:
-      limit: 9000
+      limit: false
