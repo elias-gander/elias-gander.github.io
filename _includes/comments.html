@@ -1,0 +1,42 @@
+<section>
+    <h3>Kommentare</h3>
+
+    <form onsubmit="submitForm(event)">
+        <input type="text" id="username" name="username" placeholder="Name" required>
+        <textarea id="comment" name="comment" placeholder="Kommentar" required></textarea>
+        <div class="captchafox" data-mode="hidden" data-sitekey="sk_tTRiPdeo-3n-iJ8gbFYA_gqR-HvNrLnO"></div>
+        <button type="submit">Absenden</button>
+    </form>
+</section>
+
+<style>
+    textarea {
+        resize: vertical; 
+        display: block; 
+        width: 100%; 
+        height: 100px; 
+        margin: 20px 0;
+    }
+
+    button {
+        margin-top: 20px;
+    }
+
+    input, textarea, button {
+        font-family: monospace;
+        font-size: 16px;
+    }
+</style>
+
+<script async defer src="https://cdn.captchafox.com/api.js"></script>
+<script>
+    async function submitForm(event) {
+      event.preventDefault();
+      try {
+        const token = await captchafox.execute();
+        alert('Response:' + token);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+  </script>
