@@ -6,7 +6,7 @@
     <div id="comments">
     {% for comment_file in comment_files %}
         {% assign comment = comment_file[1] %}
-        {% include comment.html name=comment.name text=comment.text date=comment.date %}
+        {% include comment.html name=comment.name message=comment.message date=comment.date %}
     {% endfor %}
     </div>
     
@@ -14,7 +14,7 @@
         <input name="options[redirect]" type="hidden" value="{{ '/comment_success.html' | absolute_url }}">
         <input name="options[slug]" type="hidden" value="{{ comments_subfolder }}">
         <input name="fields[name]" placeholder="Name" type="text" required>
-        <textarea name="fields[text]" placeholder="Kommentar"></textarea>
+        <textarea name="fields[message]" placeholder="Kommentar"></textarea>
         <button type="submit">Absenden</button>
       </form>
 </section>
