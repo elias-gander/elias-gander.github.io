@@ -1,14 +1,20 @@
 <section>
-    <h2>Kommentare</h2>
+    {% assign comments_subfolder = page.url | slugify %}
+    {% assign comment_files = site.data.comments[comments_subfolder] %}
+    <h2>Kommentare ({{ comment_files.size | default: 0 }})</h2>
 
-
-
+    <div id="comments">
+    {% for comment_file in comment_files %}
+        {% assign comment = comment_file[1] %}
+        {% include comment.html name=comment.name text=comment.text date=comment.date %}
+    {% endfor %}
+    </div>
+    
     <form method="POST" action="https://elis-blog-backend.fly.dev/v3/entry/github/elias-gander/elias-gander.github.io/main/comments">
-        <input name="options[redirect]" type="hidden" value="/comment_success.html">
-        <!-- e.g. "2016-01-02-this-is-a-post" -->
-        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+        <input name="options[redirect]" type="hidden" value="{{ '/comment_success.html' | absolute_url }}">
+        <input name="options[slug]" type="hidden" value="{{ comments_subfolder }}">
         <input name="fields[name]" placeholder="Name" type="text" required>
-        <textarea name="fields[message]" placeholder="Kommentar"></textarea>
+        <textarea name="fields[text]" placeholder="Kommentar"></textarea>
         <button type="submit">Absenden</button>
       </form>
 </section>

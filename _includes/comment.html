@@ -1,0 +1,7 @@
+<article>
+    {{ include.text }}
+    <p class="post-meta">
+        <span>von {{ include.name }}, am </span>
+        <time datetime="{{ include.date }}">{{ include.date | date: site.theme_config.date_format }}</time>
+    </p>
+</article>
