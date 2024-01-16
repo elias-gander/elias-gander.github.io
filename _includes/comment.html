@@ -1,7 +1,19 @@
 <article>
-    {{ include.message }}
-    <p class="post-meta">
+    <span class="comment-message">{{ include.message }}</span>
+    <div class="comment-meta">
         <span>von {{ include.name }}, am </span>
         <time datetime="{{ include.date }}">{{ include.date | date: site.theme_config.date_format }}</time>
-    </p>
+    </div>
 </article>
+
+<style>
+    .comment-meta {
+        text-align: right;
+        font-style: italic;
+        margin-bottom: 3rem;
+    }
+
+    .comment-message {
+        white-space: pre-line;
+    }
+</style>
