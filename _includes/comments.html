@@ -1,12 +1,16 @@
 <section>
-    <h3>Kommentare</h3>
+    <h2>Kommentare</h2>
 
-    <form onsubmit="submitForm(event)">
-        <input type="text" id="username" name="username" placeholder="Name" required>
-        <textarea id="comment" name="comment" placeholder="Kommentar" required></textarea>
-        <div class="captchafox" data-mode="hidden" data-sitekey="sk_tTRiPdeo-3n-iJ8gbFYA_gqR-HvNrLnO"></div>
+    
+
+    <form method="POST" action="https://todo.fly.dev/v3/entry/github/eduardoboucas/staticman/gh-pages/comments">
+        <input name="options[redirect]" type="hidden" value="https://my-site.com">
+        <!-- e.g. "2016-01-02-this-is-a-post" -->
+        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+        <input name="fields[username]" placeholder="Name" type="text" required>
+        <textarea name="fields[text]" placeholder="Kommentar"></textarea>
         <button type="submit">Absenden</button>
-    </form>
+      </form>
 </section>
 
 <style>
@@ -18,25 +22,8 @@
         margin: 20px 0;
     }
 
-    button {
-        margin-top: 20px;
-    }
-
     input, textarea, button {
         font-family: monospace;
         font-size: 16px;
     }
 </style>
-
-<script async defer src="https://cdn.captchafox.com/api.js"></script>
-<script>
-    async function submitForm(event) {
-      event.preventDefault();
-      try {
-        const token = await captchafox.execute();
-        alert('Response:' + token);
-      } catch (error) {
-        console.error(error);
-      }
-    }
-  </script>
