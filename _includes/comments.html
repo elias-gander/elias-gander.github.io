@@ -20,8 +20,8 @@
     
     <h3>Kommentar abgeben</h3>
 
-    <form method="POST" action="https://elis-blog-backend.fly.dev/v3/entry/github/elias-gander/elias-gander.github.io/main/comments">
-        <input name="options[redirect]" type="hidden" value="{{ '/ok.html' | absolute_url }}">
+    <form autocomplete="off" method="POST" action="https://elis-blog-backend.fly.dev/v3/entry/github/elias-gander/elias-gander.github.io/main/comments">
+        <input name="options[redirect]" type="hidden" value="{{ '/danke.html' | absolute_url }}">
 
         <input name="options[slug]" type="hidden" value="{{ comments_subfolder }}">
         <input name="fields[name]" placeholder="Dein Name" type="text" required>
