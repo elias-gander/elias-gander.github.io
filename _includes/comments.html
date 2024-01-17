@@ -30,6 +30,12 @@
         <input type="hidden" name="options[reCaptcha][siteKey]" value="6Ld501MpAAAAACnG_v6PjIQzJX08Fw5OWb8rmYu2">
         <input type="hidden" name="options[reCaptcha][secret]" value="Wq7oWYWvqiey2Z1y1SbTNFCK+Vv2/fNreCG1Cv/M8NMe9mbcCzysEHqbL0bxCeesu4nE8pESkID4yTa4Ig7WqMGeKJCxcmdhMUohKh9sytOnITgZLgOgXgU3BLuM2POyyTQzZ+MGmct74sDONrTaGSY21KqAd0Jpk0oqNurS0EH/y4TGhyajqY5LHk29C6Dzzh8VdWo24g+Fm25Ylwi3shygg6bWGWafCygES1qUgQuVAgEsB1ZJivf/X8TEbLNl/YmwJO07FwNNsyk69GjqAWVHC9f0PbCevW+Zh7SAGTyZHlBKI1AFtGnQG+xAi5WtOWB0+dzsT2wMFxHhXig52A==">
     </form>
+
+    <div id="recaptcha-branding">
+        This site is protected by reCAPTCHA and the Google
+        <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+        <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+    </div>  
 </section>
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -51,5 +57,14 @@
         font-family: monospace;
         font-size: 16px;
         margin-bottom: 1rem;
+    }
+
+    .grecaptcha-badge { 
+        visibility: hidden !important;
+    }
+
+    #recaptcha-branding {
+        font-size: 75%;
+        opacity: 0.3;
     }
 </style>
