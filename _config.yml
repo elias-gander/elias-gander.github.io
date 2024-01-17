@@ -4,11 +4,11 @@ email: eliasgander@icloud.com # email of site's author
 url: https://elias-gander.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  TODO
+  Eli schreibt hier seine Gedanken auf
 
 permalink: /:year-:i_month-:i_day-:slug
 
-favicon: "notscher.png" # name+extension of favicon (which must be put on the root folder)
+#favicon: "notscher.png" # name+extension of favicon (which must be put on the root folder)
 goat_counter: "eliasgander" # put your GoatCounter name if you want to use GoatCounter analytics
 
 #theme: no-style-please 
