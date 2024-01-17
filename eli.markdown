@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eli
-permalink: /eli/
+permalink: /eli
 ---
 
 Der Eli bin ich, und ich schreibe hier meine Gedanken auf.  
