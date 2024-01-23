@@ -4,7 +4,7 @@ title: Eli
 permalink: /eli
 ---
 
-Der Eli bin ich, und ich schreibe hier meine Gedanken auf.  
+Der Eli bin ich, und ich schreibe hier meine Gedanken nieder.  
 Die drehen sich oft ums Radfahren, Reisen oder Programmieren.
 
 Du kannst aber auch [mir schreiben](mailto:eliasgander@icloud.com).
