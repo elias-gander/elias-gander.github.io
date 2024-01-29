@@ -25,8 +25,9 @@
         <input name="fields[name]" placeholder="Dein Name" type="text" required>
         <textarea name="fields[message]" placeholder="Dein Kommentar" required></textarea>
 
-        <button class="g-recaptcha" data-sitekey="6Ld501MpAAAAACnG_v6PjIQzJX08Fw5OWb8rmYu2" data-callback="onSubmit">Absenden</button>
+        <button data-callback="onSubmit">Absenden</button>
 
+        <div class="g-recaptcha" data-sitekey="6Ld501MpAAAAACnG_v6PjIQzJX08Fw5OWb8rmYu2" style="display: none"></div>
         <input type="hidden" name="options[reCaptcha][siteKey]" value="6Ld501MpAAAAACnG_v6PjIQzJX08Fw5OWb8rmYu2">
         <input type="hidden" name="options[reCaptcha][secret]" value="Wq7oWYWvqiey2Z1y1SbTNFCK+Vv2/fNreCG1Cv/M8NMe9mbcCzysEHqbL0bxCeesu4nE8pESkID4yTa4Ig7WqMGeKJCxcmdhMUohKh9sytOnITgZLgOgXgU3BLuM2POyyTQzZ+MGmct74sDONrTaGSY21KqAd0Jpk0oqNurS0EH/y4TGhyajqY5LHk29C6Dzzh8VdWo24g+Fm25Ylwi3shygg6bWGWafCygES1qUgQuVAgEsB1ZJivf/X8TEbLNl/YmwJO07FwNNsyk69GjqAWVHC9f0PbCevW+Zh7SAGTyZHlBKI1AFtGnQG+xAi5WtOWB0+dzsT2wMFxHhXig52A==">
     </form>
@@ -41,6 +42,6 @@
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script>
     function onSubmit(token) {
-      document.getElementById("comment-form").submit();
+      //document.getElementById("comment-form").submit();
     }
-  </script>
+</script>
