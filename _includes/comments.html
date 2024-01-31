@@ -20,15 +20,13 @@
     <h3 id="add-comment">Kommentar abgeben</h3>
 
     <form id="comment-form" autocomplete="off" method="POST" action="https://elis-blog-backend.fly.dev/v3/entry/github/elias-gander/elias-gander.github.io/main/comments">
-        <input name="options[redirect]" type="hidden" value="{{ '/danke' | absolute_url }}">
-
-        <input name="options[slug]" type="hidden" value="{{ comments_subfolder }}">
-        <input name="fields[name]" placeholder="Dein Name" type="text" required>
+        <input type="text" name="fields[name]" placeholder="Dein Name" required>
         <textarea name="fields[message]" placeholder="Dein Kommentar" required></textarea>
-
         <button class="g-recaptcha" data-sitekey="6Ld501MpAAAAACnG_v6PjIQzJX08Fw5OWb8rmYu2" data-callback="onSubmit">Absenden</button>
 
-        <input type="hidden" name="parentId" id="parentId" value="">
+        <input type="hidden" name="fields[parentId]" id="parentId" value="">
+        <input type="hidden" name="options[redirect]" value="{{ '/danke' | absolute_url }}">
+        <input type="hidden" name="options[slug]" value="{{ comments_subfolder }}">
         <input type="hidden" name="options[reCaptcha][siteKey]" value="6Ld501MpAAAAACnG_v6PjIQzJX08Fw5OWb8rmYu2">
         <input type="hidden" name="options[reCaptcha][secret]" value="Wq7oWYWvqiey2Z1y1SbTNFCK+Vv2/fNreCG1Cv/M8NMe9mbcCzysEHqbL0bxCeesu4nE8pESkID4yTa4Ig7WqMGeKJCxcmdhMUohKh9sytOnITgZLgOgXgU3BLuM2POyyTQzZ+MGmct74sDONrTaGSY21KqAd0Jpk0oqNurS0EH/y4TGhyajqY5LHk29C6Dzzh8VdWo24g+Fm25Ylwi3shygg6bWGWafCygES1qUgQuVAgEsB1ZJivf/X8TEbLNl/YmwJO07FwNNsyk69GjqAWVHC9f0PbCevW+Zh7SAGTyZHlBKI1AFtGnQG+xAi5WtOWB0+dzsT2wMFxHhXig52A==">
     </form>
