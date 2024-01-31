@@ -1,7 +1,27 @@
-<article>
-    <span class="comment-message">{{ include.message }}</span>
-    <div class="comment-meta">
-        <span>von {{ include.name }}, am </span>
-        <time datetime="{{ include.date }}">{{ include.date | date: site.theme_config.date_format }}</time>
+{% assign comments_subfolder = page.url | slugify %}
+    {% assign comment_files = site.data.comments[comments_subfolder] %}
+    {% assign replies = '' | split: '' %}
+    {% for comment_file in comment_files %}
+        {% if comment_file[1].parentId == include.id %}
+            {% assign replies = replies | push: comment_file[1] %}
+        {% endif %}
+    {% endfor %}
+{% assign replies = replies | sort: 'date' %}
+
+<article">
+    <div class="comment-message">{{ include.message | escape }}</div>
+    <div class="comment-footer">
+        <button type=button onclick="respondTo('{{include.id}}', '{{include.name}}');">Antworten</button>
+        <span class="comment-meta">
+            <span>von {{ include.name | escape }}, am </span>
+            <time datetime="{{ include.date }}">{{ include.date | date: site.theme_config.date_format }}</time>
+        </span>
     </div>
+    
 </article>
+
+<div style="padding-left: 15px;margin-left: 15px; border-left: medium solid #f2f2f2;">
+{% for reply in replies %}
+    {% include comment.html id=reply._id name=reply.name message=reply.message date=reply.date %}
+{% endfor %}
+</div>

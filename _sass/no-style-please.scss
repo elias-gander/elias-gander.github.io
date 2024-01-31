@@ -136,10 +136,20 @@ button {
   opacity: 0.3;
 }
 
+.comment-footer {
+  margin-top: 0.5rem;
+  margin-bottom: 3rem;
+  font-size: 0.8rem;
+  opacity: 0.5;
+  button {
+    font-size: 0.8rem;
+  }
+}
+
 .comment-meta {
   text-align: right;
+  float: right;
   font-style: italic;
-  margin-bottom: 3rem;
 }
 
 .comment-message {
