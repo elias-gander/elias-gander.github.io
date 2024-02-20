@@ -3,7 +3,7 @@
     {% assign comment_files = site.data.comments[comments_subfolder] %}
     {% assign top_level_comments = '' | split: '' %}
     {% for comment_file in comment_files %}
-        {% if comment_file[1].parentId == null %}
+        {% if comment_file[1].parentId == null or comment_file[1].parentId == '' %}
             {% assign top_level_comments = top_level_comments | push: comment_file[1] %}
         {% endif %}
     {% endfor %}
