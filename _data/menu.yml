@@ -7,4 +7,10 @@ entries:
 
   - title: Letzte Einträge
     post_list:
-      limit: false
+      limit: 1
+      show_more: true
+      show_more_text: Ältere...
+      show_more_url: archiv
+
+  - title: RSS-Feed
+    url: feed.xml
