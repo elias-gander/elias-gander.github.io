@@ -7,7 +7,7 @@ entries:
 
   - title: Letzte Einträge
     post_list:
-      limit: 1
+      limit: 5
       show_more: true
       show_more_text: Ältere...
       show_more_url: archiv
