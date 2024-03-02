@@ -8,10 +8,10 @@
     {% endfor %}
 {% assign replies = replies | sort: 'date' %}
 
-<article>
+<article id="{{include.id}}">
     <div class="comment-message">{{ include.message | escape }}</div>
     <div class="comment-footer">
-        <button type=button onclick="respondTo('{{include.id}}', '{{include.name}}');">Antworten</button>
+        <button type=button onclick="respondTo('{{include.id}}', '{{include.email}}', '{{include.name}}');">Antworten</button>
         <span class="comment-meta">
             <span>von {{ include.name | escape }}, am </span>
             <time datetime="{{ include.date }}">{{ include.date | date: site.theme_config.date_format }}</time>

@@ -42,26 +42,6 @@ comments:
   # Otherwise, entries will be published to the main branch automatically.
   moderation: false
 
-  # Name of the site. Used in notification emails.
-  name: "elias-gander@github.io"
-
-  # Notification settings. When enabled, users can choose to receive notifications
-  # via email when someone adds a reply or a new comment. This requires an account
-  # with Mailgun, which you can get for free at http://mailgun.com.
-  #notifications:
-    # Enable notifications
-    #enabled: true
-
-    # (!) ENCRYPTED
-    #
-    # Mailgun API key
-    #apiKey: "1q2w3e4r"
-
-    # (!) ENCRYPTED
-    #
-    # Mailgun domain (encrypted)
-    #domain: "4r3e2w1q"
-
   # (*) REQUIRED
   #
   # Destination path (directory) for the data files. Accepts placeholders.
