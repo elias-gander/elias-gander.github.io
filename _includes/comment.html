@@ -21,6 +21,6 @@
 
 <div style="padding-left: 15px;margin-left: 15px; border-left: medium solid #f2f2f2;">
 {% for reply in replies %}
-    {% include comment.html id=reply._id name=reply.name message=reply.message date=reply.date %}
+    {% include comment.html id=reply._id name=reply.name message=reply.message date=reply.date email=reply.email %}
 {% endfor %}
 </div>
