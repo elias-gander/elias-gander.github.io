@@ -1,4 +1,0 @@
----
-title:  "Eine lange Reise"
----
-
