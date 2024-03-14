@@ -19,7 +19,7 @@ Man kennt das Bild: lächelnde Menschen, schicke Fahrräder, wunderbare Natur, T
 Warum nicht?
 Ein Mensch hat nur zwei Arme und das tolle Brettspiel kann man ruhig daheim lassen.
 
-Wo das also geklärt ist, was pack ich in meine zwei Taschen?\
+Wo das also geklärt ist, was pack ich in meine zwei Taschen?
 
 Ein Leben in 40 Litern:
 
@@ -32,7 +32,16 @@ Spaß, ein Leben ohne Bindung ist natürlich nur bedingt erstrebenswert.
 Hab ich aber das passende Maß erwischt und verfüge über das notwendige Kleingeld, dann bleiben nur noch die Formalitäten: Job und Krankenversicherung.
 
 Bildungskarenz, unbezahlter Urlaub oder Kündigung?\
+Bei mir ist es der unbezahlte Urlaub geworden: keine Kohle, keine Sorgen und ein bissi Freiheit.
 
+Wer in Österreich nicht arbeitet oder so tut, ist nicht krankenversichert.
+Dafür gibts bei fehlendem Einkommen die Selbstversicherung zum Sondertarif um nur 120€ im Monat.
+
+Einen Punkt hab ich ganz vergessen!
+Die Zimmerpflanzen am besten bei einer netten Freundin ums Eck mit großer Wohnung unterbringen.
+Danke Anna!
+
+{% include image.html path="images/baba-wien/pflanzentransport.jpg" alt="Pflanzentransport in die Hernalser Hauptstraße" caption="Pflanzentransport in die Hernalser Hauptstraße" %}
 
 ### Die Route
 

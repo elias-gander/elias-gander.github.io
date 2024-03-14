@@ -13,4 +13,4 @@ Ansonsten viel Vergnügen beim Mitlesen und -denken!
 
 ---
 
-{% include image.html path="/eli.jpg" alt="eli" caption="Eli beim Schreiben" %}
+{% include image.html path="images/eli/eli.jpg" alt="eli" caption="Eli beim Schreiben" %}
