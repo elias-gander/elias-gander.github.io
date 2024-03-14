@@ -88,9 +88,13 @@ blockquote {
 }
 
 img {
-  max-width: 100%;
+  max-height: 30rem;
   display: block;
   margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
 }
 
 .not-found-container {
