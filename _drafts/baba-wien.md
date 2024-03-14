@@ -54,7 +54,7 @@ Einen Punkt hab ich ganz vergessen!
 Die Zimmerpflanzen am besten bei einer netten Freundin mit großer Wohnung ums Eck unterbringen.
 Grazie mille Anna!
 
-{% include image.html path="images/baba-wien/pflanzentransport.jpg" alt="Pflanzentransport in die Hernalser Hauptstraße" caption="Pflanzentransport in die Hernalser Hauptstraße" %}
+{% include image.html path="images/baba-wien/pflanzentransport.jpg" alt="Pflanzentransport in die Hernalser Hauptstraße" caption="Pflanzentransport in die Hernalser Hauptstraße" link="https://photos.app.goo.gl/GvAb9yBcB1xEqv6z8" %}
 
 ### Die Route
 
