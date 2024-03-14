@@ -2,8 +2,15 @@
 title:  "Baba Wien"
 ---
 
-Wie fein wärs wenns einen nicht ständig woanders hinziehen würd?\
+Wie fein wärs wenns einen nie woanders hinziehen würd?\
 Maximal fein! (Und ein bissi langweilig)
+
+Nachdem ich vor gut zwei Monaten akribisch diesen Blog aufgesetzt habe, schreibe ich nun also meinen ersten echten Beitrag.
+Anlass bietet eine längere Reise die unmittelbarst ansteht.
+Zum ersten Mal darüber gesprochen habe ich mit Katharina, das war im frühen November des vergangenen Jahres.
+Im Dezember konnte ich dann eine 6 monatige Freistellung von meinem Job vereinbaren.
+Seitdem pendelt mein Gemütszustand zwischen Zweifel und Vorfreude.
+Die Zweifel sind jetzt überflüssig, ist es für einen Rückzieher doch zu spät. Übrig bleibt die Vorfreude.
 
 Heute Nacht im Bus nach Genua.
 In drei Tagen auf der Fähre nach Barcelona.
@@ -12,7 +19,7 @@ Gern würd ich behaupten, der Rest ist offen, aber es gibt natürlich einen Plan
 
 ### Die Ausrüstung
 
-Was nehm ich mit aufs Fahrrad für 6 Monate?\
+Was nimmt man mit auf 6 Monate am Fahrrad?\
 So wenig wie möglich.
 
 Man kennt das Bild: lächelnde Menschen, schicke Fahrräder, wunderbare Natur, Taschen. Vorne, hinten, am Lenker, am Rücken, ...\
