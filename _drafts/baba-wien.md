@@ -19,23 +19,20 @@ Gern würd ich behaupten, der Rest ist offen, aber es gibt natürlich einen Plan
 
 ### Die Ausrüstung
 
-Was nimmt man mit auf 6 Monate am Fahrrad?\
+Was nimmt man mit für 6 Monate am Fahrrad?\
 So wenig wie möglich.
 
-Man kennt das Bild: lächelnde Menschen, schicke Fahrräder, wunderbare Natur, Taschen. Vorne, hinten, am Lenker, am Rücken, ...\
-Warum nicht?
-Ein Mensch hat nur zwei Arme und das tolle Brettspiel kann man ruhig daheim lassen.
+Für mich sind das zwei Ortlieb-Taschen voll, ein Leben in 40 Litern.
+Die Packlisten-Notiz am iPhone listet 94 Gegenstände.
+Weitere Fun-Facts: Gewicht inklusive Taschen: X kg.
 
-Wo das also geklärt ist, was pack ich in meine zwei Taschen?
-
-Ein Leben in 40 Litern:
 
 ### Die Formalitäten
 
-Wie vertschüss ich mich einfach so für 6 Monate?\
-Es gilt das Handytarif-Prinzip: keine Bindung, keine Fixkosten.
+Wie vertschüsst man sich einfach so für 6 Monate?\
+Am einfachsten mit dem Lebensmodell Handytarif: keine Bindung, keine Fixkosten.
 
-Spaß, ein Leben ohne Bindung ist natürlich nur bedingt erstrebenswert.
+Da ein Leben ohne Bindung natürlich nur bedingt erstrebenswert ist, geht .
 Hab ich aber das passende Maß erwischt und verfüge über das notwendige Kleingeld, dann bleiben nur noch die Formalitäten: Job und Krankenversicherung.
 
 Bildungskarenz, unbezahlter Urlaub oder Kündigung?\
