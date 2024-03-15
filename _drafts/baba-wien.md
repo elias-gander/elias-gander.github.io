@@ -62,7 +62,8 @@ Die bleibt geheim.
 
 <br>
 
-Damit endet dieser erste Eintrag.
-Einen letzten, besonders wichtigen Punkt will ich aber noch anbringen.\
-Ich möchte mich zutiefst bedanken bei all jenen, die sich in den letzten Wochen Zeit genommen haben, um sich von mir zu verabschieden.
+Das wars auch schon mit dem ersten Eintrag.
+Nur einen letzten, besonders wichtigen Punkt möcht ich noch anbringen:\
+Vielen, vielen Dank all jenen, die sich in den letzten Wochen Zeit genommen haben, um sich von mir zu verabschieden.
+Euretwegen freu ich mich nicht nur aufs Wegfahren sondern auch schon ein bissi aufs Heimkommen.
 Drückt uns die Daumen!
