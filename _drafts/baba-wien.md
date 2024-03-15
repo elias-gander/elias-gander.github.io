@@ -50,7 +50,7 @@ Bei mir ist es der unbezahlte Urlaub geworden: keine Kohle, keine Sorgen und ein
 Wer in Österreich nicht arbeitet (oder so tut als ob), ist nicht krankenversichert.
 Dafür gibts bei fehlendem Einkommen die Selbstversicherung zum Sondertarif um *nur* 120 € im Monat.
 
-Einen Punkt hab ich ganz vergessen!
+Einen Punkt hätt ich fast vergessen!
 Die Zimmerpflanzen am besten bei einer netten Freundin mit großer Wohnung ums Eck unterbringen.
 Grazie mille Anna!
 
