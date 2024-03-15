@@ -47,7 +47,7 @@ Hab ich aber das passende Maß erwischt und verfüge über das notwendige Kleing
 Bildungskarenz, unbezahlter Urlaub oder Kündigung?\
 Bei mir ist es der unbezahlte Urlaub geworden: keine Kohle, keine Sorgen und ein bissi Freiheit.
 
-Wer in Österreich nicht arbeitet (oder so tut also ob), ist nicht krankenversichert.
+Wer in Österreich nicht arbeitet (oder so tut als ob), ist nicht krankenversichert.
 Dafür gibts bei fehlendem Einkommen die Selbstversicherung zum Sondertarif um nur 120 € im Monat.
 
 Einen Punkt hab ich ganz vergessen!
