@@ -23,7 +23,7 @@ Was nimmt man mit für 6 Monate am Fahrrad?\
 So wenig wie möglich!
 
 Für mich sind das zwei volle Ortlieb-Taschen, quasi ein Leben in 40 Litern.
-Die Packlisten-Notiz am iPhone listet 94 Gegenstände.
+Die Packlisten-Notiz am iPhone listet 110 Gegenstände.
 Klingt nach viel, ist es aber nicht.
 Kreuzworträtsel, Tabasco und ein Gelsenstecker habens trotzdem draufgeschafft.
 
