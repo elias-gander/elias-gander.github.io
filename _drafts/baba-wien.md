@@ -32,9 +32,9 @@ Für jene, die es ganz genau wissen wollen, gibts ein Suchbild:
 {% include image.html path="images/baba-wien/gepaeck.jpg" alt="Bild mit allen eingepackten Gegenständen" caption="" %}
 
 Gewicht Fun-Facts:
- - Beide Taschen: 18 kg
- - Fahrrad: 13 kg
- - Eli: 66 kg
+ - Beide Taschen: 14,9 kg
+ - Fahrrad: 14,1 kg
+ - Eli: 66,8 kg
 
 ### Die Formalitäten
 
