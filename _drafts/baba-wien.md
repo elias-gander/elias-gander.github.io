@@ -23,26 +23,32 @@ Was nimmt man mit für 6 Monate am Fahrrad?\
 So wenig wie möglich!
 
 Für mich sind das zwei volle Ortlieb-Taschen, quasi ein Leben in 40 Litern.
-Die Packlisten-Notiz am iPhone listet 110 Gegenstände.
+Die Packlisten-Notiz am iPhone listet 109 Gegenstände.
 Klingt nach viel, ist es aber nicht.
 Kreuzworträtsel, Tabasco und ein Gelsenstecker habens trotzdem draufgeschafft.
 
-Für jene, die es ganz genau wissen wollen, gibts ein Suchbild:
+{% include image.html path="images/baba-wien/gepaeck.jpg" alt="Bild mit allen mitgenommenen Gegenständen" caption="Suchbild" link="" %}
 
-{% include image.html path="images/baba-wien/gepaeck.jpg" alt="Bild mit allen eingepackten Gegenständen" caption="" %}
+{% include image.html path="images/baba-wien/gepaeck-verpackt.jpg" alt="Bild mit fertig gepackten Fahrradtaschen" caption="Hex-Hex!" link="" %}
+
+*Du hast sicher ein super Radl!*
+Nein, ein einfaches tuts auch. 
+Solangs rollt, bremst und fein zum draufsitzen ist kannst damit schon um die halbe Welt fahren.
+Wenns hügelig wird (und das wirds fast immer) sind ein paar leichte Gänge wichtig.
+Packlträger wär auch nicht schlecht.
 
 Gewicht Fun-Facts:
- - Beide Taschen: 14,9 kg
+ - Beide Taschen: 13,8 kg
  - Fahrrad: 14,1 kg
  - Eli: 66,8 kg
 
 ### Die Formalitäten
 
 Wie vertschüsst man sich einfach so für 6 Monate?\
-Am einfachsten mit dem Lebensmodell Handytarif: keine Bindung, keine Fixkosten.
+Ganz einfach mit dem Lebensmodell Handytarif, also ohne Bindung und Fixkosten.
 
-So ein Leben ohne Bindung ist natürlich nur bedingt erstrebenswert.
-Hab ich aber das passende Maß erwischt und verfüge über das notwendige Kleingeld, dann bleiben nur noch die Formalitäten: Job und Krankenversicherung.
+So ein Leben ganz ohne Bindung ist natürlich nur bedingt erstrebenswert.
+Hat man aber das passende Maß erwischt und verfügt über das notwendige Kleingeld, dann bleiben nur noch die Formalitäten: Job und Krankenversicherung.
 
 Bildungskarenz, unbezahlter Urlaub oder Kündigung?\
 Bei mir ist es der unbezahlte Urlaub geworden: keine Kohle, keine Sorgen und ein bissi Freiheit.
@@ -58,7 +64,7 @@ Grazie mille Anna!
 
 ### Die Route
 
-Die bleibt geheim.
+Die bleibt vorerst geheim.
 
 <br>
 
