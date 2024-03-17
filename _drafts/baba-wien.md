@@ -69,7 +69,7 @@ Die bleibt vorerst geheim.
 <br>
 
 Das wars auch schon mit dem ersten Eintrag.
-Nur einen letzten, besonders wichtigen Punkt möcht ich noch anbringen:\
+Einen letzten, besonders wichtigen Punkt möcht ich noch anbringen:\
 Vielen, vielen Dank all jenen, die sich in den letzten Wochen Zeit genommen haben, um sich von mir zu verabschieden.
 Euretwegen freu ich mich nicht nur aufs Wegfahren sondern auch schon ein bissi aufs Heimkommen.
 Drückt uns die Daumen!
