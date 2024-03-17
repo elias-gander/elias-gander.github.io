@@ -31,7 +31,7 @@ Kreuzworträtsel, Tabasco und ein Gelsenstecker habens trotzdem draufgeschafft.
 
 {% include image.html path="images/baba-wien/gepaeck-verpackt.jpg" alt="Bild mit fertig gepackten Fahrradtaschen" caption="Hex-Hex!" link="" %}
 
-*Du hast sicher ein super Radl!*
+*Du hast sicher ein super Radl!*\
 Nein, ein einfaches tuts auch. 
 Solangs rollt, bremst und fein zum draufsitzen ist kannst damit schon um die halbe Welt fahren.
 Wenns hügelig wird (und das wirds fast immer) sind ein paar leichte Gänge wichtig.
