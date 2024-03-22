@@ -40,7 +40,7 @@ Solang es rollt, bremst und fein zum Draufsitzen ist, kannst damit schon um die 
 Wenns hügelig wird (und das wirds fast immer) sind ein paar leichte Gänge wichtig.
 Packlträger wär auch nicht schlecht.
 
-Eingige Gewicht Fun-Facts:
+Gewicht Fun-Facts:
  - Beide Taschen: 13,8 kg
  - Fahrrad: 14,1 kg
  - Eli: 66,8 kg
@@ -50,7 +50,7 @@ Eingige Gewicht Fun-Facts:
 Wie vertschüsst man sich einfach so für 6 Monate?\
 Ganz einfach wär das ja mit dem Lebensmodell Handytarif: keine Bindung, keine Fixkosten.
 
-Aber so ein Leben ganz ohne Bindung ist natürlich nur bedingt erstrebenswert.
+So ein Leben ganz ohne Bindung ist halt nur bedingt erstrebenswert.
 Hat man aber das passende Maß erwischt und verfügt über das notwendige Kleingeld, dann bleiben nur noch die Formalitäten: Job und Krankenversicherung.
 
 Bildungskarenz, unbezahlter Urlaub oder Kündigung?\
