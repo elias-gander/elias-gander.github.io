@@ -11,6 +11,8 @@ Auch unsere zwei Fahrräder sind sich noch ausgangen.
 Mit sanften 21 Knoten gleitet die Fähre den Golf von Genua entlang in Richtung Barcelona.
 Die Küste ist noch knapp in Sicht und auch das LTE glangt noch rüber.
 
+{% include image.html path="images/cianin-cianin/auspuff.gif" alt="Bewegtes Bild vom Fährenauspuff" caption="Tschuff-Tschuff" link="https://photos.app.goo.gl/zohnTBMhMFhJ7znm7" %}
+
 ### Genua ###
 
 Die Tage hier sind schnell vergangen.
@@ -22,10 +24,14 @@ Gewonnene Zeit!
 Verbringt man am besten am Strand, also mit dem Stadtbus nach Boccadasse und sich dort in einer kleinen Kiesbucht zwischen bunten Fischerhäusern und schnatternden Italiener:innen die Sonne auf den Bauch scheinen lassen.
 Das Wasser ist noch kalt und meine merinowollene Unterhose schon ziemlich löchrig aber es reizt mich zu sehr.
 
+{% include image.html path="images/cianin-cianin/boccadasse.jpg" alt="Bucht von Boccadasse" link="https://photos.app.goo.gl/cgqzW9QdtpkQKK1Q9" %}
+
 Mit dem nahenden Sonnenuntergang wird die Bucht noch belebter, Kaffeetassen weichen Aperitivogläsern. 
 Wir probieren das *Tris del Genovese*, bestehend aus *Frisceu*, *Panissa* und *Gattafin*.
 Dann der Heimweg immer den Corso Italia entlang.
 Ein breiter Lungomare in der untergehenden Sonne, daneben die ohrenbetäubende Schnellstraße.
+
+{% include image.html path="images/cianin-cianin/tris.jpg" alt="Eli isst das Tris del Genovese" caption="Schnipp-Schnapp, Haare ab" link="https://photos.app.goo.gl/w5ChtxpPQvngdmVw6" %}
 
 Der Verkehr scheint die größte Plage dieser sonst so wunderbaren Stadt zu sein.
 Das historische Zentrum ist von einer beachtlichen Größe und trotz dichtester Bebauung, wuchern Stauden und Bäume an allen Ecken.
@@ -33,16 +39,22 @@ Prächtige Palazzi säumen ein Netz von Hauptstraßen die durch ihre Beschaffenh
 Querverbindungen schafft ein Gewirr von engsten Gassen in die, selbst bei strahlend schönem Wetter, kaum Sonnenlicht dringt.
 Entlang der Gassen winzige Plätze, wie etwa die *Piazza Cinque Lampadi*: Lasagne al Pesto bei *Zimino* dann Caffè bei *Tazze Pazze* gegenüber.
 
+{% include image.html path="images/cianin-cianin/zimino.jpg" alt="Zwei Teller Lasagne al Pesto und ein Tiramisu" link="https://photos.app.goo.gl/TLgNcH3D9vmZ675c8" %}
+
 Eine Stadt der Höhenunterschiede.
 Von Zecca hinauf nach Righi mit der Standseilbahn. 
 Oben scheinbar das Ende der Stadt, dichtes Grün und mediterraner Kiefernwald. 
 Am Aussichtspunkt schweift der Blick von der *Lanterna* (Leuchtturm und Wahrzeichen der Stadt) im Westen über den Hafen nach Carignano im Osten.
+
+{% include image.html path="images/cianin-cianin/lanterna.gif" alt="Bewegtes Bild von nächtlichem Hafen mit Leuchturm" caption="Die Lanterna live" link="https://photos.app.goo.gl/NzsijMrX1iyFcN4y5" %}
 
 Eine Stadt der Boulevards, Parkplätze und Mopeds.
 Von der *Scalinata delle Caravelle* der Blick auf den *Arco della Vittoria* und den umliegenden Platz, imposant weitläufig und vollgeparkt.
 Das *Motorino* dominiert den Stadtverkehr, insbesondere abseits der Hauptverkehrsadern.
 Elegant und platzsparend, aber leider unerträglich laut.
 Warum keine E-Mopeds?
+
+{% include image.html path="images/cianin-cianin/piazza-della-vittoria.jpg" alt="Piazza della Vittoria gesehen von Scalinata delle Caravelle" caption="Piazza della Vittoria, erinnert irgendwie an den Naschmarkt" link="https://photos.app.goo.gl/fxtX62mEePyRz28v8" %}
 
 
 ### Die Busfahrt ###
@@ -52,6 +64,8 @@ Mein Radl wird allein am Gepäckträger befestigt.
 Ein Beweisfoto des mulmigen Gefühls wegen.\
 Wir haben beste Plätze ganz vorne, Schlaf ist trotzdem kaum möglich.
 Mit Kopfschmerzen und verspannten Gliedern beobachten wir schluckend die rasante Abfahrt über die A7 nach Genua hinab.
+
+{% include image.html path="images/cianin-cianin/flixbus.jpg" alt="Eli liegt über zwei Sitze gestreckt im Bus" caption="Gemütlich!" link="https://photos.app.goo.gl/ncthWytLRDpofXTQA" %}
 
 Das Radl ist noch dran und angezuckert mit Feinstaub.
 Taschen montieren und gleich die Feuertaufe auf der rasanten *Via Antonio Gramsci* den Hafen entlang.
