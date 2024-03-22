@@ -50,7 +50,11 @@ Am Aussichtspunkt schweift der Blick von der *Lanterna* (Leuchtturm und Wahrzeic
 
 >Se t'inoltrerai lungo le calate dei vecchi moli
 >
+> &nbsp;
+>
 >In quell'aria spessa, carica di sale, gonfia di odori
+>
+> &nbsp;
 >
 >Lì ci troverai i ladri, gli assassini e il tipo strano [^1]
 
