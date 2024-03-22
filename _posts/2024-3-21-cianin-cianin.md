@@ -48,6 +48,12 @@ Am Aussichtspunkt schweift der Blick von der *Lanterna* (Leuchtturm und Wahrzeic
 
 {% include image.html path="images/cianin-cianin/lanterna.gif" alt="Bewegtes Bild von nächtlichem Hafen mit Leuchturm" caption="Die Lanterna live" link="https://photos.app.goo.gl/NzsijMrX1iyFcN4y5" %}
 
+>Se t'inoltrerai lungo le calate dei vecchi moli
+>
+>In quell'aria spessa, carica di sale, gonfia di odori
+>
+>Lì ci troverai i ladri, gli assassini e il tipo strano [^1]
+
 Eine Stadt der Boulevards, Parkplätze und Mopeds.
 Von der *Scalinata delle Caravelle* der Blick auf den *Arco della Vittoria* und den umliegenden Platz, imposant weitläufig und vollgeparkt.
 Das *Motorino* dominiert den Stadtverkehr, insbesondere abseits der Hauptverkehrsadern.
@@ -72,3 +78,8 @@ Taschen montieren und gleich die Feuertaufe auf der rasanten *Via Antonio Gramsc
 Die Fahrradinfrastruktur ist nicht mal gut gemeint, aber so chaotisch der Verkehr auch scheint irgendwie funktionierts.
 
 Ich bin gespannt auf die Fahrradsituation in Barcelona.
+
+---
+{: data-content=" Fußnoten "}
+
+[^1]: La città vecchia, Fabrizio De André ([Apple Music](https://music.apple.com/at/album/la-citt%C3%A0-vecchia/270320375?i=270320665&l=en-GB), [Spotify](https://open.spotify.com/track/6yD3a5FqzQjUC8oHVOiPQv?si=ea4199cf23184b2c))
