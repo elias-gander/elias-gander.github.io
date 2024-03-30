@@ -11,7 +11,7 @@ Auch unsere zwei Fahrräder sind sich noch ausgangen.
 Mit sanften 21 Knoten gleitet die Fähre den Golf von Genua entlang in Richtung Barcelona.
 Die Küste ist noch knapp in Sicht und auch das LTE glangt noch rüber.
 
-{% include video.html path="images/cianin-cianin/auspuff.gif" caption="Tschuff-Tschuff" link="https://photos.app.goo.gl/zohnTBMhMFhJ7znm7" %}
+{% include video.html path="images/cianin-cianin/auspuff.mp4" caption="Tschuff-Tschuff" link="https://photos.app.goo.gl/zohnTBMhMFhJ7znm7" %}
 
 ### Genua ###
 
@@ -46,7 +46,7 @@ Von Zecca hinauf nach Righi mit der Standseilbahn.
 Oben scheinbar das Ende der Stadt, dichtes Grün und mediterraner Kiefernwald. 
 Am Aussichtspunkt schweift der Blick von der *Lanterna* (Leuchtturm und Wahrzeichen der Stadt) im Westen über den Hafen nach Carignano im Osten.
 
-{% include video.html path="images/cianin-cianin/lanterna.gif" caption="Die Lanterna live" link="https://photos.app.goo.gl/NzsijMrX1iyFcN4y5" %}
+{% include video.html path="images/cianin-cianin/lanterna.mp4" caption="Die Lanterna live" link="https://photos.app.goo.gl/NzsijMrX1iyFcN4y5" %}
 
 >Se t'inoltrerai lungo le calate dei vecchi moli
 >
