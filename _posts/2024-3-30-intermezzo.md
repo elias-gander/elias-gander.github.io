@@ -2,7 +2,7 @@
 title:  "Intermezzo"
 ---
 
-{% include map.html url="https://en.frame.mapy.cz/s/lucacuvena" %}
+{% include map.html url="https://en.frame.mapy.cz/s/notefamora" %}
 
 Ich bin erkältet.
 Gestern Halsschmerzen, heute verschnupft, morgen hoffentlich wieder fit.
