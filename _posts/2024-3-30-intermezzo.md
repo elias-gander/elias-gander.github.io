@@ -10,14 +10,14 @@ Zur Kur am Campingplatz *Vizmar* in Benicarló.
 Nach Tarragona haben wir die Küste verlassen und sind durchs Hinterland bis nach Tortosa.
 Gestern dann zur Erholung mit dem Zug hierher.
 
-{% include image.html path="images/intermezzo/zug.jpg" alt="Eli sitzt im Zug" link="https://photos.app.goo.gl/GvAb9yBcB1xEqv6z8" %}
+{% include image.html path="media/intermezzo/zug.jpg" alt="Eli sitzt im Zug" link="https://photos.app.goo.gl/GvAb9yBcB1xEqv6z8" %}
 
 Auf dem Campingplatz gibt es genau ein Zelt: unseres.
 Der Rest Wohnwägen.
 Drei Flaggen wehen am Eingang zum Platz: Spanien, Deutschland, EU.
 Auch Gäste aus Frankreich gibts, sie spielen Pétanque vorm Klo.
 
-{% include video.html path="images/intermezzo/petanque.mp4" caption="Beau tir!" link="https://photos.app.goo.gl/Lo1qZaZvsSXRCAdg9" %}
+{% include video.html path="media/intermezzo/petanque.mp4" caption="Beau tir!" link="https://photos.app.goo.gl/Lo1qZaZvsSXRCAdg9" %}
 
 ### Katalanisches Hinterland ###
 
@@ -30,7 +30,7 @@ Auf dem kürzesten Weg nach Reus.
 Die Straße hochrangiger als erwartet, zum Glück ein breiter Seitenstreifen.
 An jedem Kreisverkehr aufpassen nicht die Autobahnauffahrt zu erwischen.
 
-{% include image.html path="images/intermezzo/autobahn.jpg" alt="Schnellstraße von Tarragona nach Reus" caption="Doch, doch wir dürfen hier radln" link="https://photos.app.goo.gl/d7H87hdxzcXMQhAYA" %}
+{% include image.html path="media/intermezzo/autobahn.jpg" alt="Schnellstraße von Tarragona nach Reus" caption="Doch, doch wir dürfen hier radln" link="https://photos.app.goo.gl/d7H87hdxzcXMQhAYA" %}
 
 Beim Decathlon in der Reus'schen Peripherie ein neues Ersatz-Schaltseil.
 Dem Security-Mann gefällt es nicht, dass wir mit unseren Rädern im Laden stehen.
@@ -42,7 +42,7 @@ Einschmieren und Wasser auffüllen in *Mont-roig del Camp*.
 Aus der Ferne schon sieht man die neue Sant Miquel Kirche über dem Ort thronen.
 Joan Miró ist hier geboren.
 
-{% include image.html path="images/intermezzo/brunnen.jpg" alt="Fassade mit Brunnen der alten Kirche von Mont-roig del Camp" caption="Brunnen bei der alten Kirche von Mont-roig del Camp" link="https://photos.app.goo.gl/991S5JSFdL3ybrLL6" %}
+{% include image.html path="media/intermezzo/brunnen.jpg" alt="Fassade mit Brunnen der alten Kirche von Mont-roig del Camp" caption="Brunnen bei der alten Kirche von Mont-roig del Camp" link="https://photos.app.goo.gl/991S5JSFdL3ybrLL6" %}
 
 Eine halbe Stunde noch auf der ruhigen T-310, dann die Abzweigung nach *Pratdip*, ein steiles Kaff mitten in der *Reserva Natural Llaberia*.
 Bis zum Ort 5 Kilometer, die einsame Straße immer leicht bergauf.
@@ -51,7 +51,7 @@ Schnell finden wir einen Zeltplatz auf einer Anhöhe.
 Überall wilder Rosmarin und Wühlspuren von Wildschweinen.
 Nach Osten hin weiter Blick auf die Pinienbewaldeten Hänge.
 
-{% include image.html path="images/intermezzo/zeltplatz.jpg" alt="Kathi vorm Zelt am Zeltplatz über Pratdip" caption="Bissi aus der Übung aber es steht" link="https://photos.app.goo.gl/hyWfoybZEJjjnerm6" %}
+{% include image.html path="media/intermezzo/zeltplatz.jpg" alt="Kathi vorm Zelt am Zeltplatz über Pratdip" caption="Bissi aus der Übung aber es steht" link="https://photos.app.goo.gl/hyWfoybZEJjjnerm6" %}
 
 Die Nacht durch Hundegebell, unsicher, ob es uns gilt.
 Am Morgen hektisches Girlitzgezwitscher und Sonnenschein.
@@ -71,14 +71,14 @@ Einige alte Leute haben ihre Kofferräume voller Wasserkanister und befüllen di
 Wir müssen uns anstellen.
 Zurecht, das Wasser ist mit Abstand das beste bisher.
 
-{% include video.html path="images/intermezzo/quelle.mp4" caption="Die Quelle der Jugend" link="https://photos.app.goo.gl/WcUuaKbmFuS9EDRi8" %}
+{% include video.html path="media/intermezzo/quelle.mp4" caption="Die Quelle der Jugend" link="https://photos.app.goo.gl/WcUuaKbmFuS9EDRi8" %}
 
 Am Rest des Weges keine Autos mehr, viele Rennradler:innen.
 Nach einer guten Stunde das Ende des Llaberia Parks und eine kurze Rückkehr auf die Schnellstraße.
 Querfeldein nach *El Perelló* auf dem *Camí de Gavadà* (Camí = Weg im Katalanischen).
 Rasante Abfahrt durch endlose Olivenhaine.
 
-{% include video.html path="images/intermezzo/abfahrt.mp4" caption="Wenn die Kurven nicht wären" link="https://photos.app.goo.gl/irjEsKd6z59VVxTg8" %}
+{% include video.html path="media/intermezzo/abfahrt.mp4" caption="Wenn die Kurven nicht wären" link="https://photos.app.goo.gl/irjEsKd6z59VVxTg8" %}
 
 In *El Perelló* ein *Estrella Damm* und zum SPAR.
 Wir wollen unbedingt nach Tortosa, duschen und drinnen schlafen.
@@ -88,7 +88,7 @@ Es dämmert schon sehr, die letzten Höhenmeter schieben und mit Stirnlampe ans 
 Ein feines Stück Draht hat sich durch meinen Reifen und Schlauch gebohrt.
 Stockfinster die Abfahrt nach Tortosa.
 
-{% include image.html path="images/intermezzo/patschen.jpg" alt="Eli flickt Reifen im Finstern mit Stirnlampe" link="https://photos.app.goo.gl/AU9Zpqs5PkdShgwFA" %}
+{% include image.html path="media/intermezzo/patschen.jpg" alt="Eli flickt Reifen im Finstern mit Stirnlampe" link="https://photos.app.goo.gl/AU9Zpqs5PkdShgwFA" %}
 
 ---
 {: data-content=" Fußnoten "}

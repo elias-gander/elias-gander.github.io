@@ -28,11 +28,11 @@ Klingt nach viel, ist es aber nicht.
 Kreuzworträtsel, Tabasco und ein Gelsenstecker habens trotzdem draufgeschafft.
 Hier das Suchbild:
 
-{% include image.html path="images/baba-wien/gepaeck.jpg" alt="Bild mit allen mitgenommenen Gegenständen" caption="Hab ich was vergessen?" link="https://photos.app.goo.gl/pcHxfigENQbqUjs79" %}
+{% include image.html path="media/baba-wien/gepaeck.jpg" alt="Bild mit allen mitgenommenen Gegenständen" caption="Hab ich was vergessen?" link="https://photos.app.goo.gl/pcHxfigENQbqUjs79" %}
 
 Verpackt schaut das alles dann schon wieder recht harmlos aus:
 
-{% include image.html path="images/baba-wien/gepaeck-verpackt.jpg" alt="Bild mit fertig gepackten Fahrradtaschen" caption="Hex-Hex!" link="https://photos.app.goo.gl/k3asqaFVFszGswD79" %}
+{% include image.html path="media/baba-wien/gepaeck-verpackt.jpg" alt="Bild mit fertig gepackten Fahrradtaschen" caption="Hex-Hex!" link="https://photos.app.goo.gl/k3asqaFVFszGswD79" %}
 
 *Du hast sicher ein super Radl!*\
 Nein, ein einfaches tuts auch. 
@@ -62,7 +62,7 @@ Dafür gibts bei fehlendem Einkommen die Selbstversicherung zum Sondertarif um *
 Die Zimmerpflanzen am besten bei einer netten Freundin mit großer Wohnung ums Eck unterbringen.
 Grazie mille Anna!
 
-{% include image.html path="images/baba-wien/pflanzentransport.jpg" alt="Pflanzentransport in die Hernalser Hauptstraße" caption="Pflanzentransport in die Hernalser Hauptstraße" link="https://photos.app.goo.gl/GvAb9yBcB1xEqv6z8" %}
+{% include image.html path="media/baba-wien/pflanzentransport.jpg" alt="Pflanzentransport in die Hernalser Hauptstraße" caption="Pflanzentransport in die Hernalser Hauptstraße" link="https://photos.app.goo.gl/GvAb9yBcB1xEqv6z8" %}
 
 ### Die Route
 
