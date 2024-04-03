@@ -74,7 +74,7 @@ Zurecht, das Wasser ist mit Abstand das beste bisher.
 {% include video.html path="images/intermezzo/quelle.mp4" caption="Die Quelle der Jugend" link="https://photos.app.goo.gl/WcUuaKbmFuS9EDRi8" %}
 
 Am Rest des Weges keine Autos mehr, viele Rennradler:innen.
-Nach einer guten Stunde das Ende des Llaberia Parks und kurze Rückkehr auf die Schnellstraße.
+Nach einer guten Stunde das Ende des Llaberia Parks und eine kurze Rückkehr auf die Schnellstraße.
 Querfeldein nach *El Perelló* auf dem *Camí de Gavadà* (Camí = Weg im Katalanischen).
 Rasante Abfahrt durch endlose Olivenhaine.
 
