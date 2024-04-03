@@ -1,7 +1,9 @@
 <figure>
-    <a href="{{ include.link }}" target="_blank" rel="noopener noreferrer">
-        <img src="{{ include.path }}"
-            alt="{{ include.alt }}">
-    </a>
+    <div class="media-container">
+        <img src="{{ include.path }}" alt="{{ include.alt }}" class="media">
+        <a href="{{ include.link }}" target="_blank" rel="noopener noreferrer">
+            <img src="../media-link.svg" width="32" height="32" class="media-link">
+        </a>
+    </div>
     <figcaption>{{ include.caption }}</figcaption>
 </figure>

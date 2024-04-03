@@ -87,11 +87,30 @@ blockquote {
   p { margin: 0; }
 }
 
-img, video {
-  max-height: 30rem;
+figure {
+  text-align: center;
+}
+
+.media-container {
+  position: relative;
+  display: inline-block;
+}
+
+.media {
   max-width: 100%;
-  display: block;
-  margin: 0 auto;
+  max-height: 30rem;
+}
+
+.media-link {
+  position: absolute;
+  right: 5px;
+  bottom: 10px;
+  opacity: 0.75;
+  filter: invert(97%) sepia(0%) saturate(7488%) hue-rotate(109deg) brightness(100%) contrast(107%);
+}
+
+.media-link:hover {
+  opacity: 1;
 }
 
 figcaption {
