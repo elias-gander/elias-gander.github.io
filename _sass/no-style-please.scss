@@ -1,7 +1,7 @@
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
-  img, video, iframe {
+  img, video, audio, iframe {
     filter: invert(1);
 
     &.ioda { filter: invert(0); }
@@ -111,6 +111,10 @@ figure {
 
 .media-link:hover {
   opacity: 1;
+}
+
+audio {
+  width: 100%;
 }
 
 figcaption {
