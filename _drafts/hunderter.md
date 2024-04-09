@@ -1,3 +1,12 @@
+Wahrscheinlich wären wir von Teruel direkt nach Valencia aber es ist Südwind angesagt und nach der letzten Etappe leine.
+Die kürzeste und unspektakulärste Route nah Teruel, zuerst durch Industriezone, dann kerzengerade Landstraße.
+Nix verpasst denn es ist neblig an diesem Morgen.
+
+-Bild radlschild am highway-
+
+
+
+
 teruel - albarracin
     einfache route, schnellstraße
     nebel
