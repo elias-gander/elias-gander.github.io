@@ -21,6 +21,10 @@ albarracin - santa cruz de la moya
 
 santa cruz - valencia
     Früh starten
-    Eiskalter wind
+    Eiskalter wind aber rückenwind
+    super highway, sportwagen überholen beim einschmieren
     Brücke, stein droppen, schweinelaster
+    supermarkt horchata und caffeci am windigen hauptplatz von xelva
+    orange stehlen und instant karma, kathi fällt am popo
+    zache einfahrt nach valencia
     ...
