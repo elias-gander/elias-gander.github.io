@@ -67,8 +67,16 @@ Freiwillig früh schlafen gehen.
 
 Der erste Hunderter, die Route am Handy einstellen und schauen wie die Kilometer langsam schmelzen.
 Bis Valencia noch 116.
-Extra früh starten, wie wir aufstehen noch leicht finster.
+Extra früh starten, beim aufstehen noch leicht finster.
 Der Wind hat gedreht, kommt jetzt aus Norden, eiskalt.
+Hoch über dem *Turia* auf einer Brücke.
+An den Felsen die erste Sonne.
+Steine runterwerfen, ein Laster voll mit Schweinen fährt vorbei, der Fahrer grüßt freundlich, die Schweine schauen traurig.
+
+Nochmal 300 Höhenmeter rauf, der Wind im Rücken hilft.
+Auf knapp über 1.000 Meter der höchste Punkt des Tages, Valencia auf 0.
+
+
 ...
 
 santa cruz - valencia
