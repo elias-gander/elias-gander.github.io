@@ -6,7 +6,7 @@ title:  "Man spricht Deutsch"
 
 Valencia liegt so am Meer wie Wien an der Donau.
 Ohne das Meer gesehen zu haben wollen wir wieder ins Hinterland.
-Am Morgen der Abfahrt wird die reservierte Absteige ohne günstige Alternative.
+Am Morgen der Abfahrt wird die reservierte Absteige storniert ohne günstige Alternative.
 Also Camping am Meer, aufbrechen Richtung Süden.
 
 Die ersten 20 Kilometer ohne Meerblick.
@@ -44,39 +44,58 @@ Nach dem Baden einen Snack am Strand und *Tinto de Verano* an der Bar.
 Die Chefin spricht wirklich perfekt Deutsch.
 In einem Sofa in der Rezeption, die wie ein umgebautes Wohnzimmer wirkt, sitzt eine alte Dame mit ihrem genau so alt aussehenden Yorkshire Terrier.
 
-{% include video.html path="media/man-spricht-deutsch/mitch.mov" caption='<a href="https://www.youtube.com/watch?v=O0nqwgu_Us4">Some people staaand in the daaarkness</a>' link="https://photos.app.goo.gl/zdrhYaCCCrZMJwXs6" %}
+{% include video.html path="media/man-spricht-deutsch/mitch.mp4" caption='<a href="https://www.youtube.com/watch?v=O0nqwgu_Us4">Mitch Buchannon</a>' link="https://photos.app.goo.gl/zdrhYaCCCrZMJwXs6" %}
 
 {% include image.html path="media/man-spricht-deutsch/tinto.jpg" alt="Eli trinkt einen Tinto de Verano auf der Campingterrasse" caption="1 Teil Rotwein, 1 Teil Limonade (Gaseosa)" link="https://photos.app.goo.gl/5dKvvwLSjUCSFSiU8" %}
 
 Proviant für die nächsten Etappen besorgen und am Weg die *PLAZA CHINA* entdecken.
-Aliexpress als Dorfladen, ein Schraubenzieher um 1.20 € für den nächsten Kabelbruch.
+Aliexpress als Dorfladen, ein kleiner Kreuzschraubenzieher um 1.20 € für den nächsten Kabelbruch.
 Am Abend vegetarische *Paella* in der Campingbar, ein paar Stücke Fleisch sind aber noch drinnen.
 Wir sind die einzigen Gäste, im Zelt hört man noch die Wellen rauschen.
 Am Morgen sprühgetrockneter Kaffee am Strand.
-Der Traktor glättet den Sand und lenkt im letzten Moment nach rechts.
+Der Traktor glättet den Sand und nicht uns.
 
 {% include image.html path="media/man-spricht-deutsch/kaffee-im-sand.jpg" alt="Eli steht mit zwei Kaffeetassen am Strand" caption="Schön wars" link="https://photos.app.goo.gl/P6EVgB45Uq2WqjjaA" %}
 
-Camping - Almansa
-* Spät losfahren
-* Durch orangenfelder
-* Anstieg in mittagssonne
-* Xativq mittagessen am kirchplatz
-* Lange in vermutbar sitzen (saxophonspieler)
-* Nachmittagshitze und nur mehr bergauf
-* Nach enguera fehler nicht längerer weg über landstraße sonder luftlinie auf schotterweg, ur anstrengend und langsam
-* Nicht wildcampen sondern weirder camping weil schon zu spät und wunsch nach dusche
+Von 0 auf 900. 
+Wildcampen am Abend also kein Stress am Morgen.
+Lange durch Orangenfelder Richtung Berge.
+Eine köstliche Mandarine auf der Straße retten.
+Am Straßenrand eine große japanische Wollmispel.
+Die Früchte schmecken herb-süßsauer und bestehen fast nur aus Kernen, wie Murmeln im Mund.
 
-Almansa - Yecla
-* Wieder zacher anstieg über schottweg
-* Runterbrettern nach almansa über schotter
-* Brunnen vor kathedrale mit blick aufs schloss
-* Cafeci in bar … kette ölen und aufpumpen
-* Nochmal über hügel auf landstraße nach Yecla
-* Viele windräder
-* Yecla am kirchplatz
-* Hochgehen zum aussichtspunkt, fußballfeld
-* Wermut
+{% include image.html path="media/man-spricht-deutsch/wollmispel.jpg" alt="Kathi zeigt die Frucht einer japanischen Wollmispel" link="https://photos.app.goo.gl/ucnHDHsKqafsDRHP9" %}
+
+In der Mittagssonne über einen kleinen Pass nach *Xàtiva*.
+Die Hänge Terrassen mit Orangenbäume.
+Oben der Blick zurück aufs Meer.
+
+{% include image.html path="media/man-spricht-deutsch/orangen.jpg" alt="Terrassenartige Hänge mit Orangenbäumen" link="https://photos.app.goo.gl/W8FLT23uHU1vmJ1T7" %}
+
+In *Xàtiva* am Kirchenvorplatz Mittagessen und zu lange in einer Wermutbar bei einem Kaffee sitzen.
+In der drückenden Nachmittaghitze verfliegt die Lust aufs radeln.
+Hörbuch hören und durchdrücken, das warme Flaschenwasser stillt den Durst nicht.
+Bei *Enguera* den direktesten Weg nehmen und weinen, loser Schotter und steile Rampen.
+Die letzte Anhöhe vor *Almansa* für den nächsten Tag lassen, es ist schon bald 8.
+Zu viel zahlen für eine kurze Nacht am Camping *Los Carasoles* aber immerhin duschen.
+
+{% include image.html path="media/man-spricht-deutsch/sonnen.jpg" alt="Radlausrüstung liegt am Boden in der Sonne" caption="Sonnenliegen in Xàtiva" link="https://photos.app.goo.gl/qR1VzPbU1HRXZr3Q6" %}
+
+Auf staubigem Schotter hochkriechen und wieder runterfetzen nach *Almansa*, dass die Schutzbleche ordentlich klappern.
+Im schattigen Schanigarten vom *Café Casa Grande* unter neugierigen Blicken die Kette ölen und abziehen.
+Diesmal sanft die Landstraße hochschlängeln, aus den kiefernbewaldeten Hügeln ragen überall Windräder.
+Runterrollen nach *Yecla*.
+
+{% include video.html path="media/man-spricht-deutsch/windrad.mp4" link="https://photos.app.goo.gl/F452pDXzEWmW8kPdA" %}
+
+In *Yecla* gibts nicht viel.
+Um 4 am Nachmittag alles ausgestorben.
+Snacken am Kirchplatz und zum Schlossberg hochspazieren.
+Beim Rathaus junge Leute in Tracht die sich auf ein Konzert vorbereiten.
+Beim Streetsoccer zuschauen und über die Stadt blicken.
+Um 8 die Straßen voller Menschen.
+
+{% include image.html path="media/man-spricht-deutsch/schauen.jpg" alt="Kathi und Eli schauen über Yecla" link="https://photos.app.goo.gl/sPBwziFe4Mtcf9uD8" %}
 
 Yecla - Murcia
 * sonnig, durch Weinberge, monastrell
