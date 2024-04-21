@@ -180,3 +180,4 @@ Das Museum ist *Antonio de Torres* gewidmet, der berühmte Gitarrenbauer ist in 
 Bis heute wird sie nach seinem Design gebaut.
 
 {% include image.html path="media/sonido/gitarre.jpg" alt="Eli liest einen Infotext im Gitarrenmuseum von Almería" %}
+
