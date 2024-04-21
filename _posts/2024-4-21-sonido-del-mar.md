@@ -19,7 +19,7 @@ Den Rennradler:innen beim Runterfetzen und Hochschwitzen zuschauen.
 
 {% include image.html path="media/sonido/olivenbaum.jpg" alt="Eli sitzt im Schatten eines Olivenbaums" link="https://photos.app.goo.gl/3AMXQtGerjd3w8Jv6" %}
 
-Das Meer noch nicht Sicht, sind auch noch 35 km.
+Das Meer noch nicht in Sicht, sind auch noch 35 km.
 Hinunterrollen in weites Flachland bedeckt von Folientunneln und Gewächshäusern.
 Im trostlosen *Torre Pacheco* Kaffeepause, ein letztes Mal drückende Nachmittagshitze.
 Siegessicher, keine 20 Kilometer mehr nach *Cartagena*.
@@ -45,7 +45,7 @@ Am ersten Tag 75 km nach *Águilas*.
 Von *Cartagena* ins Hinterland durch die *Sierra de la Muela*.
 250 Höhenmeter einen kleinen Pass hoch.
 Beim *Mirador de las Cuestas del Cedacero* den Schweiß trocknen lassen und einem einsamen Tourenradler beim Hochschieben zuschauen.
-Das Meer im Blick, den Wind im Rücken runterrollen.
+Mit dem Meer im Blick und dem Wind im Rücken runterrollen.
 Auf einer geraden, besonders steilen Rampe zeigt das Navi 69 km/h.
 
 {% include image.html path="media/sonido/abfahrt.jpg" alt="Eli rollt runter Richtung Meer" link="https://photos.app.goo.gl/MpCFu2RpVopPKRko6" %}
@@ -82,7 +82,7 @@ Belohnt wird man mit genialen Ausblicken und Abfahrten.
 
 Wildcampen ist schwierig an der Küste, viel Ortschaften und stille Buchten oft nur über Kletterei erreichbar.
 Die meisten Campingplätze sind Wohnwagenparks und auch in der Preisgestaltung für Reisende mit Zelt unverhältnismäßig teuer.
-Deswegen auch in *Águilas* wieder drinnen schlafen, der *Club Náutico* ist, anders als der schicke Namen vermuten lässt, eine klassische Jugenherberge.
+Deswegen auch in *Águilas* wieder drinnen schlafen, der *Club Náutico* ist, anders als der schicke Namen vermuten lässt, eine klassische Jugendherberge.
 Steinharte Matratzen auf Metallstockbetten, dafür ein schöner Aufenthaltsraum mit Meerblick.
 Das Hostel wirkt leer, niemanden störts, dass wir unseren Gaskocher auspacken.
 
