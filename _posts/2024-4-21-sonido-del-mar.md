@@ -80,7 +80,7 @@ Belohnt wird man mit genialen Ausblicken und Abfahrten.
 
 {% include image.html path="media/sonido/coto.jpg" alt="Ausblick über Hügel mit Gewächshäusern" link="https://photos.app.goo.gl/BgEv5ghzDFk4fP7E9" %}
 
-Wildcampen ist schwierig an der Küste, viel Ortschaften und stille Buchten oft nur über Kletterei erreichbar.
+Wildcampen ist schwierig an der Küste, viele Ortschaften, stille Buchten oft nur über Kletterei erreichbar.
 Die meisten Campingplätze sind Wohnwagenparks und auch in der Preisgestaltung für Reisende mit Zelt unverhältnismäßig teuer.
 Deswegen auch in *Águilas* wieder drinnen schlafen, der *Club Náutico* ist, anders als der schicke Namen vermuten lässt, eine klassische Jugendherberge.
 Steinharte Matratzen auf Metallstockbetten, dafür ein schöner Aufenthaltsraum mit Meerblick.
