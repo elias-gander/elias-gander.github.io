@@ -2,7 +2,7 @@
 title:  "Man spricht Deutsch"
 ---
 
-{% include map.html url="https://en.frame.mapy.cz/s/dohopalese" %}
+{% include map.html url="https://en.frame.mapy.cz/s/dejuzecaze" %}
 
 Valencia liegt am Meer wie Wien an der Donau.
 Das Meer nicht gesehen doch wir wollen wieder ins Hinterland.

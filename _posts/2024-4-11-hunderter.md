@@ -2,7 +2,7 @@
 title:  "Hunderter"
 ---
 
-{% include map.html url="https://en.frame.mapy.cz/s/resejucefu" %}
+{% include map.html url="https://en.frame.mapy.cz/s/hujocogeba" %}
 
 Wahrscheinlich wären wir von *Teruel* direkt nach *Valencia*, aber es ist Südwind angesagt und nach der letzten Etappe keine Lust mehr auf Gegenwind.
 Also nach *Albarracín*, Richtung Nordwesten. 

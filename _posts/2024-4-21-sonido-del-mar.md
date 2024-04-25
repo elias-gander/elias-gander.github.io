@@ -2,7 +2,7 @@
 title:  "Sonido del mar"
 ---
 
-{% include map.html url="https://en.frame.mapy.cz/s/nutugasope" %}
+{% include map.html url="https://en.frame.mapy.cz/s/hukafubano" %}
 
 Am 17. April abfahrt in *Murcia* Richtung Süden, nach *Cartagena*.
 Einen Monat ist es her, dass wir in Wien Erdberg in den Flixbus gestiegen sind.

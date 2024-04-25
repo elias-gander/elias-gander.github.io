@@ -2,7 +2,7 @@
 title:  "Contraviento"
 ---
 
-{% include map.html url="https://en.frame.mapy.cz/s/pahomenugu" %}
+{% include map.html url="https://en.frame.mapy.cz/s/purebajocu" %}
 
 Es ist sonnig, heiß.
 Möglichst früh starten wollen, aber am Ende wirds wieder 10.

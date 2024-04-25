@@ -2,7 +2,7 @@
 title:  "Zugfahren"
 ---
 
-{% include map.html url="https://en.frame.mapy.cz/s/lenozevofe" %}
+{% include map.html url="https://en.frame.mapy.cz/s/hahunutuze" %}
 
 Es geht langsam voran.
 Vor 3 Nächten noch Aufwachen am Campingplatz in *Benicarló*.
