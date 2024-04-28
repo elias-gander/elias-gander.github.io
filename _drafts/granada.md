@@ -160,6 +160,12 @@ Anschließend im *El Goterón* eine sehr käsige Pizza essen.
 Das Lokal ist bummvoll, obwohl wir erst wenige Stunden im Ort sind sehen wir einige bekannte Gesichter.
 Hier leben nur etwa 700 Menschen.
 
+Den Bergen geschuldet geht die Sonne in *Trevélez* früh unter und spät auf.
+Erst um 9 ist es warm genug um aus dem Schlafsack zu kriechen.
+In der warmen Morgensonne bei 10 Grad oben ohne Frühstücken.
+Die Wolken vorm *Mulhacén* sind weg, perfekte Bedingungen für eine Wanderung auf die gegenüberliegenden niedrigeren Gipfel.
+Mit dem Rad ins Dorf und hochwandern auf 2.533 auf den *Peña de los Papos*.
+
 Trevelez
 * sonne am Zelt um halb 9
 * frühstück auf Plastikstühlen
