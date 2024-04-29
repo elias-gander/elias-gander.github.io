@@ -2,7 +2,7 @@
 title:  "Granada"
 ---
 
-Im Jahr 1860 in *Camprodon*, einem kleinen Ort in *Katalonien* kommt Isaac Albéniz auf die Welt.
+Im Jahr 1860 in *Camprodon*, einem kleinen Ort in *Katalonien*, kommt Isaac Albéniz auf die Welt.
 Im Laufe seines Lebens wird er zu einem der bedeutensten Komponisten Spaniens.
 Mit 27 komponiert er die *Suite Española*.
 Die 8 Stücke für Solo Piano sind jeweils einer Region Spaniens gewidmet und in einem Stil komponiert der charakteristisch für die Region ist.
@@ -160,53 +160,81 @@ Anschließend im *El Goterón* eine sehr käsige Pizza essen.
 Das Lokal ist bummvoll, obwohl wir erst wenige Stunden im Ort sind sehen wir einige bekannte Gesichter.
 Hier leben nur etwa 700 Menschen.
 
-Den Bergen geschuldet geht die Sonne in *Trevélez* früh unter und spät auf.
+Ausläufer der *Sierra* im Osten und Westen, in *Trevélez* geht die Sonne früh unter und spät auf.
 Erst um 9 ist es warm genug um aus dem Schlafsack zu kriechen.
-In der warmen Morgensonne bei 10 Grad oben ohne Frühstücken.
+In der warmen Morgensonne bei 10 Grad dann Frühstück oben ohne.
 Die Wolken vorm *Mulhacén* sind weg, perfekte Bedingungen für eine Wanderung auf die gegenüberliegenden niedrigeren Gipfel.
-Mit dem Rad ins Dorf und hochwandern auf 2.533 auf den *Peña de los Papos*.
+Mit dem Rad ins Dorf und hochwandern auf den 2.533 Meter hohen *Peña de los Papos*.
 
-Trevelez
-* sonne am Zelt um halb 9
-* frühstück auf Plastikstühlen
-* Mit dem rad ins dorf (wieder) und von 1450 auf 2533 auf den Peña de los Papos (bedeutung)
-* Die luft oben kalt, gegenüber blick auf die höchsten gipfel der sierra nevada, namen+bedeutung+höhe, verstecken sich in den wolken aber kommen kurz hervor
-* In die andere richtung blick zurück auf die x km entfernten Gewächshäuser von almeria
-* Gen süden weiter blick aufs meer, x km entfernt
-* Sierra nevada wenig spektakulär, schwarzer fels, wenig wände, wenig steil, zum glück schnee oben, machts schön
-* Der weg nach oben oft schwer zu finden, keine markierungen ab und zu steinmandln
-* Adler? kreisen über uns
-* Schnell wieder runter weil empfindlich kalt
-* Am nm wieder mal fahrradbasteln, flicken aufgeben, schlauch tauschen
-* Bier am abend
+{% include image.html path="media/granada/wandermann.jpg" alt="Eli am Weg hoch" caption="Sind wir noch am Weg?" link="https://photos.app.goo.gl/BM59C4WKd6J9LWux5" %}
 
-Trevelez - Granada
-* Spät losfahren erst um 11
-* Lange abfahrt nach Órgiva
-* Mittagessen bei kirche und bei Casa Santiago bei cafeci dem wind entfliehen
-* Viele hippies im ort, kommune in der nähe
-* Starker gegenwind bis granada
-* Ranzige pension matilde
+Der Weg nicht immer leicht zu finden, bis auf ein paar Steinmandln keine Markierungen.
+Ein paar freilaufende Kühe, sonst ist hier niemand unterwegs.
+Bei einem Bach auf fast 2.000 Meter die Wasserflasche auffüllen.
+Das Wasser schmeckt nach Kuh, lieber Durst als Durchfall.
+Am Gipfel freier Blick zurück auf die 60 Kilometer entfernten Gewächshäuser von *Almería*.
+Umdrehen und auf den schneebefleckten *Mulhacén* und *La Alcazaba* blicken.
+Über uns kreist ein großer Greifvogel.
+Es ist windig und trotz Sonne eiskalt, am gleichen Weg zurück.
+
+{% include image.html path="media/granada/keli.jpg" alt="Kathi und Eli auf dem Peña de los Papos" link="https://photos.app.goo.gl/fKogccbbChyCJ28a9" %}
+
+Die *Sierra* ist weniger spektakulär als die Höhe ihrer Gipfel vermuten lässt.
+Kaum nackter Fels, keine steilen Abgründe, nur die Schneefelder bringen etwas Abwechslung in die dunkelbraune Masse.
+
+Am Camping endlich den x-mal geflickten Schlauch wechseln und batzenweise Öl-Dreck-Metallstaub-Gemisch aus den Ritzeln kratzen.
+Ein *Alhambra* in der Campingbar zum Abschied.
+
+Der Weg nach *Granada* ist noch weit und wir kommen erst gegen 11 los.
+Gute 1.000 Höhenmeter Abfahrt bis Órgiva.
+Geniale Ausblicke an jeder Kehre.
+An den Hängen immer wieder kleine, weiße Bergdörfer.
+Keines so hoch gelegen wie *Trevélez*.
+
+{% include image.html path="media/granada/capileira.jpg" caption="Capileira liegt auf 1.436 Meter" alt="Eli am Rad, im Hintegrund Capileira und die Sierra" link="https://photos.app.goo.gl/dsrEY4imoKrTmPTFA" %}
+
+In *Órgiva* wird der Westwind stürmisch.
+Auf einer Bank vor der Kirche Mittagessen.
+Ins *Casa Santiago* auf einen Kaffee um aus dem Wind kommen.
+Auf den Straßen viele Hippies, außerhalb des Ortes befindet sich die Komune *Beneficio*.
+Die letzten 50 Kilometer nach *Granada* wenig spannend, Gegenwind und wieder bergauf.
+Zur Belohnung auf einen vegetarischen *Whopper*.
+
+{% include image.html path="media/granada/whopper.jpg" alt="Kathi teilt einen Whopper in zwei Hälften" link="https://photos.app.goo.gl/mxuegkvgmvvZ4Ay96" %}
+
+Wohnen in der *Pensión Matilde*.
+Räder und Taschen in den dritten Stock tragen, im Zimmer bleibt nur der Schritt ins winzige Bad frei.
+Das einzige, kleine Fenster geht auf einen abgedunkelten Balkon mit Gastherme und Waschmaschine.
+
+{% include image.html path="media/granada/matilde.jpg" alt="Eli sitzt im Zimmer auf dem Bett" link="https://photos.app.goo.gl/mDpdWAbufe5wRwoZ8" %}
 
 ### Granada ###
 
-* granada - albeniz - julian bream
-* Sightseeing
-    * frühstück pan de Tomate
-    * Kathedrale
-    * Herumspazieren
-    * Kreuzi vor uni, nicht bedient
-    * Mittagessen vorm kloster
-    * Piononno essen bei …
-    * Alhambra nicht zugänglich
-    * Albaracin viertl zum mirador, ur viele leute
-    * Auf der plaza … pizza und leute schauen
-    * Gaskartusche kaufen und heim durch park …
-    * oarge vegane Tapas, so viel käse
-    * Filmi
+Zwei strenge, alte Damen südamerikanischer Herkunft servieren Frühstück im komplett abgedunkelten Speisezimmer der Pension, *Café con leche y pan con tomate*.
+Einen halben Tag herumspazieren, dann erschöpft auf der *Plaza Nueva* beim *Nemrut Kebab* einen fettige Pizza essen und Menschen beobachten.
+
+{% include image.html path="media/granada/pionono.jpg" alt="Kathi isst Pionono in der Pastelería Lopez-Mezquita" caption="In der Pastelería Lopez-Mesquita zwei Piononos de Santa Fe, in Sirup getränkte Biskuitröllchen mit einer Haube aus Vanillecreme" link="https://photos.app.goo.gl/sEfMv1pR2mkT8Xeu9" %}
+
+*Granada* ist wunderschön und der Touristenanteil noch erträglich.
+Um die weltberühmte *Alhambra* zu besichtigen, Tickets mindestens einen Monat im Voraus kaufen.
+Wir sehen sie nur von außen am *Mirador de San Nicolás*, zusammen mit vielen, vielen anderen.
+Im Hintergrund der tiefwinterliche Nordhang der *Sierra*.
+
+{% include video.html path="media/granada/alhambra.mp4" link="https://photos.app.goo.gl/9mDiPuovyxWug48y7" %}
+
+Viel netter der Spaziergang hoch durch das Stadtviertel *Albaicín*.
+Steile, verwinkelte Gassen zwischen weißgekalkten Häusern mit Ornamenten im *Nasrid*-Stil.
+Die Gassen gepflastert mit kleinen schwarz-weißen Kiesensteinen in ständig wechselnden Mustern.
+
+{% include audio.html path="media/granada/gitarrist.m4a" caption="Geräuschkulisse in Albaicín" %}
+
+{% include image.html path="media/granada/pflaster.jpg" alt="Pflaster in Albaicín" link="https://photos.app.goo.gl/AdD5NcEeEKhQtDjG7" %}
+
+Am Heimweg eine Gaskartusche kaufen und zu käsiglastige Tapas essen im *El Ojú*.
+Mit vollem Bauch im Zimmer einen Film schauen.
 
 ---
 {: data-content=" Fußnoten "}
 
 [^1]: [Almería’s Sea of Greenhouses](https://earthobservatory.nasa.gov/images/150070/almerias-sea-of-greenhouses) - NASA
-[^2]: [Wikipedia Artikel zur Wüste von Tabernas](https://de.wikipedia.org/wiki/Wüste_von_Tabernas#Vegetation_und_Flora)
+[^2]: [Wikipedia-Artikel zur Wüste von Tabernas](https://de.wikipedia.org/wiki/Wüste_von_Tabernas#Vegetation_und_Flora)
