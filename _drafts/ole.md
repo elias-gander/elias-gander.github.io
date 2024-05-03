@@ -46,59 +46,75 @@ Oben grandioser Blick auf den verästelten Stausee, dahinter die *Sierra de Almi
 
 Der Campingplatz günstig und schlecht.
 Straßenzüge mit Dauercampern in Hauszelten, Wohnwagen und Gartenhütten.
-Kein heißes Wasser, keine einzige intakte Duschkopfhalterung, Klopapier bitte in den Eimer nebens Klo werfen.
+Kein heißes Wasser, keine einzige intakte Duschkopfhalterung, Klopapier bitte nichts ins Klo sondern in den Eimer daneben werfen.
 Am Rand des Platzes eine große Voliere mit einem Rudel Enten und einem weißen Pfau der dauernd schreit.
 
 Im Restaurant ein Bier trinken und die nächsten Tage planen.
 Am Thresen nur Ortsansässige.
 
+Den sonnigen Vormittag am spiegelglatten See entlang, die *Sierra de Almijara* kopfüber.
+Am Staudamm stehen bleiben und das Gefälle bestaunen, unten schießt das Wasser aus der Turbine.
+Heute eine kurze Etappe, 15 km nach *Alhama de Granada*.
+Auch dort ein Thermalhotel, preislich aber nicht unsere Liga, Rest Day ohne Spa.
+Der Weg hin über einen Hügel, rauf auf 1.100 und runter nach *Alhama*.
 
-Granada - Camping Embalse de los Bermejales
-* nach dem frühstück nach Monachil radeln, Packerl abholen + backstory, noch weiter Marmelade aus trevelez ablegen, dann regen, immer stärker, platschnass zurück in Unterkunft, Marmelade wird gestohlen
-* Kathi war inzwischen shoppen, in Viertelstunde checkout, föhnen, föhnen,föhnen
-* es regnet weiter in strömen, in der Eingangshalle des Hauses besseres wetter abwarten, gute stunde, Eli installiert inzwischen seine neue Ortlieb ultimate tasche, dann noch Mittagessen, Leute kommen und gehen
-* losgehen und in eine italienische bar setzen, wieder eine stunde auf das ende des Regens warten, um halb 4 besser, losfahren
-* beginn wieder stärker zu regnen, riesige lacken, auto rast in lacke und spritzt mich voll
-* durchdrücken bis La Malahá, platschnass, sich unterm Vordach vom ajuntamento wieder sammeln, kurz kommt die sonne raus, dann wieder regen
-* weiterradln zum roadside restaurant …, die einzigen gaste, junger Inhaber spricht englisch, direkt am brennheißen Ofen sitzen und Sachen trocknen, eine Riesen Pfanne arroz vegetal essen
-* inzwischen wieder sonnig und schon 18 Uhr, durchradeln bis zum Tagesziel, camping am embalse. 
-* lange sanft bergan, die kette quietscht schon wieder leicht vom vielen Wasser
-* wunderschöne abfahrt vorbei an Weizenfelder auf rollenden Hügeln, unten der embalse mit seiner verzweigten form, am Horizont hohe berge wolkenumhangen, alles getaucht in Abendsonne
-* der camping laute menschen wie immer, viele Dauercamper und Hauszelte, schlechte Sanitäranlagen, teilweise kein heißes Wasser, ausgeleierte und fehlende Armaturen, in der bar gefühlt nur locals, am rand des Campingplatzes eine große Voliere mit Gänsen und einem weißen Pfau der immer wieder ur laut schreit, auch nachts
-* bei einem Alhambra in der bar die nächsten tage planen
+Auf der *Plaza de la Constitución* Mittagessen und auf den Check-In warten.
+Es ist Sonntag, über den Platz flanieren einige alte Menschen in Zeitlupe.
+Ich nutze die Zeit um auch meinen Vorderradschlauch zu wechseln, vorbeikommende Flanierer:innen betrachten stumm und intensiv das am Kopf stehende Rad.
+Wohnen in einem frisch renovierten Altbau, an der Decke dunkel lackierte, verputzte Balken, überall Flügerltüren.
 
-Camping - Alhama
-* mini Etappe, gute stunde nach Alhama, rest day
-* Vorbeifahren an dolmen, necropolis beim see, erst später draufkommen im museum in antequera
-* see reflektiert Bergkette (name?), radln über die staumauer
-* rauf auf 1100, weite blicke über rollende Felder, runter nach Alhama
-* bissi zu früh ankommen, am Hauptplatz Mittagessen, Eli tauscht auch den vorderradreifen, alte Leute flanieren in Zeitlupe über den platz, stehenbleiben und stumm das auf den kopf gestellte rad anschauen
-* feine Unterkunft in renovierten altem haus, eingeputzte, dunkelbraun lackierte Balken an der decke, flügerltüren
-* zum Tajo canyon spazieren und runterschauen
-* Keramiktafel mit Gedicht?
-* beim einzige offenen Supermarkt einkaufen (sumo?)
-* bei der bar … ein bier trinken und die besten patatas braves um 4.5€ essen
+Herumliegen dann zum Aussichtspunkt über die *Tajos de Alhama*, ein Sandsteincanyon direkt am Ort vorbei.
+Tief unten der *Alhama* Fluss.
+Es hat wieder geregnet, der Horizont wolkenverhangen.
+Ein *Alhambra* und die besten *Patatas Bravas* bei *El Rincón De José*.
 
-Alhama - Antequera
-* in der früh regnerisch kalt aber es hört auf bis wir losfahren
-* extrem steil aus Alhama raus auf einen Hügel, Kathi wird schwindlig, eine weile auf der Straße sitzen
-* oben blick auf weites saftiges Weideland, dahinter drastischer cut, trockene Bergkette aus Kalkgestein
-* hinter den bergen steiniges hochland überall steineichen, Schafherden weiden frei.
-* leicht hinunter nach Zafarraya, weite Hochebene mit steinigem weideland eingekesselt von kalksteingebirgen, nach nordwesten hinauf auf 1100 Meter, blick zurück auf die ebene, dunkle wolken
-* im laufe des Tages immer wieder tröpfeln aber wir entkommen dem echten regen
-* abfahrt nach Villanueva del Trabuco, jetzt endlose Hügel mit ausschließlich Olivenbäumen
-* wieder 100 meter hoch und endgültige abfahrt zuerst nach Archidona, Kaffe in der bar …
-* dann durch Weizenfelder rot gefleckt mit Mohnblumen Richtung Antequera
-* vorbei am markanten Peña des Enamorados (Fels der verliebten?)
-* kleines apartment mit Innenhof hinter der Kirche …
-* Kathi putzt fleißig ihr rad, Eli schreibt
-* riesige tortilla vom mercadona knusprig in der Pfanne anbraten
+Eine regnerische Nacht, am Morgen windig kalt.
+Raus aus *Alhama* Richtung Westen.
+Zum Aufwärmen extrem steile Rampen, Kathi wird schwindlig.
+Nach den ersten Höhenmetern Blick auf die kargen Kalksteinberge der *Sierra de Loja*, davor saftiges Weideland.
+
+Vorbei an der *Sierra* über eine steinige Hochebene, zwischen den Steineichen immer wieder Schafherden.
+Runter nach *Zafarraya*, durch den weiten Kessel und wieder hoch.
+Der Blick zurück, aus den dunklen Wolken gehen Regengüsse nieder.
+
+Abfahrt nach *Villanueva del Trabuco*, endlose Hügel mit Olivenbäumen.
+Ein letztes Mal bergauf nach *Archidona*, gegenüber der Tankstelle beim Ortseingang auf einen schnellen Kaffee bei der Arbeiterbar *Cafetería Los Arcos*.
+Runterbrettern Richtung *Antequera*, Weizenfelder von Mohnblumen rot gefleckt.
+Ein markanter Fels, der *Peña des Enamorados* (Fels der Liebhaber).
+Dahinter *Antequera* auf einer Anhöhe.
+
+Ein kleines Apartment direkt unter der *Alcazaba* von *Antequera*.
+Kathi putzt fleißig ihr Rad in dem kleinen Innenhof, ich schreibe.
+Am Abend eine riesige knusprige *Tortilla de patatas* vom *Mercadona*.
+
+*Antequera* ist sehr schön, auf den Straßen kaum Touristen.
+Nach dem Frühstück nochmal Radbasteln, dann zu den Dolmen von *Antequera*.
+Obwohl UNESCO Weltkulturerbe ist der Eintritt für EU Bürger frei.
+Das Wort Dolmen kommt aus dem Bretonischen, bedeutet wörtlich 'Steintisch' und bezeichnet Grabbauten aus Megalithen, großen unbehauenen Steinblöcken.
+Die Dolmen in *Antequera* sind wie die meisten aus der Jungsteinzeit und gute 5.000 Jahre alt.
+
+-bild - die schwerste der Deckplatten der Dolmen de Menga wiegt gut 180kg-
+
+Der zweite Dolmen, *Dolmen de Viera* ist exakt so ausgerichtet, dass die ersten Sonnenstrahlen zur Sommersonnenwende in die Grabkammer einfallen.
+Drinnen fand man die Skelette mehrere hundert Menschen.
+
+-skelett bild-
+
+Am späten Nachmittag kleine Radtour auf der Radtour zum *El Torcal*, eine Bergkette mit beeindruckenden Karstformationen etwa 10 km südlich von *Antequera*.
+Das Wetter schlägt wieder um, mit zu wenig Gewand im eiskalten Wind, immer wieder kurze Regenschauer.
+Oben zittrige Wadln, streckenweise zu steile 750 Höhenmeter und in kurzen Radhosen bei 10 Grad.
+
+-video-
+
+Die unwirklichen Steinformationen lassen die Anstrengung vergessen.
+ eine kurze Rundwanderung vorm rasanten Heimrollen.
 
 Antequera
 * nach dem frühstück zu den dolmen von antequera, unesco aber freier eintritt!
 * anstehen bei der Viera dolme, deutsche Reisegruppe, braungebrannter Reiseleiter in Cowboystiefeln holt uns zu 5er Grüppchen
 * was sind dolmen, namensherkunft, warum in Spanien viele
 * zwei dolmen direkt in antequera, reingehen, eine (name?) zeigt zum Pena, die andere (name?) zum …
+* Vorbeifahren an dolmen, necropolis beim see, erst später draufkommen im museum in antequera
 * am späten nachmittag 1.5 stunden auf den torchal radeln  700? Höhenmeter, dritter teil der unesco site in antequera
 * Die rampe rauf unangenehm steil, starker, eiskalter gegenwind, das wetter wird schlechter, immer wieder regentropfen
 * Unwirkliche landschaft und kalksteinformationen, wie entstanden?
