@@ -35,6 +35,8 @@ Mittagessen auf den Treppen im Gang, Leute kommen und gehen, obdachlos fühlen.
 Ein paar Blocks weiter ins *Oro Nero* und bei einem Kaffee weiterwarten.
 Um halb 4 schauts besser aus, im Tröpfeln losfahren.
 
+- bild basteln im eingangsbereich -
+
 Wenig später wieder starker Regen.
 Ein Auto mit Schwung, eine tiefe Lacke, ein Schwall Schmutzwasser.
 Durchdrücken bis *La Malahá*.
@@ -43,10 +45,18 @@ Ein paar Kilometer weiter das *Restaurante Finca Baño Frio* hat zum Glück offe
 Die einzige Gäste, neben dem wunderbar brennheißen Ofen sitzen und eine ganze Pfanne *Arroz con Verduras* essen.
 Eine Stunde später trocken weiterfahren, die Sonne scheint wieder.
 
+- video socken -
+
+- arros -
+
 Noch 25 km zum *Embalse de los Bermejales*, an dem Stausee gibt es einen Campingplatz.
 Zwei Stunden sanft aber anhaltend bergauf, der Antrieb kreischt nach der ausgiebigen Spülung.
 Rollende Hügel, abwechselnd Weizenfeldern und Olivenhainen.
 Oben grandioser Blick auf den verästelten Stausee, dahinter scheint beleuchtet die Abendsonne die *Sierra de Almijara*.
+
+- desktophintergrund -
+
+- see -
 
 Der Campingplatz günstig und schlecht.
 Straßenzüge mit Dauercampern in Hauszelten, Wohnwagen und Gartenhütten.
@@ -54,7 +64,7 @@ Kein heißes Wasser, keine einzige intakte Duschkopfhalterung, Klopapier bitte n
 Kurios die große Voliere am Rande des Platzes, drinnen ein Rudel Enten und ein weißer Pfau der dauernd schreit.
 
 Im Restaurant ein Bier trinken und die nächsten Tage planen.
-Am Thresen die Arbeiter vom Ort.
+Am Thresen Arbeiter vom Ort.
 
 Sonniger Vormittag.
 Den spiegelglatten See entlang, die *Sierra de Almijara* kopfüber.
@@ -63,16 +73,26 @@ Eine kurze Etappe, 15 km nach *Alhama de Granada*.
 Auch dort ein Thermalhotel, preislich aber nicht unsere Liga, Rest Day ohne Spa.
 Vorher noch rauf auf gute 1.100 Meter und wieder runter nach *Alhama*.
 
+- video see -
+
+- einfahrt alhama -
+
 Auf der *Plaza de la Constitución* Mittagessen und die Check-In Zeit abwarten.
 Es ist Sonntag, alte Menschen flanieren in Zeitlupe über den Platz.
 Die Zeit nutzen um auch den Vorderradschlauch zu wechseln.
 Vorbeikommende Flanierer:innen betrachten stumm und intensiv das am Kopf stehende Rad.
 Wohnen in einem frisch renovierten Altbau, an der Decke dunkel lackierte, verputzte Balken, überall Flügerltüren.
 
+- kathi schreibt -
+
 Wohlverdientes Herumliegen dann ein Spaziergang zum Aussichtspunkt über die *Tajos de Alhama*, ein Sandsteincanyon direkt am Rand der Altstadt.
 Der *Alhama* Fluss tief unten, Häuserruinen an den Hängen.
 Es hat wieder geregnet, der Horizont wolkenverhangen.
 Ein *Alhambra* und die besten *Patatas Bravas* bei *El Rincón De José*.
+
+- canyon -
+
+- patatas -
 
 Die Nacht regnerisch, der Morgen windig kalt.
 Raus aus *Alhama* Richtung Westen.
@@ -80,9 +100,13 @@ Zum Aufwärmen extrem steile Rampen, Kathi wird schwindlig.
 Nach den ersten Höhenmetern nach vorne blicken.
 Am Horizont das karge Kalksteingebirge *Sierra de Loja*, davor saftiges Weideland.
 
+- sierra -
+
 An der *Sierra* vorbei über eine steinige Hochebene, zwischen den Steineichen immer wieder kleine Schafherden.
 Abfahrt nach *Zafarraya*, den weiten flachen Kessel durchqueren und wieder hochklettern.
 Blick zurück, aus dunklen Wolken gehen Regengüsse nieder.
+
+- blick zurück -
 
 Wieder bergab nach *Villanueva del Trabuco*, endlose Hügel mit Olivenbäumen.
 Ein letztes Mal bergauf nach *Archidona*, gegenüber der Tankstelle beim Ortseingang auf einen schnellen Kaffee bei der Arbeiterbar *Cafetería Los Arcos*.
@@ -90,15 +114,23 @@ Runterbrettern Richtung *Antequera*, Weizenfelder von Mohnblumen rot gesprenkelt
 Vorbei an einem markantem Fels, dem *Peña des Enamorados* (Fels der Liebhaber).
 Dahinter auf einer Anhöhe, *Antequera*.
 
+- olivenhaine -
+ 
+- mohn -
+
 Ein kleines Apartment direkt unter der *Alcazaba*.
 Kathi putzt fleißig ihr Rad in dem kleinen Innenhof, ich schreibe.
 Am Abend eine riesige knusprige *Tortilla de patatas* vom *Mercadona*.
+
+- nutriscore F -
 
 *Antequera* ist sehr schön, auf den Straßen kaum Touristen.
 Nach dem Frühstück Wäschewaschen und nochmal Radbasteln in der Sonne, dann zu den Dolmen.
 Obwohl UNESCO Weltkulturerbe freier Eintritt für EU Bürger.
 Das Wort Dolmen kommt aus dem Bretonischen, bedeutet wörtlich 'Steintisch' und bezeichnet Grabbauten aus Megalithen, großen unbehauenen Steinblöcken.
 Die Dolmen in *Antequera* sind wie die meisten aus der Jungsteinzeit und gute 5.000 Jahre alt.
+
+- kathi antequera -
 
 -bild - die schwerste der Deckplatten der Dolmen de Menga wiegt gut 180kg-
 
@@ -110,6 +142,8 @@ Drinnen fand man die Skelette mehrere hundert Menschen.
 Am späten Nachmittag kleine Radtour auf der Radtour zum *El Torcal*, eine Bergkette mit besonderen Karstformationen 10 km südlich von *Antequera*.
 Am Weg schlägt das Wetter wieder um, mit zu wenig Gewand im eiskalten Wind, immer wieder kurze Regenschauer.
 Oben zittrige Wadln, streckenweise zu steile 750 Höhenmeter und in kurzen Radhosen bei 10 Grad.
+
+- leicht wie eine feder -
 
 -video-
 
@@ -127,6 +161,8 @@ Weiterradln, an der Nordseite am *Torcal* vorbei, plötzlich läuft ein Rudel Wi
 Ein herannahender Jeep bremst rechtzeitig ab, rammt dann aber einen Nachzügler im Anfahren.
 Der Hund rennt scheinbar unbeschadet weiter, eine bizarre Szene.
 
+- torcal -
+
 Die weißen Wolkenfetzen in der Steilwand des *Torcal* zerstreuen sich langsam in der durchbrechenden Mittagssonne.
 Auf der Landstraße Richtung *El Chorro* reißt eine Speiche an Kathi's Hinterrad.
 Abzwicken und mit dem Speichenschlüssel den Achter ausbügeln, ein Werkstattbesuch ist demnächst fällig.
@@ -138,13 +174,23 @@ Angelegt im 20. Jahrhundert für die Arbeiter des lokalen Wasserkraftwerks und s
 Der Andrang ist groß, Einlass nur gegen Ticket das Monate im Voraus gekauft werden muss.
 Einen Kaffee trinken in der ranzigen Bahnhofsbar von *El Chorro* und den Zirkus von unten beobachten.
 
+- blick von oben -
+
+- blick von unten -
+
 Wieder hoch zum *Puerto de las Atalayas* und einen verästelten himmelblauen Arm des *Guadalhorce* Stausees blicken.
 An einem kiefernbewachsenen Hang nach *Ardales* und weiter nach *El Burgo*, immer den *Río Turón* entlang.
 Kurz vor *El Burgo* perfekter Blick auf den *Torrecilla*, mit 1.919 Metern der höchste Gipfel der *Sierra de las Nieves*.
 Anders als der Name suggeriert ist das Gebirge schon lange schneefrei.
 
+- stausee -
+
+- nieves -
+
 *El Burgo* ist ein kleines weißgekalktes Kaff.
 Schlafen in einem Apartment auf 3 Stöcken plus Dachterrasse, von den 80 Quadratmetern die Hälfte Stiegen.
+
+- eli frühstück -
 
 Noch 30 km bis *Ronda*.
 Eineinhalb Stunden nur bergauf zum *Puerto del Viento* auf knapp 1.100 Meter.
@@ -153,16 +199,26 @@ Der Name ist Programm, oben eiskalter Wind aus Ronda.
 Im Schutz eines Felsblocks ein Packerl Oliven snacken.
 In ohrenbetäubendem Gegenwind runterrollen durch blütenbunte Schafweiden.
 
+- blick zurück -
+
+- kathi puerto -
+
 *Ronda* weniger schön als erwartet und bummvoll mit Tourist:innen.
 Die Stierkampfarena sehenswert mit top Audioguide.
 
 - eli matador -
+
+- kopf des ausgestorbenen stiers, wo + info -
 
 Weiterspazieren über den *Puente Nuevo*.
 Die 'Neue Brücke' wurde 1759 über eine Zeitspanne von 34 Jahren erbaut nachdem die alte wenige Jahre nach Fertigstellung kollabiert.
 Sie führt über den Canyon des *Guadalevín* Flusses über den sich die Stadt erstreckt.
 Der Fluss schießt 98 Meter unter der Brücke als Wasserfall hervor.
 Mit nur 66 Metern weniger lang als hoch.
+
+- eli, das muss es sein! -
+
+- großansicht -
 
 Um die Brücke zu sehen ein wenig in den Canyon hinunterwandern.
 Hunderte andere Menschen haben die selbe Idee.
