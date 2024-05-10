@@ -53,32 +53,44 @@ Den ganzen Abend das Treiben beobachten.
 
 Man feiert das *Cruz de Mayo*, am dritten Mai wurde laut katholischer Lehre das Heilige Kreuz entdeckt.
 *Hermandades*, christliche gemeinnützige Vereinigungen organisieren Prozessionen und schmücken große Kreuze.
-Für uns bedeutet das, dass es keine leistbaren Unterkünfte mehr in den umliegenden Orten gibt...todo
+Für uns relevant weil es am weiteren Streckenverlauf keine leistbaren Unterkünfte mehr gibt.
+Intensive fruchtlose Reiseplanung bis nach Mitternacht.
 
+Beim Frühstück zwei Optionen am Tisch, noch eine Nacht ausruhen in *Arcos* oder gleich weiter auf eine sehr lange Etappe nach *Sanlúcar de Barrameda* und durch den *Doñana* Nationalpark.
+Unsere Gastgeberin kann unseren Aufenthalt nicht verlängern, also zampacken und losfahren.
 
-Arcos - Chipiona
-* Unterkünfte rar, wollen eigentlich noch einen tag in arcos bleiben aber schob belegt
-* Also nach sanlucar+ferry+strandradln  bei ebbe, aufbrechen um 11
-* Hot hot hot keine wolke
-* Sanfte hügel, weizenfelder bis jerez, 5 km verkehrshölle in die stadt rein, radweg schlängelt sich, 1000mal straße überqueren
-* In jerez schlapp von der hitze planlos herumirren
-* Zum kebab porvera 49, im schatten falafeldürüm, pommes und cola
-* Spontan entscheiden zum strand zu fahren nach Chipiona und morgen durch Donana
-* zwei lustige esel am stadtrand
-* Restlichen 2 stunden schneckentempo im gegenwind
-* Weites hügel mit ackerland, dazwischen windturbinen, immer wieder kommen leute auf kutschen entgegen
-* In Chipiona am breiten strand sitzen, das erste mal am atlantik, sonnig aber nicht heiß genug zum schwimmen
-* Grad ist ebbe, den breiten harten sandstreifen inspizieren den die ebbe freigibt, morgen durch den donana naturpark auf diesem streifen radln, sonnenuntergang um halb 10
+{% include image.html path="media/strandln/arcos.jpg" alt="Eli radlt durch die Gassen von Arcos" caption="Zu wenig Zeit im netten Arcos de la Frontera" link="https://photos.app.goo.gl/HJAqKD1xSM2RKe5h6" %}
 
-{% include image.html path="media/strandln/arcos.jpg" alt="Eli radlt durch die Gassen von Arcos" link="https://photos.app.goo.gl/HJAqKD1xSM2RKe5h6" %}
+30 km auf einer stillgelegten Nebenstraße der Autobahn nach *Jerez de la Frontera*.
+Noch ein heißer Tag, es sind viele Rennradler:innen unterwegs.
+In *Jerez* leben über 200.000 Menschen, dementsprechend breit der Peripheriegürtel durch den wir uns auf einem nervtötenden Radweg schlängeln.
+Die Stadt ist der Geburtsort des *Sherry*, der Name des Weins wurde vom arabischen Namen der Stadt, *Sherīsh* abgeleitet.
 
-{% include image.html path="media/strandln/kathedrale.jpg" alt="Die Kathedrale von Jerez" link="https://photos.app.goo.gl/6n9QPbVXNApmNx3i8" %}
+Auf der *Plaza del Arenal* ankommen, hungrig und abgeschlagen von der Hitze.
+Es gibt zu wenig Schatten, planlos umherirren, an der schönen Kathedrale vorbeikommen.
+Der Hunger führt zum *Kebab Porvera 49*, Falafel-Dürüm, Pommes und Cola beleben die Geister.
+Spontan entscheiden abseits der Route ans Meer nach *Chipiona* zu radln und den restlichen Tag am Strand zu verbringen.
 
-{% include image.html path="media/strandln/esel.jpg" alt="Zwei Esel schauen in die Kamera hinter einem Drahtzaun" link="https://photos.app.goo.gl/sPJirgm9hiKL4t4RA" %}
+{% include image.html path="media/strandln/kathedrale.jpg" alt="Die Kathedrale von Jerez" caption="Die Kathedrale von Jerez" link="https://photos.app.goo.gl/6n9QPbVXNApmNx3i8" %}
+
+Die 30 km nach *Sanlúcar* und *Chipiona* zermürbender Gegenwind.
+Eine ruhige Straße über weite Hügel mit endlosen Ackerflächen und überall zerstreuten Windturbinen.
+Immer wieder Menschen in Pferdekutschen, wahrscheinlich des Feiertages wegen.
+Es wirkt jedoch alltäglich.
+Die Zeit und Kilometer vergehen langsam, abschalten hilft.
+
+{% include image.html path="media/strandln/esel.jpg" alt="Zwei Esel schauen in die Kamera hinter einem Drahtzaun" caption="Zwei witzige Esel am Stadtrand von Jerez" link="https://photos.app.goo.gl/sPJirgm9hiKL4t4RA" %}
 
 {% include image.html path="media/strandln/huegel.jpg" alt="Weites hügeliges Ackerland mit Windturbinen" link="https://photos.app.goo.gl/CSsWFgxktkatfeoVA" %}
 
+In *Chipiona* am weiten Strand sitzen, das erste Mal auf der Reise am Atlantik.
+Es ist Ebbe, ein gut 10 Meter breiter Streifen feuchter harter Sand vor der Wasserlinie.
+Auf diesem Sand wollen wir morgen am Strand des *Doñana* Nationalparks 30 km nach *Matalascañas* und weiter nach *Huelva* radln.
+Meerestiefstand ist um 7 Uhr und 19 Uhr, also möglichst um 17 Uhr am Strand losradln.
+
 {% include image.html path="media/strandln/macbook.jpg" alt="Eli sitzt am Strand in Chipiona mit dem Macbook auf dem Schoß" link="https://photos.app.goo.gl/EghYERNBexKCEwAi8" %}
+
+Um viertel nach 9 auf den Sonnenuntergang pfeifen und Einkaufen gehen, die Sonne steht immer noch handbreit über dem Horizont und es ist frisch geworden im Wind.
 
 
 Chipiona - matalascanas
@@ -102,19 +114,79 @@ Chipiona - matalascanas
 * Fast 4 stunden für 30km
 * Schlafen im 4* hotel
 
+Am nächsten Morgen hat der Wind gedreht, mit Schwung zurück nach *Sanlúcar*.
+Ein maroder Radweg durch eine Maulbeerbaumallee, Pflückpause.
+Auf dem Strand von *Sanlúcar* Mittagessen, was wie Meer ausschaut ist das Delta des *Guadalquivir*.
+Der Fluss trennt uns vom *Doñana* Nationalpark.
+
 {% include image.html path="media/strandln/maulbeeren.jpg" alt="Kathi zeigt einen Becher voller eben gepflückter Maulbeeren" link="https://photos.app.goo.gl/4KCKvh4VA3oyPChUA" %}
+
+Ein kleines Fährschiff steht schon am Strand, die Rampe im Sand.
+Die Überfahrt ist für Radler:innen quasi alternativlos, der Umweg über Straßen kostet einen vollen Tag.
+Ich frage den kleinen alten Mann der gerade die Rampe vom Sand freischaufelt nach dem Zeitpunkt der nächsten Abfahrt.
+Die Sprachbarriere selbst für diese simple Frage zu groß.
+In einem Café hinterm Strand die Fähre beobachten, jede volle Stunde ans andere Ufer und direkt zurück.
 
 {% include video.html path="media/strandln/warten.mp4" caption="Warten auf die Fähre" link="https://photos.app.goo.gl/YoG1p54MBFnez9gr5" %}
 
-{% include image.html path="media/strandln/shit.jpg" alt="Eli steht auf der Fähre und blickt zurück" link="https://photos.app.goo.gl/9ST63d3tYPM6LB4s7" %}
+Um 3 nochmal hin, wir wollen übersetzen und dort auf die Ebbe warten.
+Der Matrose erklärt wild gestikulierend, dass wir dort noch nicht radln können, der Sand sei zu weich.
+Dass wir das wissen und drüben warten wollen sieht er nicht ein.
+Um 4 nochmal hingehen, wieder will er abwimmeln aber wie der Motor startet winkt er uns her, hektisch zusammenpacken.
+
+Am Boot in voller Fahrt merke ich das mein Handy fehlt, es liegt noch im Sand, zurückgelassen in der Hektik.
+Die Fahrt dauert nur 5 Minuten, der Fluss gerade mal 300 Meter breit.
+Am anderen Ufer nochmal verzweifelt alle Taschen durchsuchen.
+Resigniert in den Sand sinken und auf die Fähre warten.
+
+{% include image.html path="media/strandln/shit.jpg" alt="Eli steht auf der Fähre und blickt zurück" caption="Auweia!" link="https://photos.app.goo.gl/9ST63d3tYPM6LB4s7" %}
+
+Eine halbe Stunde später schon bringt sie einen Schwarm Deutsche Rentner.
+Ich frage den ersten Herrn ob ihre Gruppe am andern Ufer im Sand vielleicht mein Handy gesehen haben.
+*Haben wir nicht gesehen* meint er einsilbig ohne stehenzubleiben und greift nach seiner Kamera mit Teleskopobjektiv um den Tourbus im Sand vor ihm abzulichten.
+Eine dicke Frau kommt eben von der Fähre und ruft *Abenteuer!*.
+
+Der Matrose steht in seinen Turnschuhen im Wasser und hilft den Deutschen trocken von der Fähre zu kommen.
+Stirnrunzeln wie er mich sieht.
+Ich halte ihm Kathi's Handy mit einem erklärenden Satz auf Google Translate hin.
+Er liest laut, den Finger mitführend, schaut mich mitleidig an und winkt mich aufs Boot.
+
+Das Handy liegt unbeschadet neben einem Pärchen im Sand.
+Der Matrose freut sich mit mir.
+Auf der Rückfahrt schärft er mir noch einige Male ein, dass wir am festen Sand fahren müssten.
+Am Ende wiederholt er mehrmals einen Satz den ich nicht verstehe.
+Er zeigt auf mein Handy, ich öffne Google Translate und er spricht hinein, *Viel Glück und gute Fahrt*.
+
+Um 5 bin ich nochmal 10 € ärmer aber erleichtert wieder bei Kathi und den Rädern.
+Das Meer hat inzwischen einen breiten Streifen feuchten festen Sand freigegeben.
+Losradln.
 
 {% include image.html path="media/strandln/eli2.jpg" alt="Eli radlt im Sand knapp am Wasser" link="https://photos.app.goo.gl/6MVF59PgxEWrmkkZ6" %}
 
+Trotz festem Sand deutlich mehr Rollwiderstand als am Asphalt.
+Das Gefühl direkt am Wasser zu radln einzigartig.
+Immer wieder Fischer in kleinen Gruppen am breiten Strand.
+Ihre langen Ruten stecken im Sand, die Leinen glänzen in der Sonne, Kopf einziehen.
+Die Fischer sind auf E-Bikes mit dicken Reifen gekommen.
+Es gibt hierher keine Straße, hinter der Düne nur weitere Dünen.
+
 {% include video.html path="media/strandln/kathi.mp4" link="https://photos.app.goo.gl/K18yEqPVeJb2Qmip6" %}
+
+Der *Doñana* Nationalpark ist einer der letzten Rückzugsorte des stark bedrohten Pardelluchses.
+Auch der Park selbst ist stark von Austrocknung bedroht, der Anbau von Erdbeeren im Umland benötigt viel Grundwasser.
+
+Trotz Rückenwind nur langsam vorankommen.
+Immer wieder längere Abschnitte weicheren Sandes in dem die Hinterräder einsinken.
+Immer mehr Sand auf Kette, Kettenblättern und Ritzeln, der Antrieb kreischt hör- und spürbar beim Treten.
+4 Stunden Fahrt für 30 km Strand.
 
 {% include image.html path="media/strandln/getriebe.jpg" alt="Sandverklebter Antrieb bei Eli's Rad" link="https://photos.app.goo.gl/DXLsKveqP4rWH13P9" %}
 
-- tonaufnahme sand im getriebe -
+{% include audio.html path="media/strandln/getriebe.m4a" caption="Radln mit Sand im Getriebe" %}
+
+*Matalascañas* liegt direkt am Meer an der Grenze zum Nationalpark.
+Das günstigste Zimmer im Ort buchen, unerwarteter Luxus im *Moon Dreams El Cortijo* mit 4 Sternen.
+Traurig, nur zum Schlafen hierzusein. 
 
 {% include image.html path="media/strandln/suite.jpg" alt="Kathi und Eli liegen im Bett ihrer Suite im 4 Sterne Hotel" link="https://photos.app.goo.gl/sREmAKvMi5UcqpfU8" %}
 
