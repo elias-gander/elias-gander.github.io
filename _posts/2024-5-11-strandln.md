@@ -37,9 +37,9 @@ Beinahe eben nach *Arcos*, keine Berge mehr am Horizont.
 
 {% include image.html path="media/strandln/finca.jpg" alt="Ein weißer Hof auf einem Hügel mit goldenen Weizenfeldern" link="https://photos.app.goo.gl/53dKAJ2nqDjtLWv48" %}
 
-Die Stadt liegt, wie *Ronda*, auf einem steilen Felsen.
+Die Stadt liegt wie *Ronda* auf einem steilen Felsen.
 Die Häuser strahlend weiß in der Abendsonne.
-Mit letzter Kraft, die Räder auf treppensteilen Gassen zur Unterkunft hochschieben.
+Mit letzter Kraft die Räder auf treppensteilen Gassen zur Unterkunft hochschieben.
 Das kleine Zimmer in der Altstadt geht auf einen netten Innenhof.
 
 Die rostige Metallstiege hoch auf die aussichtsreiche Dachterrasse.
@@ -54,7 +54,7 @@ Den ganzen Abend das Treiben beobachten.
 
 Man feiert das *Cruz de Mayo*, am dritten Mai wurde laut katholischer Lehre das Heilige Kreuz entdeckt.
 *Hermandades*, christliche gemeinnützige Vereinigungen organisieren Prozessionen und schmücken große Kreuze.
-Für uns relevant weil es am weiteren Streckenverlauf keine leistbaren Unterkünfte mehr gibt.
+Für uns relevant, weil es am weiteren Streckenverlauf keine leistbaren Unterkünfte mehr gibt.
 Intensive fruchtlose Reiseplanung bis nach Mitternacht.
 
 Beim Frühstück zwei Optionen am Tisch, noch eine Nacht ausruhen in *Arcos* oder gleich weiter auf eine sehr lange Etappe nach *Sanlúcar de Barrameda* und durch den *Doñana* Nationalpark.
@@ -91,7 +91,7 @@ Meerestiefstand ist um 7 Uhr und 19 Uhr, also möglichst um 17 Uhr am Strand los
 
 {% include image.html path="media/strandln/macbook.jpg" alt="Eli sitzt am Strand in Chipiona mit dem Macbook auf dem Schoß" link="https://photos.app.goo.gl/EghYERNBexKCEwAi8" %}
 
-Um viertel nach 9 den Sonnenuntergang auslassen und Einkaufen gehen, die Sonne steht immer noch handbreit über dem Horizont aber es ist frisch geworden im Wind.
+Um Viertel nach 9 den Sonnenuntergang auslassen und einkaufen gehen, die Sonne steht immer noch handbreit über dem Horizont aber es ist frisch geworden im Wind.
 
 Am nächsten Morgen hat der Wind gedreht, mit Schwung zurück nach *Sanlúcar*.
 Ein maroder Radweg durch eine Maulbeerbaumallee, Pflückpause.
@@ -113,7 +113,7 @@ Der Matrose erklärt wild gestikulierend, dass wir dort noch nicht radln können
 Dass wir das wissen und drüben warten wollen sieht er nicht ein.
 Um 4 nochmal hingehen, wieder will er abwimmeln aber wie der Motor startet winkt er uns her, hektisch zusammenpacken.
 
-Am Boot in voller Fahrt merke ich das mein Handy fehlt, es liegt noch im Sand, zurückgelassen in der Hektik.
+Am Boot in voller Fahrt merke ich, dass mein Handy fehlt, es liegt noch im Sand, zurückgelassen in der Hektik.
 Die Fahrt dauert nur 5 Minuten, der Fluss gerade mal 300 Meter breit.
 Am anderen Ufer nochmal verzweifelt alle Taschen durchsuchen.
 Resigniert in den Sand sinken und auf die Fähre warten.
@@ -121,29 +121,29 @@ Resigniert in den Sand sinken und auf die Fähre warten.
 {% include image.html path="media/strandln/shit.jpg" alt="Eli steht auf der Fähre und blickt zurück" caption="Auweia!" link="https://photos.app.goo.gl/9ST63d3tYPM6LB4s7" %}
 
 Schon eine halbe Stunde später bringt die Fähre einen Schwarm Deutsche Rentner.
-Ich frage einen Mann an der Spitze ob jemand in ihrer Gruppe am andern Ufer vielleicht mein Handy gefunden hat.
-*Haben wir nicht gesehen* meint er einsilbig ohne stehenzubleiben und greift nach seiner Kamera mit Teleskopobjektiv um den Tourbus im Sand vor ihm abzulichten.
+Ich frage einen Mann an der Spitze, ob jemand in ihrer Gruppe am andern Ufer vielleicht mein Handy gefunden hat.
+*Haben wir nicht gesehen*, meint er einsilbig ohne stehen zu bleiben und greift nach seiner Kamera mit Teleskopobjektiv, um den Tourbus im Sand vor ihm abzulichten.
 Eine dicke Frau kommt eben von der Fähre und ruft *Abenteuer!*.
 
-Der Matrose steht in seinen Turnschuhen im Wasser und hilft den Deutschen trocken von der Fähre zu kommen.
-Stirnrunzeln wie er mich sieht.
-Ich halte ihm Kathi's Handy mit einem erklärenden Satz auf Google Translate hin.
-Er liest laut, den Finger mitführend, schaut mich mitleidig an und winkt mich aufs Boot.
+Der Matrose steht in seinen Turnschuhen im Wasser und hilft den Deutschen, trocken von der Fähre zu kommen.
+Stirnrunzeln, wie er mich sieht.
+Ich halte ihm Kathi's Handy mit einem erklärenden Satz auf *Google Translate* hin.
+Er liest laut den Finger mitführend, schaut mich mitleidig an und winkt mich aufs Boot.
 
 Das Handy liegt unbeschadet neben einem Pärchen im Sand.
 Der Matrose freut sich mit mir.
 Auf der Rückfahrt schärft er mir noch einige Male ein, dass wir am festen Sand radln müssten.
 Am Ende wiederholt er mehrmals einen Satz den ich nicht verstehe.
-Er zeigt auf mein Handy, ich öffne Google Translate und er spricht hinein, *Viel Glück und gute Fahrt*.
+Er zeigt auf mein Handy, ich öffne *Google Translate* und er spricht hinein, *Viel Glück und gute Fahrt*.
 
-Um 5 bin ich nochmal 10 € ärmer aber erleichtert wieder bei Kathi und den Rädern.
+Um 5 bin ich nochmal 10 € ärmer, aber erleichtert wieder bei Kathi und den Rädern.
 Das Meer hat inzwischen einen breiten Streifen feuchten festen Sand freigegeben.
 Losradln.
 
 {% include image.html path="media/strandln/eli2.jpg" alt="Eli radlt im Sand knapp am Wasser" link="https://photos.app.goo.gl/6MVF59PgxEWrmkkZ6" %}
 
 Trotz festem Sand deutlich mehr Rollwiderstand als am Asphalt.
-Das Gefühl direkt am Wasser zu radln einzigartig.
+Das Gefühl, direkt am Wasser zu radln einzigartig.
 Immer wieder Fischer in kleinen Gruppen am breiten Strand.
 Ihre langen Ruten stecken im Sand, die Leinen glänzen in der Sonne, Kopf einziehen.
 Die Fischer sind auf E-Bikes mit dicken Reifen gekommen.
@@ -216,7 +216,7 @@ Im kühlen Schatten Erdbeeren essen und den Trubel beobachten.
 
 {% include audio.html path="media/strandln/plaza.m4a" caption="Musikalische Untermalung auf der Plaza de España" %}
 
-Die *Plaza* ein riesiger Halbkreis, erbaut 1928 für die Ibero-Amerikanische Weltausstellung.
+Die *Plaza* ein riesiger Halbkreis, erbaut 1928 für die Iberoamerikanische Weltausstellung.
 Entlangspazieren unter den scheinbar endlosen Arkaden, bunte Fliesen und Verzierungen im Neo-*Mudéjar*-Stil.
 An den Wänden in regelmäßigen Abständen Wappen und Karte jeder der 50 spanischen Provinzen.
 
@@ -231,7 +231,7 @@ Im *Starbucks* runterkühlen bei einem großen Glas *Cold Brew* mit viel Eis.
 Dem Geschwätz der internationalen Gäste lauschen.
 
 Ein Packerl Schlauchflicken beim *Decathlon* holen und weiter zu den *Setas de Sevilla*, den 'Pilzen von Sevilla'.
-Die fliesende netzartige Konstruktion besteht fast ausschließlich aus Holz und schafft 3.000 m² beschatteten und konsumfreien Aufentaltsraum.
+Die fliesende netzartige Konstruktion besteht fast ausschließlich aus Holz und schafft 3.000 m² beschatteten und konsumfreien Aufenthaltsraum.
 Zusammengesetzt aus rund 3.400 Modulen, über 3.500 m³ Furnierschichtholz.
 
 {% include image.html path="media/strandln/setas.jpg" alt="Eli steht unter den Setas de Seville" link="https://photos.app.goo.gl/9RnDANQZdoNySFrV7" %}
