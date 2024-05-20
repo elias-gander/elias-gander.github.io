@@ -67,23 +67,35 @@ Das weitläufige verschlafene Kaff ist voller Surfshops.
 In den hippen Lokalen an der Hauptstraße trinken junge Alternativtourist:innen überteuertes Bier.
 Knapp vor Sonnenuntergang ankommen und im Zimmer bleiben.
 
+Am Morgen zur Halbinsel von *Sagres* spazieren.
+Wieder windig, wieder aus Nordwest.
+Die *Algarve* beradelt man am besten von Norden nach Süden, nächstes mal dann.
 
 {% include image.html path="media/die-letzte-bratwurst/klippen.jpg" alt="Kathi steht an den Klippen" link="https://photos.app.goo.gl/N5tdsrxXLg7xXGHdA" %}
 
+Gewusel um die *Fortaleza de Sagres*, eine unspektakuläre Festung aus dem 15. Jahrhundert.
+Die *Ponta de Sagres* und der Leuchtturm nur durch die Festung erreichbar.
+Den Eintritt sparen und abseits der Massen vor die Festungsmauer an die Klippen setzen und den Wellen beim Rollen und Zerschellen zuschauen.
+Die karge Felslandschaft durchsetzt von gelb-blühenden Küstenstrandsternen.
+
 {% include image.html path="media/die-letzte-bratwurst/wellen.jpg" alt="Eli steht an den Klippen und schaut auf die Wellen" link="https://photos.app.goo.gl/i9ax9YzKwmd3V4Gg8" %}
+
+Zwei Surfer wagen sich in ihren Neoprenanzügen in die Wellen.
+Runterklettern zur *Praia do Tonel*.
+Ein großer schwarzer Fels in Form eines Russischen Terriers dominiert die weite Bucht.
+Über das Mittagessen sinnieren.
+Wieder ziehen Regenwolken auf.
+
+{% include image.html path="media/die-letzte-bratwurst/terrier.jpg" alt="Eli steht an der Praia do Tonel" caption="Wuff!" link="https://photos.app.goo.gl/ZR5sgZPLQotSj9GF6" %}
+
+In der Abendsonne zur zweiten Halbinsel von *Sagres*.
+Zum strandln oder gar baden ist es viel zu frisch.
+Die *Praia da Mareta* entlanggehen.
+Am flachen Strand überlagern kleine Wellen sich zu hypnotisierenden Mustern.
 
 {% include image.html path="media/die-letzte-bratwurst/strand.jpg" alt="Kathi steht am Strand" link="https://photos.app.goo.gl/Tf3vjBMZ5wvDAzY38" %}
 
-{% include video.html path="media/die-letzte-bratwurst/wellen.mp4" link="https://photos.app.goo.gl/YAk4Vg1rrrJvbn2F9" %}
-
-Sagres
-* Nach dem frühstück zur küste, sonnig und starker nordwestwind, fast immer so zu unserem leid
-* Um zur ponta de Sagres und dem leuchtturm zu kommen muss man eintritt zur fortaleza zahlen, also einfach auf den klippen neben den festungsmauern sitzen und die küste entlangschauen
-* Unten rauschen die wellen, rollen lang  wie kleine lawinen zum strand
-* Zwei surfer im wasser beobachten
-* Es zieht zu, zum strand runter auf den steinen herumklettern und über ein mittagessen nachdenken
-* Zum intermarche, mittagessen und siesta
-* Am abend ein bier
+{% include video.html path="media/die-letzte-bratwurst/wellen.mp4" caption="Trippy" link="https://photos.app.goo.gl/YAk4Vg1rrrJvbn2F9" %}
 
 
 
