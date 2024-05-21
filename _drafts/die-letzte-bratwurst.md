@@ -15,25 +15,25 @@ Trotzdem witzig.
 Die Gaskartusche fast leer und kein *Decathlon* bis *Lisboa*.
 Gepäck im Abstellraum des *Lagos Central Hostel* lassen und runter zur Hauptstraße an der *Ribera de Bensafrim*.
 Der Mann vom Stand mit den Korkhandtaschen hat Recht, der Bus nach *Portimão* kommt zur vollen Stunde.
-Wir fahren nicht mit, das Ticket gibts nicht im Bus.
+Wir fahren nicht mit, Tickets gibts nicht im Bus.
 
 Schnell zum Busbahnhof.
 Ein sonniger Vormittag aber der Wind bläst kalt aus Nordwest.
 Beim Ticketschalter dann die zwei Tickets nach *Portimão*.
-Nochmal eine halbe Stunde warten und draufkommen, dass ein *Bolt* direkt vom Hostel gleich viel kostet.
+Nochmal eine halbe Stunde warten und draufkommen, dass ein *Bolt* direkt vom Hostel gleich viel gekostet hätte.
 
 {% include image.html path="media/die-letzte-bratwurst/bus.jpg" alt="Eli sitzt an der Busstation in Lagos" link="https://photos.app.goo.gl/TJwWXoq4saDazo4R9" %}
 
-Eine geschlagene Stunde Fahrt ins Zentrum von *Portimão*.
-Das Einkaufszentrum 40 Minuten Fußweg draußen.
-Beim chinesischen Supermarkt zwei Packungen Hot & Sour Nudeln holen und auf ein sonniges Bankerl auf der *Ribeirinha* setzen.
-Ein Cafeci bei der *Burger Ranch*, eine *Burger King* Abklatsch-Kette die aus *Portimão* stammt.
+Eine geschlagene Stunde Fahrt zum Zentrum von *Portimão*.
+Der Shoppingtempel aber 40 Minuten Fußweg außerhalb.
+Zwei Packerl Hot & Sour Nudeln vom chinesischen Supermarkt und auf ein sonniges Bankerl an der *Ribeirinha* setzen.
+Ein Cafeci bei der *Burger Ranch*, eine *Burger King* Abklatsch-Kette aus *Portimão*.
 
 {% include image.html path="media/die-letzte-bratwurst/nudeln.jpg" alt="Kathi isst scharf-saure Nudeln aus dem Plastiksackerl" link="https://photos.app.goo.gl/uPouVUbtqb2fpXgy9" %}
 
 Dekadent per *Bolt* zuerst zum *Decathlon* und dann zurück nach *Lagos* zu Rädern und Gepäck.
-Geschäfte abklappern in der fußgängerfeindlichen Einkaufscenterödnis zehrt an Kraft und Nerven, erschöpft um 4 losradln.
-10 Kilometer zersiedelte Ortschaften dann nach *Luz* endlich Ende.
+Geschäfte abklappern in der fußgängerfeindlichen Einkaufscenterödnis zehrt an Kraft und Nerven, um 4 erschöpft losradln.
+10 Kilometer durch zersiedelte Ortschaften, nach *Luz* ists dann endlich aus.
 Die *Algarve* zwischen *Faro* und *Lagos* muss man nicht gesehen haben.
 
 Snackpause in *Burgau*.
