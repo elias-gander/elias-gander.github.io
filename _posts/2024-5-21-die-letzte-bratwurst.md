@@ -38,7 +38,7 @@ Die *Algarve* zwischen *Faro* und *Lagos* muss man nicht gesehen haben.
 Snackpause in *Burgau*.
 Über den österreichisch klingenden Namen lachen und tatsächlich, es gibt ein *Burgau* in der Steiermark.
 Danach auf einem schmalen Schotterweg vorbei an der bunt blühenden *Ribeira de Vale Barão*, seit Langem das erste Stück Natur.
-Über eine Rampe mit 20% Steigung und gleich wieder runter auf Meereshöhe nach *Salema*.
+Über eine Rampe mit 20 % Steigung und gleich wieder runter auf Meereshöhe nach *Salema*.
 
 {% include image.html path="media/die-letzte-bratwurst/steil.jpg" alt="Eli steht mit offenem Mund vor einem 20% Steigung Schild" link="https://photos.app.goo.gl/77V3i4dogQFmFYHBA" %}
 
@@ -109,14 +109,14 @@ Eigentlich beginnt die Route in Nordportugal.
 
 Auf teilweise groben Schotterpisten zurück nach *Vila do Bispo*.
 Mittagessen vom *ALDI* am sonnigen Parkplatz.
-Beim Eingang spielt ein deutscher Anarcho Gitarre und singt mit rauher Stimme.
+Beim Eingang spielt ein deutscher Anarcho Gitarre und singt mit rauer Stimme.
 Einen Kaffee in der Snackbar nebenan und weiter auf der Landstraße nach *Carrapateira*.
 
 {% include image.html path="media/die-letzte-bratwurst/gradaus.jpg" alt="Kathi radlt auf einer kerzengraden Straße durch Weideland" link="https://photos.app.goo.gl/18Mzi2rSBxQoTuNm7" %}
 
 Eine große Ziegenherde auf einer Trockenwiese an der Straße.
 Der stoische Hirte in Baskenmütze und Fellcape überblickt die Herde, zu seinen Füßen ein strubbliger Hund.
-In die andere Richtung dutzende Windräder in lichten Kiefernwäldern.
+In die andere Richtung Dutzende Windräder in lichten Kiefernwäldern.
 
 {% include image.html path="media/die-letzte-bratwurst/hirte.jpg" alt="Eine Ziegenherde mit Hirte auf einer Trockenwiese" link="https://photos.app.goo.gl/kDRhcvvUazMXSiCr9" %}
 
@@ -159,7 +159,7 @@ Ein schwarzer Fels im Meer erinnert an eine riesige Haifischflosse.
 
 Am Hang über dem Fluss entlang nach *Odeceixe*.
 Ich war im Februar 2019 schon einmal hier, der *Trilho dos Pescadores* schlängelt sich die Klippen entlang durch den gesamten *Parque Natural do Sudoeste Alentejano e Costa Vicentina*. 
-Dank diesem Naturpark ist die Atlantikküste zwischen *Sines* und *Lagos* wunderbar unverbaut.
+Dank dieses Naturparks ist die Atlantikküste zwischen *Sines* und *Lagos* wunderbar unverbaut.
 
 {% include image.html path="media/die-letzte-bratwurst/odeceixe2.jpg" alt="Blick auf Odeceixe auf der Straße dorthin" link="https://photos.app.goo.gl/MTAcgSo9jdvCBtx6A" %}
 
@@ -174,7 +174,7 @@ Schwer den Blick von den graspickenden Sträußen abzuwenden.
 Weiter auf Nebenstraßen durch weites Farmland, Störche staksen durchs hohe Gras.
 Wir sind nicht mehr in der Region *Algarve* sondern im *Alentejo*.
 Hier werden auf großen Gewächshausflächen Beeren angepflanzt.
-Es ist kurz vor 6, an den Straßenrändern warten hunderte asiatische Arbeitsmigrant:innen auf die Busse zu ihren Unterbringungen.
+Es ist kurz vor 6, an den Straßenrändern warten Hunderte asiatische Arbeitsmigrant:innen auf die Busse zu ihren Unterbringungen.
 Viele tragen Tücher über Mund und Nase.
 Auch in den kleinen Ortschaften überwiegend Arbeiter:innen auf den Straßen.
 
@@ -236,7 +236,7 @@ Zur Linken eine durchgehende Düne, das Meer, obwohl nur 200 Meter entfernt zeig
 Rechts das weite Delta des *Rio Sado*.
 
 Die knallgrüne Fähre mit rotem *Coca Cola* Branding an allen Seiten fährt jede Stunde.
-Wie die Rampe liegt rollt gleich ein Bub am Mountainbike vom Boot, es folgen einige PKWs.
+Wie die Rampe liegt rollt gleich ein Bub am Mountainbike vom Boot, es folgen einige Pkws.
 Ein Kühllaster fährt mit uns nach *Setúbal*.
 
 {% include image.html path="media/die-letzte-bratwurst/pergament.jpg" alt="Kathi liest einen sehr langen Kassenbon" caption="Das längste Ticket der Welt" link="https://photos.app.goo.gl/KwHrm6yqNLupj5WPA" %}
@@ -245,14 +245,14 @@ Ein Kühllaster fährt mit uns nach *Setúbal*.
 
 In den meisten Zügen in Portugal darf man sein Rad gratis mitnehmen.
 Beim *Zahir Kebab* gegenüber vom Bahnhof bei Falafelbox und *Guaraná Antarctica* auf den Zug warten.
-Im Zug nur wenig Platz für Räder, die Stellplätze teilt man sich mit Kinderwägen und Rollstühlen.
+Im Zug nur wenig Platz für Räder, die Stellplätze teilt man sich mit Kinderwagen und Rollstühlen.
 Über den *Ponte 25 de Abril* nach *Lisboa*.
 Die Brücke führt über den mächtigen *Tejo*, den längsten Fluss der iberischen Halbinsel.
 
 {% include video.html path="media/die-letzte-bratwurst/zug.mp4" link="https://photos.app.goo.gl/Zj6m2SnqFq3D4DZE7" %}
 
 *Lisboa* ist touristisch und teuer, eine günstige Unterkunft etwas außerhalb im *Areeiro* Viertel.
-Am Abend zur nahen *Fonte Luminosa*, hunderte Menschen in der fast einen Kilometer langen Liegewiese.
+Am Abend zur nahen *Fonte Luminosa*, Hunderte Menschen in der fast einen Kilometer langen Liegewiese.
 Eingepfercht zwischen zwei stark frequentierten Straßen die ein wenig an den Wiener Gürtel erinnern.
 Ein Hund legt mir seinen speichelnassen Ball hin und schnappt mir beinahe meinen Muffin aus der Hand.
 
@@ -266,7 +266,6 @@ Am Gehsteig weiß-schwarzes Pflaster, aus allen Ritzen wuchert Unkraut.
 Am Aussichtspunkt Gedränge.
 Links der Blick zum *Castelo de São Jorge*, unten die Dächer der Altstadt.
 In der Ferne der *Tejo* und *Ponte do 25 Abril*.
-
 
 {% include image.html path="media/die-letzte-bratwurst/mirador.jpg" caption="Toll" alt="Eli schaut unzufrieden an einem Aussichtspunkt mit vielen Menschen" link="https://photos.app.goo.gl/1EmRfViHF3n7hHDP7" %}
 
