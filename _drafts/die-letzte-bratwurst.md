@@ -95,65 +95,98 @@ Am flachen Strand überlagern kleine Wellen sich zu hypnotisierenden Mustern.
 
 {% include image.html path="media/die-letzte-bratwurst/strand.jpg" alt="Kathi steht am Strand" link="https://photos.app.goo.gl/Tf3vjBMZ5wvDAzY38" %}
 
-{% include video.html path="media/die-letzte-bratwurst/wellen.mp4" caption="Trippy" link="https://photos.app.goo.gl/YAk4Vg1rrrJvbn2F9" %}
+{% include video.html path="media/die-letzte-bratwurst/wellen.mp4" link="https://photos.app.goo.gl/YAk4Vg1rrrJvbn2F9" %}
 
-
+Am nächsten Morgen gut gerastet auf der Landstraße zum *Cabo de São Vicente*.
+Wieder Gegenwind, der *Apple Weather* prognostiziert die ganze Woche lebhaften Nordwestwind.
 
 {% include image.html path="media/die-letzte-bratwurst/cabo.jpg" alt="Gerade Straße zum Cabo de São Vicente" link="https://photos.app.goo.gl/4H7jpvfuRTpJ6XWr6" %}
 
-{% include image.html path="media/die-letzte-bratwurst/klippen2.jpg" alt="Blick auf die Klippen vom Cabo de São Vicente" link="https://photos.app.goo.gl/R7iHqzcmNrHqYSgs8" %}
+Auf dem Kap steht ein Leuchtturm, das Tor davor verschlossen.
+Am südwestlichsten Punkt Europas reges Treiben, Autos und Reisebusse drängen sich in den Parkplatz.
+Dahinter reihen sich Souvenirstände und Imbisse.
+Vorm Eingang zum Leuchtturm eine abstrakte Radlerstatue zum Eurovelo 1, drunter steht Kilometer 0, obwohl die Route eigentlich in Nordportugal beginnt.
+
+{% include image.html path="media/die-letzte-bratwurst/klippen2.jpg" caption="Blick gen Norden" alt="Blick auf die Klippen vom Cabo de São Vicente" link="https://photos.app.goo.gl/R7iHqzcmNrHqYSgs8" %}
+
+Auf teilweise groben Schotterpisten zurück nach *Vila do Bispo*.
+Beim *ALDI* ein Mittagessen holen, vorm Eingang spielt ein deutscher Anarcho Gitarre und singt mit rauher Stimme.
+Einen Kaffee in der Snackbar gegenüber und weiter auf der Landstraße nach *Carrapateira*.
 
 {% include image.html path="media/die-letzte-bratwurst/gradaus.jpg" alt="Kathi radlt auf einer kerzengraden Straße durch Weideland" link="https://photos.app.goo.gl/18Mzi2rSBxQoTuNm7" %}
+
+Auf einer Trockenwiese an der Straße eine große Ziegenherde.
+Ein stoischer Hirte in Baskenmütze und Fellcape überblickt seine Herde, zu seinen Füßen ein strubbliger Hund.
+Auf der anderen Straßenseite Windräder in lichten Kiefernwäldern.
 
 {% include image.html path="media/die-letzte-bratwurst/hirte.jpg" alt="Eine Ziegenherde mit Hirte auf einer Trockenwiese" link="https://photos.app.goo.gl/kDRhcvvUazMXSiCr9" %}
 
 {% include video.html path="media/die-letzte-bratwurst/windrad.mp4" link="https://photos.app.goo.gl/dEAuCyrHQ618QBtU9" %}
 
+Nach *Carrapateira* dem Eurovelo 1 über Schotterpisten folgen.
+Auf den steilen Rampen rutscht die Kette immer öfter krachend über Ritzel und Kettenblatt, ein Besuch beim Mechaniker ist angesagt.
+Noch 20 km über staubiges Hügelland nach *Aljezur*.
+Der Staub bindet Öl und Abrieb auf Kette und Ritzeln zu einer schwarzen Paste, unsauberes Schalten.
+
 {% include image.html path="media/die-letzte-bratwurst/schotter.jpg" alt="Kathi radlt auf einer Schotterpiste" link="https://photos.app.goo.gl/1MmA3CwX4zCkpMsG8" %}
+
+Immer wieder durch kleine Eukalyptuswälder.
+Der Eukalyptusbaum stammt ursprünglich aus Australien, in Portugal für die Cellulosegewinnung angepflanzt.
+Schön aber wasserhungrig und anfällig für Waldbrände.
 
 {% include image.html path="media/die-letzte-bratwurst/eukalyptus.jpg" alt="Ein Eukalyptuswald" link="https://photos.app.goo.gl/YGrtxHafTorcr6ar7" %}
 
-{% include video.html path="media/die-letzte-bratwurst/pferde.mp4" link="https://photos.app.goo.gl/8mmpW8hGFVoGdBGGA" %}
+{% include video.html path="media/die-letzte-bratwurst/pferde.mp4" caption="Zwei narrische Pferde kurz vor Aljezur" link="https://photos.app.goo.gl/8mmpW8hGFVoGdBGGA" %}
 
-{% include image.html path="media/die-letzte-bratwurst/camping.jpg" alt="Foto durchs Mosquitonetz aus dem Zelt heraus in den Sonnenuntergang" link="https://photos.app.goo.gl/peYwAcdBkdQFxUj86" %}
+Die kleine weiße Altstadt von *Aljezur* an einem steilen Hang gelegen.
+Drunter vorbeiradln und bei der Brücke ins *Café Ponte* setzen.
+Nur knappe 50 km geradlt aber es ist schon Abend.
+Zum etwas außerhalb gelegenen *Camping Serrão* und unter mächtigen Eukalyptusbäumen seit langem wieder einmal das Zelt auspacken.
+Wäsche waschen, duschen, Spaghetti kochen und müde auf die Luftmatratze legen.
 
-Sagres - Aljezur
-* immer noch starker Nordwestwind, die restliche Woche auch, die algarve lieber von Lissabon südlich fahren
-* die Landstraße zum cabo de sao Vincente, der Leuchtturm abgesperrt, auf der Straße davor reges treiben, Busse, autos, souvenierstände, Imbisse
-* bei der letzten bratwurst vor Amerika leider kein Veganes Würstl
-* Am Schotter zurück nach vila do bispo, einen snack vom Aldi holen
-* vorm eingang sitzt ein deutscher Anarcho und spielt mit rauer stimme Balladen auf der Gitarre
-* einen Kaffee bei der snackbar und weiter wieder über die Landstraße nach carrapateira
-* am weg Windturbinen und ein cooler Hirte mit Fellcape und seiner Ziegenherde
-* 20 kilometer schetterpisten nach Aljezur 
-* bei bier und Pommes den restlichen tag bleiben
-* es ist zu windig kühl zum strandln also keinen restday einlegen
-* 5 km zum camping serrao, zelt unter eukalyptusbäumen und wäsche waschen
+{% include image.html path="media/die-letzte-bratwurst/camping.jpg" alt="Foto durchs Mosquitonetz aus dem Zelt heraus in den Sonnenuntergang" caption="Trippy" link="https://photos.app.goo.gl/peYwAcdBkdQFxUj86" %}
 
+Morgensonne und sanfter Eukalyptusduft, auf den Isomatten draußen frühstücken.
+Furchtlose Spatzen spechteln auf die Plastikteller voller Brösel.
+Räder putzen vor den Sanitäranlagen und am frühen Nachmittag losradln.
 
+Eine gute Stunde zum Strand von *Odeceixe*.
+Der Ort liegt 5 km hinter der Küste über dem breiten Tal des *Rio Seixe*.
+Die Mündung ins Meer zwischen hohen Klippen, dazwischen ein weiter Sandstrand.
+Eine schwarze Klippe erinnert an eine riesige Haifischflosse.
 
-{% include image.html path="media/die-letzte-bratwurst/odeceixe.jpg" alt="Kathi und Eli im Arm vorm Strand von Odeceixe" link="https://photos.app.goo.gl/f5QrA818uwNwk1BVA" %}
+{% include image.html path="media/die-letzte-bratwurst/odeceixe.jpg" alt="Kathi und Eli vorm Strand von Odeceixe" link="https://photos.app.goo.gl/f5QrA818uwNwk1BVA" %}
+
+Am Hang über dem Fluss entlang nach *Odeceixe*.
+Ich war im Februar 2019 schon einmal hier, der *Trilho dos Pescadores* schlängelt sich die Klippen entlang durch den gesamten *Parque Natural do Sudoeste Alentejano e Costa Vicentina*. 
+Dank diesem Naturpark ist die Atlantikküste zwischen *Sines* und *Lagos* wunderbar unverbaut.
 
 {% include image.html path="media/die-letzte-bratwurst/odeceixe2.jpg" alt="Blick auf Odeceixe auf der Straße dorthin" link="https://photos.app.goo.gl/MTAcgSo9jdvCBtx6A" %}
 
+Ein kurzes Stück Landstraße, dann auf grob asphaltierten Nebenstraßen nach *Zambujeira do Mar*.
+Kurz vorm Ort ein weitflächiges Gehege mit Antilopen, Lamas, Wasserbüffeln, Zebras und Sträußen.
+Wie hypnotisiert den Sträußen beim unergiebigen Graspicken zuschauen.
+
 {% include image.html path="media/die-letzte-bratwurst/strauss.jpg" alt="Zwei Strausse, ein Büffel und einge Mufflons grasen in einem Gehege" link="https://photos.app.goo.gl/Q2GaAEGn6G4LWDdm9" %}
 
-{% include image.html path="media/die-letzte-bratwurst/strand2.jpg" alt="Der Strand von Zambujeira" link="https://photos.app.goo.gl/vR2U6CywKoe96rf6A" %}
+{% include image.html path="media/die-letzte-bratwurst/strand2.jpg" caption="Der Strand von Zambujeira" alt="Der Strand von Zambujeira" link="https://photos.app.goo.gl/vR2U6CywKoe96rf6A" %}
+
+Weiter auf Nebenstraßen durch weites Farmland, Störche staksen durchs hohe Gras.
+Wir sind nicht mehr in der Region *Algarve* sondern im *Alentejo*.
+Hier werden auf großen Gewächshausflächen Beeren angepflanzt.
+Es ist kurz vor 6, an den Straßenrändern warten hunderte asiatische Arbeitsmigrant:innen auf die Busse die sie zu ihren Unterbringungen bringen.
+Viele tragen Tücher über Mund und Nase.
+Auch in den kleinen Ortschaften sieht man überwiegend Arbeiter:innen auf den Straßen.
 
 {% include image.html path="media/die-letzte-bratwurst/heu.jpg" alt="Ein weites Feld mit hunderten Heuballen in weiße Folie gepackt" link="https://photos.app.goo.gl/HnXa95QjweXSMyX68" %}
 
-{% include image.html path="media/die-letzte-bratwurst/bruecke.jpg" alt="Blick von der Brücke über den Rio Mira nach Vila Nova" link="https://photos.app.goo.gl/DT2P3wzsQLwV2FWQA" %}
+Die letzten 10 km nach *Vila Nova de Milfontes* über die Landstraße.
+Von der Brücke über den *Rio Mira* sieht man aufs Meer.
+Take-away Pizza vom *Restaurante Calabrisella*, ein deutsches Ehepaar führt das Lokal.
+Am Weg hin Nieselregen, am Gehsteig entlang einer Wiese unzählige kleine Schnecken.
+Grausliges Knirschen unter den Tevas.
 
-Aljezur - Vila Nova
-* am morgen zelt setup verbessern + research
-* Dann räder putzen, antrieb ur verdreckt von schotterpistenstaub
-* Um 2 losradln nach odeceixe, überm grandiosem strand kaffeetrinken und lange runterschauen, fels wie haifischflosse
-* Landstraße, dann ruhige nebenstraßen nach zambujeira, runter zum schönen strand
-* Kurz davor großes gehege mit wasserbüffel, antilopen, lamas, zebras, strauße, ur lang beim graden beobachten
-* restlicher weg durch weites farm und ackerland, überall farmarbeiter:innen warten auf busse oder radln heim am feierabend, tragen tücher über mund und nase, überall braune rinder(rasse), störcher stacksen durchs hohe gras, immer wieder eukalyptus alleen und wälder (produktion?)
-* Über brücke nach vilanova, blick zur küste englang fluss … 
-* In vilanova zur pizzeria … geführt von zwei deutschen
-* Am weg regen, schnecken wie kies am gehsteig, es knistert unter den tevas
+{% include image.html path="media/die-letzte-bratwurst/bruecke.jpg" alt="Blick von der Brücke über den Rio Mira nach Vila Nova" link="https://photos.app.goo.gl/DT2P3wzsQLwV2FWQA" %}
 
 
 
