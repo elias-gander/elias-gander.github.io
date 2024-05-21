@@ -38,21 +38,20 @@ Die *Algarve* zwischen *Faro* und *Lagos* muss man nicht gesehen haben.
 
 Snackpause in *Burgau*.
 Über den österreichisch klingenden Namen lachen und tatsächlich, es gibt ein *Burgau* in der Steiermark.
-Danach auf einem schmalen Schotterweg vorbei an der bunt blühenden *Ribeira de Vale Barão*, das erste Stück Natur seit Langem.
-Über eine 20%-steile Rampe, dahinter gleich wieder runter auf Meereshöhe nach *Salema*.
+Danach auf einem schmalen Schotterweg vorbei an der bunt blühenden *Ribeira de Vale Barão*, seit Langem das erste Stück Natur.
+Über eine Rampe mit 20% Steigung, dahinter gleich wieder runter auf Meereshöhe nach *Salema*.
 
 {% include image.html path="media/die-letzte-bratwurst/steil.jpg" alt="Eli steht mit offenem Mund vor einem 20% Steigung Schild" link="https://photos.app.goo.gl/77V3i4dogQFmFYHBA" %}
 
-Unerträglich steil durch den Ort hoch zur Schnellstraße nach *Vila do Bispo*.
+Wieder unerträglich steil durch den Ort hoch zur Schnellstraße nach *Vila do Bispo*.
 Dunkle Wolken ziehen auf, ein kurzer Nieselregen.
 Auf ausnahmslos jedem Leitpfosten sitzen unzählige kleine Schnecken.
 
 {% include image.html path="media/die-letzte-bratwurst/schnecken.jpg" alt="Ein Straßenpfosten voller Schnecken" link="https://photos.app.goo.gl/4JFYEp1Kpsxt5tSF7" %}
 
 In *Vila do Bispo* wird es Abend.
-Bei Kaffee und *Pastel de nata* im Café *Nascer do Sol* am Hauptplatz.
-Vor dem Café sitzen einige alte Männer. 
-Am Tisch lange Rosmarinzweige und ein großes Netz Schnecken.
+Kaffee und *Pastel de nata* im Café *Nascer do Sol* am Hauptplatz.
+Davor sitzen einige alte Männer, am Tisch lange Rosmarinzweige und ein großes Netz voll Schnecken.
 
 Eine Unterkunft in *Sagres* buchen und aufbrechen.
 Die Bäume sind aus der Landschaft verschwunden, hier wachsen nur Gräser und Gestrüpp.
