@@ -188,45 +188,81 @@ Grausliges Knirschen unter den Tevas.
 
 {% include image.html path="media/die-letzte-bratwurst/bruecke.jpg" alt="Blick von der Brücke über den Rio Mira nach Vila Nova" link="https://photos.app.goo.gl/DT2P3wzsQLwV2FWQA" %}
 
-
+Am Morgen wieder sonnig und zum ersten Mal keine 30 km/h Wind.
+Umweg zum Spitz von *Vila Nova*, grandioser Blick über die Strände und Klippen.
 
 {% include image.html path="media/die-letzte-bratwurst/vilanova.jpg" alt="Blick über die Strände von Vila Nova" link="https://photos.app.goo.gl/mHp9jJ6s6QKt4GfB9" %}
 
-{% include image.html path="media/die-letzte-bratwurst/vilanova2.jpg" alt="Eli spaziert auf einer Mauer mit Blick über die Strände von Vila Nova" link="https://photos.app.goo.gl/ik3uPdJ3YM89KRYL7" %}
+Auf sandigen Pisten 15 km nach *Porto Covo*, das letzte Stück direkt am Meer.
+Viele Wandernde auf ihrer ersten Etappe am *Trilho dos pescadores*.
+Zwischen den Wegen aus ockergelbem Sand riesige Flächen der fleischig grünen Blätter der Essbaren Mittagsblume.
 
 {% include image.html path="media/die-letzte-bratwurst/fisherman.jpg" alt="Eli schiebt sein Rad auf einem sandigen Weg Richtung Meer" link="https://photos.app.goo.gl/fN3VV5LUTbZDAi6n6" %}
 
+Mühsam die Räder einen verwucherten Pfad entlang zur versteckten *Praia do Sissal* schieben.
+Mittagspause im Schatten eines Felsvorsprungs.
+Zum Baden immer noch zu frisch, das wilde Wellenspiel der schmalen zerklüfteten Bucht beobachten.
+
 {% include image.html path="media/die-letzte-bratwurst/bucht.jpg" alt="Kathi spaziert über den Strand in einer schmaligen felsigen Bucht" link="https://photos.app.goo.gl/fj5vv6aVA9ujNmuMA" %}
+
+Die letzten Kilometer mühsam über Sandpisten nach *Porto Covo*.
+Lange in einem Kaffee sitzen und die nächsten Tage planen.
+Der Wind legt wieder zu, bei starkem Gegenwind die Schnellstraße nach *Sines*.
+Rechts weites Weideland mit verstreuten Rinderherden.
+Links naturbelassene Küste, in der Ferne der Hafen von *Sines*.
 
 {% include image.html path="media/die-letzte-bratwurst/sines.jpg" alt="Landstraße nach Sines mit dem Hafen im Hintergrund" link="https://photos.app.goo.gl/VXdM5rmWxjQoZXtF6" %}
 
+Umweg über die hochrangige aber ruhige Hafenstraße um nicht durch den höhergelegenen Stadtkern radln zu müssen.
+Boxenstopp beim *Burger King* in der Shoppingoase vor der Autobahnauffahrt.
+In der Abendsonne auf einer ruhigen Parallelstraße zur Autobahn nach *Vila Nova de Santo André*.
+An der großen Lagune hinter dem Ort der *Parque de Campismo de Santo André*.
+Der sandige Platz ist durchzogen von Ameisenstraßen, auch unseren Proviant finden sie.
+
 {% include image.html path="media/die-letzte-bratwurst/camping2.jpg" alt="Die Spülbecken am Campingplatz im Sonnenuntergang" link="https://photos.app.goo.gl/PeLz3YnH9wpiwzXC8" %}
 
-Vila nova - lagoa do santo andre
-* Am morgen sonnig und wenig windig, zum spitz von vilanova, grandioser blick über sandstrände und klippen
-* Dann sandpisten und straße richtung porto covo, weideland
-* An die küste ein stück fishermanstrail, erinnerungen
-* Mittagspause auf versteckter praia do sisal, mühsam über verwachsenen schleichweg hinradln, doch zu kalt zum baden
-* Sandige pisten nach porto covo, im cafe … die anfahrt nach lissabon und weiter planen
-* Mit blick auf hafen von sines und starken gegenwind nach sines, rechts weites weideland mit rindern, links weite sandstrände unterbrochen von felsen
-* In sines umweg über hafenstraße um nicht in den ort rauf zu müssen
-* Boxenstopp beim burgerking und einkaufen
-* Zum camping santo andre an einem see, sandpiste dorthin
-* Bis in die nachtstunden reise planen
+{% include image.html path="media/die-letzte-bratwurst/mirador.jpg" alt="Eli schaut unzufrieden an einem Aussichtspunkt mit vielen Menschen" link="https://photos.app.goo.gl/1EmRfViHF3n7hHDP7" %}
 
+Am nächsten Tag nach *Lisboa*.
+Die Stadt ist noch 100 km entfernt aber die Vororte der hügeligen Metropolregion wollen wir auslassen und von *Setúbal* den Zug nehmen.
+Nach *Setúbal* mit der Fähre über den *Rio Sado* von der Halbinsel *Tróia*.
 
+Vom Campingplatz zurück auf die Landstraße und fast kerzengerade 25 km durch sandige Pinienwälder nach *Carvalhal*.
+Mittagessen beim Spielplatz, an der Hauptstraße ein kleiner Flohmarkt.
+Kaffee und Kuchen in der *Pastelaria Tulipa*.
 
 {% include image.html path="media/die-letzte-bratwurst/gradaus2.jpg" alt="Gerade Landstraße durch sandige Pinienwälder" link="https://photos.app.goo.gl/TBm1d9aKJu7LZLEH8" %}
 
-{% include image.html path="media/die-letzte-bratwurst/pergament.jpg" alt="Kathi liest einen sehr langen Kassenbon" link="https://photos.app.goo.gl/KwHrm6yqNLupj5WPA" %}
+Weiter auf der Landstraße nach *Comporta*, Beginn der Halbinsel.
+Zur Linken eine durchgehende Düne, das Meer, obwohl nur 200 Meter entfernt kommt nie zum Vorschein.
+Rechts das weite Delta des *Rio Sado*.
+
+Die knallgrüne Fähre mit rotem *Coca Cola* Branding an allen Seiten fährt jede Stunde.
+Wie die Rampe liegt rollt gleich ein Bub mit Mountainbike vom Boot, dann einige PKWs.
+Ein Kühllaster fährt mit uns nach *Setúbal*.
+
+{% include image.html path="media/die-letzte-bratwurst/pergament.jpg" alt="Kathi liest einen sehr langen Kassenbon" caption="Das längste Ticket der Welt" link="https://photos.app.goo.gl/KwHrm6yqNLupj5WPA" %}
 
 {% include video.html path="media/die-letzte-bratwurst/boot.mp4" link="https://photos.app.goo.gl/cUN2rSsmqHMV6K7s8" %}
 
+Die meisten Züge in Portugal erlauben die kostenlose Mitnahme von Rädern.
+Beim *Zahir Kebab* gegenüber vom Bahnhof auf den Zug warten, Falafelbox und *Guaraná Antarctica*.
+Im Zug nur wenig Platz für Räder, die Stellplätze teilt man sich mit Kinderwägen und Rollstühlen.
+Über den *Ponte 25 de Abril* und den mächtige *Tejo* nach *Lisboa*.
+
 {% include video.html path="media/die-letzte-bratwurst/zug.mp4" link="https://photos.app.goo.gl/Zj6m2SnqFq3D4DZE7" %}
+
+*Lisboa* ist touristisch und teuer, günstige Unterkunft etwas außerhalb im *Areeiro* Viertel.
+Am Abend zur nahen *Fonte Luminosa*, hunderte Menschen in der fast einen Kilometer langen Liegewiese zwischen zwei stark frequentierten Straßen die ein wenig an den Wiener Gürtel erinnern.
+Ein freilaufender Hund legt mir einen speichelnassen Ball hin und schnappt beinahe meinen Muffin aus der Hand.
 
 {% include image.html path="media/die-letzte-bratwurst/lissabon.jpg" alt="Kathi geht übers Gras zu einem großen Brunnen hin" link="https://photos.app.goo.gl/C7PBUXKiZ5jCqePY9" %}
 
-{% include image.html path="media/die-letzte-bratwurst/mirador.jpg" alt="Eli schaut unzufrieden an einem Aussichtspunkt mit vielen Menschen" link="https://photos.app.goo.gl/1EmRfViHF3n7hHDP7" %}
+Mit der *Linha Azul* der Metro zur *Placa Martim Moniz*.
+Reumannplatz-Vibes, man spielt Cricket, am Brunnen verkauft eine Frau *Panipuri*.
+Hochspazieren durch die verwinkelten Gassen zum *Miradouro da Graça*.
+Jeder Gehsteig in weiß-schwarzem Pflaster, aus allen Ritzen wuchert Unkraut.
+...
 
 Lago do Santo Andre - Lissabon
 * ameisenplage am campingplatz
