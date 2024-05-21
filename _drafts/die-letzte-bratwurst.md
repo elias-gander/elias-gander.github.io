@@ -262,7 +262,12 @@ Mit der *Linha Azul* der Metro zur *Placa Martim Moniz*.
 Reumannplatz-Vibes, man spielt Cricket, am Brunnen verkauft eine Frau *Panipuri*.
 Hochspazieren durch die verwinkelten Gassen zum *Miradouro da Graça*.
 Jeder Gehsteig in weiß-schwarzem Pflaster, aus allen Ritzen wuchert Unkraut.
-...
+Oben Blick zum *Castelo de São Jorge* und die Altstadt.
+Im Hintergrund der *Tejo* und *Ponte do 25 Abril*.
+Davor Touristenmassen.
+
+
+Wir bleiben 3 Nächte in *Lisboa*.
 
 Lago do Santo Andre - Lissabon
 * ameisenplage am campingplatz
