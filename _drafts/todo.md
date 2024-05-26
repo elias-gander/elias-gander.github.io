@@ -57,27 +57,52 @@ Kaffee und Mehlspeisen in der *Pastelaria Versailles*, *Baba au rhum* und *Crois
 Eine Stunde mit dem Bus zum *Decathlon*, Gaskartusche und endlich neue Heringe.
 Daheim kochen.
 
-
-Lissabon 2
-* zum history centre lisbon, interaktives museum mit audioguide, bissi trashig aber gut
-* Hin durch die rasterartigen straßen von baixa
-* Auf der placa do commercio sitzen
-* Zur kathedrale, am weg am stachelhaus vorbei
-* Kathedrale nur von außen, steile pflasterstraße vollgeparkt mit rikschas
-* Ab und zu die charakteristische 28er bim vorbei, voll mit menschen
-* Siesta daheim
-* In der abendsonne lange busfahrt zum ponte vasco da gama
-* Nudeln essen beim lala ramen
-* Late night shopping im vasco da gama shoppingtempel bis 12 alles offen, im riesigen continente herumschauen, nochmal sneaker schauen, mit einem sundae zum bus rennen
+Am nächsten Morgen mit der Metro in den Bezirk *Baixa*.
+Die Straßen hier sind exakt rasterförmig angelegt, das Viertel wurde während des Erdbebens 1755 massiv beschädigt und im Anschluss komplett neu errichtet.
+Das und einiges mehr erfährt man im *Lisbon Story Center*, ein Video- und Audio-basiertes Museum zur Stadtgeschichte.
+Etwas trashy aber gut gemacht.
 
 {% include image.html path="media/todo/baixa.jpg" alt="Kathi geht durch die Gassen von Baixa" link="https://photos.app.goo.gl/hFNwdgvJZDosgb477" %}
 
+Das Museum liegt direkt an der *Praça do Comérçio*.
+Auch der Platz wird nach dem Erdbeben neu gestaltet, ein U-förmiger Arkadenbau trennt ihn vom Bezirk *Baixa*, Richtung Süden das Ufer des *Tejo*.
+Davor hieß der Platz *Terreiro do Paço* und grenzte an den *Paço da Ribeira*, das Stadtschloss Manuels I. am Ufer des *Tejo*.
+
 {% include image.html path="media/todo/praca.jpg" alt="Blick über die Praça do Comérçio" link="https://photos.app.goo.gl/5Ke4C3NmV5rDED7Q7" %}
+
+Am Weg zur Kathedrale vorbei an der *Casa dos Bicos*, 'Haus der Stacheln'.
+Die seltsame Stachelfassade aus *Lioz* Kalkstein erinnert an den *Palazzo dei Diamanti* in *Ferrara*.
+Und tatsächlich, der Auftraggeber Brás de Albuquerque lebte 1521 für einige Zeit in Italien und war fasziniert von der dortigen Architektur.
 
 {% include image.html path="media/todo/stachli.jpg" alt="Nahaufnahme der Fassade der Casa dos Bicos" link="https://photos.app.goo.gl/pT17yKriQeUThU1t6" %}
 
+Die steilen Gassen hoch zur Kathedrale, der Platz zugeparkt mit Autorikschas.
+An der Biegung fährt die bummvolle 28er Bim vorbei, ein Postkartenmotiv.
+
+Auf der *Praça da Figueira* in die *Pastelaria Suíça*.
+Die Qual der Wahl zwischen köstlichen Mehlspeisen, zwei *Croissants do Porto*.
+Portugiesische Croissants sind aus Briocheteig und noch besser in etwas Portwein getränkt.
+
+Am Abend sehr lange Busfahrt zum *Ponte Vasco da Gama*.
+Die Brücke überspannt den *Tejo* auf über 12 Kilometern Länge und ist nach der Krim-Brücke die zweitlängste Europas.
+Wieder 6 Spuren Autobahn, wieder kein Platz für zu Fuß Gehende oder Radelnde.
+
 {% include image.html path="media/todo/ponte2.jpg" alt="Kathi steht vorm Ponte de Vasco da Gama" link="https://photos.app.goo.gl/QrZxhhwUbQjzWvF3A" %}
 
+Die *Tejo* Promenade zur *Torre Vasco da Gama*, der kleine Turm ist mit 145 Metern das höchste Gebäude Portugals.
+In dem weitläufigen modernen Viertel befindet sich das Messegelände.
+Am Flussufer reihen sich hippe Restaurants.
+Im *Zhang Lala* einen Teller handgezogene ur scharfe Nudeln.
+
+{% include image.html path="media/todo/nudeln.jpg" alt="Ein Teller chinesische Nudeln" caption="Leiwand" link="https://photos.app.goo.gl/U1mBBzyKYGeHGVrv6" %}
+
+Weiterspazieren zum *Centro Vasco da Gama*, ein riesiges Shoppingcenter.
+Es ist halb 11 aber die Geschäfte sind bis Mitternacht offen.
+Dinge von denen Richard Lugner nachts träumt.
+
+Weil hier gefühlt alles seinen Namen trägt: Vasco da Gama war ein portugiesischer Seefahrer der als Erster den Seeweg nach Indien fand.
+
+{% include image.html path="media/todo/bankerl.jpg" alt="Eli sitzt auf einem Bankerl im Supermarkt" caption="Wenn man um halb 12 einkaufen geht" link="https://photos.app.goo.gl/JN1c7x2zt1zu9d8bA" %}
 
 ### Porto ###
 
