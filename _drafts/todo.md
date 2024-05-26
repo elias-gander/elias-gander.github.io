@@ -2,29 +2,60 @@
 title:  "TODO"
 ---
 
-Inzwischen in Braga, 500 km im Zug zurückgelegt, zentralportugal dicht besiedelt und nicht so spannend, lieber früher nach Galizien und nordeuropa, hinter Braga bald der Peneda-Gerês nationalpark und die cordillera cantabrica, schöner zum radln
+Die letzte Woche eine knappe Stunde geradlt.
+Von *Lisboa* nach *Porto* und weiter nach *Braga*, insgesamt gute 500 km Zugfahren.
+Dem Meer entlang von *Lisboa* nach *Porto* wohl wenig spannend, der Umweg über die *Serra da Estrela* zu zeitaufwendig.
+Hinter *Braga* bald die Grenze zu *Galicia*, der Wunsch nach den einsameren Landschaften Spaniens.
+
+Davor eine Woche Stadtleben.
 
 ### Lisboa ###
 
-Lissabon
-* metro und bus zur promenade, an der tramstation gedränge
-* Ponte de 25 abril, facts? Die brücke schauen und am wasser sitzen
-* Bird zur torre de belem, die promenade zu voll mit leuten um angenehm zu fahrenvor der Torre unter einem oleanderbusch im gras sitzen und den trubel beobachten
-* Finsteres Chinarestaurant auf der pastel de belem straße
-* Rum baba beim cafe versailles
-* Ur lang mit dem bus zum decathlon ein paar zeltstangen und eine gaskartusche
-* Kathi schuhe shoppen erfolglos, teuer
-* Heim kochen und schreiben
+Erstes Ziel der *Ponte 25 de Abril* über den am Vortag unser Zug rollte.
+Die Hängebrücke über den *Tejo* ist 3.2 km lang und erinnert ihrer Farbe wegen stark an die *Golden Gate Bridge* in *San Francisco*.
+Am Tag rollen etwa 150.000 Fahrzeuge und 160 Züge über die sechs Spuren und zwei Gleise.
+Für zu Fuß Gehende oder Radelnde kein Platz.
 
-{% include image.html path="media/todo/ponte.jpg" alt="Der Ponte do 25 Abril" link="https://photos.app.goo.gl/vNbWKgAChNgpSonW7" %}
+{% include image.html path="media/todo/ponte.jpg" alt="Der Ponte do 25 Abril" caption="Am rechten Ufer der Christo Rei, eine 28 Meter hohe Christusstatue" link="https://photos.app.goo.gl/vNbWKgAChNgpSonW7" %}
 
-{% include image.html path="media/todo/bird.jpg" alt="Eli steht auf einem E-Scooter vor dem Padrão dos Descobrimentos" link="https://photos.app.goo.gl/L6nmThENSBXUWAwy8" %}
+Reges Treiben am *Passeio Carlos do Carmo*, der Promenade den *Tejo* entlang.
+Dekadent mit dem E-Scooter zur *Torre de Belém*, dem Wahrzeichen von *Lisboa*.
+Mehr Schieben als Fahren, die Menschenmassen zu dicht.
 
-{% include image.html path="media/todo/belem.jpg" alt="Eli liegt im Gras vor der Torre de Belem" link="https://photos.app.goo.gl/KWJpM5a2aVy5UTtx5" %}
+{% include image.html path="media/todo/bird.jpg" caption="Der Padrão dos Descobrimentos, Denkmal der Entdeckungen" alt="Eli steht auf einem E-Scooter vor dem Padrão dos Descobrimentos" link="https://photos.app.goo.gl/L6nmThENSBXUWAwy8" %}
 
-{% include image.html path="media/todo/lioz.jpg" alt="Nahaufnahme einer Mauer aus Lioz Kalkstein" link="https://photos.app.goo.gl/Nhbm8Kdj9PYH7hDP6" %}
+Erbaut im 16. Jahrhundert aus *Lioz* Kalkstein mit Ornamentik im Manuelinischen Stil.
+Die Portugiesischen Entdecker traten hier ihre Reisen an und jene die zurückkehrten legten hier an.
+Der Turm überlebt das verheerende Erdbeben von 1755.
+Am Ticketschalter ein Zettel *Estimated waiting time 2 hours".
+Unter einem großen Oleanderbusch ins Gras legen und den Trubel beobachten.
+Ein Violinist intepretiert Popsongs und erntet Applaus.
 
-{% include video.html path="media/todo/kloster.mp4" link="https://photos.app.goo.gl/TZ1yDA4eLCVWtjoo9" %}
+{% include image.html path="media/todo/belem.jpg" alt="Eli liegt im Gras vor der Torre de Belém" link="https://photos.app.goo.gl/KWJpM5a2aVy5UTtx5" %}
+
+{% include image.html path="media/todo/lioz.jpg" caption="Lioz Kalkstein stammt aus dem Umland von Lisboa, verwendet für Monumentalbauten in Portugal und Brasilien" alt="Nahaufnahme einer Mauer aus Lioz Kalkstein" link="https://photos.app.goo.gl/Nhbm8Kdj9PYH7hDP6" %}
+
+Weiter zum *Jerónimos* Kloster, wieder *Lioz* Kalkstein, wieder Manuelinischer Stil.
+Dutzende andere Beispiele für diesen Architekturstil gehen bei dem Erdbeben verloren.
+Eine elendig lange Schlange an Menschen reiht sich vorm Eingang in der Mittagshitze.
+
+{% include video.html path="media/todo/kloster.mp4" caption="Das lassen wir lieber" link="https://photos.app.goo.gl/TZ1yDA4eLCVWtjoo9" %}
+
+Rechts die *Rua de Belém* an der die *Fábrica de Pastéis de Belém* liegt.
+Hier werden die 'originalen' *Pastéis de nata* hergestellt und verkauft.
+Wieder eine lange Menschenschlange am Eingang.
+
+Die köstlichen *Pastéis de nata* bekommt man in Portugal in jeder Bar und jedem Supermarkt.
+Erfunden haben sie die Mönche des *Jerónimos* Kloster im 18. Jahrhundert.
+Eiklar als Wäschestärke fürs Gewand, Eigelb für die Kucherl.
+Infolge der *Revolução Liberal* in die Krise geraten, verkaufen die Mönche 1834 das Rezept an eine Zuckerraffinerie.
+Ein paar Jahre später eröffnet hier die *Fábrica* und läuft bis heute.
+
+Der Hunger treibt in ein finsteres Chinarestaurant gegenüber, ein Teller traurige *Chow Mein*.
+Kaffee und Mehlspeisen in der *Pastelaria Versailles*, *Baba au rhum* und *Croissant aux amandes*.
+
+Eine Stunde mit dem Bus zum *Decathlon*, Gaskartusche und endlich neue Heringe.
+Daheim kochen.
 
 
 Lissabon 2
@@ -125,7 +156,7 @@ Braga
 * zwei negroni in der coolen bar 43SaoMarcoStreet
 * am heimweg zur praca do populo, riesig inszeniertes wagenrennen und gladiatorenkampf, zu viele leute, nix sehen
 
-{% include video.html path="media/todo/geburtstag.mp4" link="https://photos.app.goo.gl/ZpubXmzUYJNVYu6x5" %}
+{% include video.html path="media/todo/geburtstag.mp4" caption="Kathi wird zwei Jahre alt und bekommt ein Pistaziencroissant" link="https://photos.app.goo.gl/ZpubXmzUYJNVYu6x5" %}
 
 {% include image.html path="media/todo/barock.jpg" alt="Barocker Chor und Orgel in der Kathedrale von Braga" link="https://photos.app.goo.gl/R3Mae1A8CHcQ92Kx5" %}
 
