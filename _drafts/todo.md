@@ -106,89 +106,143 @@ Weil hier gefühlt alles seinen Namen trägt: Vasco da Gama war ein portugiesisc
 
 ### Porto ###
 
-Lissabon - Porto
-* Zum bhf santa apolonia radln und 4 h zugfahren nach porto, ein stück portugal auslassen um etwas weiter richtung norden zu kommen
-* Von porto campanha durch die stadt zur unterkunft, grobes pflaster überall, jede gasse steil, alles verstopft mit autos, nicht radlgeeignet
-* Zum bike repair shop, wie erwartet kurbel, kassette und kette zum weghauen, lehrgeld, kette nicht 10000 km fahren, mechaniker hat ein steyr puch
-* Bissi durch die gassen spazieren, schmale unregelmäßige häuserfassaden verkleidet mit fliesen verschiedenster muster, monumente alle aus granit gehauen
-* Unnedige lightshow in der igreja e torre dos clerigos
-* Beim flussufer fische beobachten und ans andere ufer zu den portweinfabriken schauen
-* Im der schönen unterkunft pasta kochen
+Zum kleinen Bahnhof *Santa Apolónia* radln und mit dem Intercity 4 Stunden nach *Porto*.
+Vom Bahnhof *Campanhã* in Porto Höllenritt zur Unterkunft.
+*Porto* ist nicht radgeeignet, ur steile Gassen und durchgehend grobes Pflaster.
+Die Straßen verstopft mit Autos, im Schneckentempo von Ampel zu Ampel.
 
 {% include image.html path="media/todo/zug.jpg" alt="Kathi schiebt ihr Rad durch den Bahnhof von Lisboa zum Zug nach Porto" link="https://photos.app.goo.gl/3AKRG5PAo8YndXtu5" %}
 
+Vom Gepäck befreit zur nächsten Radlwerkstatt, dem *Velo Invicta Capas Peneda*.
+Das Lokal gesteckt voll mit Rädern aller Art.
+Der Mechaniker bestätigt meine Befürchtung, die Kette ist über-überlang und hat Ritzel und Kettenblätter verschlissen.
+Hilft nur mehr alles tauschen, die Werkstatt hat alle Teile lagernd, am nächsten Tag kann ich's abholen.
+
+Den restlichen Abend durch die Altstadt zum *Rio Douro* spazieren.
+Die Häuser in *Porto* sind schmal und mit schön gemusterten Fliesen verkleidet.
+Kirchen und Statuen sind aus Granit gehauen, das Gestein kommt in dieser Gegend häufig vor.
+
 {% include image.html path="media/todo/porto.jpg" alt="Gasse mit fliesenbekleideten Fassaden in Porto" link="https://photos.app.goo.gl/7sASP1RbkySXrZS97" %}
+
+Zum *Francesinhas Al Forno da Baixa* um eine vegane *Francesinha* zu probieren.
+Ein käseüberbackener Toast in einer Suppe aus Tomaten, Bier und Senf, kann das gut sein?\\
+Nein.
 
 {% include image.html path="media/todo/toast.jpg" alt="Kathi vor einer Francesinha" link="https://photos.app.goo.gl/yF3kWTU7YX8oQ4YA7" %}
 
+Am Ufer des *Rio Douro* Menschenmassen, Restaurants mit riesigen Schanigärten.
+Rechts der Blick auf die Fachwerkbrücke *Ponte Dom Luís I*.
+Am anderen Flussufer die Portweinkeller von *Ferreira*, *Sandeman*, *Calem*, etc.
+
 {% include image.html path="media/todo/eli.jpg" alt="Eli am Kai des Rio Douro" link="https://photos.app.goo.gl/asUiddWrdi8YDPZ7A" %}
 
+Zurück in die Unterkunft, ein abgewohntes aber schönes dreistöckiges Haus.
+Eine geräumige hölzerne Wendeltreppe führt zu den Zimmern.
+Köstliche Pasta kochen in der offenen Wohnküche.
 
-Porto
-* Zur placa … und zwei kleine gratis museen, eigentlich nur tiles sehen wollen aber zuerst versehentlich ins obskure theatermuseum
-* Zur kirche … und türkisblauen brunnen
-* Zum fluss und über den ponte luis
-* Napoletanische pizza beim gallo grigio
-* Runter zur portwein meile, alles gsteckt voll mit touristen
-* Unten zurück über den ponte und noch durch touristenmassen zum museum … drinnen kein schwein obwohl draußen alles voll
-* Museum ein bissi chaotisch, nicht alles sehen weil um 17:30 schon wieder rausgscheucht
-* Zum bahnhof die tolle halle mit fliesenmalerei bewundern, besonders schön in der einfallenden abendsonne
-* Auf der placa … endlich einen portwein trinken, einmal am weißen einmal am roten sippen, nicht entscheiden können welcher besser ist
-* Das rad abholen, läuft wieder picobello, 135€ lehrgeld, bei nächster gelegenheit eine kettenlehre beim decathlon holen
-* Daheim kochen
+Am zweiten Tag zur *Praça de Carlos Alberto*, in der *Banco de Materiais* hunderte Fliesen anschauen und überlegen welche am schönsten ist.
+
+{% include image.html path="media/todo/fliese.jpg" alt="Nahaufnahme einer beige Fliese mit dunkelgrünem Blumenmuster" caption="Die hier" link="https://photos.app.goo.gl/EpnmR3qURLYT5khG7" %}
+
+Ein paar Schritte weiter zur *Igreja do Carmo* und der *Fonte dos Leões*.
+Die Westfassade der Barockkirche aus Granit ist von einem riesigen *Azulejo* bedeckt.
+*Azulejos* sind aus bemalten Fliesen zusammengesetzte Bilder.
 
 {% include image.html path="media/todo/brunnen.jpg" alt="Die Fonte dos Leõnes und Igreja do Carmo" link="https://photos.app.goo.gl/qF1LM5hXRaJttcRK8" %}
 
+Weiter Richtung Innenstadt bis zum Ufer des *Rio Douro*.
+Durch den *Túnel da Ribeira* und dahinter eine Stiege hoch zum *Ponte Dom Luís I*.
+Der obere Übergang ist für Bims und Fußgänger reserviert, unten fahren auch Autos.
+
+Bei einer Pizza den Hunger stillen und runter zum linken Flussufer.
+Die Promenade vor den Portweinkellern ist bummvoll, in den Schanigärten verkosten Tourist:innen Portwein.
+Im Fluss schaukeln einige *Rabelos*, die fragilen Holzboote transportierten früher Weinfässer vom oberen Douro zu den Portweinkellern in Porto.
+Vor Errichtung der Eisenbahnlinie entlang des *Douro* Tals war dies der schnellste Weg.
+Heute reist der Wein im Lkw und die *Rabelos* sind nur mehr zum Anschauen da.
+
 {% include image.html path="media/todo/boote.jpg" alt="Traditionelle Portweinfähren am Rio Douro" link="https://photos.app.goo.gl/LbpxiGLFysbdAL718" %}
+
+Mit dem Touristenstrom über die untere Brücke zum rechten Flussufer.
+Obwohl nur wenige Schritte vom bummvollen Flussufer herrscht im Lokalgeschichtemuseum *Casa do Infante* gähnende Leere.
+Der Eintritt kostet fast nichts, zurecht.
+
+Die steilen Gassen wieder hoch zum Bahnhof *São Bento*.
+Um den Bahnhof eng, eine riesige Baustelle für die neue Metrolinie versperrt den Blick auf das schöne Gebäude.
+Drinnen noch schöner, die große lichte Halle ist auf allen Seiten bedeckt von riesigen *Azulejos*.
 
 {% include image.html path="media/todo/bahnhof.jpg" alt="Der Bahnhof São Bento" link="https://photos.app.goo.gl/v8eBrVdiqKqnU2ku6" %}
 
+Im *Café Aliança* am Rathausplatz dann endlich zwei Gläser Portwein.
+Abwechselnd am roten und weißen nippen, nicht entscheiden können welcher besser schmeckt.
+
 {% include image.html path="media/todo/wein.jpg" alt="Kathi vor einem Glas roten und weißen Portwein" link="https://photos.app.goo.gl/jeRZCevQnHsrouRWA" %}
 
-
-### Braga ###
-
-Porto - Braga
-* Vormittags die taschen noch eine weile in der unterkunft lassen und ein letztes mal in porto herumspazieren
-* im schanigarten eines eisgschäfts an der rua das Carmelitas mit blick auf die Torre dos Clérigos kaffee trinken und schreiben
-* rad und gepäck holen und mit frischem antrieb zum São Bento Bahnhof fahren
-* mit der ticketmaschine kämpfen und eine stunde nach braga, wenig platz neben den rädern, stehen
-* unterkunft immer im obersten stock
-* in braga findet grad die braga romana festwoche statt, die ganze altstadt voller stände mit seifen, magiesteinen, holzschwertern, schmuck, gewürzen, …, die marktleute in tuniken und sandalen
-* auf mehreren festbühnen inszenierungen von römischen riten, theater und musik, …
-* am römischen foodcourt wird brot gebacken und ein schwein gegrillt, wir trinken picksüßen ginja aus einem glasierten tonstamperl
-* am abend zur feuershow vor der kathedrale
-
-{% include image.html path="media/todo/torre.jpg" alt="Kathi sitzt am Fuße der Torre do Clérigos" link="https://photos.app.goo.gl/HJY8UDvdHnLwjNAS8" %}
+Die Hosentasche voller Bargeld zwei Blocks weiter zum Radlmechaniker.
+Das *Kona* läuft wieder picobello, Kurbel, Ritzel, Kette und Hinterradsbremsscheibe sind neu.
+135 € Lehrgeld, eine Kette darf man nicht 10.000 km fahren.
 
 {% include image.html path="media/todo/radl.jpg" alt="Eli sitzt happy vor sein Radl mit neuer Kassette, Kette und Kurbel" link="https://photos.app.goo.gl/nxLh5znNuy5vCCGr6" %}
 
+### Braga ###
+
+Der Zug nach *Braga* geht am frühen Nachmittag.
+Gepäck deponieren und auf einen letzten Schlenderer durch *Porto*.
+An der *Rua das Carmelitas* im Schanigarten vom *Amorino* sitzen und schreiben.
+Zwei Straßenmusiker spielen Jazz, den *Passeio* entlang zur *Torre dos Clérigos* schauen.
+
+{% include image.html path="media/todo/torre.jpg" alt="Kathi sitzt am Fuße der Torre do Clérigos" link="https://photos.app.goo.gl/HJY8UDvdHnLwjNAS8" %}
+
+Wieder am *São Bento* Bahnhof mit dem Ticketautomaten kämpfen.
+Genug Platz im Zug aber es fehlt eine Befestigungsmöglichkeit für die Räder.
+Die ganze Fahrt danebenstehen.
+
 {% include image.html path="media/todo/radl2.jpg" alt="Eli steht im Zug nach Braga vor den Radln und schaut genervt" link="https://photos.app.goo.gl/apTDkfkpdtv3hANv7" %}
+
+Wohnen an der *Avenida Central*, Rad wie immer in den obersten Stock tragen.
+Zufällig zur richtigen Zeit in *Braga*, es ist *Braga Romana*, im ganzen Stadtzentrum historisches *Reenactment* der Römerzeit.
+*Braga*, vor über 2.000 Jahren noch *Bracara Augusta* genannt, war Hauptstadt der römischen Provinz *Gallaecia* (das heutige Gebiet von Nordportugal, *Galicia*, *Asturias* und *León*).
 
 {% include image.html path="media/todo/bragaromana.jpg" alt="Ein rotes Banner auf dem Braga Romana steht hängt vor der Kathedrale von Braga" link="https://photos.app.goo.gl/WyaBkacBmYSAXMZr9" %}
 
+Durch die Altstadt zieht sich ein langer Markt, die Marktstandler:innen in Tuniken und Sandalen verkaufen Holzschwerter, Seifen, Magiesteine, Gewürze, Haarkränze, Spanferkel, Baumkuchen, *Crêpes* ...
+Ein Stamperl *Ginja*, einen portugiesischen Likör aus Sauerkirschen aus einem winzigen Tonfasserl trinken.
+
 {% include video.html path="media/todo/crepe.mp4" link="https://photos.app.goo.gl/GUDn9eU55e3esx9D9" %}
+
+Abseits des Festivals ist *Braga* eine wunderschöne Stadt, ein altertümlicher wirkendes flaches Porto ohne *Rio Douro*.
 
 {% include image.html path="media/todo/braga.jpg" alt="Verschieden geflieste Häuserfassaden" link="https://photos.app.goo.gl/CYJby6zyyKyzR3vH8" %}
 
-Braga
-* geburtstagsfrühstück
-* kathedrale besichtigen, älteste kathedrale portugals, 12. jahrhundert, schummrige romanische steinkirche mit holzdach, im krassen kontrast der protzige barockanbau überm eingang
-* in einem kaffee im marktbereich pause einlegen und das treiben beobachten
-* die braga romana führung auf englisch leider schon voll
-* zum laundromat waschen
-* kochen und um 9 zum festzug durch die stadt, alles abgesperrt, wollen zur cocktailbar aber kommen nicht durch, coole legionäre führen an dann endloser strom an menschen in tunika
-* zwei negroni in der coolen bar 43SaoMarcoStreet
-* am heimweg zur praca do populo, riesig inszeniertes wagenrennen und gladiatorenkampf, zu viele leute, nix sehen
+An mehreren Standorten werden stündlich Shows, Führungen und Workshops veranstaltet.
+Am Nachmittag das blutige Jupiter-Ritual, nachts wilde Feuer-Akrobatik neben der Kathedrale.
 
-{% include video.html path="media/todo/geburtstag.mp4" caption="Kathi wird zwei Jahre alt und bekommt ein Pistaziencroissant" link="https://photos.app.goo.gl/ZpubXmzUYJNVYu6x5" %}
+{% include video.html path="media/todo/geburtstag.mp4" caption="Zwei Jahre alt und schon Pistaziencroissant essen" link="https://photos.app.goo.gl/ZpubXmzUYJNVYu6x5" %}
+
+Nach einem Geburtstagsfrühstück zur Kathedrale von *Braga*.
+Das romanische Bauwerk ist fast 1.000 Jahre alt, das Interieur mystisch schummrig.
+Kontrast schafft eine absurd protzige Chorempore über dem Eingang.
 
 {% include image.html path="media/todo/barock.jpg" alt="Barocker Chor und Orgel in der Kathedrale von Braga" link="https://photos.app.goo.gl/R3Mae1A8CHcQ92Kx5" %}
 
 {% include image.html path="media/todo/fenster.jpg" alt="Sonnenlicht fällt durch ein kleines Fenster in der Kathedrale von Braga, darüber eine Holzvertäfelung" link="https://photos.app.goo.gl/ihSt3B8sfLy4Xynx5" %}
 
+Kaffeepause im *Frigideiras do Cantinho*, Postkarten schreiben und den Marktrubel beobachten.
+Das Mittagessen ausfallen dem ausgiebigen Frühstück wegen ausfallen lassen.
+Am Nachmittag zum Waschsalon.
+
 {% include video.html path="media/todo/waschen.mp4" link="https://photos.app.goo.gl/PGg4nqV4amTwG7qh8" %}
 
-{% include video.html path="media/todo/legion.mp4" link="https://photos.app.goo.gl/dThzUXUSqH9czH9x5" %}
+Am Abend marschiert ein endloser Triumphzug durch die Altstadt.
+Legionäre und Prätorianer an der Spitze, dahinter jeder der irgendwie bei der *Braga Romana* beteiligt war.
+Wie sich endlich alle zur Schau gestellt haben werden die Absperrungen entfernt und wir dürfen in Cocktailbar auf der anderen Straßenseite.
+Zwei *Negroni* auf Kathis Geburtstag.
+
+{% include video.html path="media/todo/legion.mp4" caption="Salve!" link="https://photos.app.goo.gl/dThzUXUSqH9czH9x5" %}
+
+Vorm Schlafengehen noch zur *Praça do Pópulo*.
+Im Scheinwerferlicht werden hier Pferderennen und Gladiatorenkämpfe inszeniert.
+*Reenactment*-gesättigt heim.
 
 {% include image.html path="media/todo/circus.jpg" alt="Circus Maximus Inszenierung mit Scheinwerfer und Projektion auf der Praça do Pópulo in Braga" link="https://photos.app.goo.gl/GxnPcR3GuV812vjt6" %}
+
+Endlich wieder radln.
