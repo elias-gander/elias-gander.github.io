@@ -24,12 +24,12 @@ Mehr Schieben als Zischen, die Menschenmassen zu dicht.
 
 {% include image.html path="media/todo/bird.jpg" caption="Am Weg zur Torre de Belém der Padrão dos Descobrimentos, das 'Denkmal der Entdeckungen'" alt="Eli steht auf einem E-Scooter vor dem Padrão dos Descobrimentos" link="https://photos.app.goo.gl/L6nmThENSBXUWAwy8" %}
 
-Die Portugiesischen Entdecker des 16. Jahrhunders stechen an der *Torre de Belém* in See und jene die zurückkehren legen hier an.
+Die portugiesischen Entdecker des 16. Jahrhunderts stechen an der *Torre de Belém* in See und jene die zurückkehren legen hier an.
 1521 erbaut aus *Lioz* Kalkstein im Manuelinischen Stil.
 Der Turm überlebt das verheerende Erdbeben von 1755.
 Am Ticketschalter ein Zettel *Estimated waiting time 2 hours*.
 Unter einem großen Oleanderbusch ins Gras legen und den Trubel beobachten.
-Ein Violinist intepretiert schmalzige Popsongs und erntet großen Applaus.
+Ein Violinist interpretiert schmalzige Popsongs und erntet großen Applaus.
 
 {% include image.html path="media/todo/belem.jpg" alt="Eli liegt im Gras vor der Torre de Belém" link="https://photos.app.goo.gl/KWJpM5a2aVy5UTtx5" %}
 
@@ -66,7 +66,7 @@ Etwas trashy aber auch catchy.
 {% include image.html path="media/todo/baixa.jpg" alt="Kathi geht durch die Gassen von Baixa" link="https://photos.app.goo.gl/hFNwdgvJZDosgb477" %}
 
 Das Museum liegt direkt an der *Praça do Comérçio*.
-Auch der Platz wird nach dem Erdbeben neu gestaltet, ein U-förmiger Arkadenbau trennt ihn vom Bezirk *Baixa*, an der Südseite das Ufer des *Tejo*.
+Auch der Platz wird nach dem Erdbeben neu gestaltet, ein u-förmiger Arkadenbau trennt ihn vom Bezirk *Baixa*, an der Südseite das Ufer des *Tejo*.
 Früher hieß der Platz *Terreiro do Paço* und grenzte an den *Paço da Ribeira*, das Stadtschloss Manuels I. am Ufer des *Tejo*.
 Man ahnt es schon, das Schloss zerstört beim Erdbeben.
 Bei dem Beben sterben 50.000 Menschen, ökonomischer Schaden im Ausmaß von gut einem Drittel der gesamten portugiesischen Wirtschaftsleistung.
@@ -185,7 +185,7 @@ Abwechselnd am roten und weißen nippen und sich nicht entscheiden können welch
 {% include image.html path="media/todo/wein.jpg" alt="Kathi vor einem Glas roten und weißen Portwein" link="https://photos.app.goo.gl/jeRZCevQnHsrouRWA" %}
 
 Die Hosentasche voller Bargeld zwei Blocks weiter zum Radlmechaniker.
-Das *Kona* läuft wieder picobello, Kurbel, Ritzel, Kette und Hinterradsbremsscheibe sind neu.
+Das *Kona* läuft wieder picobello, Kurbel, Ritzel, Kette und Hinterradbremsscheibe sind neu.
 135 € Lehrgeld, eine Kette sollte man nicht 10.000 km fahren.
 
 {% include image.html path="media/todo/radl.jpg" alt="Eli sitzt happy vor sein Radl mit neuer Kassette, Kette und Kurbel" link="https://photos.app.goo.gl/nxLh5znNuy5vCCGr6" %}
@@ -233,7 +233,7 @@ Kontrast schafft eine absurd protzige Chorempore über dem Eingang.
 
 {% include image.html path="media/todo/fenster.jpg" alt="Sonnenlicht fällt durch ein kleines Fenster in der Kathedrale von Braga, darüber eine Holzvertäfelung" link="https://photos.app.goo.gl/ihSt3B8sfLy4Xynx5" %}
 
-Kaffeepause im *Frigideiras do Cantinho*, Postkarten schreiben und den Marktrubel beobachten.
+Kaffeepause im *Frigideiras do Cantinho*, Postkarten schreiben und den Markttrubel beobachten.
 Das Mittagessen dem ausgiebigen Frühstück wegen ausfallen lassen.
 Am Nachmittag zum Waschsalon.
 
