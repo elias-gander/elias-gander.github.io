@@ -45,7 +45,7 @@ Rechts die *Rua de Belém* an der die berühmte *Fábrica de Pastéis de Belém*
 Hier werden die 'originalen' *Pastéis de nata* hergestellt und verkauft.
 Wieder eine lange Menschenschlange am Eingang.
 
-Die köstlichen *Pastéis de nata* verkauft in Portugal jeder Bar und jeder Supermarkt.
+Die köstlichen *Pastéis de nata* verkauft in Portugal jede Bar und jeder Supermarkt.
 Erfunden haben sie die Mönche des *Jerónimos* Kloster im 18. Jahrhundert.
 Eiklar als Wäschestärke fürs Gewand, Eigelb für die Kucherl.
 Infolge der *Revolução Liberal* in die Krise geraten, verkaufen die Mönche 1834 das Rezept an eine Zuckerraffinerie.
