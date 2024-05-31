@@ -113,7 +113,7 @@ Weil hier gefühlt alles seinen Namen trägt: Vasco da Gama war ein portugiesisc
 ### Porto ###
 
 Zum kleinen Bahnhof *Santa Apolónia* radln und mit dem Intercity 4 Stunden nach *Porto*.
-Vom Bahnhof *Campanhã* in Porto Höllenritt zur Unterkunft.
+Vom Bahnhof *Campanhã* in *Porto* Höllenritt zur Unterkunft.
 *Porto* ist nicht radgeeignet, ur steile Gassen und durchgehend grobes Pflaster.
 Die Straßen verstopft mit Autos, im Schneckentempo grantig und gestresst von Ampel zu Ampel.
 
@@ -163,7 +163,7 @@ Der obere Übergang ist für Bims und Fußgänger reserviert, unten fahren Autos
 
 Mit einer Pizza den Hunger stillen und runterspazieren zum linken Flussufer.
 Die Promenade vor den Portweinkellern ist bummvoll, in den Schanigärten verkosten Tourist:innen Portwein.
-Im Fluss schaukeln einige *Rabelos*, die fragil wirkenden dunklen Holzboote transportierten früher Weinfässer vom oberen Douro zu den Portweinkellern in Porto.
+Im Fluss schaukeln einige *Rabelos*, die fragil wirkenden dunklen Holzboote transportierten früher Weinfässer vom oberen *Douro* zu den Portweinkellern in *Porto*.
 Vor Errichtung der Eisenbahnlinie entlang des *Douro* Tals war dies der schnellste Weg.
 Heute reist der Wein im Lkw und die *Rabelos* sind nur mehr zum Anschauen da.
 
@@ -216,7 +216,7 @@ Ein Stamperl *Ginja*, einen portugiesischen Likör aus Sauerkirschen aus einem w
 
 {% include video.html path="media/panem-et-circenses/crepe.mp4" link="https://photos.app.goo.gl/GUDn9eU55e3esx9D9" %}
 
-Abseits des Festivals ist *Braga* eine wunderschöne Stadt, ein altertümlicher wirkendes flaches Porto ohne *Rio Douro* und mit viel weniger internationalen Tourismus.
+Abseits des Festivals ist *Braga* eine wunderschöne Stadt, ein altertümlicher wirkendes flaches *Porto* ohne *Rio Douro* und mit viel weniger internationalen Tourismus.
 
 {% include image.html path="media/panem-et-circenses/braga.jpg" alt="Verschieden geflieste Häuserfassaden" link="https://photos.app.goo.gl/CYJby6zyyKyzR3vH8" %}
 
