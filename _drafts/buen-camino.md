@@ -8,7 +8,7 @@ Der Norden von Portugal und Spanien ist durchzogen von *Caminos*, Pilgerwegen di
 Dort liegt angeblich der Apostel Jakobus begraben.
 
 Abschnittsweise entlangradln am *Camino de la Geira y los Arrieiros*, *Camino Sanabrés*, *Camino de Invierno* und *Camino Francés*.
-Immer in falscher Richtung und trotzdem wünscht man uns immer wieder *¡Buen Camino!*.
+Meistens in falscher Richtung und trotzdem wünscht man uns immer wieder *¡Buen Camino!*.
 
 ### Von Braga nach León
 
@@ -57,18 +57,6 @@ Wie wir die Räder am Parkplatz abschließen beginnt es zu regnen.
 
 {% include image.html path="media/todo/wildcat.jpg" alt="Kathi liegt im Bett bedeckt von einer braunen Decke mit Leopardenmotiv" link="https://photos.app.goo.gl/chZKtu2a9ZoBaWW86" %}
 
-
-Lobios - Laza
-* Zurück runter zum fluss
-* den stausee am hang entlang sanft bergauf, tiefgrüne feuchte wälder
-* Idyllisch und unspektakulär
-* Endlich ein paar felsen sichtbar bei der abfahrt nach xinzo, die berge gelbgefleckt vom besenginster
-* Flach und kerzengrad nach Xinzo de limia, donauradweg
-* Caffeci auf der plaza, es ist sonntag, schanigärten voll, kinder rennen herum, kaffee wieder wässriger und teurer 1.20, alle läden zu tankstelle hat nix
-* Nochmal über hügel vor Laza, oben weite sanfte hügel leicht violett von der grauen heide die überall wächst
-* Kirschen klauben, wettspucken und letzte snacks futtern, pures schokomüsli
-* Laza kuhdorf, pilgerunterkunft …
-
 Am Morgen die Gipfel des *Peneda-Gerês* Nationalparks wolkenumhangen.
 Wieder steil runter zum *Río Limia*, der Fluss steht beinahe still.
 Der *Barragem do Alto-Lindoso* knapp hinter der portugiesischen Grenze staut den Fluss bis hierher.
@@ -76,28 +64,46 @@ Der *Barragem do Alto-Lindoso* knapp hinter der portugiesischen Grenze staut den
 {% include image.html path="media/todo/bruecke.jpg" alt="Ein spiegelglatter Fluss mit steinigem Ufer an dem sich ein wechselnder Wasserstand abzeichnet" link="https://photos.app.goo.gl/cf5Ac6sB5Siz4itL8" %}
 
 Knapp 10 km flussaufwärts schon der nächste Staudamm.
-...wasserkraftanteil in spanien...
+Spanien deckt kaum 10 % seines Strombedarfs mit Wasserkraft, den größten Teil produzieren die Provinzen *Galicia* und *Castilla y León​​*.
+Wasserkraft in Spanien ist stark von den Regenmengen abhängig.\\
 15 km sanft bergauf am Hang dem zweiten Stausee entlang, idyllisch und unspektakulär.
 
 {% include image.html path="media/todo/allee.jpg" alt="" link="https://photos.app.goo.gl/cxPf2WcJ69bpvrUy9" %}
 
 Mittagspause im Kaff *Mugueimes* an der *Praza do Concello*. 
 Die Snacks neigen sich dem Ende zu, am Sonntag haben Lebensmittelgeschäfte in Spanien geschlossen.
-Weiter hoch auf knapp 800 Meter.
-Der Blick zurück auf den zweiten *Limia* Stausee.
+Weiter bergauf bis auf knapp 800 Meter.
+Zurückblicken auf den zweiten *Limia* Stausee.
 Vor uns das weite Becken von *Xinzo de Limia*.
-Den vom Besenginster gelbgefleckten Hang runterfetzen.
+Den vom Besenginster gelbgefleckten Hang runterrollen.
 
 {% include video.html path="media/todo/runterfetzen.mp4" link="https://photos.app.goo.gl/djLbT2K6Uczen2sP7" %}
 
-10 km auf einer kerzengraden Straße durch fades Weideland nach *Xinzo*.
+10 km auf einer kerzengraden Straße durch eintöniges Weideland nach *Xinzo*.
+Auf der *Praza Maior* den ersten spanischen Kaffee, wässriger und teurer als in Portugal.
+Die Cafés am Platz sind voll, Kinder rennen schreiend herum, Erwachsene unterhalten sich lautstark, auch das ist Spanien.
 
 {% include image.html path="media/todo/gradaus.jpg" alt="" caption="Bratislava wir kommen" link="https://photos.app.goo.gl/ND871fHHYpUUvLso7" %}
 
-...
+An der Tankstelle am Ortsrand nix außer Chips und Getränke.
+Durch Felder zum Fuß des letzten Hügels der uns vom heutigen Ziel trennt.
+Am Wegrand ein wilder Kirschbaum.
 
 {% include image.html path="media/todo/kirschis.jpg" alt="" link="https://photos.app.goo.gl/rDAUWH5kL4C9rf929" %}
+
+Zermürbende 300 Höhenmeter auf zu steilen Straßen.
+Am halben Weg Pause, zittrig vom niedrigen Blutzuckerspiegel.
+Hungrig die letzten Vorräte einatmen, Chips, Kekse und Granola.
+Kirschkernweitspuckwettbewerb, ich gewinne.
+
+Auf der Anhöhe ein kleiner Friedhof mit verwitterter romanischer Kirche wie sie hier in jedem Ort stehen.
+Die umliegenden Hügel violett eingefärbt von der Grauen Heide die hier überall wächst. 
+
 {% include image.html path="media/todo/friedhof.jpg" alt="" link="https://photos.app.goo.gl/xF1QYAt3cQHsBxqz5" %}
+
+In endlosen Kurven an einem Hang hoch über dem *Río Támega* entlang nach *Laza*.
+Ein Kuhdorf aus niedrigen Steinhäusern, schlafen in der Pilgeralbergue am östlichen Ortsrand.
+
 {% include image.html path="media/todo/abfahrt.jpg" alt="" link="https://photos.app.goo.gl/2u4269LfNp8Vtneu8" %}
 
 
