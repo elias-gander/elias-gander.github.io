@@ -184,18 +184,64 @@ Penouta - Ponferrada
 * Zum templercastillo, ewig durch die leeren ruinen spazieren, frust über wenig info, dann am ende 30 minuten vor schließung bei den austellungen und der bibliothek ankommen
 * schlechtesten falafel kebab essen
 
-folgen dem camino de invierno, frühere römerstraße: http://www.dovaldeorras.tv/history/
+Am nächsten Tag dem *Río Sil* folgen bis *Ponferrada*.
+Die Topografie weniger hügelig als zuletzt.
+Nur mehr leicht rauf und runter Fluss und Bahnlinie entlang.
 
 {% include image.html path="media/todo/hang3.jpg" alt="" link="https://photos.app.goo.gl/dsxuCpw7qxR5MFpc7" %}
+
+In *Sobradelo* auf einer schönen Brücke den *Río Sil* überqueren.
+Kleine Schiefersteinplatten verzieren die obere Brückenmauer.
+In den Orten entlang des *Río Sil* immer wieder urige kleine Häuser aus Schieferstein.
+Schwarze Schieferschindeln überdachen die meisten Häuser.
+
 {% include image.html path="media/todo/bruecke3.jpg" alt="" link="https://photos.app.goo.gl/3cUoMZXaXQCdTfde9" %}
-{% include video.html path="media/todo/stausee.mp4" alt="" link="https://photos.app.goo.gl/YVN8xUXX6fjCqdeG6" %}
+
+Weiter die Schnellstraße am linken *Sil*-Ufer entlang.
+Am Flussufer Anlagen zur Schieferverarbeitung, der Boden tiefschwarz vom Schieferstaub, überall Haufen perfekt würfelförmiger Schieferblöcke.
+In einer Hügelkuppe am Horizont durchbricht ein Schiefertagebau den durchgehenden Grasteppich der den Hügel bedeckt.
+
 {% include image.html path="media/todo/tagebau.jpg" alt="" link="https://photos.app.goo.gl/1BTM9oU59QPfWTRbA" %}
+
+Den *Encoro de Pumares* entlang nach *Puente de Domingo Flórez*.
+Kurz vor dem Ende des *Sil*-Stausees die Grenze zur Provinz *Castilla y León*.
+
+Im Ort lange Mittagspause und Kaffee in der *Cafetería Los Arcos*.
+Zwei Pilger mit *AC/DC* Leiberl und Jakobsmuscheltattoo am Wadl gehen ebenfalls in den *Coviran* gegenüber einkaufen und setzen sich auf mehrere *Cervezas* in die *Cafetería*.
+
+In der brütenden Mittagshitze losradln, weiter auf der Schnellstraße N-536.
+Kurze Schaupause beim *Embalse de Peñarrubia*, dann weiter nach *Carucedo*.
+Bei einem Spielplatz Flaschen auffüllen und den Schweiß abwaschen.
+
+{% include video.html path="media/todo/stausee.mp4" alt="" link="https://photos.app.goo.gl/YVN8xUXX6fjCqdeG6" %}
+
+Von *Carucedo* führt eine Straße zum *UNESCO* Weltkulturerbe *Las Médulas*, der wichtigsten Goldmine des Römischen Reichs.
+Die einzigartige Landschaft zerklüfteter rötlicher Felsen die zwischen Eichen, Kastanien und Ginster hervorragen ist durch die römische Bergbautechnik *Ruina montium* ('Zerstörung von Bergen') entstanden.
+Dabei untertunneln die Arbeiter zunächst das Gestein in zahlreichen engen Schächten.
+Anschließend fluten sie die Schächte mit großen Mengen Wasser aus eigens dafür angelegten Stauseen bis das Tunnelsystem kollabiert.
+Auf diese Weise tragen die Arbeiter schrittweise ganze Hügel ab und legen die darin befindlichen Goldadern frei.
+Laut den Aufzeichnungen Plinius des Älteren, damals Prokurator in der Region, förderte man hier ab 50 n. Chr. über einem Zeitraum von 250 Jahren etwa 1.650 Tonnen Gold.
+
+Wir sehen *Las Médulas* nicht, die gut 300 Höhenmeter von *Carucedo* schrecken in der Hitze zu sehr ab.
+Stattdessen weiter auf der Schnellstraße Richtung *Ponferrada*.
+
 {% include image.html path="media/todo/bierza.jpg" alt="" link="https://photos.app.goo.gl/WyWA5Tmgh8xqYuUa7" %}
+
+Im kleinen *Toral de Merayo* Jause essen im Schatten der romanischen Kirche, auf dem Glockenturm ein riesiges Storchennest.
+Auf der *Plaza El Nogaledo* zwei winzige *Mahou* aus der Flasche.
+Bestellt man in Nordspanien eine *cerveza* bekommt man meistens so ein 20 cl Flascherl.
+
 {% include image.html path="media/todo/mahou.jpg" alt="" link="https://photos.app.goo.gl/S4CEpJY6CSzXrURF7" %}
+
+In *Ponferrada* in einer Pilgeralbergue schlafen, 6-Bettzimmer mit Metallstockbetten und Schließfächern.
+Keine Decke sondern ein Plastiksackerl mit Einwegbezug für Matratze und Polster.
+In unserem Zimmer zwei nette Pilgerbuben aus Taiwan und ein alter Mann mit zwei riesigen Koffern.
+
+
+
 {% include image.html path="media/todo/castillo.jpg" alt="" link="https://photos.app.goo.gl/jr5X8rFNYf3q5Lqi6" %}
 {% include image.html path="media/todo/castillo2.jpg" alt="" link="https://photos.app.goo.gl/Tn3SKsQyA7E6x2uJ9" %}
 {% include image.html path="media/todo/buch.jpg" alt="" link="https://photos.app.goo.gl/DdQLBsNWDjQsmF5NA" %}
-
 
 Ponferrada - Astorga
 * Zache nacht in albergue, papierbezug kampf, obdachloser zimmergenosse zieht um 1 aus, zwei taiwanesische pilgerbuben
@@ -226,8 +272,8 @@ Astorga - Leon
 * Erstes klo in leon, 1890?
 * lokaler Wein und tapas auf der plaza de san marcelo, vorm rathaus lautstarke demo von eltern und kindern gegen kürzungen im schulbudget
 
-flach - 
-klo - 
+flach - p1D3XPQN8VLziwh78
+klo - aVbQspkspy9D51b36
 gaudi2 - 
 
 ### León
@@ -240,3 +286,5 @@ Leon
 * daheim mikrowellenessen und space cowboys
 * zur basilica de san isidoro spazieren, freitag abend gassen und plätze voll
 * am rückweg an der Plaza Don Gutiérres einen bierzo wein und tapas
+
+kathedrale außen - CGYy4FJpzwyxgCYi6
