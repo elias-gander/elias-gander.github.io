@@ -8,7 +8,7 @@ Der Norden von Portugal und Spanien ist durchzogen von *Caminos*, Pilgerwegen di
 Dort liegt angeblich der Apostel Jakobus begraben.
 
 Abschnittsweise entlangradln am *Camino de la Geira y los Arrieiros*, *Camino Sanabrés*, *Camino de Invierno* und *Camino Francés*.
-Meistens in falscher Richtung und trotzdem wünscht man uns immer wieder *¡Buen Camino!*.
+Meistens in falscher Richtung und nicht zu Fuß aber trotzdem wünscht man uns immer wieder *¡Buen Camino!*.
 
 ### Von Braga nach León
 
@@ -55,7 +55,7 @@ Erfrischt die letzten 10 km zur Unterkunft radln.
 Das schon in die Jahre gekommene *Hotel Barcelona* liegt hinter *Lobios* am andern Ufer des *Rio Limia* in einem Kaff 150 Meter über dem Fluss.
 Wie wir die Räder am Parkplatz abschließen beginnt es zu regnen.
 
-{% include image.html path="media/todo/wildcat.jpg" alt="Kathi liegt im Bett bedeckt von einer braunen Decke mit Leopardenmotiv" link="https://photos.app.goo.gl/chZKtu2a9ZoBaWW86" %}
+{% include image.html path="media/todo/wildcat.jpg" alt="Kathi liegt im Bett bedeckt von einer braunen Decke mit Leopardenmotiv" caption="Wildcat" link="https://photos.app.goo.gl/chZKtu2a9ZoBaWW86" %}
 
 Am Morgen die Gipfel des *Peneda-Gerês* Nationalparks wolkenumhangen.
 Wieder steil runter zum *Río Limia*, der Fluss steht beinahe still.
@@ -68,14 +68,14 @@ Spanien deckt kaum 10 % seines Strombedarfs mit Wasserkraft, den größten Teil 
 Wasserkraft in Spanien ist stark von den Regenmengen abhängig.\\
 15 km sanft bergauf am Hang dem zweiten Stausee entlang, idyllisch und unspektakulär.
 
-{% include image.html path="media/todo/allee.jpg" alt="" link="https://photos.app.goo.gl/cxPf2WcJ69bpvrUy9" %}
+{% include image.html path="media/todo/allee.jpg" alt="Eine Straße zwischen großen überhängenden Bäumen" link="https://photos.app.goo.gl/cxPf2WcJ69bpvrUy9" %}
 
 Mittagspause im Kaff *Mugueimes* an der *Praza do Concello*. 
 Die Snacks neigen sich dem Ende zu, am Sonntag haben Lebensmittelgeschäfte in Spanien geschlossen.
 Weiter bergauf bis auf knapp 800 Meter.
 Zurückblicken auf den zweiten *Limia* Stausee.
 Vor uns das weite Becken von *Xinzo de Limia*.
-Den vom Besenginster gelbgefleckten Hang runterrollen.
+Den vom Besenginster gelbgefleckten Hang runterdüsen.
 
 {% include video.html path="media/todo/runterfetzen.mp4" link="https://photos.app.goo.gl/djLbT2K6Uczen2sP7" %}
 
@@ -83,56 +83,93 @@ Den vom Besenginster gelbgefleckten Hang runterrollen.
 Auf der *Praza Maior* den ersten spanischen Kaffee, wässriger und teurer als in Portugal.
 Die Cafés am Platz sind voll, Kinder rennen schreiend herum, Erwachsene unterhalten sich lautstark, auch das ist Spanien.
 
-{% include image.html path="media/todo/gradaus.jpg" alt="" caption="Bratislava wir kommen" link="https://photos.app.goo.gl/ND871fHHYpUUvLso7" %}
+{% include image.html path="media/todo/gradaus.jpg" alt="Eine kerzengrade Straße zwischen Wiesen hindurch" caption="Bratislava wir kommen" link="https://photos.app.goo.gl/ND871fHHYpUUvLso7" %}
 
 An der Tankstelle am Ortsrand nix außer Chips und Getränke.
 Durch Felder zum Fuß des letzten Hügels der uns vom heutigen Ziel trennt.
 Am Wegrand ein wilder Kirschbaum.
 
-{% include image.html path="media/todo/kirschis.jpg" alt="" link="https://photos.app.goo.gl/rDAUWH5kL4C9rf929" %}
+{% include image.html path="media/todo/kirschis.jpg" alt="Eli hält eine Box voll Kirschen" link="https://photos.app.goo.gl/rDAUWH5kL4C9rf929" %}
 
 Zermürbende 300 Höhenmeter auf zu steilen Straßen.
 Am halben Weg Pause, zittrig vom niedrigen Blutzuckerspiegel.
 Hungrig die letzten Vorräte einatmen, Chips, Kekse und Granola.
 Kirschkernweitspuckwettbewerb, ich gewinne.
 
-Auf der Anhöhe ein kleiner Friedhof mit verwitterter romanischer Kirche wie sie hier in jedem Ort stehen.
-Die umliegenden Hügel violett eingefärbt von der Grauen Heide die hier überall wächst. 
+Auf der Anhöhe ein kleiner Friedhof mit verwitterter romanischer Kirche wie sie hier in fast jedem Ort steht.
+Überall wächste Graue Heide, die winzigen violetten Blüten färben die umliegenden Hügel ein.
 
-{% include image.html path="media/todo/friedhof.jpg" alt="" link="https://photos.app.goo.gl/xF1QYAt3cQHsBxqz5" %}
+{% include image.html path="media/todo/friedhof.jpg" alt="Eine verwitterte kleine Kirche umringt von Grabsteinen" link="https://photos.app.goo.gl/xF1QYAt3cQHsBxqz5" %}
 
-In endlosen Kurven an einem Hang hoch über dem *Río Támega* entlang nach *Laza*.
-Ein Kuhdorf aus niedrigen Steinhäusern, schlafen in der Pilgeralbergue am östlichen Ortsrand.
+An einem Hang hoch über dem *Río Támega* in endlosen Kurven Abfahrt nach *Laza*, ein malerisches Kuhdorf aus niedrigen braunen Steinhäusern.
+Zimmer beziehen in der Pilgeralbergue am östlichen Ortsrand, vorm Fenster grasende Kühe.
 
-{% include image.html path="media/todo/abfahrt.jpg" alt="" link="https://photos.app.goo.gl/2u4269LfNp8Vtneu8" %}
+{% include image.html path="media/todo/abfahrt.jpg" alt="Eine Straße mit Leitplanken schlängelt sich den Hang entlang" link="https://photos.app.goo.gl/2u4269LfNp8Vtneu8" %}
 
-
-Laza - Penouta
-* am morgen sonnig tiesig
-* Hang entlangschjlängeln, mystisches licht, vogelgezwitscher und ein rauschender bach, flechten an den bäumen, welche?
-* Ein falke? Sitzt an der stromleitung und beobachtet uns beim vorbeiradln
-* Vorbei an der zugstrecke, nur baustelle?
-* Noch weiter hoch auf 1100, zum ersten mal wieder über 1000
-* Kahle hügel kein baum 
-* Mittagspause in … immer mehr pilger
-* Schönstes stück überm stausee am hang, hügel violett von grauer heide
-* Zur staumauer, oben drüber gesperrt, 100hm extra 
-* 200 hm runter, wieder rauf und wieder runter nach …, snack und kaffeci am platz, eine katze pinkelt fast in kathis helm, läden zu zur siesta
-* Ein letztes mal rauf auf 1050 alto de covelo
-* Lange abfahrt auf schnellstraße auf 300 nach arua, mirador bei …
-* Schöne Brücke zwischen petrin und arua, nie arua weil autos brettern
+Am Morgen Montag, endlich wieder einkaufen.
+Im Dorfladen von *Laza* gibts leider nicht viel.
+Losradln Richtung Osten, dem *Río Cereixo* entlang.
 
 {% include video.html path="media/todo/sonne.mp4" alt="" link="https://photos.app.goo.gl/ZnMrgProu7NgdkA49" %}
+
+Die Morgensonne leuchtet diffus durch die diesige Luft.
+Lautes Vogelgezwitscher und leises Plätschern des *Cereixo*, ein Mäusebussard auf einer Stromleitung beobachtet uns im Vorbeiradln.
+
+Zwei Stunden 600 Höhenmeter bergauf die bewaldeten Hänge entlang.   
+Von den Ästen der meisten Bäume hängen lange pastellgrüne Büschel.
+Die Bartflechte wächst an geschwächten Bäumen in regenreichen Lagen und reagiert sehr sensibel auf Luftverschmutzung.
+Je länger der Bart desdo besser die Luftqualität.
+
 {% include image.html path="media/todo/hang2.jpg" alt="" link="https://photos.app.goo.gl/4X6J47M8PLZKCin68" %}
+
 {% include video.html path="media/todo/wald.mp4" alt="" link="https://photos.app.goo.gl/NPF3278pHXhttT996" %}
+
+Nach dem Dorf *Cerdedelo* auf den letzten Höhenmetern blick den Hang hinab auf ein Viadukt der Hochgeschwindigkeitslinie *Madrid-Galicia*.
+*AVE* Züge (*Alta Velocidad Española*) des staatlichen spanischen Eisenbahnunternehmens *RENFE* brettern hier mit 300 km/h von *Madrid* nach *Ourense*.
+420 km Luftlinie in guten 2 Stunden Fahrtzeit.
+
 {% include image.html path="media/todo/viadukt.jpg" alt="" link="https://photos.app.goo.gl/apTeYJzTiwQpetiX7" %}
+
+Kurze Abfahrt nach *Portocamba*, den Schweiß im Fahrtwind trocknen und am Brunnen im Ort abwaschen.
+Am Brunnen ein großer *Camino*-Wegweiser, gelbe Jakobsmuschel auf blauem Grund.
+Mittagessen am Ortsrand bei einem Bach, einige Pilger:innen wandern vorbei.
+
 {% include image.html path="media/todo/abfahrt2.jpg" alt="" link="https://photos.app.goo.gl/8Da7teVSpXhEEWaLA" %}
+
+Wieder bergauf auf gute 1.100 Meter, grandioser Blick über den *Encoro das Portas*, der *Río Camba* wird hier aufgestaut.
+Schier endlose Landschaft aus kahlen Hügeln, violett schattiert von Grauer Heide und durchzogen von Schotterpisten.
+
 {% include image.html path="media/todo/stausee.jpg" alt="" link="https://photos.app.goo.gl/GNTC7KqQoK7CPS7e7" %}
-{% include video.html path="media/todo/staumauer.mp4" alt="" link="https://photos.app.goo.gl/qG4MVAJmADRi7Mdg9" %}
+
+Über dem Stausee den Hang entlang und runter zur Staumauer.
+Die Fahrt über die Mauer leider gesperrt, 100 Höhenmeter Umweg über die Straße am Fuß der Mauer vorbei.
+Der Stausee fasst 536 Kubikhektometer Wasser, macht 536.000.000.000 Liter.
+Zum Vergleich, der *Lago di Garda* fasst 49,3 Kubikkilometer, also 49.300.000.000.000 Liter.
+
+{% include video.html path="media/todo/staumauer.mp4" link="https://photos.app.goo.gl/qG4MVAJmADRi7Mdg9" %}
+
+10 km weiter nach *Viana do Bolo*, Hügel rauf, Hügel runter.
+Während der Jause die Helme zum Trocknen in die Sonne legen, eine Katze beobachten wie sie dran schnuppert.
+Kichern wie sie sich reinsetzen will, aufspringen wie sie zum Brunzen ansetzt.\\
+Der Supermarkt hat noch *Siesta* bis 5.
+
+Ein letztes Mal eine Stunde bergauf zum *Alto de Covelo* auf 1.050 m.
+Dann lange 700 Höhenmeter Abfahrt, nur einmal stehenbleiben beim *Miradoiro de Cambela*.
+
 {% include image.html path="media/todo/mirador.jpg" alt="" link="https://photos.app.goo.gl/7BZvucboWYBnAgFi6" %}
-{% include image.html path="media/todo/arua.jpg" alt="" link="https://photos.app.goo.gl/9W1jLFSxpXxA4Rx6A" %}
+
+In *A Rúa* über den *Río Sil* auf der vielbefahrenen Schnellstraße.
+Parallel verläuft eine schöne römische Brücke, die *Puente de la Cigarrosa*.
+Die *Cigurri* waren ein keltiberischer Stamm den das Römische Reich 19 v. Chr. im Rahmen der Kantabrischen Kriege unterwarf.\\
+100 Jahre später errichten die Römer hier die 330 Kilometer lange *Via Nova* als Verbindung zwischen *Bracara Augusta* (*Braga*) und *Asturica Augusta* (*Astorga*).
+Für lange Zeit der einzige im Winter passierbare Weg nach *Galicia* da er über keinen Gebirgspass führt.
+1.000 Jahre später und bis heute nutzen deshalb Pilger diesen *Camino de Invierno* ('Winterweg') auf ihrer Wanderung nach *Santiago de Compostela*.
+
 {% include image.html path="media/todo/bruecke2.jpg" alt="" link="https://photos.app.goo.gl/oHtHEKcRdMaWBPyE9" %}
 
+Im Ort einkaufen und die letzten 10 km zum heruntergekommenen Hotel an der Schnellstraße *A Lastra*.
+
+{% include image.html path="media/todo/arua.jpg" alt="" caption="Nie 'a Rua' weil ständig Autos durchbrettern" link="https://photos.app.goo.gl/9W1jLFSxpXxA4Rx6A" %}
 
 Penouta - Ponferrada
 * den rio sil und bahnlinie entlang
@@ -145,6 +182,9 @@ Penouta - Ponferrada
 * Drinnen kartentisch mit publikum
 * In ponferrada in pilgeralbergue, überall pilger camino frances
 * Zum templercastillo, ewig durch die leeren ruinen spazieren, frust über wenig info, dann am ende 30 minuten vor schließung bei den austellungen und der bibliothek ankommen
+* schlechtesten falafel kebab essen
+
+folgen dem camino de invierno, frühere römerstraße: http://www.dovaldeorras.tv/history/
 
 {% include image.html path="media/todo/hang3.jpg" alt="" link="https://photos.app.goo.gl/dsxuCpw7qxR5MFpc7" %}
 {% include image.html path="media/todo/bruecke3.jpg" alt="" link="https://photos.app.goo.gl/3cUoMZXaXQCdTfde9" %}
