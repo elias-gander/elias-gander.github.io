@@ -171,19 +171,6 @@ Im Ort einkaufen und die letzten 10 km zum heruntergekommenen Hotel an der Schne
 
 {% include image.html path="media/todo/arua.jpg" alt="" caption="Nie 'a Rua' weil ständig Autos durchbrettern" link="https://photos.app.goo.gl/9W1jLFSxpXxA4Rx6A" %}
 
-Penouta - Ponferrada
-* den rio sil und bahnlinie entlang
-* Schöne brücke in sobradelo aus braunem schiefer, auch immer mehr häuser aus schiefer
-* Tagebau auf den hügelkuppen?
-* Nach puente de domingo florez mittagspause, am weg den fluss entlang staudamm und schiefefabriken, überall schwarzer staub, betreten provinz castille leon
-* Ur heiß sanft bergauf , vorbei an staudamm, überall wasserkraft
-* über den el bierzo, unesco goldminen auslassen, zu großer umweg
-* kurz vor ponferrada im kleinen Toral de Merayo im schatten der kirche snacken, am platz … ein winziges mahou dazu die besten oliven
-* Drinnen kartentisch mit publikum
-* In ponferrada in pilgeralbergue, überall pilger camino frances
-* Zum templercastillo, ewig durch die leeren ruinen spazieren, frust über wenig info, dann am ende 30 minuten vor schließung bei den austellungen und der bibliothek ankommen
-* schlechtesten falafel kebab essen
-
 Am nächsten Tag dem *Río Sil* folgen bis *Ponferrada*.
 Die Topografie weniger hügelig als zuletzt.
 Nur mehr leicht rauf und runter Fluss und Bahnlinie entlang.
@@ -231,17 +218,25 @@ Im kleinen *Toral de Merayo* Jause essen im Schatten der romanischen Kirche, auf
 Auf der *Plaza El Nogaledo* zwei winzige *Mahou* aus der Flasche.
 Bestellt man in Nordspanien eine *cerveza* bekommt man meistens so ein 20 cl Flascherl.
 
-{% include image.html path="media/todo/mahou.jpg" alt="" link="https://photos.app.goo.gl/S4CEpJY6CSzXrURF7" %}
+{% include image.html path="media/todo/mahou.jpg" alt="" caption="Dazu die besten Oliven" link="https://photos.app.goo.gl/S4CEpJY6CSzXrURF7" %}
 
 In *Ponferrada* in einer Pilgeralbergue schlafen, 6-Bettzimmer mit Metallstockbetten und Schließfächern.
 Keine Decke sondern ein Plastiksackerl mit Einwegbezug für Matratze und Polster.
 In unserem Zimmer zwei nette Pilgerbuben aus Taiwan und ein alter Mann mit zwei riesigen Koffern.
 
-
+Am Abend durch die Altstadt zum *Castillo*, einer Templerfestung aus dem 12. Jahrhundert.
+Lange über die leeren Burghöfe und -türme spazieren, Frust über dem Fehlen jeglicher Infotafeln.
 
 {% include image.html path="media/todo/castillo.jpg" alt="" link="https://photos.app.goo.gl/jr5X8rFNYf3q5Lqi6" %}
-{% include image.html path="media/todo/castillo2.jpg" alt="" link="https://photos.app.goo.gl/Tn3SKsQyA7E6x2uJ9" %}
+
+30 Minuten vor Schließung dann einen großen Austellungsraum und die Templerbibliothek entdecken.
+Hektisch möglichst viel anschauen und um halb 9 frustriert rausgescheucht werden.
+
 {% include image.html path="media/todo/buch.jpg" alt="" link="https://photos.app.goo.gl/DdQLBsNWDjQsmF5NA" %}
+
+Abendessen im *Quijote Doner Kebab*.
+Zweimal das traurigste Falafelbrot unseres Lebens.
+Das Rezept: Brot, Salat, Falafel, viel Ketchup und Mayonnaise.
 
 Ponferrada - Astorga
 * Zache nacht in albergue, papierbezug kampf, obdachloser zimmergenosse zieht um 1 aus, zwei taiwanesische pilgerbuben
