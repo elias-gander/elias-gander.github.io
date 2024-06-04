@@ -22,7 +22,7 @@ Mittagessen auf einer Parkbank.
 Den letzten *café expresso* in Portugal im *Café Corredoura*.
 
 Deutlich steiler an einem Hang das *Homem* Tal entlang.
-Die zwei E-Radreisenden die im Café am Nebentisch saßen überholen uns mühlos.  
+Die zwei E-Radreisenden die im Café am Nebentisch saßen überholen uns mühelos.  
 Die Gegend augenscheinlich wasserreich, in zahllosen Bacherln rinnt es den Hang hinunter.
 Dichter Mischwald mit moosbedeckten Eichen, zur Abwechslung kleine Eukalyptuswälder.
 Der feuchte Waldboden bedeckt mit Adlerfarn und rotem Fingerhut.
@@ -49,7 +49,7 @@ Die Armbanduhr eine Stunde vor stellen.
 {% include image.html path="media/buen-camino/grenze.jpg" alt="Eli umarmt das Grenzschild nach Spanien bzw. Galicia" link="https://photos.app.goo.gl/4XQfHQyPYuqe7AGK9" %}
 
 Runterdüsen bis kurz vor *Lobios*, am Ortsrand gibt es ein kleines frei zugängliches Thermalbad am Ufer des *Rio Caldo*.
-Gemeinsam mit dem überwiegend älterem Publikum eine Stunde im 40 Grad warmen Wasser weichen.
+Gemeinsam mit dem überwiegend älteren Publikum eine Stunde im 40 Grad warmen Wasser weichen.
 Erfrischt die letzten 10 km zur Unterkunft.
 
 {% include image.html path="media/buen-camino/spa.jpg" alt="Eli geht die Stufen hinunter in ein Becken mit warmem Wasser" link="https://photos.app.goo.gl/6vYHkn3uazmdLkpr9" %}
@@ -59,7 +59,7 @@ Wie wir die Räder am Parkplatz abschließen beginnt es zu regnen.
 
 {% include image.html path="media/buen-camino/wildcat.jpg" alt="Kathi liegt im Bett bedeckt von einer braunen Decke mit Leopardenmotiv" caption="Wildcat" link="https://photos.app.goo.gl/chZKtu2a9ZoBaWW86" %}
 
-Am Morgen die Gipfel des *Peneda-Gerês* Nationalparks wolkenumhangen.
+Am Morgen die Gipfel des *Peneda-Gerês* Nationalparks wolkenbehangen.
 Wieder steil runter zum *Río Limia*, der Fluss steht beinahe still.
 Der *Barragem do Alto-Lindoso* knapp hinter der portugiesischen Grenze staut den Fluss bis hierher.
 
@@ -122,16 +122,16 @@ Die Morgensonne leuchtet diffus durch die diesige Luft.
 Lautes Vogelgezwitscher und leises Plätschern des *Cereixo*.
 Ein Mäusebussard auf einer Stromleitung beobachtet uns im Vorbeiradln.
 
-Zwei Stunden 600 Höhenmeter bergauf den bewaldeten Hang entlang.   
+Zwei Stunden 600 Höhenmeter bergauf den bewaldeten Hang entlang.
 Von den Ästen der Bäume hängen lange pastellgrüne Büschel.
 Bartflechte wächst an geschwächten Bäumen in regenreichen Lagen und reagiert sehr sensibel auf Luftverschmutzung.
-Je länger der Bart desdo besser die Luftqualität.
+Je länger der Bart desto besser die Luftqualität.
 
 {% include image.html path="media/buen-camino/hang2.jpg" alt="Eli radlt auf einer Hangstraße, am Hang überhängende Kiefern" link="https://photos.app.goo.gl/4X6J47M8PLZKCin68" %}
 
 {% include video.html path="media/buen-camino/wald.mp4" link="https://photos.app.goo.gl/NPF3278pHXhttT996" %}
 
-Durch das Dorf *Cerdedelo* und auf den letzten Höhenmetern blick den Hang hinunter auf ein Viadukt der Hochgeschwindigkeitslinie *Madrid-Galicia*.
+Durch das Dorf *Cerdedelo* und auf den letzten Höhenmetern Blick den Hang hinunter auf ein Viadukt der Hochgeschwindigkeitslinie *Madrid-Galicia*.
 *AVE* Züge (*Alta Velocidad Española*) des staatlichen spanischen Eisenbahnunternehmens *RENFE* brettern hier mit 300 km/h von *Madrid* nach *Ourense*.
 420 km Luftlinie in guten 2 Stunden Fahrtzeit.
 
@@ -162,11 +162,11 @@ Kichern wie sie sich reinsetzen will, aufspringen wie sie zum Brunzen ansetzt.\\
 Der Supermarkt hat noch *Siesta* bis 5.
 
 Ein letztes Mal eine Stunde bergauf zum *Alto de Covelo* auf 1.050 m.
-Lange 700 Höhenmeter Abfahrt, nur einmal stehenbleiben beim *Miradoiro de Cambela*.
+Lange 700 Höhenmeter Abfahrt, nur einmal stehen bleiben beim *Miradoiro de Cambela*.
 
 {% include image.html path="media/buen-camino/mirador.jpg" alt="Kathi blickt weit über bewaldete Hügel" link="https://photos.app.goo.gl/7BZvucboWYBnAgFi6" %}
 
-In *A Rúa* über den *Río Sil* auf der vielbefahrenen Schnellstraße.
+In *A Rúa* über den *Río Sil* auf der viel befahrenen Schnellstraße.
 Parallel verläuft eine schöne römische Brücke, die *Puente de la Cigarrosa*.
 Die *Cigurri* waren ein keltiberischer Stamm den das Römische Reich 19 v. Chr. im Rahmen der Kantabrischen Kriege unterwarf.\\
 100 Jahre später errichten die Römer hier die 330 Kilometer lange *Via Nova* als Verbindung zwischen *Bracara Augusta* (*Braga*) und *Asturica Augusta* (*Astorga*).
@@ -238,7 +238,7 @@ Lange über die leeren Burghöfe und -türme spazieren, Frust über das Fehlen j
 
 {% include image.html path="media/buen-camino/castillo.jpg" alt="Eli geht über die Zugbrücke einer mittelalterlichen Burg" link="https://photos.app.goo.gl/jr5X8rFNYf3q5Lqi6" %}
 
-30 Minuten vor Schluss dann großen Austellungsraum und die Templerbibliothek entdecken.
+30 Minuten vor Schluss dann großen Ausstellungsraum und die Templerbibliothek entdecken.
 Hektisch möglichst viel anschauen und um halb 9 frustriert rausgescheucht werden.
 
 {% include image.html path="media/buen-camino/buch.jpg" alt="Eine Doppelseite eines mittelalterlichen Buchs in der Szenen einer Ritterschlacht abgebildet sind" link="https://photos.app.goo.gl/DdQLBsNWDjQsmF5NA" %}
@@ -252,7 +252,7 @@ Die Albergue ist voller Pilger:innen, *Ponferrada* liegt am *Camino Francés* de
 
 Am nächsten Morgen nach *Astorga* über den *Puerto Foncebadon* auf über 1.500 m.
 Der *Camino Francés* verläuft nahe der LE-142 die von *Ponferrada* über den Pass führt.
-In falscher Richtung unterwegs kommen uns hunderte Pilger:innen entgegen.
+In falscher Richtung unterwegs kommen uns Hunderte Pilger:innen entgegen.
 
 {% include image.html path="media/buen-camino/bergfahrt.jpg" alt="Kathi radlt auf einer Straße mit Leitplanken bergauf" link="https://photos.app.goo.gl/M9Umz3vnF4Y5jiH46" %}
 
@@ -262,13 +262,13 @@ Im Schatten sitzen und die vorbeikommenden Pilger:innen beobachten.
 Einige der vielen asiatischen Pilgerinnen tragen Handschuhe und ein Tuch über Mund und Nase, vermutlich als Sonnenschutz.
 
 Die meisten Pilger:innen asiatischer Herkunft kommen aus Korea.
-Urpsrünglich wohl überwiegend religiös motiviert (30% der Koreaner:innen ordnen sich dem Christentum zu) ist der *Camino* in Korea heute auch Popkultur.
+Ursprünglich wohl überwiegend religiös motiviert (30 % der Koreaner:innen ordnen sich dem Christentum zu) ist der *Camino* in Korea heute auch Popkultur.
 Die koreanische Realityshow *Shall We Walk Together*, dokumentiert 2018 *Camino* und Wiedervereinigung der 2005 aufgelösten K-Pop Band *g.o.d*..
 
 {% include image.html path="media/buen-camino/elacebo.jpg" alt="Eine betonierte und gepflasterte Gasse bergab durch zwei Reihen Steinhäuser hindurch" link="https://photos.app.goo.gl/3hJk1PpfWB48eHKv8" %}
 
 Von *El Acebo* nochmal unangenehm steile 400 Höhenmeter bis zum Pass.
-Mittagspause im Schatten und 600 Höhenmeter runterdüsen nach *Astorga*.
+Mittagspause im Schatten und 600 Höhenmeter runter düsen nach *Astorga*.
 Drei Stunden hoch, eine Stunde runter, die Distanz war die gleiche. 
 
 {% include image.html path="media/buen-camino/pass.jpg" alt="Eli posiert am Passchild auf dem steht 'Puerto de Foncebadon 1505 m'" link="https://photos.app.goo.gl/q6jmiRRXUAjR38us6" %}
@@ -281,7 +281,7 @@ Upsi!
 {% include image.html path="media/buen-camino/bischof.jpg" alt="Ein schlossartiger Bau aus Steinen mit spitzen schwarzen Türmchen" link="https://photos.app.goo.gl/ABKjQz3hzDCvdudt5" %}
 
 Das Airbnb wirkt wie die Wohnung der kürzlich verstorbenen Oma.
-In der Garage durch die man zur Wohnung gelangt eine weinachtlich gestaltete Sitzecke mit Krippenensemble, Weihnachtsmann und Lametta.
+In der Garage durch die man zur Wohnung gelangt eine weihnachtlich gestaltete Sitzecke mit Krippenensemble, Weihnachtsmann und Lametta.
 
 {% include video.html path="media/buen-camino/lehnsessel.mp4" link="https://photos.app.goo.gl/LeF2WrhE3K5TN7Wv9" %}
 
@@ -307,22 +307,22 @@ Am späten Nachmittag *León* erreichen.
 ### León
 
 Am Abend der Ankunft zu der von *Gaudí* entworfenen *Casa Botines*.
-Natursteinfassade, Spitztürmchen mit schwarzem Schieferdach und Fenster im neugothischen Stil.
+Natursteinfassade, Spitztürmchen mit schwarzem Schieferdach und Fenster im neugotischen Stil.
 Erbaut als Lager und Wohnhaus für zwei Tuchhändler.
 1892 bekommt *León* mit diesem Bauwerk seine erste Kloschüssel.
 
 {% include image.html path="media/buen-camino/klo.jpg" alt="Ein Badezimmer aus dem 19. Jahrhundert" link="https://photos.app.goo.gl/aVbQspkspy9D51b36" %}
 
 Vorbei am Brunnen der *Plaza de San Marcelo* hin zum Rathaus.
-Eltern demonstrieren mit ihren Kindern und Trillerpfeifen gegen Kürzungen im Bildungsystem.
+Eltern demonstrieren mit ihren Kindern und Trillerpfeifen gegen Kürzungen im Bildungssystem.
 In der Bar *El Capricho* ein Glas besonders dunklen tanninreichen Wein der die Zunge schwarz färbt.
 
 {% include image.html path="media/buen-camino/wein.jpg" alt="Eli trinkt in einem Schanigarten aus einem Glas Wein" link="https://photos.app.goo.gl/dZPSGNg3XVZrXe1W6" %}
 
 Am zweiten Tag in *León* zum bestechendsten Bauwerk der Stadt.
-Eine Kathedrale aus dem 13. Jahrundert erbaut im gothischen Stil.
+Eine Kathedrale aus dem 13. Jahrhundert erbaut im gotischen Stil.
 Völlig zurecht auch *Pulchra Leonina* ('Schöne Leónesin') genannt.
-Ein Paradebeispiel für die 'Dematerialisierung' der gothischen Architektur: Kreuzrippengewölbe aus Spitzbögen verteilen das Gewicht auf enorme Säulen, das Gewölbe wächst in mächtige Höhen und die in der Romanik üblichen massiven Wände weichen riesigen Fensterflächen.
+Ein Paradebeispiel für die 'Dematerialisierung' der gotischen Architektur: Kreuzrippengewölbe aus Spitzbögen verteilen das Gewicht auf enorme Säulen, das Gewölbe wächst in mächtige Höhen und die in der Romanik üblichen massiven Wände weichen riesigen Fensterflächen.
 1.800 m² prächtige Bleiglasfenster, zum größten Teil Originale aus dem Mittelalter.
 
 Der Effekt der einfallenden Frühnachmittagssonne in dieses großartige Ensemble kaum in Worte oder Bilder zu fassen.
@@ -340,7 +340,7 @@ Durch den Kreuzgang des angeschlossenen Klosters zurück auf die *Plaza de Regla
 Im Schatten der Kathedrale bei einem etwas versteckten türkischen Restaurant der spanischen Falafel noch eine Chance geben und wieder enttäuscht werden.
 
 Am Heimweg für eine kurze *Siesta* vorbei an der *Plaza del Grano*.
-Aus dem mitteralterlich holprigen Pflaster wachsen kleine Grasbüschel, zwei riesige Silber-Pappeln spenden Schatten.
+Aus dem mittelalterlich holprigen Pflaster wachsen kleine Grasbüschel, zwei riesige Silber-Pappeln spenden Schatten.
 
 {% include image.html path="media/buen-camino/grano.jpg" alt="Ein grob gepflasterter Platz mit Schanigarten zwischen zwei großen Bäumen" link="https://photos.app.goo.gl/rbiw2kXHRvehedpz9" %}
 
