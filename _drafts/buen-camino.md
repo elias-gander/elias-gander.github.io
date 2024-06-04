@@ -319,4 +319,39 @@ Leon
 * zur basilica de san isidoro spazieren, freitag abend gassen und plätze voll
 * am rückweg an der Plaza Don Gutiérres einen bierzo wein und tapas
 
-kathedrale außen - CGYy4FJpzwyxgCYi6
+Am zweiten Tag in *León* zum bestechendsten Bauwerk der Stadt.
+Eine Kathedrale aus dem 13. Jahrundert erbaut im gothischen Stil, völlig zurecht auch *Pulchra Leonina* ('Schöne Leónesin') genannt.
+Ein Paradebeispiel für die 'Dematerialisierung' der gothischen Architektur: ein Kreuzrippengewölbe aus Spitzbögen verteilt das Gewicht auf enorme Säulen, das Gewölbe wächst in mächtige Höhen und die in der Romanik üblichen massiven Wände weichen riesigen Fensterflächen.
+1.800 m² bunter Bleiglasfenster, zum größten Teil Originale aus dem Mittelalter.
+
+Der Effekt der einfallenden Frühnachmittagssonne in dieses großartige Ensemble kaum in Worte oder Bilder zu fassen.
+Erfurchtgebietend auch bei fehlender spiritueller Veranlagung.
+
+{% include image.html path="media/buen-camino/kathedrale2.jpg" alt="" link="https://photos.app.goo.gl/CGYy4FJpzwyxgCYi6" %}
+
+{% include image.html path="media/buen-camino/fenster.jpg" alt="" link="https://photos.app.goo.gl/tSvCztdECNmMGSEs5" %}
+
+Der ausführliche Rundgang begleitet von einem epischen Audioguide.
+Durch den Kreuzgang des angeschlossenen Klosters zurück auf die *Plaza de Regla*.
+
+{% include image.html path="media/buen-camino/kreuzgang.jpg" alt="" link="https://photos.app.goo.gl/qy986jzQ5NYAhgpB6" %}
+ 
+Im Schatten der Kathedrale bei einem etwas versteckten türkischen Restaurant der spanischen Falafel noch eine Chance geben und wieder enttäuscht werden.
+
+Am Heimweg für eine kurze *Siesta* vorbei an der *Plaza del Grano*.
+Aus dem mitteralterlich holprigem Pflaster wachsen kleine Grasbüschel, zwei riesige Silber-Pappeln spenden Schatten.
+
+{% include image.html path="media/buen-camino/grano.jpg" alt="" link="https://photos.app.goo.gl/rbiw2kXHRvehedpz9" %}
+
+Die späten Nachmittagsstunden auf der *Plaza Mayor* im Schanigarten eines Irish Pub verbringen.
+Eine Vertreterin von *Beefeater* verteilt alkoholfreie *Gin Tonics* zum Testen.
+Wie die Häuserschatten langsam länger werden füllen sich Platz und Straßen.
+
+{% include image.html path="media/buen-camino/maior.jpg" alt="" link="https://photos.app.goo.gl/Z5naaXK16kf79TTP7" %}
+
+Auf dem Zimmer ein Abendessen aus der Mikrowelle, im Fernsehen spielts *Space Cowboys*.
+Am Abend zur *Basilica De San Isidoro* spazieren, die Straßen sind bummvoll.
+Auf der *Plaza Don Gutiérres* einen Wein aus dem *Bierzo*, das Gebiet rund um die *Las Médulas*.
+Die Tapas diesmal ohne Fleisch, in *León* wie immer gratis dazu.
+
+Weiter Richtung Norden, die *Cordillera Cantábrica* trennt uns vom Meer.
