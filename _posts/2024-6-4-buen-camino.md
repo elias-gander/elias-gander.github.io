@@ -2,7 +2,7 @@
 title:  "¡Buen Camino!"
 ---
 
-{% include map.html url="https://en.frame.mapy.cz/s/fuzetuhala" %}
+{% include map.html url="https://en.frame.mapy.cz/s/barorepode" %}
 
 Der Norden von Portugal und Spanien ist durchzogen von *Caminos*, Pilgerwegen die von verschiedenen Orten ausgehen und alle nach *Santiago de Compostela* führen.
 Dort liegt angeblich der Apostel Jakobus begraben.
