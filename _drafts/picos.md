@@ -2,39 +2,83 @@
 title:  "Land in Sicht"
 ---
 
-bilder komprimieren:
-mogrify -define jpeg:extent=100kb -resize 1024x1024 *.jpg
-
-video komprimieren:
-sudo sh compress.sh folder/file.MOV 1
-
-video drehen und auf mp4 konvertieren:
-ffmpeg -i folder/file.MOV  -vf "transpose=2" file.mp4
-
 {% include map.html url="https://en.frame.mapy.cz/s/kelufeteke" %}
+
+Das Jahr 1761, ein Handelsschiff aus *Santander* am Heimweg von einer Reise in die amerikanischen Kolonien.
+Außergewöhnlich klares Wetter im Golf von Biskaya.
+Der Blick nach Süden, am Horizont die Umrisse einer schneebedeckten Bergkette.
+
+Diese Gipfel oder *Picos* sind das erste Stück Europa das die Seefahrer auf ihrer langen Heimreise sehen.
+Man tauft sie deshalb *Picos de Europa*.
+
+Ist das der wahre Ursprung des Namens dieses beeindruckenden Gebirgsmassivs?
+Höchstwahrscheinlich nicht.
+Der allergrößte Teil der Handelsschiffe legt im weit entfernten *Cadiz* oder *Lisboa* an.
+Trotzdem eine schöne Geschichte.
 
 ### Von León zu den Picos ###
 
-Leon - Cistierna
-* Raus aus Leon zum decathlon eine kettenlehre, meine neue kette noch gut, kathis kette und ritzel zum wegschmeissen, funktioniert
-* Ein stück netter radweg am bach durch pappelwälder, überall schweben flocken
-* Rauf auf kleine hochebene mit weiten ackerflächen, in der ferne schon die picos bzw cantabrische cordillera, der gepflügte boden lehmig rot
-* Auf die hauptstraße kerzengrad ricjtung picos, mittagspause in ambasaguas im kleinen park vor der kirche, überall störche und greifvögel (mäusebussarde)
-* Der schnellstraße folgen bis vegaquemada, dann parallel zum camino olvidado nach cistierna
-* Viele kleine kaffs am weg aber nichtmal ein kaffee
-* In cistierna die schöne kalksteinformationen, ausläufer der cordillera, caffeci und einkaufen
-* Zum camping und vor der rezeption sitzen und warten
-* Draufkommen dass am sportplatz neben an um halb eins in der früh ein konzert beginnt
-* Wie die rezeption öffnet zampcken und wildcampen auf einem feld direkt neben dem camino
-* Neugierige einsame kuh
+Am Weg raus aus *León* zum *Decathlon*.
+Die Kette will ich diesmal tauschen vor sie Kassette und Kettenblätter ruiniert.
+Das geht mit einer Kettenlehre.
+Das Stück Stahl ist exakt gestanzt auf die Länge von 10 Kettengliedern.
+Drauflegen und schauen was passiert.
 
 {% include image.html path="media/picos/kettenlehre.jpg" alt="" link="https://photos.app.goo.gl/jVLncGpiBMNNe7WK8" %}
 
+Fahrradketten längen sich mit der Zeit, durch Abrieb an den Stiften und Laschen der Gelenke entsteht Spiel.
+Eine zu lange Kette passt nicht mehr exakt auf die Zähne von Kassette und Kettenblättern, Kraftübertragung an den wenigen Auflagepunkten.
+Kassette und Kettenblättern nützen sich einseitig ab.
+Früher oder später rutscht die Kette unter Last über die Zähne, der Tritt ins Leere.
+
+An meiner neuen Kette attestiert die Messlehre geringe Längung.
+Kathis Kette ist über-überlang, der gesamte Antrieb zum Wegschmeißen.
+Funktioniert.
+
+Aus *León* draußen über den *Río Torío* und auf eine kleine Hochebene auf 900 m.
+Durch die Luft voller Flocken, am Boden Schnee, Pappelwolle.
+Die Felder frisch gepflügt, der lehmig rötliche Boden in riesigen Klumpen.
+Blick zurück auf *León*, die Kathedrale sticht hervor.
+Am Horizont vor uns die Ausläufer der *Cordillera Cantábrica*.
+
 {% include image.html path="media/picos/acker.jpg" alt="" link="https://photos.app.goo.gl/mDNrDANMcgHQT4JRA" %}
+
+Über Nebenstraßen zur CL-624 und fast kerzengrad 25 km bis *Vegaquemada*.
+Auf halbweg Mittagspause in *Ambasaguas de Curueño* in einer Wiese bei der romanischen Kirche.
+Der Ort ausgestorben, Schnabelklackern eines Storchs wie er aus seinem Nest am Kirchturm spechtelt.
 
 {% include image.html path="media/picos/pause.jpg" alt="" link="https://photos.app.goo.gl/XAoKRVr4VWe29qms5" %}
 
+Weiter auf der CL-624.
+In *Vegaquemada* nach Osten abbiegen und parallel zum *Camino Olvidado* 15 km nach *Cistierna*.
+Viele kleine Orte am Weg aber nirgendwo ein Lokal.
+
+Hinter dem kleinen *Cistierna* werden die Gipfel der *Cordillera* höher.
+Auf der Brücke über den *Río Esla* Blick auf die schönen Karstformationen.
+
 {% include image.html path="media/picos/cistierna.jpg" alt="" link="https://photos.app.goo.gl/tjo5gHHRKwN5xdyT9" %}
+
+Einkaufen im *Alimerka* und zum Campingplatz *Reino de Vadinia*.
+Die Rezeption hat noch eine gute Stunde *Siesta*.
+Am unfeinen Bankerl bei der Tür sitzen und die Dauercamper beobachten.
+Einer versucht seinen Hund einzufangen, ein anderer bastelt an seiner Angel.
+
+Am angrenzenden Sportplatz rollt ein großer Lkw ein, den Schriftzug auf der Seitenplane schon mal wo gesehen.
+Das Plakat an der Tür der Campingbar nochmal genauer anschauen, heute Nacht um halb eins ein Livekonzert am Sportplatz.
+
+Wie wir zampacken sperrt grad der Rezeptionist auf und entschuldigt sich für die Verspätung.
+Kein Problem!
+
+In der Abendsonne über die Brücke zurück ans andere *Esla*-Ufer.
+Auf einer Schotterpiste dem *Camino Vadiniense* ein Stück nach Norden folgen.
+Ein kleines Wasserkraftwerk, dahinter zwei Kletterer am Fuß einer Steilwand.
+
+Eine behörnte Kuh poltert mit Schwung den Hang herunter und trottet vor uns her.
+Nicht trauen sie zu überholen.
+Auf einer kleinen Weide am Fuß eines felsigen Hügels die vielen Disteln auszupfen und das Zelt aufschlagen.
+Die einsame Kuh beobachtet uns aus dem Gebüsch.
+
+Schnell verschwindet die Sonne hinter dem Hügel.
 
 {% include image.html path="media/picos/kuh.jpg" alt="" caption="Was machts ihr da?" link="https://photos.app.goo.gl/b2pCGR5FYPu6isgk6" %}
 
