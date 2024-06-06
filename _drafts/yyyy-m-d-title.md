@@ -12,4 +12,3 @@ sudo sh compress.sh folder/file.MOV 1
 
 video drehen und auf mp4 konvertieren:
 ffmpeg -i folder/file.MOV  -vf "transpose=2" file.mp4
-
