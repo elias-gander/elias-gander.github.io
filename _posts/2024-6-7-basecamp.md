@@ -1,5 +1,5 @@
 ---
-title:  "Land in Sicht"
+title:  "Basecamp"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/kelufeteke" %}
