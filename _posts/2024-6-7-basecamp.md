@@ -148,7 +148,7 @@ Auf den Platz passen keine großen Wohnmobile, deswegen ist er voll mit kleinen.
 Modale Filter aus großen Steinen reservieren die Zeltwiese für Zelte.
 Vorm aufgeschlagenen Basecamp den Antrieb vom frisch gesammelten Staub befreien.
 
-{% include image.html path="media/basecamp/campsite.jpg" alt=Zelt steht unter einem Walnussbaum, daneben Kathi die ihr Rad putzt" link="https://photos.app.goo.gl/NK2bjogYQxBVVFNs6" %}
+{% include image.html path="media/basecamp/campsite.jpg" alt="Zelt steht unter einem Walnussbaum, daneben Kathi die ihr Rad putzt" link="https://photos.app.goo.gl/NK2bjogYQxBVVFNs6" %}
 
 Am Abend in den 'Ort' spazieren.
 *Fuente De* besteht aus einer Seilbahn und zwei Hotels.
