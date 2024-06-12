@@ -10,22 +10,6 @@ Gleichzeitig das Gefühl nur einen winzigen Ausschnitt der durchquerten Gegenden
 
 ### Von den Picos nach Santander ### 
 
-Fuente De - Gerra
-* Wieder morgensonne am zelt
-* Gespräch mit zeltnachbar, schwäbischer biker/wanderer
-* Gemütlich losstarten um 11
-* Rasant bergab, bald die gipfel hinter uns
-* Mittagspause und einkaufen in Potes, ur viel los, straßen und parkplätze voll mit bussen und autos, nette altstadt, fachwerkshäuser direkt überm bach, bergpanorama
-* Durch ein enges steiles tal die straße runterschlängeln, viele straßenbaustellen, ampelphasen kritisch als radler
-* Kaffeepause in La Hermida, rennradler und motoradfahrer
-* Wunderschöne karstlandschaft, obwohl alle weit unter 1000 meter hoch, felsig und steil
-* Felsen verschwinden langsam, hügel werden sanfter, weite wiesen und eukalyptuswälder
-* Der fluss grenze zwischen asturia und cantabria, über panes ein stück in asturia, dann in unquera endgültig abbiegen nach cantabria, snackpause und kaffee
-* Bei san vicente dann das meer, überall kühe, schöne gotische? Kirche hoch auf halbinsel, neblig, mystisches licht
-* In san vicente über zwei brücken (römer?)
-* Am kap dahinter im kaff gerra unsere unterkunft, direkt an einem grashang überm meer
-* In der untergehenden sonne schaukeln, kühen beim grasen und falken beim segeln zuschauen, kein autolärm, eine katze pirscht herum
-
 Die Sonne scheint aufs Zelt und treibt aus den Schlafsäcken.
 Tag der Abreise, das Basecamp unter den *Picos* abbauen.
 
@@ -89,17 +73,6 @@ Am Himmel kreisen Falken auf Beutesuche, eine rot getigerte Katze schleicht heru
 
 {% include image.html path="media/todo/schaukeln.jpg" alt="" link="https://photos.app.goo.gl/DcJ2e6y1NFbJmdZc9" %}
 
-
-Gerra
-* Gemütlicher vormittag, weiterreise mach santander und england organisieren
-* Bedecktes wetter, immer wieder nieselregen, alles feuchtlt leicht, typisches wetter
-* Mit dem radl nach comillas, el capricho von gaudi, sonnenblume und musik zieht sich durch, lichhtdurchflutet, stühle am dachboden probieren
-* Einkaufen und durchs nette zentrum flanieren
-* was ist kaffee torrefacto, verbrannter zucker im kaffee 50/50
-* Churros am platz … ur überteuert, französische schulklasse
-* Park guell underwhelming
-* Chillen daheim
-
 Den Vormittag den Planungen und Buchungen des weiteren Reiseverlaufs widmen.
 Aus dem bleigrauen Himmel geht im Halbstundentakt leichtester Nieselregen.
 
@@ -116,124 +89,120 @@ Die Symbolik der Musik und Sonnenblume zieht sich durch Fassade und Innenräume.
 Die fünf mit Sonnenblumen verzierte Fliesenreihen an der Fassade repräsentieren fünf Notenlinien.
 Die kleineren Fenster hängen wie Noten zwischen den Linien.
 
-Auftraggeber war der *Indiano* Máximo Díaz de Quijano. der sie aber nur sieben Tage bewohnte vor er an einem Herzinfarkt starb?
-*Indianos* nannte man in Spanien jene die während der Krisen des 18. und 19. Jahrhunderts nach Lateinamerika emigrierten und mit großem Vermögen 
+Auftraggeber war der *Indiano* Máximo Díaz de Quijano.\\
+Das Spanien des 18. und 19. Jahrhunderts leidet unter wirtschaftlicher Rezession und politischen Unruhen.
+In Hoffnung auf bessere wirtschaftliche Verhältnisse wandern viele in die lateinamerikanischen Kolonien aus.
+Manche kommen dort zu großem Reichtum und kehren zurück nach Spanien.
+Hier nennt man sie *Indianos*.\\
+Máximo Díaz de Quijano stirbt 1885, wenige Monate nach Fertigstellung seiner Villa.
 
 {% include image.html path="media/todo/capricho.jpg" alt="" link="https://photos.app.goo.gl/PLops23KFkssqUzj6" %}
 {% include image.html path="media/todo/buntglas.jpg" alt="" link="https://photos.app.goo.gl/YDkfU6GDqxdr3cURA" %}
 {% include image.html path="media/todo/fliesen.jpg" alt="" link="https://photos.app.goo.gl/aLc6g8F42CUyCzhr9" %}
 
-Im *Lupa* unweit der *Placa ...* einkaufen.
-Vorm Kaffeeregal stehen, der ausgezeichnete *Delta* Kaffee aus Portugal aufgebraucht.
-Auf den Etiketten der spanischen Kaffeemarken steht 50/50 oder 80/20.
-Bezeichnet keine Arabica-Robusta Mischungsverhältnisse sondern der Anteil an *Cafe Torrefacto*.
-...
+Im *Lupa* an der *Plaza de Corro Campíos* einkaufen.
+Vorm Kaffeeregal stehen, das Pakerl ausgezeichneten *Delta* Kaffee aus Portugal ist aufgebraucht.
+Auf den Etiketten der spanischen Kaffeemarken liest man *Mezcla* ('Mischung') 50/50 oder 80/20.
+Bezeichnet kein Arabica-Robusta Verhältnis sondern den Anteil an *café torrefacto*.
+In Spanien ist es üblich bei der Röstung Zucker zuzugeben.
+Der Zucker karamellisiert und glasiert die Kaffeebohnen.
+Die glasierten Bohnen sind länger haltbar, der Kaffee schmeckt anders.
+Hersteller sagen besser, *Specialty-Coffee*-Jünger sagen grauslig.
+Einen normalen Kaffee kaufen.
 
 {% include image.html path="media/todo/torrefacto.jpg" alt="" link="https://photos.app.goo.gl/JECviLepgfciB3UQ8" %}
 
 Zu hungrig um direkt heimzuradln.
-Zur ... an der Plaza ...
-Das Lokal leer, zwei Kaffee und eine Portion *Churros*.
-Die Churros ölig und die Rechnung horrend, nächstes Mal vorher die wütenden *Google Maps* Bewertungen lesen.
+Zur nahen *Churrería Chocolatería Comillana* an der *Plaza*.
+Das Lokal leer, Kaffee und eine Portion *Churros*.
+Ölige *Churros* und horrende Rechnung, die wütenden *Google Maps* Bewertungen nächstes Mal vorher lesen.
 Eine französische Schulkasse strömt in das Lokal.
 
 {% include image.html path="media/todo/churros.jpg" alt="" link="https://photos.app.goo.gl/aC5ZrXdBu5MoyaP27" %}
 
-Vorm Losradln Stop im *Park Guell* von *Comillas*.
-Blick über die Bucht aber man sieht nicht weit, zu neblig.
+Kleiner Umweg über den *Parque Güell y Martos*.
+Blick über die *Playa de Comillas* die im feuchten Nebel eher trist wirkt.
 Heimradln im Nieselregen.
 
-Gerra - Santilla
-* am morgen spaziergang zum meer runter, durch die kuhweiden
-* Surfercamp
-* 25 km nach santilla, zuerst wieder nach Comillas, viel hügel rauf runter, wetter neblig immer wieder nieselregen
-* Einkaufen und mittagessen beim Lupa vorm ort, sitzen auf der parkplatzmauer
-* Durch Santillas, viele touris, vorbei am zoo, und hoch ins kaff vispieres, altes haus, nebenan falsch rein, senile oma schaut fern, pflegerin hilft uns weiter
-* Zur Höhle von Altamira radln, echte höhle gesperrt aber kompletter nachbau mit malereien, steinzeitmuseum
-
 Kurze Etappe nach *Santillana del Mar*.
-Vor der Abreise Spaziergang durch die Rinderherden runter zu den grasigen Klippen.
+Vor der Abreise Spaziergang vorbei an den Rinderherden runter zu den grasigen Klippen.
 Wie immer bedeckter Himmel und Nieselregen.
-Drei ältere Pilger wandern den erdigen Pfad der zerklüftete Küste entlang, hier verläuft der *Camino del Norte?*.
+Drei ältere Pilger wandern den erdigen Pfad der zerklüftete Küste entlang, hier verläuft der *Camino del Norte*.
 
 {% include image.html path="media/todo/spaziergang.jpg" alt="" link="https://photos.app.goo.gl/SDAsETYqKfRAZckX8" %}
 
-Froh das feuchtelnde Zimmer zu verlassen, nichts trocknet in diesem Wetter.
-Hügelig anderthalb Stunden nach *Santillana*, am *Lupa* vorm Ort Einkaufen und auf der Parkplatzmauer Mittagessen.
+Froh das feuchtelnde Zimmer zu verlassen, kein Handtuch, keine Socke trocknet jemals in diesem Wetter.
+Hügelige anderthalb Stunden nach *Santillana*, froh doch die Radhose angezogen zu haben.
+Am *Lupa* kurz vorm Ort Einkaufen und auf der Parkplatzmauer Mittagessen.
 Wieder Regen.
 
 Auf einem Hügel hinter *Santillana*, im kleinen *Vispieres* die nächste Pension.
-Den falschen Hauseingang nehmen und im Wohnzimmer einer senilen Dame stehen.
-Der Bub der Pflegerin holt seine Mutter die uns zur nächsten Tür schickt.
+Durch das Gartentor und die offene Haustür.
+Im Wohnzimmer einer verdatterten altersschwachen Dame stehen.
+Ein Bub am Gang holt seine Mutter, die Pflegerin die uns zur nächsten Tür schickt.
 Niemand dort, ein Mann am Telefon leitet durch die Schubladen der Rezeption zum Zimmerschlüssel.
 
-Mit dem Rad eine Viertelstunde zur *Cueva de Altamira?*.
-Die ... große Höhle ... entdeckt von ... 
-Massive Besucherströme in den ... Jahren gefährden die Höhlenmalereien.
-Seit ... ist die Höhle nur mehr für wenige ... Menschen pro Jahr betretbar.
-... deshalb der exakte Nachbau, für alle zu besichtigen.
+Mit dem Rad eine Viertelstunde zur *Cueva de Altamira*.
+1870 entdeckt der Hobbyarchäologist Marcelino Sanz de Sautuola die etwa 1.000 Meter lange Karsthöhle.
+Die Decke übersät mit kunstvollen Darstellungen von Bisons, Pferden und Hirschen.
+Archäologische Ausgrabungen am Höhlenboden belegen die Bewohnung durch Menschen vor etwa 18.500 Jahren.
+Vor gut 13.000 Jahren versiegelt ein Felssturz den Höhleneingang.
+
+1974 knackt *Altamira* den Besucherrekord von 174.000.
+Der Atem der vielen Besucher:innen verändert das Mikroklima der Höhle, die Malereien werden beschädigt.
+Ab 1977 ist *Altamira* für die Öffentlichkeit gesperrt.
+2001 der Bau des *Museo Nacional y Centro de Investigación de Altamira*.
+In dem darin befindlichen exakten Nachbau der Höhle die Höhlenmalereien in Ruhe bewundern.
 
 {% include image.html path="media/todo/hoehle.jpg" alt="" link="https://photos.app.goo.gl/wbmoD5pFwkEAsHZN6" %}
 
-Einblicke ins Leben vor 30.000 Jahren im anschließenden Museum.
+In zahllosen Videos faszinierende Einblicke in den menschlichen Altag vor langer langer Zeit.
 
-{% include video.html path="media/todo/steinzeit.mp4" link="https://photos.app.goo.gl/NXC3M2LeoKFe2KLc9" %}
+{% include video.html path="media/todo/steinzeit.mp4" caption="Wie man einen Feuerstein zurechthaut" link="https://photos.app.goo.gl/NXC3M2LeoKFe2KLc9" %}
 
-
-Santilla - Santander
-* Wieder neblig und ständig nieselregen drinnen wie draußen feuchtlt alles
-* Unspektakuläre fahrt nach santander durch peripherie auf landstraße
-* Schlemmen beim telepizza
-* Kleine zelle in einer wohnung in einem commieblock, eine junge familie aus peru untervermietet ein zimmer mit winzigem fenster und bett
-* Santander ur steil und abgeranzt, überall hundegaggis auf der straße, ungepflegte häuser
-* Vegane nuggets im burgerking
-* Es beginnt zu regnen, Vermut im cafe la catedral, ein kellner dreht runden mit einem riesigen tablett tapas und verteilt gratisproben
-* Angeschwipst heimgehen, einkaufen beim kleinen coviran ums eck
-* in der ranzigen küche toasts machen, über dem wasserhahn ist eine lange weiße tennissocke gestülpt, der gasherd abgedeckt mit verdrecktem staniolpapier, der ofen kabinett für töpfe und pfannen, am herd ein topf mit essensressen in verwesung
-* Im zimmer hitze trotz offenem fenster, pinker mini kühlschrank rennt auf max
-* Festen schauen
-
-Bleigrauer Himmel, Nieselregen.
-An Kathis Rad zuzln 8? große Schnecken.
-Es hat geregnet über Nacht, frisches Öl für die Kette vorm Losradln.
+Am nächsten Morgen bleigrauer Himmel, Nieselregen.
+An Kathis Rad zuzeln 8 große Schnecken.
+Regen über Nacht, Flugrost an der Kette, ein paar Tropfen Öl vorm Losradln.
 
 {% include image.html path="media/todo/schnecke.jpg" alt="" link="https://photos.app.goo.gl/w1rk4tnfS7cfTcoB9" %}
 
 Die letzten 40 km nach *Santander* durchgängig ereignislos und schiach.
-Immer der N-611 folgen, schöne Landschaften sind, falls vorhanden, hinter den dichten Nebelwänden.
+Immer der N-611 folgen, schöne Landschaften liegen, falls vorhanden, hinter den dichten Nebelwänden.
 
 {% include image.html path="media/todo/nebel.jpg" alt="" link="https://photos.app.goo.gl/xr7Fqv9UcX289Wv38" %}
 
-Ein langes Stück Peripherie von *Santander*, beim *Telepizza* eine dekadente Pizza mit Barbecuesoße essen.
-Telepizza facts ...
+Ein langes Stück Peripherie von *Santander*.
+Nach drei Monaten Spanien endlich zum *Telepizza*.
+Perfekter Teig aber Pizza mit BBQ-Soße muss nicht sein.
 
 {% include image.html path="media/todo/telepizza.jpg" alt="" link="https://photos.app.goo.gl/iQ9frs7zHgAK4YDo9" %}
 
 *Santander* ist abseits von Hafen und Altstadt sehr steil und ranzig.
-Heruntergekommene Plattenbauten reihen sich aneinander, die Gehwege voller Hundescheisse.
-In der *Calle San Sebastian?* unser Airbnb in einem dieser Häuser.
+Straßenzüge heruntergekommener Plattenbauten, die Gehwege voller Hundegaggis.
+In der *Calle San Sebastián* unser Airbnb in einem solchen Plattenbau.
 Eine junge Familie vermietet eine kleine Zelle in ihrer sanierungsbedürftigen Wohnung.
 
-{% include image.html path="media/todo/zelle.jpg" alt="" link="https://photos.app.goo.gl/N7BxuM8oVP3whX4K9" %}
+{% include image.html path="media/todo/zelle.jpg" alt="" caption="Immerhin hats ein Fenster" link="https://photos.app.goo.gl/N7BxuM8oVP3whX4K9" %}
 
-Kleiner Stadtrundgang, auf der verkehrgeplagten *Plaza ...* treibt der Hunger zum *Burger King*.
-Köstliche vegane Nuggets verschlingen zwischen Scharen von Teenagern, Samstagabend.
+Kleiner Stadtrundgang, auf der verkehrgeplagten *Plaza de Ayuntamiento* treibt der Hunger zum *Burger King*.
+Zwischen Scharen von Teenagern, vegane Nuggets einatmen, Samstagabend.
 
-Ein Stück die *calle ...* weiter zur *plaza ...*, hier steht die Kathedrale von *Santander*.
-Schwere Tropfen fallen, ins *Cafe Catedral* flüchten.
+Ein Stück die *Calle Calvo Sotelo* weiter zur *Plaza Asunción*, hier steht die Kathedrale von *Santander*.
+Schwere Tropfen fallen, ins *Café La Catedral* flüchten.
 Kaffeehausflair auf engstem Raum, abgegriffenes Messing und klarlackierte Holzflächen.
-Reger Betrieb mit vor allem älterem Publikum.
-Roter Vermut mit viel Eis, ein Kellner verteilt dekadente Tapas von einem riesigen Tablett.
+Reger Betrieb, älteres Publikum.
+*Vermú rojo* mit viel Eis, ein Kellner verteilt dekadente Tapas von einem riesigen Tablett.
 
-Beschwipst heimgehen, die Kathedrale ist schon längst zu.
+Heiter heimgehen, die Kathedrale ist schon längst zu.
 Einkaufen beim winzigen *Coviran* ums Eck.
-In der ranzigen Küche Toasts machen und für die Fähre Spaghetti vorkochen.
-Eine weiße Tennissocke hängt über dem Wasserhahn gestülpt, vermutlich als Mischer?
-Der Ofen fungiert als Kabinett für Töpfe und Pfannen.
-Am Herd steht ein Topf mit verwesten Essensresten.
-Die herzliche und unkomplizierte Art der jungen Eltern macht es wett.
+In der ranzigen Küche Käsetoasts für jetzt und Spaghetti für die Weiterreise.
+Eine vollgesogene weiße Tennissocke als Strahlregler über den Wasserhahn gestülpt.
+Der kaputte Ofen als Kabinett für Töpfe und Pfannen.
+Am Herd ein Topf mit verwesenden Essensresten.
+Die überaus herzliche und unkomplizierte Art der jungen Eltern machts wett.
 
-Der pinke Minikühlschrank in unserem Zimmer heizt ordentlich, mit offenem Fenster auf das winzige Bett legen so gut es geht.
+Der pinke Minikühlschrank in unserem Zimmer heizt ordentlich.
+Mit offenem Fenster auf das winzige Bett legen und um Platz schubsen.
 
 ### Bilbao ### 
 
@@ -250,51 +219,62 @@ Der pinke Minikühlschrank in unserem Zimmer heizt ordentlich, mit offenem Fenst
 * mit dem zug zurück zur busstation, im buga ramen essen
 * mit dem bus zurück nach santander
 
+*Santander* ist die Hauptstadt der Region *Cantabria*.
+Im Osten grenzt diese an das Baskenland.
+Wenige Kilometer hinter der Grenze liegt *Bilbao*, die größte Stadt des Baskenlandes.
+Der wahre Name der Region im Baskischen ist *Euskadi*.
+Das Baskische ist die einzige isolierte Sprache Europas, sie ist mit keiner anderen Sprache verwandt.
 
-*Bilbao* ist die Hauptstadt des benachbarten Baskenlandes.
-Im Nieselregen zum Busbahnhof von *Santander* und ein einhalb Stunden nach *Bilbao*.
-Das Baskenland ist eine wohlhabende Region in Nordostspanien.
-Das Baskische eine isolierte Sprache ohne Verbindung zu den übrigen europäischen Sprachen, die zweisprachigen Straßenschilder komplett unverständlich.
+Am späten Vormittag im Nieselregen zum Busbahnhof von *Santander* und anderthalb Stunden nach *Bilbao*.
+*Euskadi* ist eine der wohlhabendsten Regionen Spaniens.
+Die zweisprachigen Straßenschilder vor *Bilbao* komplett unverständlich.
 
 {% include video.html path="media/todo/bus.mp4" link="https://photos.app.goo.gl/PcHHUVGBj19ef8ZU9" %}
 
-Aus dem modernen Busbahnhof auf die *Plaza ...* und mit der Bim zum Guggenheim Museum am Ufer des ...
-Das berühmte Gebäude von Frank Gehry mit dem fließenden Metallgebilde auf einem Sockel aus ... nur von außen bestaunen.
-An der Fassade sind 33.000 hauchdünne Titanplatten verbaut, Gesamtgewicht nur rund 60 Tonnen.
-...
+Aus dem modernen Busbahnhof auf den weiten Vorplatz.
+Die ersten Sonnenstrahlen seit vier Tagen verschwinden bald wieder hinter den Wolken.
+Mit der Bim den *Nerbioi*-Fluss entlang zum Guggenheim Museum.
+Das berühmte Gebäude von Frank Gehry mit dem fließenden Metallgebilde auf einem Sockel aus kalksteinverkleidetem Beton nur von außen bestaunen.
+An der Fassade sind 33.000 hauchdünne Titanplatten verbaut.
+Die 0.4 mm dünnen Platten wiegen insgesamt *nur* rund 60 Tonnen.
 
 {% include image.html path="media/todo/guggenheim.jpg" alt="" link="https://photos.app.goo.gl/4a9uKjBfbq8ESiCx8" %}
 
-*Bilbao* ist fußläufig erschließbar.
-Durch die neue Stadtmitte zum *azkuna zentroa* ein zu einem Kulturzentrum umgebautes ...
-Im Erdgeschoss eine schummrige Halle mit ... Säulen im Stil verschiedener vergangener Epochen.
-Highlight ist das Stück Glasdecke zum darüberliegenden öffentlichen Schwimmbad.
+Durch die rasterartigen Straßen des *Abando*-Viertels zum *Azkuna Zentroa*.
+Das monumentale Gebäude mit Jugendstilfassade wird 1909 als Weinlager angelegt.
+2010 der Umbau in ein Kultur- und Freizeitzentrum, die Fassade bleibt erhalten.
+Im Erdgeschoss eine schummrige Halle mit 43 enormen Säulen jede in einem anderen Stil einer vergangene Epochen.
+Hoch über einem Gang eine Glasdecke zum darüberliegenden öffentlichen Schwimmbad.
+Am Sonntag tote Hose.
 
 {% include video.html path="media/todo/schwimmbad.mp4" link="https://photos.app.goo.gl/t8NKeVLkzxPw5Xru9" %}
 
 Dem Regen ausharren in einem Coffeeshop ums Eck.
-Eine Weile Schreiben dann weiterspazieren zum *...*.
-Vor den überdachten Stumpfgleisen über den Rolltreppen ein riesiges Buntglasgemälde ...
+Eine Weile Tippen dann weiterspazieren zum Bahnhof von *Abando*.
+Die Rolltreppen hoch zu den Stumpfgleisen.
+Umdrehen und auf das riesige Buntglasfenster schauen.
 
 {% include image.html path="media/todo/bahnhof.jpg" alt="" link="https://photos.app.goo.gl/26rqXUeQmfhNLKZX7" %}
 
-Wenig weiter die *...*. Die Öffistation mit prächtiger Jugendstilfassade ist eingerahmt von hässlichen Plattenbauten und dem ranzigen Kanal ...
-Über die Brücke in die Altstadt.
+Wenig weiter zum kleinen *La Concordia* Bahnhof. 
+Die prächtige Jugendstilfassade überragt von einem hässlichen Plattenbau, darunter der ranzige kanalartig eingefasste *Nerbioi*.
+
+Die *Areatzako Zubia* über den Fluss in die Altstadt.
 *Bilbao* ist eine schöne moderne Stadt, die Kathedrale und alten Gebäude ziehen wenig an.
 
 {% include image.html path="media/todo/jugendstil.jpg" alt="" link="https://photos.app.goo.gl/3Rfem2PQuWXrsx2o6" %}
 
-Mit der Metro weit raus aus der Stadt nach *...*.
-Kurz vor der Mündung des ... lässt eine Hängebrücke ihre Gondel über den Fluss schweben.
-Die ... erbaute Brücke ist die älteste ihrer Art und das einzige industry UNESCO in Spanien.
-... m hoch ermöglicht sie die durchfahrt großer Schiffe.
-Heute wohl nicht mehr notwendig? warum keine normale brücke?
-Die Überfahrt kostet 55 c und dauert nur wenige Minuten.
-Am Tag nutzen gut 16.000 Personen die Brücke.
+Mit der Metro weit raus aus der Stadt ins *Areeta*-Viertel.
+Kurz vor der Mündung des *Nerbioi* lässt ein Brückenträger eine Gondel über den Fluss schweben.
+Die 1893 erbaute *Bizkaiko Zubia* ist die älteste Schwebefähre der Welt.
+Die Vorteile der Konstruktion sind die freie Durchfahrt von Schiffen und die ebenerdige Auffahrt auf die Gondel.
+
+Eine Überfahrt dauert wenige Minuten und kostet als Fußgänger:in 55 Cent.
+Die Gondel fährt alle 8 Minuten, 24 Stunden am Tag, 365 Tage im Jahr.
+Jeden Tag nutzen sie gut 16.000 Personen.
 
 {% include image.html path="media/todo/gondel.mp4" link="https://photos.app.goo.gl/JhGMkTAJFqCGNdks7" %}
 
-Mit der *RENFE* von ... zurück zum Busbahnhof.
-Für eine Schüssel Ramen zum *Buga Ramen* hetzen.
-Um halb 10 wieder im Bus, die Sonne geht über dem Meer unter.
-Einen grusligen Thriller am Bildschirm in der Kopflehne schauen.
+Mit der *Renfe* von *Portugalete* zurück zum Busbahnhof.
+Für eine Schüssel Ramen zum *Buga Ramen* hetzen und um halb 10 wieder im Bus sitzen.
+Wie die Sonne über dem Golf von Biskaya untergeht einen grusligen Thriller am Kopfstützenmonitor schauen.
