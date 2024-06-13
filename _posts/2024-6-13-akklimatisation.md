@@ -7,7 +7,7 @@ title:  "Akklimatisation"
 3.000 km geradlt und knapp drei Monate unterwegs.
 Macht am Tag nur etwa 35 km.
 Zähes Vorwärtskommen und gleichzeitig das Gefühl nur einen winzigen Ausschnitt der durchquerten Gegenden wahrzunehmen.\\
-Wo liegt der *Sweet Spot* bei der Reisegeschwindigkeit?
+Den *Sweet Spot* der Reisegeschwindigkeit gefunden?
 
 ### Von den Picos nach Santander ### 
 
