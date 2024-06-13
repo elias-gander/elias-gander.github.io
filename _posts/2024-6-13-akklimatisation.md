@@ -1,14 +1,13 @@
 ---
-title:  "TODO titel"
+title:  "Akklimatisation"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/hotevazejo" %}
 
-3.000 km geradlt und fast drei Monate unterwegs, macht etwa 35 km am Tag.
-Klingt nach wenig und das Vorankommen fühlt sich auch zäh an.
-Gleichzeitig ständig das Gefühl nur einen winzigen Ausschnitt der durchquerten Gegenden wahrzunehmen. 
-
-todo noch ein bissi einleitung
+3.000 km geradlt und knapp drei Monate unterwegs.
+Macht am Tag nur etwa 35 km.
+Zähes Vorwärtskommen und gleichzeitig das Gefühl nur einen winzigen Ausschnitt der durchquerten Gegenden wahrzunehmen.\\
+Wo liegt der *Sweet Spot* bei der Reisegeschwindigkeit?
 
 ### Von den Picos nach Santander ### 
 
@@ -19,7 +18,7 @@ Der schwäbische Biker nebenan wünscht alles Gute.
 Warum wir so viel Zeit haben wolle er noch wissen.
 Er sei in Pension und habe sie ja.
 
-{% include image.html path="media/todo/morgensonne.jpg" alt="Schatten von Blättern am Zeltdach" link="https://photos.app.goo.gl/2TXeZH7XYdimc6gR7" %}
+{% include image.html path="media/akklimatisation/morgensonne.jpg" alt="Schatten von Blättern am Zeltdach" link="https://photos.app.goo.gl/2TXeZH7XYdimc6gR7" %}
 
 Gemütlich losradln um 11.
 Bergab auf der N-621 immer dem *Río Deva* entlang.
@@ -41,7 +40,7 @@ Viele Straßenbaustellen unterbrechen die sich am Hang entlangschlängelnde N-62
 Lange ampelgeregelte Straßenabschnitte, Stress von den folgenden wie entgegenkommenden Kfz, die Ampeln nicht auf Radfahrende getaktet.
 Entspannter durchradln wenn Bauarbeiter mit Funkgeräten Ampel spielen.
 
-{% include image.html path="media/todo/abfahrt.jpg" alt="Kathi radlt auf einer Straße, an den Seiten Berge aus Kalkgestein" link="https://photos.app.goo.gl/kRc6Yx1tRVu2VZvF8" %}
+{% include image.html path="media/akklimatisation/abfahrt.jpg" alt="Kathi radlt auf einer Straße, an den Seiten Berge aus Kalkgestein" link="https://photos.app.goo.gl/kRc6Yx1tRVu2VZvF8" %}
 
 In *La Hermida* Kaffeepause.
 Vor dem Gasthaus inmitten steiler Karstwände reihen sich die Motorräder.
@@ -50,7 +49,7 @@ Bei *Unquera* ist der *Río Deva* zu einem mächtigen Strom angeschwollen, kurz 
 Wieder die Grenze zu *Asturia*.
 Jause am Flussufer und endgültig Richtung Westen und in die Provinz *Cantabria* abbiegen.
 
-{% include image.html path="media/todo/cantabria.jpg" alt="Eine weite Hügellandschaft mit Weiden und Wäldern" link="https://photos.app.goo.gl/W2znBVnrY6cNCE7i6" %}
+{% include image.html path="media/akklimatisation/cantabria.jpg" alt="Eine weite Hügellandschaft mit Weiden und Wäldern" link="https://photos.app.goo.gl/W2znBVnrY6cNCE7i6" %}
 
 Kühle Meeresluft vom Golf von Biskaya, in dem weiten Weideland grasen fuchsbraune Rinderherden.
 Über eine Brücke ins schöne *San Vicente de la Barquera*.
@@ -58,12 +57,12 @@ Eine mächtige gotische Kirche überthront den altertümlichen Ortskern.
 Die Abendsonne leuchtet durch kleine Risse in der Wolkendecke und hüllt die umliegenden Hügel in mystisches Licht.
 Den Ort verlassen über die 28 Bögen der *Puente de la Maza*, eine flache Steinbrücke aus dem 16. Jahrhundert.
 
-{% include image.html path="media/todo/puente.jpg" alt="Eine niedrige Brücke mit 28 Bögen" link="https://photos.app.goo.gl/9fg7YQUi83hRRc919" %}
+{% include image.html path="media/akklimatisation/puente.jpg" alt="Eine niedrige Brücke mit 28 Bögen" link="https://photos.app.goo.gl/9fg7YQUi83hRRc919" %}
 
 Hoch durch dichten Eukalyptuswald.
 Oben Blick auf die *Playa de Merón* und die dahinterliegenden Klippen.
 
-{% include image.html path="media/todo/meer.jpg" alt="Eli steht auf einer Anhöhe, im Hintergrund ein weiter Strand, Klippen und grasbewachsene Hügel" link="https://photos.app.goo.gl/xDpnAoKhq38f11H68" %}
+{% include image.html path="media/akklimatisation/meer.jpg" alt="Eli steht auf einer Anhöhe, im Hintergrund ein weiter Strand, Klippen und grasbewachsene Hügel" link="https://photos.app.goo.gl/xDpnAoKhq38f11H68" %}
 
 Weiter auf der Landstraße bis zur kleinen Siedlung *Gerra*.
 Die spartanische *Pensión Oyambre* liegt auf einem grasigen Hang überm Meer.
@@ -71,7 +70,7 @@ Das Haus voller Fliegen, unzählige Kühe grasen auf den endlosen Weiden der Umg
 Auf der Schaukel vorm Haus sitzen und aufs Meer schauen.
 Am Himmel kreisen Falken auf Beutesuche, am Boden schleicht eine rot getigerte Katze umher.
 
-{% include image.html path="media/todo/schaukeln.jpg" alt="Kathi und Eli auf einer Schauel mit Blick aufs Meer, am unteren Bildrand eine rot getigerte Katze" link="https://photos.app.goo.gl/DcJ2e6y1NFbJmdZc9" %}
+{% include image.html path="media/akklimatisation/schaukeln.jpg" alt="Kathi und Eli auf einer Schauel mit Blick aufs Meer, am unteren Bildrand eine rot getigerte Katze" link="https://photos.app.goo.gl/DcJ2e6y1NFbJmdZc9" %}
 
 Den Vormittag der Planung des weiteren Reiseverlaufs widmen.
 Aus dem bleigrauen Himmel geht im Halbstundentakt Nieselregen.
@@ -96,11 +95,11 @@ Manche kommen zu großem Reichtum und kehren zurück in die Heimat.
 Hier nennt man sie *Indianos*.\\
 Máximo Díaz de Quijano stirbt 1885, wenige Monate nach Fertigstellung seiner Villa.
 
-{% include image.html path="media/todo/capricho.jpg" alt="Eine bunte Villa hinter einem Platz mit hufeisenförmiger Grünfläche" link="https://photos.app.goo.gl/PLops23KFkssqUzj6" %}
+{% include image.html path="media/akklimatisation/capricho.jpg" alt="Eine bunte Villa hinter einem Platz mit hufeisenförmiger Grünfläche" link="https://photos.app.goo.gl/PLops23KFkssqUzj6" %}
 
-{% include image.html path="media/todo/buntglas.jpg" alt="Buntglasfenster mit einer gitarrespielenden Biene und einer klavierspielenden Amsel" link="https://photos.app.goo.gl/YDkfU6GDqxdr3cURA" %}
+{% include image.html path="media/akklimatisation/buntglas.jpg" alt="Buntglasfenster mit einer gitarrespielenden Biene und einer klavierspielenden Amsel" link="https://photos.app.goo.gl/YDkfU6GDqxdr3cURA" %}
 
-{% include image.html path="media/todo/fliesen.jpg" alt="Nahaufnahme dreier Fliesen mit Sonnenblumenmuster" link="https://photos.app.goo.gl/aLc6g8F42CUyCzhr9" %}
+{% include image.html path="media/akklimatisation/fliesen.jpg" alt="Nahaufnahme dreier Fliesen mit Sonnenblumenmuster" link="https://photos.app.goo.gl/aLc6g8F42CUyCzhr9" %}
 
 Ins Zentrum von *Comillas*.
 An der *Plaza de Corro Campíos* beim *Lupa* einkaufen und vorm Kaffeeregal stehen.
@@ -114,7 +113,7 @@ Die glasierten Bohnen sind länger haltbar, der Kaffee schmeckt anders.
 Hersteller sagen besser, *Specialty-Coffee*-Snobs sagen grauslig.
 Einen normalen Kaffee kaufen.
 
-{% include image.html path="media/todo/torrefacto.jpg" alt="Eine Packung Kaffee" link="https://photos.app.goo.gl/JECviLepgfciB3UQ8" %}
+{% include image.html path="media/akklimatisation/torrefacto.jpg" alt="Eine Packung Kaffee" link="https://photos.app.goo.gl/JECviLepgfciB3UQ8" %}
 
 Zu hungrig um direkt heimzuradln.
 Zur nahen *Churrería Chocolatería Comillana* an der *Plaza*.
@@ -122,7 +121,7 @@ Das Lokal leer, Kaffee und eine Portion *Churros*.
 Mittelmäßiges Essen und freche Preise, die wütenden *Google Maps* Bewertungen nächstes Mal vorher lesen.
 Eine französische Schulkasse strömt in das Lokal.
 
-{% include image.html path="media/todo/churros.jpg" alt="Kathi sitzt in einem Schanigarten einer Churrería" link="https://photos.app.goo.gl/aC5ZrXdBu5MoyaP27" %}
+{% include image.html path="media/akklimatisation/churros.jpg" alt="Kathi sitzt in einem Schanigarten einer Churrería" caption="Des kühlen Klimas wegen befinden sich an Wohnhäusern in Nordspanien sehr oft sog. Galerías, rundum verglaste Balkone" link="https://photos.app.goo.gl/aC5ZrXdBu5MoyaP27" %}
 
 Kleiner Umweg über den *Parque Güell y Martos*.
 Blick über die *Playa de Comillas* die im feuchten Nebel eher trist wirkt.
@@ -133,7 +132,7 @@ Vor der Abreise Spaziergang vorbei an den Rinderherden runter zu den felsigen Kl
 Wie immer bedeckter Himmel und Nieselregen.
 Drei ältere Pilger wandern den erdigen Pfad der zerklüftete Küste entlang, hier verläuft der *Camino del Norte*.
 
-{% include image.html path="media/todo/spaziergang.jpg" alt="Eli steht an einer zerklüfteten Küstenlandschaft und schaut in die Ferne" link="https://photos.app.goo.gl/SDAsETYqKfRAZckX8" %}
+{% include image.html path="media/akklimatisation/spaziergang.jpg" alt="Eli steht an einer zerklüfteten Küstenlandschaft und schaut in die Ferne" link="https://photos.app.goo.gl/SDAsETYqKfRAZckX8" %}
 
 Froh das feuchtelnde Zimmer zu verlassen, kein Handtuch, keine Socke trocknet jemals in diesem Wetter.
 Hügelige anderthalb Stunden nach *Santillana*, froh doch die Radhose angezogen zu haben.
@@ -157,36 +156,36 @@ Ab 1977 ist *Altamira* für die Öffentlichkeit gesperrt.
 2001 der Bau des *Museo Nacional y Centro de Investigación de Altamira*.
 In der *Neocave* des Museums, einem exakten Nachbau der Höhle, die Höhlenmalereien in Ruhe bewundern.
 
-{% include image.html path="media/todo/hoehle.jpg" alt="Eli steht unter einer niedrigen Decke und schaut nach oben auf die Höhlenmalereien" link="https://photos.app.goo.gl/wbmoD5pFwkEAsHZN6" %}
+{% include image.html path="media/akklimatisation/hoehle.jpg" alt="Eli steht unter einer niedrigen Decke und schaut nach oben auf die Höhlenmalereien" link="https://photos.app.goo.gl/wbmoD5pFwkEAsHZN6" %}
 
 In zahllosen Videos faszinierende Einblicke in den menschlichen Alltag vor langer langer Zeit.
 
-{% include video.html path="media/todo/steinzeit.mp4" caption="Wie man einen Feuerstein zurechthaut" link="https://photos.app.goo.gl/NXC3M2LeoKFe2KLc9" %}
+{% include video.html path="media/akklimatisation/steinzeit.mp4" caption="Wie man einen Feuerstein zurechthaut" link="https://photos.app.goo.gl/NXC3M2LeoKFe2KLc9" %}
 
 Am nächsten Morgen bleigrauer Himmel und Nieselregen.
 An Kathis Rad zuzln acht große Schnecken.
 Der Regen über Nacht zaubert Flugrost an die Kette, ein paar Tropfen Öl vorm Losradln.
 
-{% include image.html path="media/todo/schnecke.jpg" alt="Eine Schnecke kriecht über einen Fahrradreifen" link="https://photos.app.goo.gl/w1rk4tnfS7cfTcoB9" %}
+{% include image.html path="media/akklimatisation/schnecke.jpg" alt="Eine Schnecke kriecht über einen Fahrradreifen" link="https://photos.app.goo.gl/w1rk4tnfS7cfTcoB9" %}
 
 Die letzten 40 km nach *Santander* durchgängig ereignislos und schiach.
 Immer der N-611 folgen.
 Schöne Landschaften liegen, falls vorhanden, hinter den dichten Nebelwänden.
 
-{% include image.html path="media/todo/nebel.jpg" alt="Kathi radlt auf einem Feldweg, im Hintergrund dichter Nebel" link="https://photos.app.goo.gl/xr7Fqv9UcX289Wv38" %}
+{% include image.html path="media/akklimatisation/nebel.jpg" alt="Kathi radlt auf einem Feldweg, im Hintergrund dichter Nebel" link="https://photos.app.goo.gl/xr7Fqv9UcX289Wv38" %}
 
 Ein langes Stück Peripherie von *Santander*.
 Nach drei Monaten Spanien endlich zum *Telepizza*.
 Perfekter Teig aber Pizza mit BBQ-Soße muss nicht sein.
 
-{% include image.html path="media/todo/telepizza.jpg" alt="Kathi zeigt Zustimmung vor einer Filiale von Telepizza" link="https://photos.app.goo.gl/iQ9frs7zHgAK4YDo9" %}
+{% include image.html path="media/akklimatisation/telepizza.jpg" alt="Kathi zeigt Zustimmung vor einer Filiale von Telepizza" link="https://photos.app.goo.gl/iQ9frs7zHgAK4YDo9" %}
 
 *Santander* ist abseits von Hafen und Altstadt sehr steil und ranzig.
 Straßenzüge heruntergekommener Plattenbauten, die Gehsteige voller Hundegaggis.
 In der *Calle San Sebastián* unser Airbnb in einem Plattenbau.
 Eine junge Familie vermietet eine kleine Zelle in ihrer sanierungsbedürftigen Wohnung.
 
-{% include image.html path="media/todo/zelle.jpg" alt="Kathi liegt auf einem schmalen Bett in einem kleinen Zimmer mit winzigem Fenster" caption="Immerhin hats ein Fenster" link="https://photos.app.goo.gl/N7BxuM8oVP3whX4K9" %}
+{% include image.html path="media/akklimatisation/zelle.jpg" alt="Kathi liegt auf einem schmalen Bett in einem kleinen Zimmer mit winzigem Fenster" caption="Immerhin hats ein Fenster" link="https://photos.app.goo.gl/N7BxuM8oVP3whX4K9" %}
 
 Ein abendlicher Stadtrundgang, auf der verkehrsgeplagten *Plaza de Ayuntamiento* treibt der Hunger zum *Burger King*.
 Zwischen Scharen von Teenagern, vegane Nuggets einatmen, Samstagabend.
@@ -221,7 +220,7 @@ Am späten Vormittag im Nieselregen zum Busbahnhof von *Santander* und anderthal
 *Euskadi* ist eine der wohlhabendsten Regionen Spaniens.
 Die zweisprachigen Straßenschilder vor *Bilbao* komplett unverständlich.
 
-{% include video.html path="media/todo/bus.mp4" link="https://photos.app.goo.gl/PcHHUVGBj19ef8ZU9" %}
+{% include video.html path="media/akklimatisation/bus.mp4" link="https://photos.app.goo.gl/PcHHUVGBj19ef8ZU9" %}
 
 Aus dem modernen Busbahnhof auf den weiten Vorplatz.
 Die ersten Sonnenstrahlen seit vier Tagen verschwinden bald hinter den Wolken.
@@ -230,7 +229,7 @@ Das berühmte Gebäude von Frank Gehry mit dem fließenden Metallgebilde auf ein
 An der Fassade sind 33.000 hauchdünne Titanplatten verbaut.
 Die 0.4 mm dünnen Platten wiegen insgesamt *nur* rund 60 Tonnen.
 
-{% include image.html path="media/todo/guggenheim.jpg" alt="Eli steht auf einer Brücke vor dem Guggenheimmuseum von Bilbao" link="https://photos.app.goo.gl/4a9uKjBfbq8ESiCx8" %}
+{% include image.html path="media/akklimatisation/guggenheim.jpg" alt="Eli steht auf einer Brücke vor dem Guggenheimmuseum von Bilbao" link="https://photos.app.goo.gl/4a9uKjBfbq8ESiCx8" %}
 
 Durch die rasterartigen Straßen des *Abando*-Viertels zum *Azkuna Zentroa*.
 Das monumentale Gebäude mit Jugendstilfassade wird 1909 als Weinlager angelegt.
@@ -239,14 +238,14 @@ Im Erdgeschoss eine schummrige Halle mit 43 enormen Säulen, jede im Stil einer 
 Hoch über einem Gang eine Glasdecke zum darüberliegenden öffentlichen Schwimmbad.
 Am Sonntag tote Hose.
 
-{% include video.html path="media/todo/schwimmbad.mp4" link="https://photos.app.goo.gl/t8NKeVLkzxPw5Xru9" %}
+{% include video.html path="media/akklimatisation/schwimmbad.mp4" link="https://photos.app.goo.gl/t8NKeVLkzxPw5Xru9" %}
 
 Den Regen Ausharren in einem Coffeeshop ums Eck.
 Eine Weile Tippen dann weiterspazieren zum Bahnhof von *Abando*.
 Die Rolltreppen hoch zu den Stumpfgleisen.
 Umdrehen und auf das riesige Buntglasfenster schauen.
 
-{% include image.html path="media/todo/bahnhof.jpg" alt="Ein riesiges Buntglasfenster, in der Mitte eine Uhr" link="https://photos.app.goo.gl/26rqXUeQmfhNLKZX7" %}
+{% include image.html path="media/akklimatisation/bahnhof.jpg" alt="Ein riesiges Buntglasfenster, in der Mitte eine Uhr" link="https://photos.app.goo.gl/26rqXUeQmfhNLKZX7" %}
 
 Wenig weiter zum kleinen *La Concordia* Bahnhof. 
 Ein hässlicher Plattenbau überragt die prächtige Jugendstilfassade.
@@ -255,7 +254,7 @@ Darunter der ranzige kanalartig eingefasste *Nerbioi*.
 Die *Areatzako Zubia* über den Fluss in die Altstadt.
 *Bilbao* ist eine schöne moderne Stadt, die Kathedrale und alten Gebäude ziehen wenig an.
 
-{% include image.html path="media/todo/jugendstil.jpg" alt="Eine Jugendstilfassade, dahinter ein Plattenbau, darunter ein dreckiger Fluss" link="https://photos.app.goo.gl/3Rfem2PQuWXrsx2o6" %}
+{% include image.html path="media/akklimatisation/jugendstil.jpg" alt="Eine Jugendstilfassade, dahinter ein Plattenbau, darunter ein dreckiger Fluss" link="https://photos.app.goo.gl/3Rfem2PQuWXrsx2o6" %}
 
 Mit der Metro weit raus aus der Stadt ins *Areeta*-Viertel.
 Kurz vor der Mündung des *Nerbioi* lässt ein Brückenträger eine Gondel über den Fluss schweben.
@@ -266,10 +265,10 @@ Eine Überfahrt dauert wenige Minuten und kostet als Fußgänger:in 55 Cent.
 Die Gondel fährt alle 8 Minuten, 24 Stunden am Tag, 365 Tage im Jahr.
 Jeden Tag nutzen sie gut 16.000 Personen.
 
-{% include image.html path="media/todo/gondel.mp4" link="https://photos.app.goo.gl/JhGMkTAJFqCGNdks7" %}
+{% include image.html path="media/akklimatisation/gondel.mp4" link="https://photos.app.goo.gl/JhGMkTAJFqCGNdks7" %}
 
 Am andern Ufer mit der *Renfe* von *Portugalete* zurück zum Busbahnhof.
 Für eine Schüssel Ramen zum *Buga Ramen* hetzen und um halb 10 wieder im Bus sitzen.
 Wie die Sonne über dem Golf von Biskaya untergeht einen grusligen Thriller am Kopfstützenmonitor schauen.
 
-TODO schlusssatz
+Baba Spanien.
