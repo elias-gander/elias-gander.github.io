@@ -264,7 +264,7 @@ Die Überfahrt dauert wenige Minuten und kostet als Fußgänger:in 55 Cent.
 Abfahrt alle 8 Minuten, 24 Stunden am Tag, 365 Tage im Jahr.
 Jeden Tag nutzen sie gut 16.000 Personen.
 
-{% include image.html path="media/akklimatisation/gondel.mp4" link="https://photos.app.goo.gl/JhGMkTAJFqCGNdks7" %}
+{% include video.html path="media/akklimatisation/gondel.mp4" link="https://photos.app.goo.gl/JhGMkTAJFqCGNdks7" %}
 
 Am andern Ufer mit der *Renfe* vom Bahnhof *Portugalete* zurück zum Busbahnhof.
 Für eine Schüssel Kimchi-Ramen zum *Buga Ramen* hetzen und um halb 10 wieder im Bus sitzen.

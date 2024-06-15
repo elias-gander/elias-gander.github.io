@@ -107,7 +107,7 @@ figure {
   right: 5px;
   bottom: 10px;
   opacity: 0.75;
-  filter: invert(97%) sepia(0%) saturate(7488%) hue-rotate(109deg) brightness(100%) contrast(107%);
+  filter: drop-shadow(0 0 10px white) !important;
 }
 
 .media-link:hover {
