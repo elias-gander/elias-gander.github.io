@@ -123,10 +123,18 @@ Bei der Passkontrolle nochmal neben der Horde Motorräder warten.
 {% include video.html path="media/todo/abgase.mp4" link="https://photos.app.goo.gl/eTSJPZkjUwRkrSsf9" %}
 
 Unsicher im Linksverkehr durch die Innenstadt und nach *Mutley*.
-Endlose Straßenzüge schmaler lieber Reihenhäuser.
-Charmant aber städteplanerisch der Supergau.
+Die Straßen eng bemessen und die Autofahrer:innen waghalsiger als in Spanien.
+Endlose Straßenzüge kleiner nahtlos beieinanderstehender Reihenhäuser im viktorianischen Stil.
 
 {% include image.html path="media/todo/neighborhood.jpg" link="https://photos.app.goo.gl/uYKsTA3AhyLVoMbM6" %}
+
+Im 19. Jahrhundert baut man solche *Terraced Houses* im großen Stil als Unterbringung für die Arbeiter:innen.
+...
+Charmant aber durch die ineffiziente Flächennutzung städteplanerischer Supergau.
+Die junge Frau die unser Zimmer vermietet wohnt allein.
+Im ganzen Haus flauschigen Teppichboden.
+
+{% include image.html path="media/todo/daheim.jpg" link="https://photos.app.goo.gl/NM3UiHBCxTjZNhhz8" %}
 
 Die *Mutley Plain* erinnert an die Ottakringer Straße.
 Durchzugsverkehr, Herrenfriseure und Fast-Food.
@@ -156,7 +164,9 @@ Eine Dose *Spaghetti Loops* um 19 Pence und ein richtiges Abendessen kaufen.
 - auf der liegewiese über das bay schauen
 - am heimweg am leuchtturm vorbei
 
-{% include image.html path="media/todo/daheim.jpg" link="https://photos.app.goo.gl/NM3UiHBCxTjZNhhz8" %}
+
+
+
 
 {% include video.html path="media/todo/armada.mp4" link="https://photos.app.goo.gl/v1nFDL8AVqPFL2jw7" %}
  
