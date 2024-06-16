@@ -77,7 +77,7 @@ Im Shop zwei Adapter für die englischen Steckdosen holen.
 In der Lounge um 12 Uhr UK-Zeit noch reger Betrieb.
 Zu müde um noch länger zu warten das Lager abbrechen und einen Schlafplatz suchen.
 Anders als auf der Überfahrt nach *Barcelona* scheint hier niemand auf den Gängen zu übernachten.
-An einem ruhigen Gang auf den weichen Teppichboden legen, mit der Schlafmaske das Licht abdrehen.
+An einem ruhigen Gang auf den weichen Teppichboden legen, mit der Schlafmaske das grelle Licht abdrehen.
 
 {% include image.html path="media/todo/schlafplatz.jpg" link="https://photos.app.goo.gl/naK2spAvi2uBsDag6" %}
 
@@ -95,17 +95,50 @@ Fähre
 - trashiger coop, weiter zum aldi, absurd billig, fertigproduktparadies, top vegane auswahl
 - lasagne im airbnb
 
+Die Crew duldet unser Nächtigen im Gang, am Morgen liegt jeweils ein Apfel neben dem Schlafsack.
+Zum Wachwerden an Deck gehen und auf das schäumende Kielwasser schauen.
+Strahlender Sonnenschein in der *Iroise*, die *Pont-Aven* umschifft gerade die Halbinsel der *Bretagne*.
+
 {% include video.html path="media/todo/kielwasser.mp4" link="https://photos.app.goo.gl/uwVeiHbq8qHrPyha8" %}
+
+Durch die Gänge wuseln schon die Passagiere und stehen Schlange fürs Frühstück.
+Mitgebrachtes Knickererfrühstück vorm Panoramafenster, dazu grausliger Kaffee vom Self-Service Restaurant.
+
+In der Lounge spielt die Sängerin vom Vorabend schon wieder ein Acoustic Set, es lauscht eine Handvoll Senior:innen.
+Im Raum daneben öffnet die Crew eben den Pool.
+Die Sonne scheint durch die Glasüberdachung ins warme Wasser.
+Eine Weile die Füße reinbaumeln dann doch Lust bekommen.
 
 {% include image.html path="media/todo/pool.jpg" link="https://photos.app.goo.gl/YYo41UPhSbCubZZy9" %}
 
+Die Unterwäsche in der Sonne trocknen und die restliche Fahrt im Poolbereich sitzen und Schreiben.
+Um halb vier die grasigen Hügel von *Plymouth Bay*.
+
 {% include image.html path="media/todo/land.jpg" link="https://photos.app.goo.gl/sN5vfcBHVpEW4gir5" %}
+
+Die *disembarkation* verzögert sich.
+Eine halbe Stunde in der abgasgeschwängerten Luft der Garage bei den Rädern warten.
+Bei der Passkontrolle nochmal neben der Horde Motorräder warten.
 
 {% include video.html path="media/todo/abgase.mp4" link="https://photos.app.goo.gl/eTSJPZkjUwRkrSsf9" %}
 
+Unsicher im Linksverkehr durch die Innenstadt und nach *Mutley*.
+Endlose Straßenzüge schmaler lieber Reihenhäuser.
+Charmant aber städteplanerisch der Supergau.
+
 {% include image.html path="media/todo/neighborhood.jpg" link="https://photos.app.goo.gl/uYKsTA3AhyLVoMbM6" %}
 
-{% include image.html path="media/todo/loops.jpg" link="https://photos.app.goo.gl/mtdnDk4qUs7vQusS6" %}
+Die *Mutley Plain* erinnert an die Ottakringer Straße.
+Durchzugsverkehr, Herrenfriseure und Fast-Food.
+Vorm *Pizza Hut* spricht uns ein junger Mann mit starkem Akzent auf Deutsch an.
+Er hat einige Zeit in der Schweiz gelebt.
+*Plymouth* sei hässlich meint er, im Krieg zerbombt, wie Berlin.
+
+Im *Co-op* über der Straße abgesehen von Fertigprodukten wenig Auswahl.
+Der *ALDI* an der *Greenbank Road* bummvoll, noch mehr Fertigprodukte teilweise absurd billig.
+Eine Dose *Spaghetti Loops* um 19 Pence und ein richtiges Abendessen kaufen.
+
+{% include image.html path="media/todo/loops.jpg" caption="Schmeckt wie 19 Pence" link="https://photos.app.goo.gl/mtdnDk4qUs7vQusS6" %}
 
 
 ### Plymouth ###
