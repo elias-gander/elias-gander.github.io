@@ -24,26 +24,82 @@ Plymouth - Dartmoor
 * Oben windig, zelt auspacken, regen wird sehr stark, hektisch aufbauen, trotzdem nass
 * Die ganze nacht windig, flattern, immer wieder regenschauer
 
+Tag der Abfahrt, am Morgen noch ein Schauer dann freundlicher.
+Trotzdem die Gewissheit heute nass zu werden.
+Abschied von Sarah, zurück nach *Mutley* und der B3214 bis zum *River Plym* folgen.
+Am schmalen Gehsteig der sechsspurigen *Plymouth Road* beginnt der *Plym Valley Trail* ein Radweg der den *Plym* entlang ins *Dartmoor* führt.
+
+Highway und Autobahnkreuz hinter uns führt der Weg durch üppigen Mischwald.
+Die mächtigen Eichen Moos- und Efeu-überwuchert, jeder Fleck Waldboden bedeckt mit dichtem Unterwuchs bedeckt.
+Die violetten Blüten des *Foxglove* durchbrechen das allgegenwärtige Grün.
+
 {% include image.html path="media/bogs-tors-and-bad-weather/plym.jpg" alt="" link="https://photos.app.goo.gl/z6jmYde41qjqFerz9" %}
 
 {% include image.html path="media/bogs-tors-and-bad-weather/foxglove.jpg" alt="" link="https://photos.app.goo.gl/xjhzhud3N6g5ZaHH8" %}
 
+Kurz nach der Brücke über den *Meavy*, der wenig flussabwärts in den *Plym* mündet, zwei zottelige Ponies am Weg.
+Es sind nicht die berühmten *Dartmoor* Ponies, ...was ist das...
+Trotzdem lieb.
+
 {% include image.html path="media/bogs-tors-and-bad-weather/ponies.jpg" alt="" link="https://photos.app.goo.gl/EfGRRq6Wo9atQFi57" %}
+
+Zwei zu steile Hänge hoch zum *Burrator Reservoir*, es beginnt zu tröpfeln.
+...was ist das...
 
 {% include image.html path="media/bogs-tors-and-bad-weather/reservoir.jpg" alt="" link="https://photos.app.goo.gl/dBrUzJx2TnTaMpGv9" %}
 
+Auf einer kleinen Wiese gegenüber der *Burrator Lodge* Mittagspause.
+Ab und zu ein Sonnenstrahl durch die dunklen Wolken, dazu frischer Wind, nicht lange sitzen bleiben.
+Nochmal steil hoch und der *Granite & Gears* Radroute folgen.
+Der Radweg überquert die B3212 auf einer Brücke, auf die Straße wechseln ohne Umweg nicht mehr möglich, die Weidegrenzen durchgängig mit Stacheldraht markiert.
+Also holprig dem grasigen Pfad durch die Schafweiden folgen.
+Abbremsen bei zu vielen Weidetoren.
+
 {% include image.html path="media/bogs-tors-and-bad-weather/offroad.jpg" alt="" link="https://photos.app.goo.gl/k5BHAegnEwEdDEqp9" %}
+
+Hoch auf 400 Meter zum *King's Tor*.
+Starker Wind fegt über das offene Moorland.
+Die Räder hinlegen und über die ...pflanzen... weglos zum *Tor* hochgehen.
+...facts zum tor...
 
 {% include image.html path="media/bogs-tors-and-bad-weather/tor.jpg" alt="" link="https://photos.app.goo.gl/3wovVKnWo8K7UmXD7" %}
 
-{% include image.html path="media/bogs-tors-and-bad-weather/offroad.jpg" alt="" link="https://photos.app.goo.gl/R5KXeaFhyGJwVwes8" %}
+Weiterradln Richtung *Princetown*.
+Hinterm *Tor* liegt eine Herde zottiger Rinder verstreut zwischen den Granitblöcken.
+
+{% include image.html path="media/bogs-tors-and-bad-weather/offroad2.jpg" alt="" link="https://photos.app.goo.gl/R5KXeaFhyGJwVwes8" %}
+
+Der Weg wird holpriger, froh ab *Princetown* wieder am Asphalt zu radln.
+Eine beachtliche Anzahl an Geschäften in dem verschlafenen Ort.
+Im *Londis* Minimarkt ein Tiegerl *Marmite* kaufen und das erste mal bar zahlen.
+
+Diesmal auf der Straße bleiben, immer die B3212 entlang 10 km nach *Postbridge*.
+Wie alle Straßen in England saueng, zum Glück wenig Verkehr.
+Der Wind hat zugelegt und bläst kräftig in den Rücken, die Jacke wie ein Segel.
+Wunderbare Blicke übers Moor, diesmal *Bogs*.
+
+...was ist das...
 
 {% include video.html path="media/bogs-tors-and-bad-weather/bogs.mp4" link="https://photos.app.goo.gl/PFsfpH8WpGzpnfx59" %}
 
+In *Postbridge* stehenbleiben an der Brücke über den *East Dart River*.
+Anhalten auf der Brücke nicht möglich, wie so auf oft verengt sich der Highway auf den urigen Steinbrücken auf eine Spur.
+Also anhalten hinter der Brücke, denn parallel zur urigen Straßenbrücke eine noch viel urigere Fußgängerbrücke über den Fluss führt.
+Drei riesige Granitplatten liegen als Träger auf geschichteten Granitblöcken als Pfeiler.
+Auf der *Clapper Bridge* sitzen und ins braune Bacherl schauen.
+
+
 {% include image.html path="media/bogs-tors-and-bad-weather/postbridge.jpg" alt="" link="https://photos.app.goo.gl/3c4RuT5z8EeChCYs9" %}
+
+...warum ist das wasser braun...
+
+Weiterradln wie es wieder zu Regnen beginnt.
+Diesmal hört es nicht mehr auf, 5 km weiter durchnässt in die *Warren House Inn* flüchten.
+Bei *two cups of tea* auf das Ende des Regens warten.
 
 {% include image.html path="media/bogs-tors-and-bad-weather/inn.jpg" alt="" link="https://photos.app.goo.gl/wGwffoQ1MVM9qA6V8" %}
 
+...
 
 
 Dartmoor - Exeter
