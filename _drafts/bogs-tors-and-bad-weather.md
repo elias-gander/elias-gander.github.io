@@ -97,9 +97,11 @@ Weiterradln wie es wieder zu Regnen beginnt.
 Diesmal hört es nicht mehr auf, 5 km weiter durchnässt in die *Warren House Inn* flüchten.
 Bei *two cups of tea* auf das Ende des Regens warten.
 
-{% include image.html path="media/bogs-tors-and-bad-weather/inn.jpg" alt="" link="https://photos.app.goo.gl/wGwffoQ1MVM9qA6V8" %}
+{% include image.html path="media/bogs-tors-and-bad-weather/inn.jpg" alt="" caption="Wenn die Kreuzworträtsel ausgehen" link="https://photos.app.goo.gl/wGwffoQ1MVM9qA6V8" %}
 
 ...
+
+{% include video.html path="media/bogs-tors-and-bad-weather/shelter.mp4" caption="Na dann, schlaf gut!" link="https://photos.app.goo.gl/4MFAdyEoGAzTdWWE7" %}
 
 
 Dartmoor - Exeter
@@ -112,11 +114,9 @@ Dartmoor - Exeter
 * Wohnung für uns, host fährt übers we weg
 * Beim coop einkaufen und daheim rasten
 
-{% include video.html path="media/bogs-tors-and-bad-weather/shelter.mp4" link="https://photos.app.goo.gl/4MFAdyEoGAzTdWWE7" %}
-
 {% include image.html path="media/bogs-tors-and-bad-weather/marmite.jpg" alt="" link="https://photos.app.goo.gl/w2rAqVy3EqBg5FT88" %}
 
-{% include video.html path="media/bogs-tors-and-bad-weather/flattermann.mp4" link="https://photos.app.goo.gl/5GmsNXjqzrPyYncz6" %}
+{% include video.html path="media/bogs-tors-and-bad-weather/flattermann.mp4" caption="Kein Zeitraffer" link="https://photos.app.goo.gl/5GmsNXjqzrPyYncz6" %}
 
 {% include image.html path="media/bogs-tors-and-bad-weather/kirche.jpg" alt="" link="https://photos.app.goo.gl/wpPa8y5EX6eYpPdE7" %}
 
