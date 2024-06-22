@@ -151,6 +151,8 @@ Das Wetter lädt noch nicht ganz zum Verweilen ein.
 
 {% include image.html path="media/bogs-tors-and-bad-weather/kathedrale.jpg" alt="" link="https://photos.app.goo.gl/cFGW35Ftboev6hbm9" %}
 
+{% include image.html path="media/bogs-tors-and-bad-weather/nave.jpg" alt="" link="https://photos.app.goo.gl/M3DypatY15C1r6DL6" %}
+
 Drinnen dank der großen Buntglasfenster herrliches Licht.
 Die Rippen des Kreuzrippengewölbe treten besonders deutlich hervor und gehen vom Gewölbe der Seitenschiffe fließend in die massiven Säulen über.
 Das längste ununterbrochene Steingewölbe der Welt streckt sich 100 Meter vom Eingang zum Hochaltar.
@@ -159,9 +161,11 @@ Ein kleines Spiegelwagerl erlaubt die genaue Betrachtung der prächtigen Schluss
 {% include image.html path="media/bogs-tors-and-bad-weather/spiegel.jpg" alt="" link="https://photos.app.goo.gl/ABzKYGhEubrbyMGz5" %}
 
 Ein wunderbar gesprochener Audioguide führt durch die Kathedrale.
-...cat flap story...
+An der Nordseite des Querschiffs zeigt eine astronomische Uhr aus dem 15. Jahrhundert Zeit und Mondphase.
+Der mit Tierfett geschmierte Mechanismus zieht Nager an weshalb im frühen 17. Jahrhundert in die schwere Holztür unter der Uhr ein Loch für die Katze des Bischofs geschnitten wird.
+Die älteste Katzentür der Welt?
 
-{% include image.html path="media/bogs-tors-and-bad-weather/nave.jpg" alt="" link="https://photos.app.goo.gl/M3DypatY15C1r6DL6" %}
+{% include image.html path="media/bogs-tors-and-bad-weather/katzentuer.jpg" alt="" link="https://photos.app.goo.gl/V4qNkjNQcRJhedk17" %}
 
 Wieder draußen, inzwischen lebhaftes Treiben am *Cathedral Green* und den Lokalen ringsum.
 Über die *High Street* zum nahen *Sainsbury's*.
@@ -170,8 +174,11 @@ Im Gespräch abgelenkt stürzt sich eine Möwe im Flug auf das Sandwich in meine
 Nervös und von Möwen umzingelt den Rest essen.
 
 Am nördlichen Ende der *High Street* zu den *Underground Passages*.
-Mit dringend notwendigen Plastikhelmen durch die feuchten beengenden Tunnel der mittelalterlichen Wasserleitungen von *Exeter*.
-...mehr facts dazu...
+Im 14. Jahrhundert legt die Stadt Tunnel an um Frischwasser ins Stadtzentrum zu befördern.
+Das Wasser fließt durch Bleirohre, die Tunnel erlauben lediglich den Zugang zu den ständig wartungsbedürftigen Leitungen.
+Gebückt durch die feuchten beengenden Tunnel, der Plastikhelm dringend notwendig.
+In der Knappheit der 40er Jahre werden die gesamten Bleirohre aus den gesperrten Tunneln gestohlen und eingeschmolzen.
+Ein Rohrstück überlebt in einem Museum.
 
 {% include image.html path="media/bogs-tors-and-bad-weather/tunnel.jpg" alt="" link="https://photos.app.goo.gl/zjDzsaDixC6W4dyG6" %}
 
