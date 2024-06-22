@@ -10,20 +10,21 @@ title:  "Bogs, Tors and bad weather"
 Tag der Abfahrt, am Morgen noch ein Schauer dann freundlicher.
 Trotzdem die Gewissheit heute nass zu werden.
 Abschied von Sarah, zurück nach *Mutley* und der B3214 bis zum *River Plym* folgen.
-Am schmalen Gehsteig der sechsspurigen *Plymouth Road* beginnt der *Plym Valley Trail* ein Radweg der den *Plym* entlang ins *Dartmoor* führt.
+Am schmalen Gehsteig der sechsspurigen *Plymouth Road* beginnt der *Plym Valley Trail*, der Radweg führt den *Plym* entlang ins *Dartmoor*.
 
-Highway und Autobahnkreuz hinter uns führt der Weg durch üppigen Mischwald.
-Die mächtigen Eichen Moos- und Efeu-überwuchert, jeder Fleck Waldboden bedeckt mit dichtem Unterwuchs bedeckt.
-Die violetten Blüten des *Foxglove* durchbrechen das allgegenwärtige Grün.
+Highway, Autobahnkreuz dann plötzlich üppiger Mischwald und Vogelzwitschern.
+Die mächtigen Eichen Moos- und Efeu-überwuchert, jeder Fleck Waldboden bedeckt von dichtem Unterwuchs.
+Die violetter *Foxglove* durchbricht das allgegenwärtige Grün.
 
 {% include image.html path="media/bogs-tors-and-bad-weather/plym.jpg" alt="" link="https://photos.app.goo.gl/z6jmYde41qjqFerz9" %}
 
 {% include image.html path="media/bogs-tors-and-bad-weather/foxglove.jpg" alt="" link="https://photos.app.goo.gl/xjhzhud3N6g5ZaHH8" %}
 
-Kurz nach der Brücke über den *Meavy*, der wenig flussabwärts in den *Plym* mündet, zwei zottelige Ponies am Weg.
-Es sind nicht die berühmten *Dartmoor* Ponies, die in England aufgrund ihrer außergewöhnlich zähen Natur seit dem Mittelalter als Arbeitstiere eingesetzt werden.
-Früher vor allem in Minen und Steinbrüchen.
-Heute leben etwa 800 Ponys in halbwilden Herden im Moor.
+Die Brücke über den *Meavy*, der wenig flussabwärts in den *Plym* mündet.
+Auf der Straße stehen zwei zottelige Ponies.
+Es sind keine *Dartmoor* Ponys.
+Diese Ponys wurden in England aufgrund ihrer außergewöhnlich zähen Natur seit dem Mittelalter als Arbeitstiere eingesetzt, vor allem in Minen und Steinbrüchen.
+Heute leben etwa 800 von ihnen in halbwilden Herden im Moor.
 
 Diese zwei sind wahrscheinlich *Hill Ponies*, Mischlinge.
 Trotzdem lieb.
@@ -31,14 +32,14 @@ Trotzdem lieb.
 {% include image.html path="media/bogs-tors-and-bad-weather/ponies.jpg" alt="" link="https://photos.app.goo.gl/EfGRRq6Wo9atQFi57" %}
 
 Zwei zu steile Hänge hoch zum *Burrator Reservoir*, es beginnt zu tröpfeln.
-Der Stausee ist einer von vielen die im 19. und 20. Jahrhundert gebaut wurden um unter anderem *Plymouth* mit Trinkwasser zu versorgen.
+Der Stausee ist einer von vielen die im 19. und 20. Jahrhundert gebaut wurden um *Plymouth* umd Umgebung mit Trinkwasser zu versorgen.
 
 {% include image.html path="media/bogs-tors-and-bad-weather/reservoir.jpg" caption="Der Hauptdamm aus dem Jahr 1898" alt="" link="https://photos.app.goo.gl/dBrUzJx2TnTaMpGv9" %}
 
 Auf einer kleinen Wiese gegenüber der *Burrator Lodge* Mittagspause.
 Ab und zu ein Sonnenstrahl durch die dunklen Wolken, dazu frischer Wind, nicht lange sitzen bleiben.
-Nochmal steil hoch und der *Granite & Gears* Radroute folgen.
-Der Radweg überquert die B3212 auf einer Brücke, auf die Straße wechseln ohne Umweg nicht mehr möglich, die Weidegrenzen durchgängig mit Stacheldraht markiert.
+Nochmal steil bergauf und auf die holprige *Granite & Gears* Radroute wechseln.
+Der Radweg überquert die B3212 auf einer Brücke, zur Straße kommt man nicht mehr ohne Umweg, die Weidegrenzen durchgängig mit Stacheldraht begrenzt.
 Also holprig dem grasigen Pfad durch die Schafweiden folgen.
 Abbremsen bei zu vielen Weidetoren.
 
