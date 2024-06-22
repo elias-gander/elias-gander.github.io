@@ -32,16 +32,16 @@ Trotzdem lieb.
 {% include image.html path="media/bogs-tors-and-bad-weather/ponies.jpg" alt="" link="https://photos.app.goo.gl/EfGRRq6Wo9atQFi57" %}
 
 Zwei zu steile Hänge hoch zum *Burrator Reservoir*, es beginnt zu tröpfeln.
-Der Stausee ist einer von vielen die im 19. und 20. Jahrhundert gebaut wurden um *Plymouth* umd Umgebung mit Trinkwasser zu versorgen.
+Der Stausee ist einer von vielen im *Dartmoor* die im 19. und 20. Jahrhundert gebaut wurden um *Plymouth* und Umgebung mit Trinkwasser zu versorgen.
 
 {% include image.html path="media/bogs-tors-and-bad-weather/reservoir.jpg" caption="Der Hauptdamm aus dem Jahr 1898" alt="" link="https://photos.app.goo.gl/dBrUzJx2TnTaMpGv9" %}
 
 Auf einer kleinen Wiese gegenüber der *Burrator Lodge* Mittagspause.
 Ab und zu ein Sonnenstrahl durch die dunklen Wolken, dazu frischer Wind, nicht lange sitzen bleiben.
 Nochmal steil bergauf und auf die holprige *Granite & Gears* Radroute wechseln.
-Der Radweg überquert die B3212 auf einer Brücke, zur Straße kommt man nicht mehr ohne Umweg, die Weidegrenzen durchgängig mit Stacheldraht begrenzt.
+Der Radweg überquert die B3212 auf einer Brücke, zur Straße kommt man nicht mehr ohne Umweg, die Weidegrenzen lückenlos mit Stacheldraht abgesteckt.
 Also holprig dem grasigen Pfad durch die Schafweiden folgen.
-Abbremsen bei zu vielen Weidetoren.
+Ständig anhalten bei zu vielen Weidetoren.
 
 {% include image.html path="media/bogs-tors-and-bad-weather/offroad.jpg" alt="" link="https://photos.app.goo.gl/k5BHAegnEwEdDEqp9" %}
 
@@ -50,8 +50,8 @@ Starker Wind fegt über das offene Moorland.
 Die Räder hinlegen und über die spitzen Grasbüschel weglos zum *Tor* hochgehen.
 
 Das Gestein im *Dartmoor* ist überwiegend Granit.
-Vor 60 bis 30 Millionen Jahren liegt England nahe am Äquator, das Klima heiß und feucht.
-Durch Verottung säurehaltiges Wasser reagiert mit dem Feldspat im Granit und schneidet tiefe Furchen ins Gestein.
+Vor 60 bis 30 Millionen Jahren liegt England nahe dem Äquator, das Klima heiß und feucht.
+Von Verottung säurehaltiges Wasser reagiert mit dem Feldspat im Granit und gräbt tiefe Furchen ins Gestein.
 Während der Eiszeit vor 2 Millionen bis 10.000 Jahren sprengt gefrierendes Wasser die geschwächte Granitstruktur.[^1]
 
 Ein zerfurchter Turm bleibt stehen, der *Tor*.
@@ -64,24 +64,23 @@ Hinterm *Tor* liegt eine Herde zottiger Rinder verstreut zwischen dem *Clitter*.
 
 {% include image.html path="media/bogs-tors-and-bad-weather/offroad2.jpg" alt="" link="https://photos.app.goo.gl/R5KXeaFhyGJwVwes8" %}
 
-Der Weg wird holpriger, froh ab *Princetown* wieder am Asphalt zu radln.
+Der Pfad wird noch holpriger, froh ab *Princetown* wieder am Asphalt zu radln.
 Eine beachtliche Anzahl an Geschäften in dem verschlafenen Ort.
 Im *Londis* Minimarkt ein Tiegerl *Marmite* kaufen und das erste mal bar zahlen.
 
 Diesmal auf der Straße bleiben, immer die B3212 entlang 10 km nach *Postbridge*.
 Wie alle Straßen in England saueng, zum Glück wenig Verkehr.
-Der Wind hat zugelegt und bläst kräftig in den Rücken, die Jacke wie ein Segel.
-Wunderbare Blicke über ein weites Tal, der Boden durchnässt, *Bog*.
+Der Wind hat zugelegt und bläst kräftig in den Rücken, die Jacke als Segel.
+Wunderbare Blicke über ein weites Tal, durchnässter Boden, *Bog*.
 
-Wasserundurchlässiger Granitboden, hohe Regenmengen der eine Faktor.
-Der andere die Torfmoose die hier wachsen.
-Dank ihrer besonderen Zellstruktur binden sie große Mengen Wasser.
-Im wassergesättigten und dadurch sauerstoffarmen Boden findet kann keine Verottung mehr stattfinden.[^2]
-Über die Jahrhunderte sammelt sich totes Moos zu einer immer dickeren Schicht, genannt Torf bzw. *Peat*.
+Wasserundurchlässiger Granitboden und hohe Regenmengen der eine Faktor, die Torfmoose der andere.
+Mit ihrer besonderen Zellstruktur binden sie große Mengen Wasser.
+Im wassergesättigten und dadurch sauerstoffarmen Boden kann keine Verottung mehr stattfinden.[^2]
+Über die Jahrhunderte sammelt sich totes Moos zu einer immer dickeren Schicht, Torf bzw. *Peat*.
 
 {% include video.html path="media/bogs-tors-and-bad-weather/bogs.mp4" link="https://photos.app.goo.gl/PFsfpH8WpGzpnfx59" %}
 
-In *Postbridge* stehenbleiben an der Brücke über den *East Dart River*.
+In *Postbridge* hinter der Brücke über den *East Dart River* stehenbleiben.
 Anhalten auf der Brücke nicht möglich, wie so auf oft verengt sich der Highway auf den urigen Steinbrücken auf eine Spur.
 Also anhalten hinter der Brücke, denn parallel zur urigen Straßenbrücke eine noch viel urigere Fußgängerbrücke über den Fluss führt.
 Drei riesige Granitplatten liegen als Träger auf geschichteten Granitblöcken als Pfeiler.
