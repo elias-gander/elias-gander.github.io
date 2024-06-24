@@ -2,17 +2,7 @@
 title:  "TODO"
 ---
 
-TODO
-
-bilder komprimieren:
-mogrify -define jpeg:extent=100kb -resize 1024x1024 *.jpg
-
-video komprimieren:
-sudo sh compress.sh folder/file.MOV 1
-
-video drehen und auf mp4 konvertieren:
-ffmpeg -i folder/file.MOV  -vf "transpose=2" file.mp4
-
+{% include map.html url="https://en.frame.mapy.cz/s/mafuvamozu" %}
 
 Exeter - Lynton
 * radpflege vorm losfahren
@@ -61,7 +51,7 @@ Lynton - Blue Anchor
 * Kommt raus und fragt uns wo wir herkommen, wie wir fragen ob der pub offen ist verneinen, und schenkt uns zwei portugiesische super bock
 * Führt zum pitch, just chill out
 
-{% include video.html path="media/todo/ziegen.MOV" alt="" link="https://photos.app.goo.gl/8BCP6qhVhj8ka1jE6" %}
+{% include video.html path="media/todo/ziegen.mp4" alt="" link="https://photos.app.goo.gl/8BCP6qhVhj8ka1jE6" %}
 
 {% include image.html path="media/todo/hund.jpg" alt="" link="https://photos.app.goo.gl/8pEqVL8uh7T8aZNt9" %}
 
@@ -135,7 +125,7 @@ Cheddar - Bath
 
 {% include image.html path="media/todo/pulteney.jpg" alt="" link="https://photos.app.goo.gl/jyz3838GXhe7PAHfA" %}
 
-{% include video.html path="media/todo/crescent.MOV" alt="" link="https://photos.app.goo.gl/FCSDdDYn2x22hLCn7" %}
+{% include video.html path="media/todo/crescent.mp4" alt="" link="https://photos.app.goo.gl/FCSDdDYn2x22hLCn7" %}
 
 
 
@@ -156,7 +146,7 @@ Bath - Bristol
 
 {% include image.html path="media/todo/terracedhouses.jpg" alt="" link="https://photos.app.goo.gl/sUgaFvLmMEuYMiJb9" %}
 
-{% include video.html path="media/todo/bus.MOV" alt="" link="https://photos.app.goo.gl/g3QAJuhmdSETxtUu5" %}
+{% include video.html path="media/todo/bus.mp4" alt="" link="https://photos.app.goo.gl/g3QAJuhmdSETxtUu5" %}
 
 {% include image.html path="media/todo/manillas.jpg" alt="" link="https://photos.app.goo.gl/CtR4xpBVAsoFtZVS8" %}
 
@@ -178,7 +168,7 @@ Bristol
 * Ein packerl doritos und bier vom bummvollen sainsbury, samstag nachmittag, alle kaufen ihren alkohol, neben hunderten anderen an den kai setzen
 * An der mächtigen kirchenartigen uni vorbei, im asiamarkt ein abendessen und mit dem bus heim
 
-{% include video.html path="media/todo/clifton.MOV" alt="" link="https://photos.app.goo.gl/9dXyc1hJNc3DhidG7" %}
+{% include video.html path="media/todo/clifton.mp4" alt="" link="https://photos.app.goo.gl/9dXyc1hJNc3DhidG7" %}
 
 {% include image.html path="media/todo/kathedrale.jpg" alt="" link="https://photos.app.goo.gl/biQ2JShmVCZKjHJZ7" %}
 
@@ -188,6 +178,6 @@ Bristol
 
 {% include image.html path="media/todo/banksy.jpg" alt="" link="https://photos.app.goo.gl/VAxHCaqyFgZeGexx7" %}
 
-{% include image.html path="media/todo/glitzern.MOV" alt="" link="https://photos.app.goo.gl/AsNYRy6jpth2LqMXA" %}
+{% include image.html path="media/todo/glitzern.mp4" alt="" link="https://photos.app.goo.gl/AsNYRy6jpth2LqMXA" %}
 
 {% include image.html path="media/todo/uni.jpg" alt="" link="https://photos.app.goo.gl/Vs37w5CxqdsoN6Wz7" %}

@@ -2,6 +2,8 @@
 title:  "Cianin cianin, cosse t’ei sprescia?"
 ---
 
+{% include map.html url="https://en.frame.mapy.cz/s/cevahobose" %}
+
 Was im Ligurischen so viel bedeutet wie *Stress doch ned so*.
 
 Die *Excellent* der *Grandi Navi Veloci* ist gut 200 Meter lang, 40 Meter breit und wiegt fast 40.000 Tonnen.
