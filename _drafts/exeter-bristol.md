@@ -4,30 +4,61 @@ title:  "TODO"
 
 {% include map.html url="https://en.frame.mapy.cz/s/mafuvamozu" %}
 
-Exeter - Lynton
-* radpflege vorm losfahren
-* Hügelig durch eintönige idylle, kleine lebendige dörfer, farm und weideland, enge brücken, enge trassen durch dichte hecken
-* Zwei stunden nach Tiverton, wenug davor im malerischen bickleigh mittagspause, der dart mündet hier in die exe?
-* In tiverton an der fore street in einen coffeeshop, riesiger kaffee und ein dekadenter cream doughnut
-* Nochmal anderthalb stunden nach dulverton, malerische brücke über den exe, pause auf dem golfrasen, einkaufen beim coop
-* Exmoor national park betreten, immernoch nur weideland
-* Hoch aufs moor nach simonsbath, dort gibts fast nix, am bankerl vom geschlossenen tearoom pause machen
-* Über wunderschöne hochebene, moorland, riesige verstreute schafherden, blick über den bristol channel nach wales, abfahrt richtung lynton
-* Nochmal rauf zu Caffyns Farm auf einen der grasigen hügel überm meer, der einzig leistbare campingplatz, riesiger golfrasen, ziegenstreichelzoo, truthähne
+gewöhnt ans linksfahren, und ...?
+
+### Von Exeter nach Bristol ###
+
+Die Ketten quietschen von der Regenwäsche im *Dartmoor*, abziehen, ölen und Losradln.
+Auf der stressigen A377 aus der Stadt raus und abbiegen auf die viel ruhigere A396.
+Die Straße folgt dem *River Exe* bis ins *Exmoor* und dann nach *Minehead* an der Küste des *Bristol Channel*.
 
 {% include image.html path="media/todo/farmland.jpg" alt="" link="https://photos.app.goo.gl/2eQwXVGSbfnG2v1aA" %}
 
+Auf engen von Hecken begrenzten Straßen durch hügeliges Farmland Richtung *Tiverton*.
+Mittagspause im kleinen *Bickleigh* an einem kleinen Bach.
+Die ehemalige Mühle gegenüber, heute ein Restaurant.
+
 {% include image.html path="media/todo/mill.jpg" alt="" link="https://photos.app.goo.gl/SUJMQGeQAvzZtrQk9" %}
+
+Eine halbe Stunde weiter nach *Tiverton*.
+In ein kleines Cafe an der *Fore Street*, *Cream Doughnut* und *Americano*.
+Es ist schon fast eins aber alle anderen Gäste essen ein *Full English*.
+Der Kaffee schmeckt wie mit einem Teebeutel Kaffeepulver zubereitet.
+Lange an der riesigen brennheißen Tasse schlürfen.
 
 {% include image.html path="media/todo/creamdoughnut.jpg" alt="" link="https://photos.app.goo.gl/SmKgBYmRNUTdbWCm7" %}
 
+20 km weiter nach *Dulverton*.
+Bei *Exebridge* von der A396 auf die noch ruhigere und steilere B3222 wechseln.
+Über die fünf Bögen der mittelalterlichen *Barle Bridge* nach Dulverton.
+Pause auf der weiten Wiese am Ufer des *River Barle*.
+
 {% include image.html path="media/todo/dulverton.jpg" alt="" link="https://photos.app.goo.gl/caKbzbm8LTxxBnHHA" %}
+
+Einkaufen beim *Co-op* an der *Fore Street* und staunen über die Lebendigkeit kleiner englischer Ortschaften.
+
+*Dulverton* ist der erste Ort innerhalb des *Exmoor National Park*.
+Niedriger gelegen und weniger steinig als das *Dartmoor*, dafür direkt am Meer.
+Der Name vom *River Exe* der hier entspringt.
+
+Kein Spur von Moorlandschaft auf den 20 km bis *Simonsbath*.
+Von dort aus dann steil hoch auf eine weite Hochebene.
+Riesige Schafherden grasen verstreut im offenen Moorland.
+Der *Exe* nur mehr ein kleines Rinnsal.
 
 {% include image.html path="media/todo/winkewinke.jpg" alt="" link="https://photos.app.goo.gl/o33McmSmwsyT2Enh8" %}
 
 {% include image.html path="media/todo/exmoor.jpg" alt="" link="https://photos.app.goo.gl/6qfphYYaQZco5YfB7" %}
 
+Am Horizont gerade noch sichtbar der *Bristol Channel* und dahinter *Wales*.
+Abfahrt nach *Barbrook*.
+Die Schafe am Straßenrand starren uns kauend wie wir vorbeizischen.
+
 {% include image.html path="media/todo/abfahrt.jpg" alt="" link="https://photos.app.goo.gl/Wa5u3UKL59mAf59AA" %}
+
+*Barbrook* besteht hauptsächlich aus einer Tankstelle.
+Am Hügel dahinter *Caffyns Farm*, der alte Mann an der Rezeption sieht aus wie Daniel Barenboim und ist leicht baff wie er fragt wo wir herkommen.
+Am Rande der endlosen Rasenflächen das Zelt aufstellen und mit Sonnenuntergang ins Zelt kriechen.
 
 {% include image.html path="media/todo/zelt.jpg" alt="" link="https://photos.app.goo.gl/PR5y9Wjp27AGobQFA" %}
 
@@ -51,15 +82,50 @@ Lynton - Blue Anchor
 * Kommt raus und fragt uns wo wir herkommen, wie wir fragen ob der pub offen ist verneinen, und schenkt uns zwei portugiesische super bock
 * Führt zum pitch, just chill out
 
+Glashausklima wie die Sonne um 6 Uhr morgens schon aufs Zelt knallt.
+Nach dem Frühstück die Farm erkunden.
+In einem Gehege bellt wiederkehrend ein Rudel aufgeplusterter schwarzer Truthähne.
+Gegenüber des *Barn Café* das *Goat Café*.
+Vier Ziegen liegen frech auf zwei Parkbänken.
+Der verklärte Mensch will streicheln, die Ziege eigentlich nur knabbern.
+
 {% include video.html path="media/todo/ziegen.mp4" alt="" link="https://photos.app.goo.gl/8BCP6qhVhj8ka1jE6" %}
+
+Im *Barn Café* gibts *WLAN*.
+Der strubbelige schwarze *Deerhound* hat den feinsten Platz am einzigen Sofa im *Café*.
+Am Tisch eine leistbare Schlafgelegenheit für die kommende Nacht suchen.
 
 {% include image.html path="media/todo/hund.jpg" alt="" link="https://photos.app.goo.gl/8pEqVL8uh7T8aZNt9" %}
 
+Nach Mittag westwärts losradln nach *Martinhoe*.
+Dort umdrehen und die steile abfallende Küste entlang nach *Lynton*.
+Der Blick auf die felsigen Klippen versperrt von meterhohen Hecken und Wald.
+Für die Gedult entlohnt dann im *Valley of Rocks*.
+
 {% include image.html path="media/todo/valley.jpg" alt="" link="https://photos.app.goo.gl/e4EHxdhEpJLioVb77" %}
+
+Dutzende Menschen drängen sich am schmalen Pfad über den wunderschönen Klippen, hier verläuft der *South West Coast Path*.
+Der Weg führt auf über 1.000 km die Küste von *Sommerset*, *Devon*, *Cornwall* und *Dorset* entlang.
+Keine augenscheinlich weitwandernde Besucher, überwiegend Senior:innen mit einem oder mehreren Rassehunden.
+
+Ein kurzes Stück weiter ins lebhafte *Lynton*, Proviant einkaufen und ins Teehaus setzen.
+Eine Tasse Schwarztee mit Milch, dazu ein *Scone*, *Clotted Cream* und Marmelade, *Cream Tea* nennt sich das Ensemble.
 
 {% include image.html path="media/todo/creamtea.jpg" alt="" link="https://photos.app.goo.gl/6fNrTfeKyB5kBJaW6" %}
 
+*Lynton* liegt steile 150 Meter über *Lynmouth*.
+Seit 1890 verbindet eine einzigartige Standseilbahn verbindet die beiden Orte.
+Auf zwei etwa 250 Meter langen Schienen mit einer Steigung von 58% fahren zwei ausschließlich von Wasserkraft betriebe Wagon auf und ab.
+
+Die Wagone sind durch ein Stahlseil verbunden das an der oberen über eine große Rolle läuft.
+Beide Wagone verfügen über einen gut 3.000 Liter fassenden Wassertank.
+Für eine Fahrt leert der gerade unten stehende Wagon seinen Wassertank, der nun schwerere obere Wagon rutscht die Schienen nach unten und zieht den leichteren Wagon hoch.
+Oben angekommen füllt der Wagon seinen Wassertank mit Wasser aus einer Leitung vom *West Lyn River* und kann somit wieder nach unten.
+
 {% include image.html path="media/todo/lynton.jpg" alt="" link="https://photos.app.goo.gl/BA9WnK88KCuqEdWm9" %}
+
+Nicht mit der tollen Seilbahn fahren sondern auf der absurd steilen Straße runterrollen nach *Lynmouth*.
+100 Meter den Strand entlang führt die Straße genau so steil den nächsten Hügel hoch.
 
 {% include image.html path="media/todo/steil.jpg" alt="" link="https://photos.app.goo.gl/Qo9VFw22sh34x9feA" %}
 
@@ -128,6 +194,8 @@ Cheddar - Bath
 {% include video.html path="media/todo/crescent.mp4" alt="" link="https://photos.app.goo.gl/FCSDdDYn2x22hLCn7" %}
 
 
+### Bath ###
+
 
 Bath - Bristol
 * frühstück im unangenehmen Speisezimmer, riesige polsterstühle, noble sterile einrichtung
@@ -156,7 +224,7 @@ Bath - Bristol
 
 {% include image.html path="media/todo/macncheese.jpg" alt="" link="https://photos.app.goo.gl/ey876huE8rrKxiMo8" %}
 
-
+### Bristol ###
 
 Bristol
 * mit dem bus zur clifton suspension bridge, dreckiger river … drunter, stark schwankender wasserstand, facts zur bridge, wackeln beobachten am gegenüberliegenden railing
