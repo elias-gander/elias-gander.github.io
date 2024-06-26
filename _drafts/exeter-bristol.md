@@ -62,26 +62,6 @@ Am Rande der endlosen Rasenflächen das Zelt aufstellen und mit Sonnenuntergang 
 
 {% include image.html path="media/todo/zelt.jpg" alt="" link="https://photos.app.goo.gl/PR5y9Wjp27AGobQFA" %}
 
-
-
-Lynton - Blue Anchor
-* Die sonne schon um 6 im zelt hitze
-* Gemütlich frühstücken
-* Ins goat cafe ziegen streicheln, springt mich an, knabbern an uns
-* Im barn cafe reise planen
-* Um halb 1 losradln
-* Nach … die steilen hänge entlang, durch den dichten wald die wunderbaren klippen nicht sichtbar
-* Im rock valley mittagspause, viele touristen altersheim, genialer blick auf die klippen
-* Kurzes stück nach lynton, im costcutter einkaufen, im greenhouse cream tea, tee, scone, clotted cream und jam
-* Zur seilbahn schauen, facts
-* Ur steil runter 25% zum hafen, da noch lustig
-* Den nächsten hügel gleich steil rauf
-* Bis porlock über sanfte hügel, viele achafe, links das meer, rechts das moor, exmoor
-* Einkaufen und snackpause in porlock, englische orte ur schön, obwohl kaffs viele einzelhändler, häuser und auslagen mit geschmack gestaltet
-* Nochmal eine gute stunde zum camping, lange flache küstenpromenade entlang, bei der smugglers in einbiegen zum camping … riesige grasfläche, bei der rezeption eine dame, der mann schaut im hinterzimmer fußball
-* Kommt raus und fragt uns wo wir herkommen, wie wir fragen ob der pub offen ist verneinen, und schenkt uns zwei portugiesische super bock
-* Führt zum pitch, just chill out
-
 Glashausklima wie die Sonne um 6 Uhr morgens schon aufs Zelt knallt.
 Nach dem Frühstück die Farm erkunden.
 In einem Gehege bellt wiederkehrend ein Rudel aufgeplusterter schwarzer Truthähne.
@@ -92,7 +72,7 @@ Der verklärte Mensch will streicheln, die Ziege eigentlich nur knabbern.
 {% include video.html path="media/todo/ziegen.mp4" alt="" link="https://photos.app.goo.gl/8BCP6qhVhj8ka1jE6" %}
 
 Im *Barn Café* gibts *WLAN*.
-Der strubbelige schwarze *Deerhound* hat den feinsten Platz am einzigen Sofa im *Café*.
+Der strubbelige schwarze *Scottish Deerhound* hat den feinsten Platz am einzigen Sofa im *Café*.
 Am Tisch eine leistbare Schlafgelegenheit für die kommende Nacht suchen.
 
 {% include image.html path="media/todo/hund.jpg" alt="" link="https://photos.app.goo.gl/8pEqVL8uh7T8aZNt9" %}
@@ -108,8 +88,8 @@ Dutzende Menschen drängen sich am schmalen Pfad über den wunderschönen Klippe
 Der Weg führt auf über 1.000 km die Küste von *Sommerset*, *Devon*, *Cornwall* und *Dorset* entlang.
 Keine augenscheinlich weitwandernde Besucher, überwiegend Senior:innen mit einem oder mehreren Rassehunden.
 
-Ein kurzes Stück weiter ins lebhafte *Lynton*, Proviant einkaufen und ins Teehaus setzen.
-Eine Tasse Schwarztee mit Milch, dazu ein *Scone*, *Clotted Cream* und Marmelade, *Cream Tea* nennt sich das Ensemble.
+Ein kurzes Stück weiter ins lebhafte *Lynton*, Proviant einkaufen beim *Costcutter* und ins Teehaus setzen.
+Eine Tasse Schwarztee mit Milch, dazu ein *Scone*, *Clotted Cream* und *Jam*, das Ensemble nennt sich *Cream Tea*.
 
 {% include image.html path="media/todo/creamtea.jpg" alt="" link="https://photos.app.goo.gl/6fNrTfeKyB5kBJaW6" %}
 
@@ -129,13 +109,27 @@ Nicht mit der tollen Seilbahn fahren sondern auf der absurd steilen Straße runt
 
 {% include image.html path="media/todo/steil.jpg" alt="" link="https://photos.app.goo.gl/Qo9VFw22sh34x9feA" %}
 
-{% include image.html path="media/todo/hang.jpg" alt="" link="https://photos.app.goo.gl/393B3SFjagxSZ6Mr6" %}
+Der Kraftakt lohnt sich, die A39 ist sehr aussichtsreich.
+Rechts das sanfte Moor- und Weideland des *Exmoor*, links die steil ins Meer abfallenden Hänge.
+Die Küste von *Wales* hinter dem *Bristol Channel* ist jetzt klar erkennbar.
+Auf halbweg ein unscheinbarer Grenzstein, hier endet das *county* von *Devon* und beginnt *Somerset*.
 
-{% include image.html path="media/todo/porlock.jpg" alt="" link="https://photos.app.goo.gl/qhV7F3iJYxUpLjtY7" %}
+{% include image.html path="media/todo/hang.jpg" caption="Blick zurück nach Lynmouth" alt="" link="https://photos.app.goo.gl/393B3SFjagxSZ6Mr6" %}
+
+{% include image.html path="media/todo/porlock.jpg" caption="Abfahrt nach Porlock" alt="" link="https://photos.app.goo.gl/qhV7F3iJYxUpLjtY7" %}
+
+In *Porlock* an der *High Street* ein letztes Mal Pause machen.
+Nochmal 20 km vorbei an *Minehead* nach *Blue Anchor*.
+Der kleine Ort liegt direkt hinter einem kilometerlangen Schotterstrand.
+Ein Mann mit einem Gespann aus fünf *West Highland Terriers* spaziert am Gehsteig der Straße die direkt hinterm Strand vorbeiführt.
+
+Am Ende der Straße die Einfahrt zur *Home Farm*, der Campingplatz ist keine Farm.
+Die Frau an der Rezeption tippt ewig unsere Daten ins Buchungssystem, ihr Mann schaut im Hinterzimmer Fußball.
+Der einzige *Pub* im Ort, die *Smugglers Inn*, ist geschlossen.
+Wie der Mann hört, dass wir nach dem *Pub* fragen und wo wir herkommen schenkt er uns zwei kleine *Super Bock* und führt uns zum Stellplatz: *Pitch the tent and just chill out!*
+Danke!
 
 {% include image.html path="media/todo/superbock.jpg" alt="" link="https://photos.app.goo.gl/jjdcxqhiSp9xomSh9" %}
-
-
 
 Blue Anchor - Cheddar
 * Um halb 11 losfahren
@@ -152,13 +146,53 @@ Blue Anchor - Cheddar
 * Enge straße mit ur viel verkehr, viele lkw, bei … abbiegen auf kleine ruhige straßen durch die felder, zigzag flach nach cheddar
 * YHA in cheddar klassisches YHA, spartanische zimmer, super gemeinschaftsbereiche, beim abendessen chitchat mit zwei alten damen die durch die cheddar gorge wandern
 
+Am nächsten Tag auf der B3191 in den Nachbarort *Watchet*.
+Laut Karte ist die Straße kurz vor *Watchet* gesperrt.
+Riskieren und Glück haben, zu Fuß Gehende und Radfahrende passen durch die Absperrungen auf der Straße.
+
+In *Watchet* am schmalen Pier bis zum Leuchtturm rausrollen.
+Es herrscht Ebbe, der Pier in schwindelnden Höhen, unten der Gatsch.
+Außerhalb der Hafenmauern steiniger Meeresgrund, zwei Spaziergänger führen ihre Hunde aus.
+
 {% include image.html path="media/todo/watchet.jpg" alt="" link="https://photos.app.goo.gl/12TVPorC3p7orZ6W8" %}
 
-{% include image.html path="media/todo/gatsch.jpg" alt="" link="https://photos.app.goo.gl/rgj9adWsAaq29uVD7" %}
+Kathi geht die vom Salzwasser korrodierte Metallstiege am Pier runter und steigt leichtsinnig in den Gatsch.
+Eine dicke Dame die mit ihrem Mann vorbeispaziert findet das zum Schreien komisch.
+Ich auch ein bissi.
+
+{% include image.html path="media/todo/gatsch.jpg" caption="Upsi" alt="" link="https://photos.app.goo.gl/rgj9adWsAaq29uVD7" %}
+
+Entlang der Hafenpromenade von *Watchet* ein kleiner Markt.
+Im Shop des *Marina Café* Souveniers und Ramsch durchstöbern während Kathi draußen ihre Schuhe putzt.
+Die Boote in der Marina liegen auf Grund.
 
 {% include image.html path="media/todo/ebbe.jpg" alt="" link="https://photos.app.goo.gl/y1oc5LTuSdGnbJyK8" %}
 
-{% include image.html path="media/todo/aussicht.jpg" alt="" link="https://photos.app.goo.gl/M9eEYJLgvnREmq9K6" %}
+Auf der *Doniford Road* raus aus *Watchet* und bis *West Quantoxhead*.
+Wieder auf der A39 die am Vortag von *Lynton* nach *Minehead* führte.
+Gute 30 km hügelig durch eine Reihe kleiner Orte nach *Bridgewater*.
+
+Zwischenhalt in *Nether Stowey*.
+Wie ich mein Rad an die Backsteinmauer neben den *Premier* Minimarkt lehne klopft gleich ein alter Mann rabiat gegen die Fensterscheibe und winkt mich weg.
+Mittagspause auf einer Parkbank vor der Kirche.
+Die rote Telefonzelle nicht in Betrieb.
+
+{% include image.html path="media/todo/telefon.jpg" alt="" link="https://photos.app.goo.gl/CULpz9fdLoxo3uFV7" %}
+
+Noch eine Stunde nach *Bridgewater*.
+Ins erstbeste Café reinsetzen und einen gewohnt wässrigen *Americano* teilen.
+Wir sind die einzigen richtigen Gäste, ein Mann digitalisiert Filme, im angeschlossenen Seminarraum ein *Virtual Reality* Workshop für Jugendliche.
+
+Weiter auf der A39, nach *Bridgewater* viel mehr Verkehr.
+Bei *Crossington* in die Felder abbiegen und auf ruhigen einspurigen Heckengassen durch flaches Weideland nach *Blackford*.
+
+{% include image.html path="media/todo/aussicht.jpg" caption="Schöne Aussichten" alt="" link="https://photos.app.goo.gl/M9eEYJLgvnREmq9K6" %}
+
+Vom niedrigen Blutzucker leicht zittrig auf der Mauer an einer Hauseinfahrt Kekse futtern.
+Auf der Landstraße die letzten 10 km nach *Cheddar*.
+Ja, der Käse ist nach diesem Ort benannt.
+
+übernachten im yha, was ist das ...
 
 {% include image.html path="media/todo/cheddar.jpg" alt="" link="https://photos.app.goo.gl/y1oc5LTuSdGnbJyK8" %}
 
