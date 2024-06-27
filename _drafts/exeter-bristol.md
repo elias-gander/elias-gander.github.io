@@ -131,21 +131,6 @@ Danke!
 
 {% include image.html path="media/todo/superbock.jpg" alt="" link="https://photos.app.goo.gl/jjdcxqhiSp9xomSh9" %}
 
-Blue Anchor - Cheddar
-* Um halb 11 losfahren
-* Auf der B3191 nach watchet, straße gesperrt, lovh auf karte aber für fußgänger offen
-* In watchet den pier entlang zum lighthouse, weite steinig-gatschige ebbelandschaft, ein paar leute spazieren herum
-* Früher eisentransport mit zug und schiff nach south wales
-* Kathi steigt die salzzersetzte hafenstiege runter und steigt voll in den gatsch, sinkt ein bis zu den knöcheln, schuhe und socken voller gatsch, ältere dame findet das ur komisch
-* Durch die marktstände am hafen spazieren, boote im hafen liegen auf grund
-* Weiter auf der a39 durch hügeliges farmland und klassische heckentrassen
-* Durch mehrere liebe kleine ortschaften, kilve, holford, nether stowey
-* Im letzten im winzigrn … einkaufen
-* Ein alter knacker klopft wütend gegen die scheibe wie ich mein radl an seine backsteinhausmauer lehne
-* Eine stunde nach bridgewater, im ruhigen und günstigen engine room einen americano teilen, kinder-filmworkshop im offenen seminarraum 
-* Enge straße mit ur viel verkehr, viele lkw, bei … abbiegen auf kleine ruhige straßen durch die felder, zigzag flach nach cheddar
-* YHA in cheddar klassisches YHA, spartanische zimmer, super gemeinschaftsbereiche, beim abendessen chitchat mit zwei alten damen die durch die cheddar gorge wandern
-
 Am nächsten Tag auf der B3191 in den Nachbarort *Watchet*.
 Laut Karte ist die Straße kurz vor *Watchet* gesperrt.
 Riskieren und Glück haben, zu Fuß Gehende und Radfahrende passen durch die Absperrungen auf der Straße.
@@ -192,43 +177,79 @@ Vom niedrigen Blutzucker leicht zittrig auf der Mauer an einer Hauseinfahrt Keks
 Auf der Landstraße die letzten 10 km nach *Cheddar*.
 Ja, der Käse ist nach diesem Ort benannt.
 
-übernachten im yha, was ist das ...
+Das *YHA* in *Cheddar* klassisch: spartanische Zimmer, schöne Gemeinschaftsbereiche und Menschen aus allen Altersgruppen.
+Zwei ältere Damen fragen uns beim Abendessen zu unserer Reise aus und erzählen von Schottland.
 
 {% include image.html path="media/todo/cheddar.jpg" alt="" link="https://photos.app.goo.gl/y1oc5LTuSdGnbJyK8" %}
 
+Strikter Check-out um 10.
+Schimpfer weil wir noch im Gemeinschaftsraum lungern und verzweifelt eine Unterkunft in *Bristol* suchen.
+Kein Glück auf *Warmshowers*, zähneknirschend ein teures B&B in *Bath* und ein Airbnb in einem Randbezirk von *Bristol* buchen.
 
-
-Cheddar - Bath
-* strikter checkout um 10, schimpfe weil wir noch im gemeinschaftsraum lungern
-* Obdachlos, zähneknirschend teures bnb in bath buchen, airbnb weit außerhalb von bristol übers we, auf warmshowers kein glück
-* Durch die gorge raus aus cheddar, unnedige cabrio spaßfahrer schlängeln sich durch die schlucht, hohe steile stufige kalksteinfelsen
-* Über schmale feldwege oft viel zu steil durch das hügelige sommerset nach midfort
-* Von dort über den two tunnels greenway rein nach bath, radweg durch zwei aufgelassene eisenbahntunnel, infos zur linie…
-* In bath wohnstraßen aus komplett gleich aber edel aussehenden häusern aus …limestone, infos zum limestone
-* Zimmer im obern stock eines solchen gutbürgerlichen hauses, überall teppichboden
-* In die stadt spazieren zu den römischen bädern, unesco, zu teuer zum besichtigen, oarger touristenmassen im zentrum, alle bauten aus dem limestone
-* Rechtsabbiegen auf der york street zur abbey, ein mann spielt schnulzige pianomusik
-* Die church street runter, menschen drängeln an einem absperrgitter, unter der riesigen platane stehen schauspieler im zwischenkriegszeitsoutfit
-* Über die pulteney bridge, infos…, und die unterführung runter zum …, river avon, blick auf den bath weir, auf die anbauten der brücke, das empire hotel
-* Der beergarden eines italienischen bummvoll, an der leinwand überträgts das match dänemark - england, es bleibt beim 1-1
-* Die walcot street lang und hochschnaufen zum camden crescent, gerüste und parkspur versauen den anblick, was ist ein crescent?
-* Wieder runter zum royal crescent, der perfekte golfrasen voller junger leute, ein ballon fliegt drüber
-* Heimgehen, mit dem wasserkocher im zimmer instant ramen kochen und fußball schauen, trauriges match italien spanien
+Obwohl der weltberühmte *Cheddar* aus *Cheddar* nimmt der Ort heute keinen großen Bezug darauf.
+Vielmehr wirbt man mit der *Cheddar Gorge*, einer Karstschlucht im Nordosten des Ortes.
+Auf der B3135 mit Steigungen bis 16% durch die Schlucht hochradln.
+Die Tropfsteinhöhlen in der Schlucht auslassen, absurde Eintrittspreise.
 
 {% include image.html path="media/todo/gorge.jpg" alt="" link="https://photos.app.goo.gl/mGkyi7aQazAUqYSH7" %}
 
+Erste Pause in *West Harptree*.
+Köstliche *Crumpets* futtern, kleine dicke knautschige Pfannkuchen aus dem Packerl.
+Am besten heiß aus dem Toaster mit viel Butter auf der löchrigen Seite.
+
 {% include image.html path="media/todo/crumpets.jpg" alt="" link="https://photos.app.goo.gl/dhtzqmndbEVXGA4ZA" %}
 
-{% include image.html path="media/todo/tunnel.jpg" alt="" link="https://photos.app.goo.gl/5ZajhHRjznPzRy4P8" %}
+25 km durch das hügelige *Sommerset* oft viel zu steil nach *Midford*.
+Hier beginnt der *Two Tunnels Greenway* der bis nach *Bath* führt.
+Die *Two Tunnels* sind der *Combe Down Tunnel* (1.672 m) und der *Devonshire Tunnel* (409 m).
+Früher rollten die Züge der *Somerset and Dorset Joint Railway* durch diese Tunnel, 2013 eröffnet der Radweg.
+
+{% include image.html path="media/todo/tunnel.jpg" caption="Der Eingang zum Combe Down Tunnel" alt="" link="https://photos.app.goo.gl/5ZajhHRjznPzRy4P8" %}
+
+### Bath ###
+
+Die meisten Gebäude in *Bath* bestehen aus beigem Kalkstein, *Bath Stone*.
+In der Mittleren Jura vor gut 150 Jahren liegt die Gegend von *Bath* unterm Meer, die damaligen Sedimentablagerungen bilden den heutigen Stein.
+Der *Buckingham Palace* und auch das Haus in dem wir wohnen sind in *Bath Stone* gekleidet.
+In der Einfahrt ein riesiger SUV, die Räder kommen in die Garage.
+Ein glatzköpfiger Mann mit breiten gebleichtem Grinser führt ins Zimmer im Obergeschoss mit Blick auf den steril gestalteten Garten.
+Im ganzen Haus grauer flauschiger Teppichboden.
+
+Endlich wieder Fernschauen.
+Kurz rasten dann über den *River Avon* ins Zentrum von *Bath* spazieren.
+Bummvolle Straßen, Tourist:innen aus allen Kontinenten, *Bath* ist UNESCO Weltkulturerbe.
+Über die *Stall Street* zu den Römischen Bädern.
+Von außen wenig spektakulär, der Eintrittspreis zu happig.
+
+Rechts abbiegen auf die *York Street*, an der *Kingston Parade* vor der *Abbey* spielt ein Mann am Klavier melancholische Aufzugmusik.
 
 {% include image.html path="media/todo/abbey.jpg" alt="" link="https://photos.app.goo.gl/GcQALn6MwW9uS88s7" %}
 
+Die *Church Street* runter, Menschengedränge vor einem Absperrgitter.
+Unter einer riesigen Platane auf einem kleinen gepflasterten Platz stehen einige Schauspieler im Zwischenkriegsoutfit.
+
+Ein Stück weiter nochmal über den *River Avon*.
+Die *Pulteney Bridge* im Drübergehen unscheinbar, breite Straße, an beiden Seiten Geschäfte und Restaurants.
+Am rechten *Avon*-Ufer unter der Brücke durch und von einem kleinen Platz am Ufer auf den *Pulteney Weir* und die Brücke blicken.
+Im Restaurant dahinter der gesteckt volle Biergarten, England spielt gegen Dänemark, es bleibt beim 1-1.
+ 
 {% include image.html path="media/todo/pulteney.jpg" alt="" link="https://photos.app.goo.gl/jyz3838GXhe7PAHfA" %}
+
+Zurück auf das linke Ufer des *Avon* und die *Walcot Street* hoch.
+Im riesigen *Waitrose* herumirren und Abendessen kaufen.
+Hochschnaufen zum *Camden Crescent*, dreistöckige Altbauten in *Bath Stone*, sichelförmig angeordnet.
+Baugerüste und ein voller Parkstreifen ruinieren das Panorama.
+
+500 Meter weiter zum *Royal Crescent*.
+Ein Hang mit riesiger Liegewiese, darüber reihen sich dreißig noble *Terraced Houses* zum *Crescent*.
+Georgianische Architektur *at it's finest*.
+Auf der Wiese liegen und die anderen Leute beobachten, ein Heißluftballon fliegt tief über den *Crescent*.
 
 {% include video.html path="media/todo/crescent.mp4" alt="" link="https://photos.app.goo.gl/FCSDdDYn2x22hLCn7" %}
 
+Heimgehen und mit dem Wasserkocher Becherl-Ramen kochen.
+Italien spielt gegen Spanien, ein trauriges Match.
 
-### Bath ###
 
 
 Bath - Bristol
