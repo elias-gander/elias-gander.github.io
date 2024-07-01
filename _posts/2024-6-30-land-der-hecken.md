@@ -8,8 +8,7 @@ title:  "Land der Hecken"
 Sie gehen zurück bis in die Bronzezeit:\\
 Bauern lassen einzelne Baumreihen der für die Landwirtschaft gerodeten Flächen als Grenzzäune stehen.
 Mit der Zeit entwickeln sich diese Baumreihen zu dichten Hecken.\\
-Sie schützen das Feld vor Wind und halten die Schafe drinnen.
-Sie bieten Unterschlupf und Futter für Vögel und Kleintiere.
+Sie schützen das Feld vor Wind, halten die Schafe drinnen, bieten Unterschlupf und Futter für Vögel und Kleintiere.\\
 Sie blockieren die Sicht in Kurven und auf das wunderschöne Land dahinter.
 Zum Glück sind die Briten gute Autofahrer:innen.
 
