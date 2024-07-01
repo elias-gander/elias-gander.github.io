@@ -7,8 +7,10 @@ title:  "Land der Hecken"
 390.000 km *Hedgerows*, säumen die Straßen und Felder des Vereinigten Königreichs.
 Sie gehen zurück bis in die Bronzezeit:\\
 Bauern lassen einzelne Baumreihen der für die Landwirtschaft gerodeten Flächen als Grenzzäune stehen.
-Mit der Zeit entwickeln sich diese Baumreihen zu dichten Hecken.
-Sie schützen das Feld vor Wind und halten die Schafe drinnen, bieten Unterschlupf und Futter für Vögel und Kleintiere, blockieren die Sicht in Kurven und auf das wunderschöne Land dahinter.
+Mit der Zeit entwickeln sich diese Baumreihen zu dichten Hecken.\\
+Sie schützen das Feld vor Wind und halten die Schafe drinnen.
+Sie bieten Unterschlupf und Futter für Vögel und Kleintiere.
+Sie blockieren die Sicht in Kurven und auf das wunderschöne Land dahinter.
 Zum Glück sind die Briten gute Autofahrer:innen.
 
 {% include image.html path="media/land-der-hecken/aussicht.jpg" caption="Schöne Aussichten" alt="Eine Parkbank neben einer Straße direkt vor einer hohen Hecke" link="https://photos.app.goo.gl/M9eEYJLgvnREmq9K6" %}
