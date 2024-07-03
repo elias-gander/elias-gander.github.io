@@ -57,8 +57,7 @@ Von Schafen neugierig beäugt den Schweiß trocknen lassen und nach *Blaenavon* 
 {% include image.html path="media/cof-a-lithr/beacons.jpg" alt="Straße über eine weite Hügelkuppe, im Hintergrund ein flacher grasiger Berg" link="https://photos.app.goo.gl/VxW46CtTQ2w2b8At7" %}
 
 Übernachten auf der *Allgood Farm* bei Kani und Paddy.
-Die beiden sind in etwa so alt wie wir.
-In London studiert, remote arbeiten und im ländlichen *Wales* auf einer wunderschönen renovierten Farm mit Steinmauern leben.
+Die beiden sind in etwa so alt wie wir, haben in London studiert und arbeiten remote im ländlichen *Wales* auf einer wunderschönen renovierten Farm mit Steinmauern.
 Auch um das Grundstück herum meterhohe alte Steinmauern.
 Drinnen zwischen dem hohen Gras eine alte Scheune, ein Tischtennistisch und einige Big Bags voll Zement.\\
 Für mehr Gesellschaft in dem kleinen *Blaenavon* beherbergen sie via *Warmshowers* Radtouris bei sich.
