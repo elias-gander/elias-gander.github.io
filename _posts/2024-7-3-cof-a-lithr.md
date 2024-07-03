@@ -4,7 +4,7 @@ title:  "Côf a lithr, llythyrau a geidw"
 
 {% include map.html url="https://en.frame.mapy.cz/s/jotohukeda" %}
 
-...ist ein walisisches Sprichwort das soviel bedeutet wie 'Erinnerungen verblassen, Geschriebenes bleibt'.
+... ist ein walisisches Sprichwort das soviel bedeutet wie 'Erinnerungen verblassen, Geschriebenes bleibt'.
 Wie passend!
 
 ### Von Bristol nach Blaenavon ###
