@@ -60,7 +60,7 @@ Von Schafen neugierig beäugt den Schweiß trocknen lassen und nach *Blaenavon* 
 Die beiden sind in etwa so alt wie wir, haben in London studiert und arbeiten remote im ländlichen *Wales* auf einer wunderschönen renovierten Farm mit Steinmauern.
 Auch um das Grundstück herum meterhohe alte Steinmauern.
 Drinnen zwischen dem hohen Gras eine alte Scheune, ein Tischtennistisch und einige Big Bags voll Zement.\\
-Für mehr Gesellschaft in dem kleinen *Blaenavon* beherbergen sie via *Warmshowers* Radtouris bei sich.
+Für mehr Gesellschaft in dem kleinen *Blaenavon* beherbergen sie via *Warmshowers* Radtouris.
 Diesmal sind wir die Glücklichen.
 
 {% include image.html path="media/cof-a-lithr/allgood.jpg" alt="Kathis Rad lehnt an einem Haus mit Mauern aus unregelmäßigen Steinen" link="https://photos.app.goo.gl/5wX4RR3SJcsxmDBS6" %}
