@@ -88,7 +88,7 @@ Alle Habseligkeiten mit Batterie werden eingesammelt.
 Eine gute Stunde gebückt durch die feucht rutschigen Schächte laufen.
 An den Wänden pechschwarz glänzende Kohleadern und gigantische Schimmelpilzgebilde.
 Dicke verfaulte Baumstämme und rostige Stahlträger stützen die stockfinsteren Gänge.
-Die Vorstellung, dass Achtjährige mit einer Kerze ausgestattet hier arbeiteten, Pferde für Jahre ohne Unterbrechung unter Tage lebten.
+Die Vorstellung, dass hier Achtjährige mit einer Kerze ausgestattet arbeiteten und Pferde für Jahre ohne Unterbrechung unter Tage lebten.
 
 Wieder im Tageslicht auf ein Sandwich und eine Tasse Tee ins Museumscafé.
 Durch die restlichen Gebäude schlendern.
