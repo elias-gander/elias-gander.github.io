@@ -79,7 +79,7 @@ Unter gespenstischem Kreischen führt der Aufzug 90 Meter in die Tiefe.
 {% include video.html path="media/cof-a-lithr/aufzug.mp4" link="https://photos.app.goo.gl/47NUHaEfnLgxwYsZ7" %}
 
 Trotz Museum gelten die Schächte rechtlich noch als Mine.
-Unser Tourguide ein ehemaliger Kohleminenarbeiter, ein *Collier*.
+Unser Tourguide ist ein ehemaliger Kohleminenarbeiter, ein *Collier*.
 Beim Aufzug verteilt er Helme, Lampen und Masken mit Kohlenmonoxid-Katalysator.
 Alle Habseligkeiten mit Batterie werden eingesammelt.
 
