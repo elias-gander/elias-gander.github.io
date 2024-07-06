@@ -15,6 +15,13 @@ body[a="dark"] { @include dark-appearance; }
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
 }
+
+@media screen and (max-width: 768px) {
+  figure {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
 // -------------------------------------------- //
 
 // bg color is also needed in html in order to
