@@ -50,4 +50,11 @@ Tenby - Maenorbyr
 * verschwitzt zurück ins hostel auf den selbergmachten sunday roast
 
 Maenorbyr - Pembroke
-* todo
+* eine gute stunde nach pembroke, auf und ab der küste entlang dann hauptstraße
+* tee trinken auf der high street bei …, schreiben, kathi telefoniert, socken kaufen im gift shop
+* shoppen im riesigen tesco
+* nudeln mit pesto futtern im airbnb
+* zum castle radln, tolle videos und wachsfiguren austellung
+* lange im royal george sitzen und fuba schauen und backgammon spielen, wie abgewohntes wohnzimmer
+* im nieselregen um 10 heimradln, roter himmel und riesige krähenschwärme am horizont
+* instant curry und naan brot und ein letztes mal gemeinsam schlafen
