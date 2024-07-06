@@ -17,6 +17,12 @@ Port Eynon - Burry Port
 * Zum nas rasoi indian restaurant radln und gscheid essen, pause vom frustrierenden campingkochen
 * In der kalten lounge in eine decke gewickelt sitzen, die empfangsdame fjndet uns lieb und spendiert tee und biscuits
 
+loch - 6PAPajXpDzMthXDs6
+ebbe - poWCK4DUaV3tjMwQ7
+no tents - h23gsvQkcCKFbzFeA
+indisch - NTFecPAPhgnJz84MA
+
+
 Burry Port - Saundersfoot
 * Wieder bleigrauer himmel aber kein wind mehr
 * Im shop für die letzte nacht zahlen, nur 11 pounds!
@@ -34,6 +40,16 @@ Burry Port - Saundersfoot
 * es beginnt zu tröpfeln, doch noch nach tenby, dort beim camping anrufen und mühsam übers telefon credit card information angeben
 * in saundersfoot eine riesige pizza im dönerladen essen und im sprühnebel nach tenby, um 9 am campingplatz, zelt aufstellen, duschen und sofort schlafen
 
+hoods - YtyRTvUVaGjwKecY7
+speedboat - cMSFgEDMgD7jq9AB9
+strand - HX4EpW6HkhntJyHf7
+kette wechseln - LVZqspaHFiVzbYaZ6
+steil - PKa7TYPM5PErKTvZ7
+strand von ... - N88aaaGw49fdKEbh6
+pizza - mbVhEfhDRv1HfvQu8
+tenby niesel - 7CmbPCHNXeUq7CLdA
+
+
 Tenby - Maenorbyr
 * am morgen zeltlöcher flicken
 * gepäck und räder beim lustigen warden lassen und nach tenby spazieren
@@ -49,6 +65,19 @@ Tenby - Maenorbyr
 * durch einen tunnel zum weitläufigen skrinkle haven beach, kein mensch, in einer höhle einen nike fußball finden und ein bissi kicken
 * verschwitzt zurück ins hostel auf den selbergmachten sunday roast
 
+kathi zelt - fY8BE8QRaratgyET8
+tenby - Jw7yHF6soUknCuE97
+rampe ins meer - ndVhjqNNPXjGJi1Y7
+manorbier - TUpZtEsHMShmmv7W6
+strand runter - VKfiknRgRZfTLTJn6
+church door - AeMRC5tyaGVhxiCe6
+durchs loch - mLgtgtaEh2LBcqwz8
+kicker - wqykVdWG9inRtZHx6
+mr nike - gU6VGy3no8PasWBG8
+steinmanderl - uB3i18H55ZsYBMVX6
+
+
+
 Maenorbyr - Pembroke
 * eine gute stunde nach pembroke, auf und ab der küste entlang dann hauptstraße
 * tee trinken auf der high street bei …, schreiben, kathi telefoniert, socken kaufen im gift shop
@@ -58,3 +87,11 @@ Maenorbyr - Pembroke
 * lange im royal george sitzen und fuba schauen und backgammon spielen, wie abgewohntes wohnzimmer
 * im nieselregen um 10 heimradln, roter himmel und riesige krähenschwärme am horizont
 * instant curry und naan brot und ein letztes mal gemeinsam schlafen
+
+küste entlang - aP7KQo7EGh4ddGDH7
+telefonfrau - crDaTFJ8YD4nHaUz6
+rosen - L6EoWHDVBf67pSDTA
+tafel - nQ1X1GJoMZM4gguB6
+pub - cxiMYpiu4phxuDBF8
+raben - ZCfdg1dW7vg7LXWP7
+und tschüss - PJFKkxMfif62VbrL6
