@@ -138,8 +138,8 @@ Federleicht runterspazieren nach *Tenby*.
 
 Ebbe, der Strand von *Tenby* besonders breit.
 Über der Bucht reihen sich bunte Häuser im viktorianischen Stil.
-Auf der bummvollen *High Street* die vielen Souvenirshops nach Postkarterl und einem Paar kesser Socken abklappern.
-Jeden Ramsch gibts aber keine Postkarten.
+Auf der bummvollen *High Street* die vielen Souvenirshops nach Postkarten und einem Paar kesse Socken abklappern.
+Fehlanzeige, sonst gibts jeden Ramsch.
 
 {% include image.html path="media/abschied/tenby2.jpg" alt="Blick von einem breiten Strand auf eine Reihe bunter Häuser die über den Klippen stehen" link="https://photos.app.goo.gl/Jw7yHF6soUknCuE97" %}
 
