@@ -173,6 +173,6 @@ Die nasse Ausrüstung auf den wenigen Quadratmetern ausbreiten.
 Durch die leeren Gänge des absurd großen *Tesco Superstore* schlendern und ein Fertiggericht kaufen.
 Dazu ein Fünferpack *Jam Doughnuts* (sprich Krapfen), 1.300 kcal um 1.25 £.
 Mit dem *Tesco*-Beutel zum Pier rausspazieren.
-Der Wind hat noch zugelegt, Wellen krachen mit großer Wucht gegen die Hafenmauer und spritzen meterhoch in die Höhe.
+Der Wind hat noch zugelegt, Wellen krachen mit großer Wucht gegen die Hafenmauer, meterhohe Gischt.
 
 {% include video.html path="media/invasion/wellen.mp4" link="https://photos.app.goo.gl/LRbBAmC9SWm4PxmE8" %}
