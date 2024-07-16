@@ -13,6 +13,18 @@ Aberystwyth - Machynlleth
 * zusammentreffen mit viktoryia und hristina die ich in fishguard getroffen hab, gemeinsam zu geraldine & brian, zwei zimmer in einem schönen haus mit garten, bella ein kleiner dicker chihuahua mischling trottet herum
 * bei tee und japanischen bier die route für den nächsten tag planen
 
+{% include image.html path="media/todo/constitutionhill.jpg" alt="todo" link="https://photos.app.goo.gl/MhSvBNHLoxv5EEz88" %}
+
+{% include image.html path="media/todo/liplicking.jpg" alt="todo" link="https://photos.app.goo.gl/5aPSpSYUXDDm2RLe9" %}
+
+{% include image.html path="media/todo/borth.jpg" alt="todo" link="https://photos.app.goo.gl/kcYiduVVaJiEfaYk6" %}
+
+{% include image.html path="media/todo/broad.jpg" alt="todo" link="https://photos.app.goo.gl/Vwd9PD23Sc8gnjr47" %}
+
+{% include image.html path="media/todo/geraldine.jpg" alt="todo" link="https://photos.app.goo.gl/6vZJEqSxShv3jABS7" %}
+
+
+
 Machynlleth - Barmouth
 * mit den girls gemeinsam losradln
 * Immer der 82 route entlang hügelig in eryri hinein
@@ -30,6 +42,29 @@ Machynlleth - Barmouth
 * Über die holprige holzbrücke von barmouth, ein zug fährt noch drüber?
 * Bunte viktorianische häuser an der promenade, ein blaues das the sandbanks hotel
 * Im zimmer am gaskocher curryrestln kochen und ein paar folgen master chef schauen, früh schlafen gehen
+
+{% include image.html path="media/todo/geraldine2.jpg" alt="todo" link="https://photos.app.goo.gl/9GUxzrYw9didcbT7A" %}
+
+{% include image.html path="media/todo/bruecke.jpg" alt="todo" link="https://photos.app.goo.gl/2zkiyXXHQsSXKoov6" %}
+
+{% include image.html path="media/todo/schweinderl.jpg" alt="todo" link="https://photos.app.goo.gl/A8Md5kvb3L6u2LTQA" %}
+
+{% include image.html path="media/todo/auffi.jpg" alt="todo" link="https://photos.app.goo.gl/mBZnicL3bYguiU9CA" %}
+
+{% include image.html path="media/todo/oben.jpg" alt="todo" link="https://photos.app.goo.gl/Atr2LX6H1iFp8Bvk8" %}
+
+{% include image.html path="media/todo/huegel.jpg" alt="todo" link="https://photos.app.goo.gl/57gxsa9uBiaGkzgM7" %}
+
+{% include image.html path="media/todo/dolgellau.jpg" alt="todo" link="https://photos.app.goo.gl/5UKH73nuEC4nUyMx8" %}
+
+{% include image.html path="media/todo/aestuar.jpg" alt="todo" link="https://photos.app.goo.gl/dStJz3RvQ5u7htJa6" %}
+
+{% include image.html path="media/todo/holzbruecke.jpg" alt="todo" link="https://photos.app.goo.gl/6VoL393aQFrYS99b8" %}
+
+{% include image.html path="media/todo/hotel.jpg" alt="todo" link="https://photos.app.goo.gl/KNErUp8dUjZRf3tL7" %}
+
+
+
 
 Barmouth - Llanberis
 
@@ -59,6 +94,29 @@ Barmouth - Llanberis
 * Herumtrödeln und um halb 11 das pakerl macncheese essen
 * Mit vollem bauch in den ur bequemen ledersesseln liegen und spät ins bett gehen
 
+{% include image.html path="media/todo/barmouth.jpg" alt="todo" link="https://photos.app.goo.gl/rPKYBunAR5qBZrMz7" %}
+
+{% include image.html path="media/todo/kathedrale.jpg" alt="todo" link="https://photos.app.goo.gl/T4P2pkQqcGAw5TkAA" %}
+
+{% include image.html path="media/todo/nachharlech.jpg" alt="todo" link="https://photos.app.goo.gl/ut6Sexf7YZqd9Aut7" %}
+
+{% include image.html path="media/todo/castle.jpg" alt="todo" link="https://photos.app.goo.gl/qBdNguy8koLAL8wdA" %}
+
+{% include image.html path="media/todo/hochebene.jpg" alt="todo" link="https://photos.app.goo.gl/Hb2PuLEEpMJoSL1u8" %}
+
+{% include image.html path="media/todo/nebel.jpg" alt="todo" link="https://photos.app.goo.gl/btyGTWhVRHFiFJfe9" %}
+
+{% include image.html path="media/todo/penypasrauf.jpg" alt="todo" link="https://photos.app.goo.gl/ptTLn8DLTBMWsm1R6" %}
+
+{% include image.html path="media/todo/penypasoben.jpg" alt="todo" link="https://photos.app.goo.gl/jnm9EYe2udiiahis7" %}
+
+{% include video.html path="media/todo/abfahrt.mp4" link="https://photos.app.goo.gl/SZ3jL5bMLEcnjhn17" %}
+
+{% include image.html path="media/todo/gemuetlich.jpg" alt="todo" link="https://photos.app.goo.gl/cHgmKEwbDqYztXFS6" %}
+
+
+
+
 Llanberis 
 * gutes frühstück, chat mit einem londoner, will trotz des dichten nebels auf den snowdon via crib goch, war schon drei mal da und den peak nie gesehen, genau wie viki, wie mount everest
 * Bis 12 herumlungern und radl flicken, patschen, pads, kette schon wieder gelängt, wurscht
@@ -71,3 +129,18 @@ Llanberis
 * Der londoner, edward, hats geschafft mit verstauchtem knöchel
 * Im wohnzimmer chillen, eine berlinerin , josie, ist auch im hostel
 * Plaudern und mikado spielen
+
+{% include video.html path="media/todo/regen.mp4" link="https://photos.app.goo.gl/k99ZA6DEaFePG49j8" %}
+
+{% include image.html path="media/todo/wohnzimmer.jpg" alt="todo" link="https://photos.app.goo.gl/8KiwUonEVP2UWEWi7" %}
+
+{% include video.html path="media/todo/zug.mp4" link="https://photos.app.goo.gl/MzkSfdotqazFGYmv7" %}
+
+{% include image.html path="media/todo/museum.jpg" alt="todo" link="https://photos.app.goo.gl/eZ6a7DD6r9FR3Gvn9" %}
+
+{% include video.html path="media/todo/slate.mp4" link="https://photos.app.goo.gl/M7ZeSTVWbNaeDz2AA" %}
+
+{% include video.html path="media/todo/riesenrad.mp4" link="https://photos.app.goo.gl/Y65KrEHUBmUhgCDa7" %}
+
+{% include video.html path="media/todo/schmied.mp4" link="https://photos.app.goo.gl/BwCVHV5hzAjNVLgCA" %}
+
