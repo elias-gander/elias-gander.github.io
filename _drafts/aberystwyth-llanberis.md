@@ -58,3 +58,16 @@ Barmouth - Llanberis
 * Wunderschönes hostel, wenige und junge leute, alle sehr schweigsam
 * Herumtrödeln und um halb 11 das pakerl macncheese essen
 * Mit vollem bauch in den ur bequemen ledersesseln liegen und spät ins bett gehen
+
+Llanberis 
+* gutes frühstück, chat mit einem londoner, will trotz des dichten nebels auf den snowdon via crib goch, war schon drei mal da und den peak nie gesehen, genau wie viki, wie mount everest
+* Bis 12 herumlungern und radl flicken, patschen, pads, kette schon wieder gelängt, wurscht
+* Runterrollen nach llanberis zum national slate museum
+* Absolut grauslig regnerisch
+* Eine dampflok voller touris fährt im halbstundentakt vorbei, die luft riecht nach böller
+* Etwas schwache slate splitting demonstration, riesiges waterwheel, schmied beim love spoons herstellen zuschauen
+* Noch stärkerer regen, zum spar abendessen und snack holen, im spar ein subway
+* Im strömenden regen zum hostel hochschwitzen, klatschnass ankommen
+* Der londoner, edward, hats geschafft mit verstauchtem knöchel
+* Im wohnzimmer chillen, eine berlinerin , josie, ist auch im hostel
+* Plaudern und mikado spielen

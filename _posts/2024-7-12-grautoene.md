@@ -61,7 +61,7 @@ Eine kleine Straße führt eine Dreiviertelstunde hoch nach *St Davids*.
 Wird mich schon wer mitnehmen.
 Die einzigen die vorbeikommen ein Paar in einem Zweisitzer-Cabriolet.
 
-Die Straße führt direkt zur riesigen Kathedrale des kleinen *St Davids*.
+Die Straße führt zur riesigen Kathedrale des kleinen *St Davids*.
 Direkt gegenüber die Ruinen des ehemaligen Bischofspalastes.
 Der Bischof von *St Davids* konnte sich so was leisten weil Papst Calixtus II. 1123 dekretiert: *Roma semel quantum dat bis Menevia tantum* - zwei Pilgerfahrten nach *St Davids* zählen so viel wie eine nach Rom und drei so viel wie eine nach Jerusalem.
 Das brachte *ordentlich Zasterchen*[^1].
