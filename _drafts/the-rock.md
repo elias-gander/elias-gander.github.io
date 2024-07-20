@@ -83,24 +83,6 @@ Den Abend im Wohnzimmer vor dem gigantischen Faltfenster? ausklingen lassen.
 
 {% include image.html path="media/the-rock/geraldine.jpg" alt="Ein gefliestes Wohnzimmer mit rundem Esstisch und einem großen faltbaren Fenster in einen Garten" link="https://photos.app.goo.gl/6vZJEqSxShv3jABS7" %}
 
-Machynlleth - Barmouth
-* mit den girls gemeinsam losradln
-* Immer der 82 route entlang hügelig in eryri hinein
-* Pause beim bankerl, foto session
-* Bei … slate factory, alles aus schiefer sogar zäune
-* Up up up zu steil hoch zum waun llefenni, zuerst durch den wald links fichten, rechts lärchen, dann weideland
-* Oben wunderbarer blick richtung …
-* Zwei jets fetzen drüber
-* viele weidetore
-* Den hang entlang vorbei an höfen, hügelig dann rasant runter nach dogellau
-* Aufstocken im coop
-* In einem bring your own food pub ein bluestone pale ale
-* 3er zimmer in Altmodischem hotel am strand in barmouth buchen
-* Das delta des afon Mawddach entlang, riesige glänzende Sandflächen, ebbe, ein alter mann auf ebike führt uns die ersten kilometer
-* Über die holprige holzbrücke von barmouth, ein zug fährt noch drüber?
-* Bunte viktorianische häuser an der promenade, ein blaues das the sandbanks hotel
-* Im zimmer am gaskocher curryrestln kochen und ein paar folgen master chef schauen, früh schlafen gehen
-
 Früher aufstehen als sonst, zamgepackt Abschied um halb 9.
 Strahlender Sonnenschein, froh wieder im Konvoy zu radln.
 
