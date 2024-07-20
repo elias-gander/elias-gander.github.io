@@ -29,27 +29,31 @@ Ertönen soll ein zischendes 'chl'.
 ### Von Aberystwyth nach Llanberis
 
 Am Morgen ein kräftiger Regenguss, froh nicht draußen zu schlafen.
-Die Etappe nach *Machynlleth* nur ... km, Zeit für eine Runde durch *Aberystwyth*.
+Die Etappe nach *Machynlleth* nur gute 30 km, Zeit für eine Runde durch *Aberystwyth*.
 Taschen und Radl im Airbnb lassen und raus auf die nasse Straße.
 Die Regenjacke unnötig mitnehmen, bald setzt sich die Sonne durch.
 
 Über die *Bridge Street* zu den *Castle Grounds*, im nassen Rasen verstreute Ruinen einer Burg.
-Blick nach links auf das schon bekannte ...
-Rechts die zweite Bucht von *Aberystwyth*, das Universitätsgebäude ... versteckt hinter Gerüsten, hinter der Bucht der *Constitution Hill*.
-Runterspazieren zur Bucht, hinter der Promenade bunte viktorianische Häuser.
+Blick nach links über den schon vertrauten *South Beach* und Leuchtturm.
+Rechts der *North Beach*, dahinter der *Constitution Hill*.
+Das prächtige Gebäude des *Old College* leider komplett in Gerüste gekleidet.
+*Aberystwyth* ist Universitätsstadt, auf den kleinen Ort mit nur 18.000 Einwohner:innen kommen gut 9.000 Studierende.
+
+Runterspazieren zur Bucht, hinter der Promenade entlang bunte viktorianische Häuser.
 
 {% include image.html path="media/the-rock/constitutionhill.jpg" alt="Eine Ruine im Vordergrund, dahinter eine Straße am Meer entlang und ein Gebäude in Gerüste gekleidet, am Horizont ein Hügel" link="https://photos.app.goo.gl/MhSvBNHLoxv5EEz88" %}
 
 Ziellos durch die Gassen von *Aberystwyth* spazieren. 
-In einem *Post Office* eine Postkarte mit Werbeplakat aus den ... Jahren kaufen.
-Im *Starbucks* an der ... mühsam einen Tee bestellen und eine Stunde tippen.
+In einem *Post Office* eine Postkarte mit Werbeplakat aus den 50er Jahren kaufen.
+*Aberystwyth, where Holiday Fun Begins*.
+Im *Starbucks* an der *Great Darkgate Street* mühsam einen Tee bestellen und eine Stunde tippen.
 
 {% include image.html path="media/the-rock/liplicking.jpg" alt="Eine Gasse mit neuen und alten Häuserfassaden, im Erdgeschoss ein Fried Chicken Stand" link="https://photos.app.goo.gl/5aPSpSYUXDDm2RLe9" %}
 
-Am frühen Nachmittag zurück ins Airbnb, einen Krapfen runterschlingen und losradln.
+Am frühen Nachmittag zurück ins Airbnb, einen Krapfen verschlingen und losradln.
 Die B4572 aus der Stadt raus und steil bergauf auf gute 100 Höhenmeter.
 Hügelig durch Heckengassen zwischen Schafweiden durch dann spektakulärer Blick auf die Bucht von *Borth*.
-Am Horizont die Ausläufer des *Eryri*...
+Am Horizont die Ausläufer des *Snowdonia* bzw. *Eryri National Park*.
 
 {% include image.html path="media/the-rock/borth.jpg" alt="Eli grinst in die Kamera, im Hintergrund eine weite Bucht und Berge am Horizont" link="https://photos.app.goo.gl/kcYiduVVaJiEfaYk6" %}
 
@@ -79,8 +83,6 @@ Den Abend im Wohnzimmer vor dem gigantischen Faltfenster? ausklingen lassen.
 
 {% include image.html path="media/the-rock/geraldine.jpg" alt="Ein gefliestes Wohnzimmer mit rundem Esstisch und einem großen faltbaren Fenster in einen Garten" link="https://photos.app.goo.gl/6vZJEqSxShv3jABS7" %}
 
-
-
 Machynlleth - Barmouth
 * mit den girls gemeinsam losradln
 * Immer der 82 route entlang hügelig in eryri hinein
@@ -104,45 +106,50 @@ Strahlender Sonnenschein, froh wieder im Konvoy zu radln.
 
 {% include image.html path="media/the-rock/geraldine2.jpg" alt="Viktoriya und Hristina in Radkleidung und Geraldine mit einem weißen Chihuahua im Arm, drei Räder lehnen an einer holzverkleideten Hausfassade" link="https://photos.app.goo.gl/9GUxzrYw9didcbT7A" %}
 
-Auf der A... zurück nach *Machynlleth* und der *National Cycle Route* 82 entlang über die Brücke über den ... in den *Eryri National Park*?
+Auf der A489 zurück nach *Machynlleth* und der *National Cycle Route* 82 entlang über die Brücke über den *Afon Dyfi*.
+Die Grenze des Nationalparks.
 
 {% include image.html path="media/the-rock/bruecke.jpg" alt="Hristina kommt von einer Brücke runter, Eli folgt dahinter, im Hintergrund nackte Hügel" link="https://photos.app.goo.gl/2zkiyXXHQsSXKoov6" %}
 
-Immer wieder längere Anstiege...
+Auf und ab am Hang links des *Afon Dulas* entlang.
 Am Straßenrand längliche unregelmäßige Schieferplatten mit Draht zu einem Zaun verbunden.
-Pause in ..., eine Handvoll alter Steinhäuser eine Straße entlang.
-Eine Weile Pause machen in dem Rastbereich am Ortsende.
+Pause an einem netten Rastplatz am Ortsrand des kleinen *Corris*.
+Urige Steinhäuser reihen sich entlang der Straße.
 An einem Hauseingang ein geschnitztes Schweinderl mit Fahrradhelm.
 
 {% include image.html path="media/the-rock/schweinderl.jpg" alt="Eli sitzt am Rad und streckt den Arm hoch zu einem holzgeschnitzten Schwein mit einem Kinderfahrradhelm am Kopf" link="https://photos.app.goo.gl/A8Md5kvb3L6u2LTQA" %}
 
 Weiter sanft berauf.
-An einem Hügel in der Ferne ein großer Schacht, darunter ergießt sich eine Lawine kleinerer Schiefersteine.
-Aus einem niederen finsteren Steinhaus drängt mächtiger Lärm, ein Arbeiter führt Schieferblöcke über einen langen Tisch in eine Kreissäge.
-Es beginnt der lange Aufstieg zum ...
+Knapp unter dem Gipfel eines Hügels ein finsterer Schacht, der Hang darunter ein Meer von Schieferbrocken.
+Aus einem niederen finsteren Steinhaus unweit der Straße drängt mächtiger Lärm.
+Ein Arbeiter führt riesige Schieferblöcke über einen langen Tisch in eine Kreissäge.
 
-Zuerst durch Wald, am rechten Hang toter Fichtenwald, rechts hohe Lärchen.
-Das letzte Stück besonders steil auf einer schmalen Straße durch den *Bog* schlängeln.
+Der lange Anstieg zum *Waun Llefenni*.
+Lange einen waldigen Hang entlang, links toter Fichtenwald, rechts riesige Lärchen.
+Die Bäume werden niedriger, die Straße schlängelt sich durch eine besonders steile Moorlandschaft.
 
 {% include image.html path="media/the-rock/auffi.jpg" alt="Hristina und Eli radln auf einer Straße auf waldbewachsene Hügel zu" link="https://photos.app.goo.gl/mBZnicL3bYguiU9CA" %}
 
-Oben lange auf einer Steinmauer zwischen den hohen Moorgräsern sitzen und den Schweiß trocknen lassen.
-Ein letztes kurzes Stück zum ... hoch, genialer Blick über das Tal von ... 
+Kurz vorm Pass lange auf einer Steinmauer zwischen den hohen Moorgräsern sitzen und den Schweiß trocknen lassen.
+Blick zurück auf die bewaldeten Hänge.
+Mit gerasteten Beinen das letzte Stück zum Pass hoch.
+Genialer Blick über das weite Tal des *Afon Clywedog*. 
 
 {% include image.html path="media/the-rock/oben.jpg" alt="Viktoriya, Hristina und Eli stehen Arm in Arm auf einer Straße vor einer weiten Hügellandschaft" link="https://photos.app.goo.gl/Atr2LX6H1iFp8Bvk8" %}
 
-Runterbrettern zur A...
-Immer wieder bei Weidetoren stehenbleiben.
-Wie ich gerade eins aufmache ein herannahndes Donnern, zwei Düsenjets jagen in einem Sekundenbruchteil über unsere Köpfe hinweg.
-Hügelig den anderen Talhang entlang.
+Runterbrettern zur A487.
+Am Weg immer wieder bei Weidetoren stehenbleiben.
+Wie ich eins aufmache lauter werdendes Donnern, zwei Düsenjets jagen in einem Sekundenbruchteil über unsere Köpfe hinweg.
+
+Die Straße überqueren und hügelig den linken Talhang entlang.
 Ständig für Fotos stehenbleiben.
 
 {% include image.html path="media/the-rock/huegel.jpg" alt="Sonnenbeschienene kahle Hügel, darunter eine Schafweide im Schatten" link="https://photos.app.goo.gl/57gxsa9uBiaGkzgM7" %}
 
 Rasante Abfahrt nach *Dolgellau*.
 Ein dichter Ortskern aus alten Steinhäusern.
-Als erstes zum *Co-op* Proviant einkaufen, dann die Räder durch die Gassen schieben und an einen der Tische vor dem ... setzen.
-Zwei *Madri* und ein bachlwarmes *Blue Stone Pale Ale*.
+Als erstes zum *Co-op* Proviant einkaufen, dann die Räder durch die Gassen schieben und an einen der Tische vor einem Pub an der *Mill Street* setzen.
+Zwei *Madri* und für mich ein bachlwarmes *Bluestone Pale Ale*.
 
 {% include image.html path="media/the-rock/dolgellau.jpg" alt="Drei Biergläser auf einem Holztisch, im Hintergrund eine Gasse aus urigen Steinhäusern darüber hängen bunte Fähnchen" link="https://photos.app.goo.gl/5UKH73nuEC4nUyMx8" %}
 
@@ -153,16 +160,19 @@ Einen alter Mann auf E-Bike überholen am Weg raus aus *Dolgellau*.
 Viktoriya und Hristina kommen irgendwie mit ihm ins Gespräch, übereifrig meint er uns nach *Barmouth* führen zu müssen.
 Gestresst von seinem dauernden Vorfahren und Warten.
 
-Kurz vor der Holzbrücke über den ... verliert er dann wohl doch die Geduld und meint wir sollen einfach dem Weg folgen.
-Die Brücke nur anschauen, drüberfahren kostet ... 
-... km den Ästuar des ... entlang.
+Kurz vor der *Penmaeonpool Toll Bridge* über den *Afon Mawddach* verliert er dann wohl doch die Geduld und meint wir sollen einfach dem Weg folgen.
+Die Brücke nur anschauen, drüberfahren kostet je Richtung 30 Pence. 
+10 km den Ästuar des *Afon Mawddach* entlang.
 Schotter und das seichte Wasser leuchten silbern im grellen Sonnenlicht.
 
 {% include image.html path="media/the-rock/aestuar.jpg" alt="Ein Schotterweg führt einer weiten Wasserfläche entlang" link="https://photos.app.goo.gl/dStJz3RvQ5u7htJa6" %}
 
 An der Mündung über die holprige hölzerne Eisenbahnbrücke nach *Barmouth*.
-Das *The Sandbanks* ein in die Jahre gekommenes viktorianisches Haus direkt hinterm weiten Sandstrand.
-Vom Meer trennt eine hohe grasbewachsene Düne.
+Die Brücke ist eines der längsten hölzernen Viadukte Großbritanniens.
+Nach einer aufwendigen Restauration in den 80er Jahren rollen heute wieder Züge über die Brücke.
+
+Das *The Sandbanks* ein in die Jahre gekommenes Hotel in einem viktorianisches Haus direkt hinterm weiten Sandstrand.
+Eine hohe grasbewachsene Düne blockiert die Sicht auf den Strand.
 
 {% include image.html path="media/the-rock/holzbruecke.jpg" alt="Viktoriya und Hristina radln über eine lange Holzbrücke über einem feuchten Strand auf eine Ortschaft zu" link="https://photos.app.goo.gl/6VoL393aQFrYS99b8" %}
 
@@ -260,21 +270,7 @@ Nach der heißen Dusche die mitgebrachten *Mac'n'cheese* verschlingen und in ein
 
 {% include image.html path="media/the-rock/gemuetlich.jpg" alt="Selfie von Eli wie er grinsend in einem Ledersessel nahe einer Lichterkette liegt" link="https://photos.app.goo.gl/cHgmKEwbDqYztXFS6" %}
 
-
-
-
-Llanberis 
-* gutes frühstück, chat mit einem londoner, will trotz des dichten nebels auf den snowdon via crib goch, war schon drei mal da und den peak nie gesehen, genau wie viki, wie mount everest
-* Bis 12 herumlungern und radl flicken, patschen, pads, kette schon wieder gelängt, wurscht
-* Runterrollen nach llanberis zum national slate museum
-* Absolut grauslig regnerisch
-* Eine dampflok voller touris fährt im halbstundentakt vorbei, die luft riecht nach böller
-* Etwas schwache slate splitting demonstration, riesiges waterwheel, schmied beim love spoons herstellen zuschauen
-* Noch stärkerer regen, zum spar abendessen und snack holen, im spar ein subway
-* Im strömenden regen zum hostel hochschwitzen, klatschnass ankommen
-* Der londoner, edward, hats geschafft mit verstauchtem knöchel
-* Im wohnzimmer chillen, eine berlinerin , josie, ist auch im hostel
-* Plaudern und mikado spielen
+### Llanberis
 
 Am nächsten Morgen noch grausligeres Wetter. 
 Vom Hostel sieht man kaum den Kilometer runter nach *Llanberis*.
@@ -323,3 +319,7 @@ Währenddessen plattert er unablässig.
 
 {% include video.html path="media/the-rock/schmied.mp4" link="https://photos.app.goo.gl/BwCVHV5hzAjNVLgCA" %}
 
+Unablässiger Regen, nicht länger warten und zurück ins Hostel radln.
+Zwischenstopp beim *Spar* in *Llanberis* für ein Abendessen.
+Klatschnass beim Hostel ankommen, Edward der Londoner ist noch am Leben, sein Fuß verstaucht.
+Den Abend bei einer Runde Mikado mit ihm und einer jungen Frau aus Berlin ausklingen lassen.
