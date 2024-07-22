@@ -2,35 +2,6 @@
 title:  "Glasgow - Oban"
 ---
 
-Liverpool - Glasgow
-* Abschied von eliza
-* um halb 11 durch die fußgängerzone zum bahnhof radln
-* gegenüber von liverpool limestreet die george hall, immerhin, sonst wenig gesehen von liverpool
-* tickets drucken am automaten, 8 zettel
-* moderner niederflurzug, problemlose radabstellmöglichkeit
-* in preston steigen drei ältere aus glasgow ein und setzen sich an meinen tisch
-* der extrem breite mann mit dichtem nasenehaar neben mir schenkt mir sein packerl salt and vinegar squares und fragt mich zur reise aus
-* Durch die rasterförmigen gassen mit hohen rötlichen sandsteingebäuden zum kelvingrove radln
-* Am weg stop beim gear bikes, netter mechaniker schaut sich das vorderrad an und meint es ist ok, leider kein passenden hinterreifen, switchen schwierig weil dann kein grip vorne
-* Das hostel teil eines schicken crescent? Am hilltop, ehemaliges luxushotel, schicke lounge, tv zimmer mit tt, küche leider im keller…, kein trinkwasser in den Zimmern, alte leitungen
-* Bis spät am Abend in der lounge chillen
-
-Glasgow 
-* regen regen regen
-* blog fertigschreiben, nicht zu früh ins museum für orgel recital
-* Durch den nassen kelvingrove park
-* museum, gratis, wunderbare halle, dali, rembrandt, milanesische rüstung, kitschiges orgelkonzert bach und hp
-* mittagssnack und coffee im hostel, in der lounge schreiben, die sonne kommt raus
-* ins stadtzentrum spazieren die … entlang, unterwegs youth hostels anrufen, nirgends frei am samstag scheiss we
-* Souveniershops abklappern nach einem paarl socken, schließlich nessie socken
-* In einem riesigen gemütlichen waterstone pause und ein bissi italienisch und französisch lesen, ich kanns noch
-* Am trashigen aber wunderbar sonnigen george square sitzen, unzähllige tauben und möwen die ausgiebig gefüttert werden
-* Weiterspazieren zur kathedrale, gerüste und tote hose
-* Mit dem x19 bus zum armadillo, auch hier tote hose aber tolles gebäude und radltunnel zur … 
-* Einkaufen beim tesco, potato scones und zurück zum abendessen
-* Abend in der lounge
-* Spät ins zimmer schleichen, jemand schnarcht ur laut und es stinkt nach socken und sneaker
-
 Glasgow - Rothesay
 * aufwachen zu zigarettenrauch, ein junger mann raucht am fenster, er ist aus tirana
 * Frühstücken und fertigmachen, wie immer auch die französische familie dort die ganz leise spricht und alles hinter sich blitzblank saubermacht
@@ -73,3 +44,25 @@ campspot - Oban
 * geschlaucht in oban ankommen, straßen verstopft, gehsteige bummvoll mit leuten
 * zu früh für check-in, abwarten im gemütlichen wohnzimmer, wifi geht schon wieder nicht gscheid
 * wie immer reden die wenigsten miteinander
+* stockbett in der mitte vom raum, kein seitengitter
+
+
+Oban
+* nicht ausm bett gefallen aber nicht gut geschlafen, zu heiß
+* beim frühstück mit einer gruppe deutsche reden, suchen nach dem schottischen volkstanz …?
+* draußen sauwetter, am sofa platzieren und den ganzen tag über sitzen
+* langsam draufkommen dass gewisse gesichter keine gäste sondern volunteers sind, kost und logis
+* keine anderen gäste da aber niemand stört sich an mir
+* leo der ws host ist erst ab 6 daheim
+* um halb 5 rausgehen einkaufen, immer noch sauwetter
+* veganes haggis vom fishnchips shop, gut aber einfach ein bohnen und linsen pampf
+* wie immer in oban die straßen und gehsteige gsteckt voll
+* in den vielen outdoorshops nur trashige eigenmarken
+* beim morrisons kriegst nix, beim farmfoods noch weniger, mit einer flasche rioja, melanzani, dosentomaten und spaghetti losradln
+* der volunteer beim check-in verwundert, dachte ich schlaf hier nochmal, nope kein bett frei
+* zum glück kein regen mehr, ein stückerl am meer entlang, die map location vom leo ist falsch, anrufen, noch ein stückerl weiter, einen verwachsenen feldweg entlang vorbei an einem lieben cottage, dann durch ein rostiges weidetor sausteil durch die tropfnasse wiese das bepackte radl hochschieben, ein kraftakt
+* leo wohnt in einem zweistöckigen besseren container, drinnen saustall und ranzig, er aber sehr lieb
+* bis spät am abend schwätzen bei zuerst tee, dann spaghetti und wein, die ganze flasche geht weg, kochen katastrophe, eine induktionsplatte keine arbeitsfläche alles vollgstellt
+* er repariert waschmaschinen als beruf, selbstständig, schon 2000 leute auf couchsurfing gehostet, nachname faccenda, italienische wurzeln, der großvater emigriert nach dem ersten weltkrieg nach oban und macht ein eisgschäft auf, opa und onkel zerstreiten sich und verkaufen den laden, heute ist der trashige morrisons drinnen
+* leo will sich die italienische staatsbürgerschaft holen, urkunden der großeltern notwendig, das dorf im lazio existiert nicht mehr, auskunft vom ministerium drei jahre bearbeitungsdauer nach einreichung
+* in die ‘shed’ nebenan schlafen, eine große matratze und nicht viel mehr, schlafsack ausbreiten
