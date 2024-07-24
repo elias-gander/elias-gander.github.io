@@ -9,6 +9,8 @@ Wie passend!
 
 ### Von Bristol nach Blaenavon ###
 
+{% include subheading.html text="23. und 24. Juni 2024" %} 
+
 Abfahrt in *Bristol*, der Gastgeber bittet zum xten Mal um ein gutes Review, na gut.
 Nur mehr ein kurzes Stück durch die äußersten Bezirke von *Bristol*, der Vorteil einer peripheren Unterkunft.
 Unter dem *Motorway 5* durch und schon wieder im Grünen.

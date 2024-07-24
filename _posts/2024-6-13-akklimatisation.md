@@ -9,7 +9,9 @@ Macht am Tag nur etwa 35 km.
 Zähes Vorwärtskommen und gleichzeitig das Gefühl nur einen winzigen Ausschnitt der durchquerten Gegenden wahrzunehmen.\\
 Den *Sweet Spot* der Reisegeschwindigkeit gefunden?
 
-### Von den Picos nach Santander ### 
+### Von den Picos nach Santander
+
+{% include subheading.html text="5. bis 8. Juni 2024" %} 
 
 Die Sonne scheint aufs Zelt und treibt aus den Schlafsäcken.
 Tag der Abreise, das Basecamp unter den *Picos* abbauen.
@@ -208,7 +210,9 @@ Die ausgesprochen herzliche und unkomplizierte Art der jungen Eltern machts wett
 Der pinke Minikühlschrank heizt das winzige Zimmer.
 Bei offenem Fenster auf das winzige Bett legen und um Platz schubsen.
 
-### Bilbao ### 
+### Bilbao
+
+{% include subheading.html text="9. Juni 2024" %} 
 
 *Santander* ist die Hauptstadt der Region *Cantabria*.
 Im Osten grenzt diese an das Baskenland.

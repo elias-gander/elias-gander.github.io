@@ -11,7 +11,9 @@ Durch *Catalunya*, *Aragón*, *Valencia*, *Murcia* und *Andalucía*.
 Vieles gesehen und doch so wenig, ein haarfeiner roter Faden durch ein riesiges Land.
 Einen Tag entfernt von der Grenze zu Portugal.
 
-### Von Ronda nach Huelva ###
+### Von Ronda nach Huelva
+
+{% include subheading.html text="3. bis 6. Mai 2024" %} 
 
 {% include image.html path="media/strandln/innenhof.jpg" alt="Kathi's Rad lehnt im Innenhof unserer Unterkunft in Ronda" caption="Räder bepacken im Innenhof der Unterkunft in Ronda" link="https://photos.app.goo.gl/2jfdJa9xcwGRgzxD7" %}
 
@@ -190,7 +192,9 @@ In einem davon unser Zimmer in einer netten Wohnung im dritten Stock.
 
 {% include image.html path="media/strandln/plattenbau.jpg" alt="Kathi steht am Eingang unseres Plattenbaus" link="https://photos.app.goo.gl/BkvfdK7JnuYrwctGA" %}
 
-### Sevilla ###
+### Sevilla
+
+{% include subheading.html text="7. Mai 2024" %} 
 
 Tagesausflug mit dem Bus nach *Sevilla*.
 Um 10 mit dem Stadtbus zum Busbahnhof von *Huelva*.

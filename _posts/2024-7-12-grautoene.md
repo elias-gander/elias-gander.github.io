@@ -6,6 +6,8 @@ title:  "Grautöne"
 
 ### Von Pembroke nach St Davids
 
+{% include subheading.html text="2. und 3. Juli 2024" %}  
+
 Kathi sitzt im Zug nach *Swansea*.
 Mit flauem Magen auf Autopilot durch die zwei Kreisverkehre auf der *London Road* kurven und rauf auf die *Cleddau Bridge*.
 An der Brückenmitte stehen bleiben, im Ästuar des *River Cleddau* verstreute Seegelboote.

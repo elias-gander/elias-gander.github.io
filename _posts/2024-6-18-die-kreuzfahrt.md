@@ -10,7 +10,9 @@ Der Name der Stadt wird nicht so ausgesprochen wie wir dachten.
 
 {% include audio.html path="media/die-kreuzfahrt/plymouth.m4a" %}
 
-### Von Santander nach Plymouth ###
+### Von Santander nach Plymouth
+
+{% include subheading.html text="10. und 11. Juni 2024" %} 
 
 Sonnenschein am letzten Tag in *Santander*, das schönste Abschiedsgeschenk.
 Zum Hafen spazieren und in der Fußgängerzone beim *Centro Botín* an den Kai setzen.
@@ -125,6 +127,8 @@ Eine Dose *Spaghetti Loops* um 19 Pence und ein richtiges Abendessen kaufen.
 {% include image.html path="media/die-kreuzfahrt/loops.jpg" alt="Eli isst Spaghetti Loops aus einem Topf" caption="Schmeckt wie 19 Pence" link="https://photos.app.goo.gl/mtdnDk4qUs7vQusS6" %}
 
 ### Plymouth ###
+
+{% include subheading.html text="12. und 13. Juni 2024" %} 
 
 Am nächsten Tag mit dem Bus zur Kreuzung von *Royal Parade* und *Armada Way*.
 Nachkriegsarchitektur dominiert den weiten Platz.

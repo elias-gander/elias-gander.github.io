@@ -4,6 +4,10 @@ title:  "Intermezzo"
 
 {% include map.html url="https://en.frame.mapy.cz/s/gakojodedu" %}
 
+### Benicarló
+
+{% include subheading.html text="29. und 30. März 2024" %}  
+
 Ich bin erkältet.
 Gestern Halsschmerzen, heute verschnupft, morgen hoffentlich wieder fit.
 Zur Kur am Campingplatz *Vizmar* in Benicarló.
@@ -19,7 +23,9 @@ Auch Gäste aus Frankreich gibts, sie spielen Pétanque vorm Klo.
 
 {% include video.html path="media/intermezzo/petanque.mp4" caption="Beau tir!" link="https://photos.app.goo.gl/Lo1qZaZvsSXRCAdg9" %}
 
-### Katalanisches Hinterland ###
+### Von Tarragona nach Tortosa
+
+{% include subheading.html text="27. und 28. März 2024" %}  
 
 Vor der Abfahrt aus Tarragona noch auf einen Abstecher zum römischen Amphitheater.
 An der Kassa händigt man uns die französische Broschüre, wir fühlen uns geschmeichelt.

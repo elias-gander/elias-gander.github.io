@@ -190,3 +190,12 @@ button {
 .comment-message {
   white-space: pre-line;
 }
+
+p:has(.subheading) {
+  margin-top: -1rem;
+}
+
+.subheading {
+  opacity: 0.4;
+  font-size: 0.8rem;
+}

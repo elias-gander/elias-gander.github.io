@@ -8,6 +8,8 @@ title:  "Abschied"
 
 ### Von Port Eynon nach Pembroke
 
+{% include subheading.html text="28. Juni bis 2. Juli 2024" %} 
+
 Es bläst immer noch lebhafter Westwind, der Himmel bleigrau.
 Wieder ohne große Aussicht zwischen *Hedgerows* quer durch die *Gower*-Halbinsel nach *Penclawdd*.
 Um aus dem Wind zu kommen in einem Lokal einen Tee teilen.

@@ -4,6 +4,10 @@ title:  "Hunderter"
 
 {% include map.html url="https://en.frame.mapy.cz/s/hujocogeba" %}
 
+### Von Albarracín nach Valencia
+
+{% include subheading.html text="7. bis 9. April 2024" %} 
+
 Wahrscheinlich wären wir von *Teruel* direkt nach *Valencia*, aber es ist Südwind angesagt und nach der letzten Etappe keine Lust mehr auf Gegenwind.
 Also nach *Albarracín*, Richtung Nordwesten. 
 Die kürzeste und unspektakulärste Route zuerst durch Industriezone, dann kerzengerade Landstraße.
@@ -87,7 +91,9 @@ Kathi stiehlt eine Orange und fällt dabei auf den Hintern.
 
 {% include image.html path="media/hunderter/karma.jpg" alt="Kathi stiehlt eine Orange und fällt auf den Hintern" caption="Instant Karma" link="https://photos.app.goo.gl/W72wWaWN278Boh7e8" %}
 
-### Valencia ###
+### Valencia
+
+{% include subheading.html text="10. April 2024" %} 
 
 Endlich wieder große Supermärkte.
 Beim *Mercadona*, Mikrowellen-*Patatas Bravas* und ein *Gaspacho* aus der PET-Flasche.

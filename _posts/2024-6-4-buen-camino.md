@@ -12,6 +12,8 @@ Meistens in falscher Richtung und nicht zu Fuß aber trotzdem wünscht man uns i
 
 ### Von Braga nach León
 
+{% include subheading.html text="25. bis 30. Mai 2024" %} 
+
 Verzögerte Abfahrt am letzten Morgen in *Braga*, mein Hinterrad hat einen Patschen.
 Ein spitzer Metalldraht, eingesammelt auf den wenigen Kilometern vom und zum Bahnhof in *Braga* und *Porto*.
 
@@ -305,6 +307,8 @@ Mittagspause in *Villar de Mazarife*, Caffeci und Eis beim Pilgerboxenstopp im N
 Am späten Nachmittag *León* erreichen.
 
 ### León
+
+{% include subheading.html text="31. Mai 2024" %} 
 
 Am Abend der Ankunft zu der von *Gaudí* entworfenen *Casa Botines*.
 Natursteinfassade, Spitztürmchen mit schwarzem Schieferdach und Fenster im neugotischen Stil.

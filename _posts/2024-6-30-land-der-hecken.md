@@ -16,6 +16,8 @@ Zum Glück sind die Briten gute Autofahrer:innen.
 
 ### Von Exeter nach Bristol ###
 
+{% include subheading.html text="17. bis 20. Juni 2024" %} 
+
 Die Ketten quietschen von der Regenwäsche im *Dartmoor*.
 Dreck abziehen, ölen und losradln.
 Auf der stressigen A377 aus der Stadt raus und abbiegen auf die viel ruhigere A396.
@@ -214,6 +216,8 @@ Früher rollten die Züge der *Somerset and Dorset Joint Railway* durch diese Tu
 
 ### Bath ###
 
+{% include subheading.html text="20. Juni 2024" %} 
+
 Die meisten Gebäude in *Bath* bestehen aus beigem Kalkstein, *Bath Stone*.
 In der Mittleren Jura vor gut 150 Jahren liegt die Gegend von *Bath* unterm Meer, die damaligen Sedimentablagerungen bilden den heutigen Stein.
 Der *Buckingham Palace* und auch das Haus in dem wir wohnen sind in *Bath Stone* gekleidet.
@@ -274,6 +278,8 @@ Kette reinigen und neu schmieren, laut Kettenverschleißlehre ist die Kette scho
 Für eine billige *Sunrace* Kette die online 5 € kostet verlangt er 20 £, nein danke.
 
 ### Bristol ###
+
+{% include subheading.html text="21. und 22. Juni 2024" %} 
 
 Wohnen in *Henleaze*, 35 Busminuten vom Stadtzentrum.
 Hin durch endlose *Suburbs* aus *Terraced Houses*.

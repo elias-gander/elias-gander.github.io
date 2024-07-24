@@ -15,7 +15,9 @@ Die Küste ist noch knapp in Sicht und auch das LTE glangt noch rüber.
 
 {% include video.html path="media/cianin-cianin/auspuff.mp4" caption="Tschuff-Tschuff" link="https://photos.app.goo.gl/zohnTBMhMFhJ7znm7" %}
 
-### Genua ###
+### Genua
+
+{% include subheading.html text="18. bis 21. März 2024" %}  
 
 Die Tage hier sind schnell vergangen.
 Noch schneller in unseren Köpfen, denn schon einen Tag zu früh radeln wir komplett zampackt zum Fährhafen.
@@ -69,7 +71,9 @@ Warum keine E-Mopeds?
 {% include image.html path="media/cianin-cianin/piazza-della-vittoria.jpg" alt="Piazza della Vittoria gesehen von Scalinata delle Caravelle" caption="Piazza della Vittoria, erinnert irgendwie an den Naschmarkt" link="https://photos.app.goo.gl/fxtX62mEePyRz28v8" %}
 
 
-### Die Busfahrt ###
+### Die Busfahrt
+
+{% include subheading.html text="17. und 18. März 2024" %}  
 
 Weniger schnell vergangen sind die 14 Stunden im Flixbus von Wien nach Genua.
 Mein Radl wird allein am Gepäckträger befestigt. 

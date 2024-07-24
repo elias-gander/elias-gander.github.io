@@ -9,6 +9,10 @@ Einen Monat ist es her, dass wir in Wien Erdberg in den Flixbus gestiegen sind.
 An diesem Morgen radln wir den tausendsten Kilometer.
 In Wien wieder kalt, in Südspanien wieder erträglich warm.
 
+### Von Murcia nach Almería
+
+{% include subheading.html text="17. bis 19. April 2024" %} 
+
 {% include image.html path="media/sonido/zitronen.jpg" alt="Eli hält zwei Zitronen" caption="Mit zwei Zitronen vom Baum am Straßenrand das grauslige Flaschenwasser aufpeppen" link="https://photos.app.goo.gl/haiLSvft23jE5tbw8" %}
 
 Hoch über die *Sierra de Altahona*.
@@ -147,7 +151,9 @@ Alles zampacken und die letzten 35 km im finsteren nach *Almería* radln.
 
 Um dreiviertel 12 im abgewohnten *Hotel Embajador* erschöpft aufs Bett fallen und lang schlafen.
 
-### Almeria ###
+### Almería ###
+
+{% include subheading.html text="20. April 2024" %} 
 
 *Almería* ist bekannt für seine riesigen Gewächshausanlagen und keine Touristendestination.
 Das macht die Stadt authentisch und angenehmer zu besuchen als die populäreren Städte in denen wir bisher waren.

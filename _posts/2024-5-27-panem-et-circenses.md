@@ -9,7 +9,9 @@ Hinter *Braga* bald die Grenze zu *Galicia*, die Sehnsucht nach den einsameren L
 
 Vorher eine Woche Stadtleben.
 
-### Lisboa ###
+### Lisboa
+
+{% include subheading.html text="19. und 20. Mai 2024" %} 
 
 Erstes Ziel ist der *Ponte 25 de Abril* über den am Vortag unser Zug rollte.
 Die Hängebrücke über den *Tejo* ist 3.2 km lang und erinnert ihrer Farbe wegen stark an die *Golden Gate Bridge* in *San Francisco*.
@@ -112,6 +114,8 @@ Weil hier gefühlt alles seinen Namen trägt: Vasco da Gama war ein portugiesisc
 
 ### Porto ###
 
+{% include subheading.html text="21. und 22. Mai 2024" %} 
+
 Zum kleinen Bahnhof *Santa Apolónia* radln und mit dem Intercity 4 Stunden nach *Porto*.
 Vom Bahnhof *Campanhã* in *Porto* Höllenritt zur Unterkunft.
 *Porto* ist nicht radgeeignet, ur steile Gassen und durchgehend grobes Pflaster.
@@ -190,7 +194,9 @@ Das *Kona* läuft wieder picobello, Kurbel, Ritzel, Kette und Hinterradbremssche
 
 {% include image.html path="media/panem-et-circenses/radl.jpg" alt="Eli sitzt happy vor sein Radl mit neuer Kassette, Kette und Kurbel" link="https://photos.app.goo.gl/nxLh5znNuy5vCCGr6" %}
 
-### Braga ###
+### Braga
+
+{% include subheading.html text="23. und 24. Mai 2024" %} 
 
 Der Zug nach *Braga* geht am frühen Nachmittag.
 Gepäck deponieren und auf einen letzten Schlenderer durch *Porto*.

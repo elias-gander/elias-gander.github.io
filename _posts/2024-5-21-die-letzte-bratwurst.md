@@ -10,7 +10,9 @@ Trotzdem witzig.
 
 {% include image.html path="media/die-letzte-bratwurst/wurst.jpg" alt="Ein Bratwurststand am Cabo de São Vicente" caption="Leider kein pflanzliches Würstl im Angebot" link="https://photos.app.goo.gl/A7eZ8BtDrQecYvfe8" %}
 
-### Von Lagos nach Lisboa ###
+### Von Lagos nach Lisboa
+
+{% include subheading.html text="11. bis 18. Mai 2024" %} 
 
 Die Gaskartusche fast leer und bis *Lisboa* kein *Decathlon* mehr.
 Gepäck in den Abstellraum des *Lagos Central Hostel* und runter zur Hauptstraße an der *Ribera de Bensafrim*.

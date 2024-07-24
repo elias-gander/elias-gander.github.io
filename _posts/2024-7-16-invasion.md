@@ -6,6 +6,8 @@ title:  "Die letzte Invasion Großbritanniens"
 
 ### Von St Davids nach Aberystwyth
 
+{% include subheading.html text="3. bis 6. Juli 2024" %}  
+
 Ein sonniger Morgen in *St Davids*, ein Funken Aufbruchstimmung.
 Den Westwind im Rücken mit Vollgas Richtung *Fishguard*.
 Im grellen Sonnenlicht sogar die Heckengassen schön finden.

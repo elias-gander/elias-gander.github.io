@@ -5,7 +5,9 @@ title:  "Bogs, Tors and bad weather"
 {% include map.html url="https://en.frame.mapy.cz/s/dazetasuvu" %}
 
 
-### Von Plymouth nach Exeter ###
+### Von Plymouth nach Exeter 
+
+{% include subheading.html text="14. und 15. Juni 2024" %} 
 
 Tag der Abfahrt, am Morgen noch ein Schauer dann freundlicher.
 Trotzdem die Gewissheit heute nass zu werden.
@@ -137,6 +139,8 @@ Es stinkt nach Zigarettenrauch und braucht dringend eine Grundreinigung, dafür 
 Daheimbleiben und die Wunden lecken.
 
 ### Exeter ###
+
+{% include subheading.html text="16. Juni 2024" %} 
 
 Am nächsten Tag besseres Wetter.
 Ins Zentrum zur *High Street* und alle Outdoorshops abklappern.

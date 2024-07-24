@@ -4,6 +4,10 @@ title:  "Contraviento"
 
 {% include map.html url="https://en.frame.mapy.cz/s/purebajocu" %}
 
+### Von Castelserás nach Teruel
+
+{% include subheading.html text="4. und 5. April 2024" %} 
+
 Es ist sonnig, heiß.
 Möglichst früh starten wollen, aber am Ende wirds wieder 10.
 *Nehmt doch noch diese riesen Schachtel Gebäck mit!*
@@ -68,7 +72,9 @@ Nach 10 Stunden unterwegs sein, endlich duschen.
 
 {% include image.html path="media/contraviento/abfahrt.jpg" alt="Kathi winkt vor der Abfahrt nach Teruel" caption="Endlich Abfahrt" link="https://photos.app.goo.gl/DRtKsWFNEmy2WPZ77" %}
 
-### Teruel ###
+### Teruel
+
+{% include subheading.html text="6. April 2024" %} 
 
 Ein Touristenort auf dessen Straßen man nur Spanisch hört.
 Einen Schluck Wasser vom Brunnen auf der *Plaza Carlos Castel*.
