@@ -77,7 +77,7 @@ Der Küste vorgelagert und mit dieser über eine Landzunge verbunden, der *Great
 
 Zwischen den Hügeln durch bald der Blick auf *Conwy* bzw. die mittelalterliche Burg.
 Wie schon die Burg in *Harlech* baut Edward I. *Conwy Castle* gegen Ende des 13. Jahrhunderts während seines Eroberungsfeldzugs in *Wales*.
-Noch zwei dieser Burgen stehen in *Caernarfon* und *Beaumaris*.
+Noch zwei solche Burgen stehen in *Caernarfon* und *Beaumaris*.
 
 {% include image.html path="media/in-einer-mulde/conwy.jpg" alt="Am Ende einer kleinen Bucht mit einigen Segelschiffen eine mittelalterliche Burg" link="https://photos.app.goo.gl/2aVmSVhAnLUG62EN8" %}
 
