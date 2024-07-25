@@ -69,7 +69,7 @@ Der Regen vorüber, die nackten Wadln frösteln trotz Bewegung im kalten Wind.
 In einem *Pub* nahe dem Hafen bei einer Kanne Tee aufwärmen.
 
 Noch etwa 25 km nach *Conwy*.
-Die *Sustrans* Route 5 folgt einem gut ausgebauten Radweg der Autobahn A55.
+Die *Sustrans* Route 5 folgt einem gut ausgebauten Radweg entlang der Autobahn A55.
 Hinter der hässlichen Autobahn die nördlichsten Ausläufer des *Eryri* bedeckt von violetten Heideblüten.
 Der Küste vorgelagert und mit dieser über eine Landzunge verbunden, der *Great Orme*, ein kleines Kalksteinmassiv.
 
