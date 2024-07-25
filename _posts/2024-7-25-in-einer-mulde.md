@@ -76,7 +76,7 @@ Der Küste vorgelagert und mit dieser über eine Landzunge verbunden, der *Great
 {% include image.html path="media/in-einer-mulde/greatorme.jpg" alt="Ein Radweg führt knapp hinter steiniger Küste vorbei, in der Ferne ein hügeliges Stück Land das über einen schmalen Streifen mit dem Festland verbunden ist" link="https://photos.app.goo.gl/ipjmwHecZbXiCQg7A" %}
 
 Zwischen den Hügeln durch bald der Blick auf *Conwy* bzw. die mittelalterliche Burg.
-Wie schon die Burg in *Harlech* erbaut Edward I. *Conwy Castle* gegen Ende des 13. Jahrhunderts während seines Eroberungsfeldzugs in *Wales*.
+Wie schon die Burg in *Harlech* baut Edward I. *Conwy Castle* gegen Ende des 13. Jahrhunderts während seines Eroberungsfeldzugs in *Wales*.
 Noch zwei dieser Burgen stehen in *Caernarfon* und *Beaumaris*.
 
 {% include image.html path="media/in-einer-mulde/conwy.jpg" alt="Am Ende einer kleinen Bucht mit einigen Segelschiffen eine mittelalterliche Burg" link="https://photos.app.goo.gl/2aVmSVhAnLUG62EN8" %}
