@@ -81,7 +81,7 @@ Zwei weitere solcher Burgen stehen in *Caernarfon* und *Beaumaris*.
 
 {% include image.html path="media/in-einer-mulde/conwy.jpg" alt="Am Ende einer kleinen Bucht mit einigen Segelschiffen eine mittelalterliche Burg" link="https://photos.app.goo.gl/2aVmSVhAnLUG62EN8" %}
 
-Versteckt hinter der Brücke der stark befahrenen A547 führt eine elegante Kettenbrücke von *Conwy Castle* aufs andere Ufer des *River Conwy*.
+Versteckt hinter der Brücke der stark befahrenen A547 führt eine elegante Kettenbrücke über den *River Conwy*.
 Fertiggestellt, wie die *Menai Bridge*, 1826 vom selben Baumeister, Thomas Telford.
 Am Ende der Brücke eine Miniaturburg, das *Toll House*.
 Bis ans Ende des 19. Jahrhunderts lebt hier die Familie von David und Maria Williams und hebt Tag und Nacht die Brückenmaut ein.
