@@ -53,7 +53,7 @@ Die wirkliche Pointe die Gemeindepartnerschaften von *Llanfairpwll...* mit *le* 
 
 {% include image.html path="media/in-einer-mulde/gogogo.jpg" alt="Elis Rad lehnt an einer Backsteinmauer an der ein großes Schild mit einem sehr langen Ortsnamen hängt" link="https://photos.app.goo.gl/A3F5CfK1fRRTdXqe7" %}
 
-Abgesehen vom langen Namen gibts wenig in dem Ort mit dem langen Namen.
+Abgesehen vom langen Namen gibts wenig in *Llanfairpwll*.
 Am Bahnhofsparkplatz drängen sich Reisebusse, Touris strömen in den Souvenirladen, vom Himmel strömt der Regen.
 Fröstelnd auf einer Parkbank sitzen und Krapfen essen.
 
