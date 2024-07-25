@@ -25,9 +25,31 @@ Conwy - Liverpool
 * Im wohnzimmer schreiben während die wäsche wascht und trocknet
 * Zwei zimmergenossen schlafen und halb 10, die mates kommen erst um 3 heim, alkoholdünste im zimmer
 
+Sonne und Westwind, perfekte Bedingungen für den elendig langen Weg nach *Liverpool*.
+Froh ein letztes Mal durch das Mistaroma der Stallungen vorbei am Wohnwagen der Rezeption.
+Die drei *Jack Russel Terrier* liegen unverändert im Fenster.
+
+Den Strand von *Rhos-on-Sea* erreicht mit Vollgas den Radweg direkt hinter Strand und Brandungsmauern entlang. 
+Die *Sustrans* Route 5 ist hier besser ausgebaut.
+
 {% include image.html path="media/todo2/kueste.jpg" alt="Ein Radweg einen steinigen Strand entlang" link="https://photos.app.goo.gl/7Yre2Jnh4ZmKwbYaA" %}
 
 {% include video.html path="media/todo2/kueste.mp4" link="https://photos.app.goo.gl/Bus4MrnCK4uzfrhg7" %}
+
+In einer guten Stunde die 30 km vorbei an kleineren *Seaside Towns* bis *Prestatyn*.
+Mit dem fortschreitenden Vormittag füllen sich Radweg und Strandpromenaden.
+Ein glatzköpfiger Mann ruft mir etwas zu wie mit 30 km/h vorbeirausche.
+Stehen bleiben, *Have you got a pump?*.
+Er und seine dicke Frau auf geliehenen E-Bikes, das Hinterrad einen Patschen.
+Den Handpumpenkopf aufs Schraderventil umstecken und ihn pumpen lassen.
+Hörbares Zischen wie der Reifen praller wird.
+Viel Glück noch!
+
+*Prestatyn* und die vielen kleineren Strandorte waren beliebte Urlaubsdestinationen im 19. und 20. Jahrhundert.
+Breite Strände zur Irischen See und vergleichsweise gutes Wetter, die Regenwolken vom Atlantik entladen sich bereits über den Gipfeln des  *Eryri* Nationalpark.
+In den 60er-Jahren beginnt der rasante Niedergang der britischen Strandorte.
+Leistbar gewordene Flugreisen, stillgelegte Zugverbindungen, die britische *middle class* fliegt lieber *all-inclusive* nach Spanien oder Griechenland.
+Nachvollziehbar.
 
 {% include image.html path="media/todo2/holidayhome.jpg" alt="Containerartige beige Ferienhäuser mit grünem Dach" link="https://photos.app.goo.gl/qGiC5CoNR7ucRbJ9A" %}
 
