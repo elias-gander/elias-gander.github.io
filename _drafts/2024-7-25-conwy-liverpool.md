@@ -77,22 +77,52 @@ Im Zimmer riecht es nach Stinkesocken, zwei Burschen, ein Ire und ein Schotte li
 Wäsche waschen und im letzten Gewand bis spätabends im gemütlichen Wohnzimmer von der langen Fahrt ausruhen.
 Um halb eins ins Zimmer schleichen, die *Mates* kommen erst gegen drei mit einem Schwall Alkoholdünste ins Zimmer und drehen erst mal das Licht auf.
 
-
-Liverpool
-* Die mates noch im koma, frühstücken und zum albert dock
-* zum liver building, und in das liverpool museum, wilder mix aus allem was iegendwie mit der stadt zu tun hat, Eliza aus dem hostel treffen, aussie, 22 8 monate euro trip
-* Zurück ins yha mittagessen mit eliza und lange im wohnzimmer chillen
-* bei einem half forged stout das spiel schauen, die ältere französische dame geht sichtlich generft, le foot outside, le foot ici, partout le foot!  
-* die meisten schauen in der bar, im wohnzimmer mit verzögerung
-* schwache erste hälfte, dann spannende zweite hälfte, am ende stille
-* in der bar bbc news schauen, attentat auf trump, wirres gespräch mit einem großgewachsenen mann aus bermuda
+Um 6 stehen die ersten auf, um halb 9 sind die *Mates* noch im Koma.
+Nach dem Frühstück zum nahen *Albert Dock*.
+1846 komplett aus Stein, Ziegel und Gusseisen errichtet, der erste feuerfeste Warenhauskomplex der Welt.
+Heute reihen sich Bars, Restaurants und Souvenirläden hinter den massiven gusseisernen Säulen.
 
 {% include image.html path="media/todo2/albertdock.jpg" alt="Rote Backsteinhäuser reihen sich um ein Hafenbecken" link="https://photos.app.goo.gl/SdKjZXhuAVRCjKK8A" %}
 
+Transatlantischer Handel mit Waren und Sklaven machen *Liverpool* im Laufe des 18. und 19. Jahrhunderts zu einer blühenden Metropole.
+In der *Great Derpression* kommt der Boom zum Erliegen.
+Die deutsche Luftwaffe beschädigt mehr als die Hälfte der Gebäude in über 80 Angriffen.
+*Liverpool* hat heute weniger Einwohner:innen als zu Beginn des 20. Jahrhunderts.
+
+An allen Ecken trifft man auf die *Beatles*.
+Im Laufe der 60er-Jahren verbreiten sie den Liverpooler *Merseybeat* in die ganze Welt.
+
 {% include image.html path="media/todo2/kunst.jpg" alt="Eine Skulptur aus aufeinandergestapelten bunt bemalten Natursteinen, Kinder laufen drumherum" link="https://photos.app.goo.gl/xP9QmpTjVeokL3u47" %}
+
+Auf einer schmalen Brücke über das *Canning Dock* zum *Royal Liver Building*, das Wahrzeichen der Stadt.
+Das historisch anmutende Gebäude besteht überwiegend aus Stahlbeton.
+An der Turmspitze die zwei riesigen *Liver Birds*.
+Der Legende nach verschwinde die Stadt sollten die Vögel davonfliegen.
+Zur Sicherheit kettet man sie deswegen an den Turm. 
 
 {% include image.html path="media/todo2/royalliver.jpg" alt="Ein hohes beiges Betongebäude mit Uhrturm und einer riesigen Vogelstatue an der Spitze" link="https://photos.app.goo.gl/ddUxFVLM6BgGnLQn8" %}
 
+Hungrig ins *Museum of Liverpool*.
+Umfassende aber chaotisch kurierte Austellungen zu allem was im Entferntesten mit *Liverpool* zu tun hat.
+Im Museum Eliza aus dem *YHA* treffen, die junge Australierin reist für die nächsten 8 Monate durch Europa.
+
 {% include image.html path="media/todo2/museum.jpg" alt="Eine große weiße Wendeltreppe in Form einer Neun" link="https://photos.app.goo.gl/yEy6T6sA5PKBZvMj7" %}
 
+Am Heimweg eine Weile an der Brücke über den *Canning Dock* stehen.
+Das Wasser voller Quallen.
+
 {% include video.html path="media/todo2/jellyfish.mp4" link="https://photos.app.goo.gl/NdFTo6hZJWMJHKgB6" %}
+
+Im *YHA* ein sehr spätes Mittagessen und mit Eliza im Wohnzimmer sitzen.
+Um 8 an der Bar ein *Forged Irish Stout* holen und den riesigen Flachbildschirm im Wohnzimmer aufdrehen.
+Eine größere Gruppe sitzt schon in der Bar versammelt.
+Wie der TV anspringt schreckt die ältere französische Dame im Sofa hoch.
+*Le foot ici, le foot là, le foot partout!* und verlässt den Raum.
+
+Die Spannung vorweggenommen durch den Lärmpegel in der Bar, der Fernseher im Wohnzimmer überträgt mit einigen Sekunden Verzögerung.
+Am Ende Stille, der schottische Zimmergenosse ist zufrieden.
+
+Den Spuk vorüber noch eine Weile in den Loungesesseln der Bar sitzen und die *BBC News* schauen.
+Jemand schießt mit einem Gewehr auf das Ohr von Donald Trump.
+Ein großgewachsener junger Mann aus Bermuda erzählt von seiner eigenartigen Heimat.
+Wieder vor den *Mates* im Bett.
