@@ -43,7 +43,8 @@ Der Name des Ortes bedeutet:
 >Marienkirche (Llanfair) in einer Mulde (pwll) weißer Haseln (gwyn gyll) in der Nähe (goger) des schnellen Wirbels (y chwyrn drobwll) und der Tysiliokirche (llantysilio) bei der roten Höhle (gogo goch).
 
 Also einen ziemlichen Blödsinn.
-Umgetauft in der Mitte des 19. Jahrhunderts mit dem Ziel Touris anzuziehen, funktioniert!
+Umgetauft in der Mitte des 19. Jahrhunderts mit dem Ziel Touris anzuziehen.
+Funktioniert!\\
 Viktoriya lernt den unnedigen Namen auswendig, *Chapeau*!
 
 {% include audio.html path="media/in-einer-mulde/gogogo.m4a" %}
