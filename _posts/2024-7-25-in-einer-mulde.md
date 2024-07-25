@@ -23,7 +23,7 @@ Die Hände zu nass für den Touchscreen.
 Mit Erreichen der A487 die ganze Höhe verloren.
 Die *Sustrans* Route führt einen nervtötend schmalen Gehsteig an der viel befahrenen Straße entlang.
 Auf der *Menai Bridge* Baustelle mit Einspurverkehr und Ampel.
-Die Kolonne hinter hetzt mich über die schöne Kettenbrücke.
+Die Autokolonne hetzt mich über die schöne Kettenbrücke.
 
 Nach der Brücke wieder Gehsteigradln an der A5.
 Endlich innehalten bei einem Aussichtspunkt.
