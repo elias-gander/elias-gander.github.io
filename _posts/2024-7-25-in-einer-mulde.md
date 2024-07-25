@@ -69,8 +69,8 @@ Der Regen vorüber, die nackten Wadln frösteln trotz Bewegung im kalten Wind.
 In einem *Pub* nahe dem Hafen bei einer Kanne Tee aufwärmen.
 
 Noch etwa 25 km nach *Conwy*.
-Die *Sustrans* Route 5 folgt einem gut ausgebauten Radweg entlang der Autobahn A55.
-Hinter der hässlichen Autobahn die nördlichsten Ausläufer des *Eryri* bedeckt von violetten Heideblüten.
+Die *Sustrans* Route 5 folgt einem gut ausgebauten Radweg entlang der Autobahn.
+Am Horizont die nördlichsten Ausläufer des *Eryri*, die Hänge violett von Heideblüten.
 Der Küste vorgelagert und mit dieser über eine Landzunge verbunden, der *Great Orme*, ein kleines Kalksteinmassiv.
 
 {% include image.html path="media/in-einer-mulde/greatorme.jpg" alt="Ein Radweg führt knapp hinter steiniger Küste vorbei, in der Ferne ein hügeliges Stück Land das über einen schmalen Streifen mit dem Festland verbunden ist" link="https://photos.app.goo.gl/ipjmwHecZbXiCQg7A" %}
