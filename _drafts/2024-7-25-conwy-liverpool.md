@@ -43,17 +43,44 @@ Stehen bleiben, *Have you got a pump?*.
 Er und seine dicke Frau auf geliehenen E-Bikes, das Hinterrad einen Patschen.
 Den Handpumpenkopf aufs Schraderventil umstecken und ihn pumpen lassen.
 Hörbares Zischen wie der Reifen praller wird.
-Viel Glück noch!
+Also viel Glück noch!
 
 *Prestatyn* und die vielen kleineren Strandorte waren beliebte Urlaubsdestinationen im 19. und 20. Jahrhundert.
-Breite Strände zur Irischen See und vergleichsweise gutes Wetter, die Regenwolken vom Atlantik entladen sich bereits über den Gipfeln des  *Eryri* Nationalpark.
-In den 60er-Jahren beginnt der rasante Niedergang der britischen Strandorte.
+Breite Strände zur Irischen See und vergleichsweise gutes Wetter, die Regenwolken des Atlantik entladen sich bereits über den Gipfeln des  *Eryri* Nationalpark.
+In den 60er-Jahren dann der rasante Niedergang der britischen Strandorte.
 Leistbar gewordene Flugreisen, stillgelegte Zugverbindungen, die britische *middle class* fliegt lieber *all-inclusive* nach Spanien oder Griechenland.
 Nachvollziehbar.
 
+Hinter *Prestatyn* durch einen Golfplatz und einen riesigen *Holiday Park*.
+Tausende kleine Holzhäuser auf Rädern rasterförmig angeordnet.
+Menschen fahren auf Golfkarts zu den zahlreichen *Facilities*.
+Ein eigener *Burger King* im Park.
+
 {% include image.html path="media/todo2/holidayhome.jpg" alt="Containerartige beige Ferienhäuser mit grünem Dach" link="https://photos.app.goo.gl/qGiC5CoNR7ucRbJ9A" %}
 
+Am Ausgang ein Weidetor, einem Bub mit schokoladeverschmiertem Mund helfen der verzweifelt versucht seinen im Gras schnüffelnden *Yorkshire Terrier* durchs Tor zu ziehen.
+
+Hinter *Prestatyn* verlässt die Radroute 5 die Küste und klettert auf 200 Meter Seehöhe.
+Ohne Lust auf unnedige Umwege auf der A548 30 km zur Mündung des *River Dee*.
+Zurück auf der Route 5 über die *Hawarden Bridge*, einer alten Eisenbahnbrücke.
+*Wales* endet wenige Kilometer hinter der Brücke.
+*Hwyl fawr*.
+
 {% include image.html path="media/todo2/socken.jpg" alt="Eli sitzt auf einer Brücke und streckt seine Füße aus die in einem Paar grün weiß gestreifter Socken mit rotem Drachenmotiv stecken" link="https://photos.app.goo.gl/cjELy741KjKeYDQC8" %}
+
+Auf leeren Straßen durch den weitläufigen *Deeside Industrial Park*, dann unberührte Natur in den *Burton Mere Wetlands*.
+Kurz vor *Neston* beginnt es zu regnen, Flucht in die *The Harp Inn*.
+Eine Frau und ihr Mann sitzen an einem Tisch gegenüber der Bar, zu ihren Füßen ein riesiger weißer Pudel.
+Am Tresen einen Tee bestellen und warten.
+Wie's zu blöd wird ins Nebenzimmer setzen.
+Rabiates Knurren und das Geräusch über Fliesenboden schlitternder Krallen bei jedem Hund der ins Lokal kommt.
+Nach einer Viertelstunde bringt der bärtige Mann mit *Magic the Gathering* Leiberl endlich die randvolle Tasse Tee und pluttert ordentlich beim Hinstellen.
+
+Der Regen vorüber, die letzten 20 km durch langweilige Vororte nach *Birkenhead*.
+Der Ort liegt am Ufer des *River Mersey* direkt gegenüber von *Liverpool*.
+Die erste Brücke führt gute 25 km flussaufwärts von *Liverpool* über den *Mersey*.
+*Liverpool* war und ist ein wichtiger Hafen, um den Schiffverkehr nicht zu behindern baute man lieber zwei Tunnels unter dem *Mersey*.
+Die Tunnel sind für den Radverkehr gesperrt, also in der Station *Conway Park* in den Zug hüpfen und in *Liverpool* wieder an die Oberfläche kommen.
 
 {% include image.html path="media/todo2/tube.jpg" alt="Eine U-Bahn rollt in einen Bahnhof, durch einen Schacht am Dach fällt Licht" link="https://photos.app.goo.gl/MZ7iLZxDS4GKJAaG9" %}
 
