@@ -36,3 +36,6 @@ Skye - Portree
 * mittelt auf der spur radln um überholmanöver nur bei freier gegenspur zu erlauben
 * wetter wird wieder besser, mit rückenwind zügig nach portree
 * nicht so schickes youth hostel, dafür gratis waschen und nur 4 betten im zimmer
+* den abend in der lounge sitzen und schreiben, um 11 leert sich die lounge, nur zwei junge frauen sitzen noch und sprechen eine unbekannte sprache, eine spricht mich an, sie wollen wäsche waschen
+* fragen wo sie herkommen, richtig raten, israel! alex und ravel, viel sinn für humor, reisen eine woche durch schottland
+* noch eine weile tippen, spät ins zimmer schleichen alle schlafen schon

@@ -16,6 +16,21 @@ Liverpool - Glasgow
 * Das hostel teil eines schicken crescent? Am hilltop, ehemaliges luxushotel, schicke lounge, tv zimmer mit tt, küche leider im keller…, kein trinkwasser in den Zimmern, alte leitungen
 * Bis spät am Abend in der lounge chillen
 
+{% include image.html path="media/liverpool-glasgow/georgehall.jpg" alt="todo" link="https://photos.app.goo.gl/aojtoS5TLJdqhK5r5" %}
+
+{% include image.html path="media/liverpool-glasgow/tickets.jpg" alt="todo" link="https://photos.app.goo.gl/kfi8wWCLj5rHCLXh6" %}
+
+{% include video.html path="media/liverpool-glasgow/zugfahrt.mp4" link="https://photos.app.goo.gl/29dqyTN9r1M63uud9" %}
+
+scotsman audio?
+{% include audio.html path="media/liverpool-glasgow/todo.jpg" alt="todo" link="https://photos.app.goo.gl/todo" %}
+
+{% include image.html path="media/liverpool-glasgow/wohnzimmer.jpg" alt="todo" link="https://photos.app.goo.gl/aHH5BTxc2yYy1xyU9" %}
+
+{% include image.html path="media/liverpool-glasgow/baer.jpg" alt="todo" link="https://photos.app.goo.gl/szhSuiNU48Cqgrd99" %}
+
+
+
 Glasgow 
 * regen regen regen
 * blog fertigschreiben, nicht zu früh ins museum für orgel recital
@@ -32,3 +47,22 @@ Glasgow
 * Abend in der lounge
 * Spät ins zimmer schleichen, jemand schnarcht ur laut und es stinkt nach socken und sneaker
 
+{% include image.html path="media/liverpool-glasgow/klimt.jpg" alt="todo" link="https://photos.app.goo.gl/7vmJNsSzgezU2Njw9" %}
+
+{% include image.html path="media/liverpool-glasgow/dali.jpg" alt="todo" link="https://photos.app.goo.gl/xogQcfaX7EBkoMeWA" %}
+
+{% include video.html path="media/liverpool-glasgow/recital.mp4" alt="todo" link="https://photos.app.goo.gl/brjy5TW34mxTSyTr7" %}
+
+{% include image.html path="media/liverpool-glasgow/harnisch.jpg" alt="todo" link="https://photos.app.goo.gl/NmPvnMDNAWSmmJw59" %}
+
+{% include image.html path="media/liverpool-glasgow/lounge.jpg" alt="todo" link="https://photos.app.goo.gl/J9phJ7dFFx3XiTLF7" %}
+
+{% include image.html path="media/liverpool-glasgow/georgesquare.jpg" alt="todo" link="https://photos.app.goo.gl/htgnJSGQ8r9f6zyRA" %}
+
+{% include image.html path="media/liverpool-glasgow/clydeport.jpg" alt="todo" link="https://photos.app.goo.gl/YSe4QGR3nPvefWag7" %}
+
+{% include image.html path="media/liverpool-glasgow/armadillo.jpg" alt="todo" link="https://photos.app.goo.gl/cEZpesga1fSiQYRf8" %}
+
+{% include image.html path="media/liverpool-glasgow/tunnel.jpg" alt="todo" link="https://photos.app.goo.gl/PP1MPYoE35H5TJaB9" %}
+
+{% include image.html path="media/liverpool-glasgow/strasse.jpg" alt="todo" link="https://photos.app.goo.gl/SuZ28vSUU59jYcit9" %}
