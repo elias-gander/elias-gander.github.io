@@ -23,7 +23,7 @@ Die Hände zu nass für den Touchscreen.
 Mit Erreichen der A487 die ganze Höhe verloren.
 Die *Sustrans* Route führt einen nervtötend schmalen Gehsteig an der viel befahrenen Straße entlang.
 Auf der *Menai Bridge* Baustelle mit Einspurverkehr und Ampel.
-Die Kolonne hinter hetzt mich über die schöne Kettenbrücke.
+Die Autokolonne hetzt mich über die schöne Kettenbrücke.
 
 Nach der Brücke wieder Gehsteigradln an der A5.
 Endlich innehalten bei einem Aussichtspunkt.
@@ -43,7 +43,8 @@ Der Name des Ortes bedeutet:
 >Marienkirche (Llanfair) in einer Mulde (pwll) weißer Haseln (gwyn gyll) in der Nähe (goger) des schnellen Wirbels (y chwyrn drobwll) und der Tysiliokirche (llantysilio) bei der roten Höhle (gogo goch).
 
 Also einen ziemlichen Blödsinn.
-Umgetauft in der Mitte des 19. Jahrhunderts mit dem Ziel Touris anzuziehen, funktioniert!
+Umgetauft in der Mitte des 19. Jahrhunderts mit dem Ziel Touris anzuziehen.
+Funktioniert!\\
 Viktoriya lernt den unnedigen Namen auswendig, *Chapeau*!
 
 {% include audio.html path="media/in-einer-mulde/gogogo.m4a" %}
@@ -52,7 +53,7 @@ Die wirkliche Pointe die Gemeindepartnerschaften von *Llanfairpwll...* mit *le* 
 
 {% include image.html path="media/in-einer-mulde/gogogo.jpg" alt="Elis Rad lehnt an einer Backsteinmauer an der ein großes Schild mit einem sehr langen Ortsnamen hängt" link="https://photos.app.goo.gl/A3F5CfK1fRRTdXqe7" %}
 
-Abgesehen vom langen Namen gibts wenig in dem Ort mit dem langen Namen.
+Abgesehen vom langen Namen gibts wenig in *Llanfairpwll*.
 Am Bahnhofsparkplatz drängen sich Reisebusse, Touris strömen in den Souvenirladen, vom Himmel strömt der Regen.
 Fröstelnd auf einer Parkbank sitzen und Krapfen essen.
 
@@ -68,19 +69,19 @@ Der Regen vorüber, die nackten Wadln frösteln trotz Bewegung im kalten Wind.
 In einem *Pub* nahe dem Hafen bei einer Kanne Tee aufwärmen.
 
 Noch etwa 25 km nach *Conwy*.
-Die *Sustrans* Route 5 folgt einem gut ausgebauten Radweg der Autobahn A55.
-Hinter der hässlichen Autobahn die nördlichsten Ausläufer des *Eryri* bedeckt von violetten Heideblüten.
+Die *Sustrans* Route 5 folgt einem gut ausgebauten Radweg entlang der Autobahn.
+Am Horizont die nördlichsten Ausläufer des *Eryri*, die Hänge violett von Heideblüten.
 Der Küste vorgelagert und mit dieser über eine Landzunge verbunden, der *Great Orme*, ein kleines Kalksteinmassiv.
 
 {% include image.html path="media/in-einer-mulde/greatorme.jpg" alt="Ein Radweg führt knapp hinter steiniger Küste vorbei, in der Ferne ein hügeliges Stück Land das über einen schmalen Streifen mit dem Festland verbunden ist" link="https://photos.app.goo.gl/ipjmwHecZbXiCQg7A" %}
 
 Zwischen den Hügeln durch bald der Blick auf *Conwy* bzw. die mittelalterliche Burg.
-Wie schon die Burg in *Harlech* erbaut Edward I. *Conwy Castle* gegen Ende des 13. Jahrhunderts während seines Eroberungsfeldzugs in *Wales*.
-Noch zwei dieser Burgen stehen in *Caernarfon* und *Beaumaris*.
+Wie schon die Burg in *Harlech* baut Edward I. *Conwy Castle* gegen Ende des 13. Jahrhunderts während seines Eroberungsfeldzugs in *Wales*.
+Zwei weitere solcher Burgen stehen in *Caernarfon* und *Beaumaris*.
 
 {% include image.html path="media/in-einer-mulde/conwy.jpg" alt="Am Ende einer kleinen Bucht mit einigen Segelschiffen eine mittelalterliche Burg" link="https://photos.app.goo.gl/2aVmSVhAnLUG62EN8" %}
 
-Versteckt hinter der Brücke der stark befahrenen A547 führt eine elegante Kettenbrücke von *Conwy Castle* aufs andere Ufer des *River Conwy*.
+Versteckt hinter der Brücke der stark befahrenen A547 führt eine elegante Kettenbrücke über den *River Conwy*.
 Fertiggestellt, wie die *Menai Bridge*, 1826 vom selben Baumeister, Thomas Telford.
 Am Ende der Brücke eine Miniaturburg, das *Toll House*.
 Bis ans Ende des 19. Jahrhunderts lebt hier die Familie von David und Maria Williams und hebt Tag und Nacht die Brückenmaut ein.
