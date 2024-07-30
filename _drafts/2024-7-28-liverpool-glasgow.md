@@ -4,28 +4,28 @@ title:  "Liverpool - Glasgow"
 
 {% include map.html url="https://en.frame.mapy.cz/s/nalamumota" %}
 
-### Von Liverpoole nach Glasgow
+### Von Liverpool nach Glasgow
 
 {% include subheading.html text="15. und 16. Juli 2024" %}
 
-Die Ortliebs stehen gepackt in der Bar, das von der Dusche feuchte Reisehandtuch unter den oberen Gurt geschnallt.
+Die Ortliebs stehen gepackt in der Bar, unter einem Gurt klemmt das feuchte Reisehandtuch.
 Der Zug geht knapp nach zwölf, Zeit zum Trödeln.
 Eliza kommt in die Lobby, einen enormen Reiserucksack am Rücken, einen kleinen am Bauch.
-Sie reist weiter nach *Bristol*.
+Gute Reise nach *Bristol*!
 
 Der Bahnhof *Liverpool Lime Street* keine zehn Minuten entfernt.
-Aus Sorge viel zu früh zum Bahnhof radln, die erste Zugfahrt in *UK*.
-Ein Straßenarbeiter in einem großen *Pick-up* hält neben mir an der roten Ampel und fragt mich zu meiner Route aus.
-Ich gestresst vom Liverpooler Verkehr, er ganz Ohr.
-Dankbar für die zugerufene Ermutigung wie die Ampel auf grün springt.
+Die Sorge über Unvorgesehenes treibt viel zu früh zum Bahnhof.
+Ein großer *Pick-up* hält neben mir an der roten Ampel, der Straßenarbeiter am Steuer fragt mich zu meiner Route aus.
+Ich leicht gestresst vom Liverpooler Verkehr, er ganz Ohr.
+Dankbar für die im Motoraufheulen zugerufene Ermutigung wie die Ampel auf grün springt.
 
-Über die sonnige Fußgängerzone der *Paradise Street* zum Bahnhof.
-Noch vor der Bahnhofshalle die neoklassische *St George's Hall* gegenüber erblicken.
+Entspannter über die sonnige Fußgängerzone der *Paradise Street* zum Bahnhof hoch.
+Gegenüber Bahnhofshalle die neoklassische *St George's Hall*.
 Ich hab zu wenig gesehen von *Liverpool*.
 
 {% include image.html path="media/liverpool-glasgow/georgehall.jpg" alt="Ein neoklassisches Gebäude aus beigem Sandstein auf einem modern gestalteten Platz" link="https://photos.app.goo.gl/aojtoS5TLJdqhK5r5" %}
 
-Gewusel hinter den Stumpfgleisen in der hellen Halle.
+In der hellen Halle Gewusel hinter den Stumpfgleisen.
 Bei einem Ticketautomaten die online gekauften Tickets drucken.
 Die Maschine druckt zehn Tickets für eine Fahrt ohne Umstieg.
 
@@ -43,7 +43,7 @@ Was bringt dieses System?
 Nix.
 
 Der *Transpennine Express* ein schicker hellblauer Niederflur-Flitzer.
-Meins das einzige Radl an Bord.
+Das einzige Radl an Bord.
 Angurten, einen *Crumpet* futtern und zum Platz aufmachen.
 
 {% include video.html path="media/liverpool-glasgow/zugfahrt.mp4" link="https://photos.app.goo.gl/29dqyTN9r1M63uud9" %}
@@ -53,52 +53,37 @@ In *Preston* füllt sich der Zug.
 Zwei Frauen setzen sich mir gegenüber, ein besonders gedrungener Mann neben mich.
 Sein Körper verdrängt meinen Ellbogen von der Armlehne.
 
-Der Mann mit dem dichtesten Nasenhaar spricht mit starkem schottischen Akzent in tiefster Bassstimme.
+Der Mann mit dem dichtesten Nasenhaar und der tiefsten Bassstimme spricht mit starkem schottischen Akzent.
 Er öffnet ein Packerl *Salt and Vinegar Chips* und hält sie mir hin.
 Wie ich ihm erzähle wo ich herkomme und hinwill, verlangt er dass ich das ganze Packerl esse.
-Er war sein Leben lang Zimmermann, jetzt malt er Gemälde.
+In der Pension wollte er sich auch immer ein gutes Radl kaufen, ein Sturz vom Dach ruiniert die Hüfte.
+Ein Leben lang Zimmermann, jetzt malt er Gemälde.
 Ich soll mir unbedingt die *Kelvingrove Art Gallery* in *Glasgow* anschauen.
 
 {% include audio.html path="media/liverpool-glasgow/scotsman.m4a" %}
 
-Von *Glasgow Central* auf die *Hope Street*.
-Am ersten Blick anders als England, europäischer.
+Von *Glasgow Central* hinaustreten auf die *Hope Street*.
+Auf den ersten Blick anders als England, europäischer.
 Auf breiten Einbahnstraßen mit getrennter Fahrradspur in den westlichen Teil der Stadt.
-Die Brücke über den *Kelvin River* in einen kleinen Fahrradshop an der *Gibson Street*.
-Ein Schleifen in der Vorderradnabe bei hohen Geschwindigkeiten, der junge Mechaniker meint das Lager scheint in Ordnung.
-Der Hinterradreifen durch, leider keinen passenden Ersatz vorrätig.
+Die Brücke über den *Kelvin River* zu einem kleinen Fahrradladen an der *Gibson Street*.
+Das Schleifgeräusch in der Vorderradnabe bei hohen Geschwindigkeiten beunruhigt aber der junge Mechaniker meint das Lager sei in Ordnung.
+Der Hinterradreifen durch, passender Ersatz leider keiner vorrätig.
 
-Noble viktorianische Häuser reihen sich halbkreisförmig an der Spitze des *Kelvingrove Park*.
+Noble viktorianische Häuser reihen sich im Halbkreis um die den höchsten Punkt des *Kelvingrove Park*.
 Die Fassaden erinnern an *Bath*, im 18. und 19. Jahrhundert baut man viel mit dem in und um *Glasgow* vorkommenden beigen Sandstein.
-Die Jugendherberge in einem dieser Häuser an der *Park Terrace*.
+Die Jugendherberge in einem der Häuser an der *Park Terrace*.
 
-Stuck, Leuchter, Tapeten, edle Polstermöbel des ehemaligen *Beacons* Hotel versprühen eine klassiche Eleganz.
+Stuck, Leuchter und edle Polstermöbel versprühen die klassische Eleganz des ehemaligen *Beacons Hotel*.
 Der Tischtennistisch im Wohnzimmer, das abgewetzte Stiegengeländer, Pop-Punk aus dem Radio schaffen entspannte Gemütlichkeit.
-Den alten Leitungen wegen ist das Wasser nur in der Küche im Kellergeschoss trinkbar.
-Wie immer wohnt eine französische Schulklasse im Hostel.
+Der alten Leitungen wegen ist das Wasser nur in der Küche im Kellergeschoss trinkbar.
+Wie immer bevölkert eine französische Schulklasse im Hostel.
 
 {% include image.html path="media/liverpool-glasgow/wohnzimmer.jpg" alt="Ein elegantes Wohnzimmer mit Stuck an der Decke, einem Kamin und noblen Polstermöbeln" link="https://photos.app.goo.gl/aHH5BTxc2yYy1xyU9" %}
 
 {% include image.html path="media/liverpool-glasgow/baer.jpg" alt="Ein eingerahmtes Foto eines Braunbären der an einem Bartisch zusammen mit einem Mann und einer Frau steht" link="https://photos.app.goo.gl/szhSuiNU48Cqgrd99" %}
 
-Glasgow 
-* regen regen regen
-* blog fertigschreiben, nicht zu früh ins museum für orgel recital
-* Durch den nassen kelvingrove park
-* museum, gratis, wunderbare halle, dali, rembrandt, milanesische rüstung, kitschiges orgelkonzert bach und hp
-* mittagssnack und coffee im hostel, in der lounge schreiben, die sonne kommt raus
-* ins stadtzentrum spazieren die … entlang, unterwegs youth hostels anrufen, nirgends frei am samstag scheiss we
-* Souveniershops abklappern nach einem paarl socken, schließlich nessie socken
-* In einem riesigen gemütlichen waterstone pause und ein bissi italienisch und französisch lesen, ich kanns noch
-* Am trashigen aber wunderbar sonnigen george square sitzen, unzähllige tauben und möwen die ausgiebig gefüttert werden
-* Weiterspazieren zur kathedrale, gerüste und tote hose
-* Mit dem x19 bus zum armadillo, auch hier tote hose aber tolles gebäude und radltunnel zur … 
-* Einkaufen beim tesco, potato scones und zurück zum abendessen
-* Abend in der lounge
-* Spät ins zimmer schleichen, jemand schnarcht ur laut und es stinkt nach socken und sneaker
-
-Drei Stockbetten im Zimmer, vom Fenster Blick über den *Kelvingrove Park* und den *Armadillo*.
-Am Abend roter Sonnenuntergang, am Morgen grauer Regen.
+Im Zimmer drei Stockbetten, vom Fenster Blick über den *Kelvingrove Park* runter zu den Gebäuden entlang des *River Clyde*.
+Am Abend roter Sonnenuntergang, hellgraue Regenwolken am Morgen.
 
 {% include video.html path="media/liverpool-glasgow/regen.mp4" link="https://photos.app.goo.gl/A3bqFMorg6RaXsvi9" %}
 
@@ -107,7 +92,7 @@ Der Regen lässt nicht nach.
 Im Zickzack die steile Anhöhe des *Kelvingrove Park* runter zu der im Zug empfohlenen *Kelvingrove Gallery*.
 Ein rotes Sandsteingebäude im Stil des spanischen Barock beherbergt das riesige Museum.
 
-Gegen Ende des 19. Jahrhunderts ist das schottische Eisenbahnnetz so gut ausgebaut, dass man für Gebäude den überlegenen roten Sandstein aus dem gut 100 km südlich gelegenen *Dumfries* bevorzugt.
+Gegen Ende des 19. Jahrhunderts ist das schottische Eisenbahnnetz so gut ausgebaut, dass man für Gebäude den witterungsbeständigeren roten Sandstein aus dem gut 100 km südlich gelegenen *Dumfries* bevorzugt.
 Der rote Stein geht zurück auf die Periode des Perm vor gut 270 Millionen Jahren als eine riesige Wüste das Gebiet des heutigen Schottland bedeckt.
 Eine eisenhaltige Schicht auf den Sandkörnern gibt dem Stein seine rote Farbe.
 
@@ -138,42 +123,52 @@ Der älteste nahezu komplett erhaltene Harnisch aus dem Jahr ...
 
 {% include image.html path="media/liverpool-glasgow/harnisch.jpg" alt="todo" link="https://photos.app.goo.gl/NmPvnMDNAWSmmJw59" %}
 
-Die Stunden verfliegen im Museum, der Hunger treibt zurück ins die Jugendherberge.
-Kaffeepause in der Lounge, die Sonne bricht durch die Wolkendecke und fällt durchs hohe Fenster.
+Die Stunden verfliegen im Museum, dramatisches Magenknurren treibt zurück ins die Jugendherberge.
+Kaffee in der Lounge, die Sonne bricht endlich durch die Wolkendecke und fällt ins hohe Fenster.
 
 {% include image.html path="media/liverpool-glasgow/lounge.jpg" alt="todo" link="https://photos.app.goo.gl/J9phJ7dFFx3XiTLF7" %}
 
 In der Abendsonne die *Woodlands Road* runter.
 Eine Verkehrsschneise bestehend aus *Motorway 8* und *St George's Road* trennen den westlichen Teil der Stadt ab.
 Kerzengrad die *Sauciehall Street* runter, die Souvenirläden werden häufiger, ein Paar witzige *Nessie* Socken kaufen.
-Die Jugendherbergen in den westlichen *Highlands* abtelefonieren, am Samstag keine Unterkunft zu finden.
+Die Jugendherbergen in den westlichen *Highlands* abtelefonieren, am Samstag ist wirklich alles ausgebucht.
 Pause in einem *Waterstones*, italienische und französische Kurzgeschichten schmökern, ich kanns noch!
 
 An der Kreuzung zur *Buchanan Street* rechts abbiegen und nochmal links zum *George Square*.
 Hunderte Menschen genießen die Abendsonne am weitläufigen Platz.
-Einige füttern mit Säcken voller Körner und Brot riesige Scharen von Tauben und Möwen.
-Auch die prächtigen *City Chambers* am westlichen Ende des Platzes können den resultierenden Eindruck der Verwahrlosung nicht wettmachen.
+Einige von ihnen füttern aus mitgebrachten Säcken großzügig die riesigen Scharen von Tauben und Möwen.
+Auch die prächtigen *City Chambers* am westlichen Ende des Platzes können den resultierenden Eindruck der Verwahrlosung nicht kompensieren.
 
 {% include image.html path="media/liverpool-glasgow/georgesquare.jpg" alt="todo" link="https://photos.app.goo.gl/htgnJSGQ8r9f6zyRA" %}
 
 Noch weiter in westlicher Richtung spazieren zur Kathedrale von *Glasgow*.
 Geschlossen und von Gerüsten verhüllt, der Vorplatz ausgestorben.
-Mit einem Bus wieder in den westlichen Teil der Stadt ans Ufer des *River Clyde*.
-Vorbeispazieren an einem riesigen Kran, der *Finnieston Crane* ist nicht mehr in Verwendung aber zeugt vom industriellen Erbe der Stadt.
+Mit einem Bus zurück in den westlichen Teil der Stadt ans Ufer des *River Clyde*.
+Vorbeispazieren an einem riesigen Kran, der *Finnieston Crane* ist schon lange nicht mehr in Verwendung verweist aber auf das industrielle Erbe der Stadt.
 53 Meter hoch und eine Traglast von 175 Tonnen.
-Im 20. Jahrhundert verlädt der Kran etwa 30.000 für den Export produzierte Lokomotiven auf Schiffe.
+Im 20. Jahrhundert verlädt er etwa 30.000 Lokomotiven auf Schiffe zum Export ins Britische *Empire*.
 
 {% include image.html path="media/liverpool-glasgow/clydeport.jpg" alt="todo" link="https://photos.app.goo.gl/YSe4QGR3nPvefWag7" %}
 
-Wenig dahinter der *Armadillo*.
-Die Ähnlichkeit mit dem Gürteltier unbeabsichtigt und der Name nachträglich vergeben.
-Eigentlich sollen die überlappenden Schichten Schiffshüllen darstellen und damit auf das Schiffsbauerbe der Stadt Bezug nehmen.
-Heute findet kein Event statt, der Vorplatz ist völlig ausgestorben, ein einsamer Wachmann spaziert herum und beobachtet mich skeptisch.
+Wenig dahinter der *Armadillo*, eine Konzerthalle.
+Die Ähnlichkeit zu einem Gürteltier unbeabsichtigt, der Name entsteht nachträglich.
+Eigentlich sollen die überlappenden Schichten Schiffshüllen darstellen, in Bezug auf das Schiffsbauerbe der Stadt.
+Der Vorplatz völlig ausgestorben, ein einsamer Wachmann spaziert herum und beobachtet mich argwöhnisch.
 
 {% include image.html path="media/liverpool-glasgow/armadillo.jpg" alt="todo" link="https://photos.app.goo.gl/cEZpesga1fSiQYRf8" %}
 
-Vom *Armadillo* führt eine ...
+Eine pinkverglaste Brücke führt zu Fuß Gehende und Radelnde vom *Armadillo* über die A815.
+Pure Freude durch den in pinkes Licht getauchten Tunnel zu spazieren.
+Einmal keinen Frust über die übliche Schikane zu Gunsten eines möglichst ungestörten Kraftverkehrs.
 
 {% include image.html path="media/liverpool-glasgow/tunnel.jpg" alt="todo" link="https://photos.app.goo.gl/PP1MPYoE35H5TJaB9" %}
 
+Die letzten Sonnenstrahlen vergolden die Sandsteinfassaden entlang der *Argyll Street*.
+Letzte Besorgungen im *Tesco Express* und hoch ins nahe *Kelvingrove*.
+
 {% include image.html path="media/liverpool-glasgow/strasse.jpg" alt="todo" link="https://photos.app.goo.gl/SuZ28vSUU59jYcit9" %}
+
+Im Zimmer riecht es streng nach zu lange getragenen Sneakern.
+Einen langen Abend in der Lounge verbringen.
+Schon im Stiegenhaus sägendes Schnarchen, es kommt aus meinem Zimmer.
+Diesen Abend kein Schleichen notwendig.
