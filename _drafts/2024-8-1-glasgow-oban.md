@@ -16,6 +16,19 @@ Glasgow - Rothesay
 * In rothesay zeigt der maurer mir noch die unscheinbare viktorianische toilette, prunkvolle pissoirs, mosaikboden und wandfliesen
 * Mit wegangabe die … entlangradeln, ein alter mann in jeans auf vintage peugot rennradl kommt entgegen, frank ist noch 2 tage 86, ex psychologie und wirtdchaftsprofessor, wohnt in schlichter wohnung mit wunderbarem blick auf das bay, kocht köstliches curry und bäckt brot, großes wissen zu den verschiedensten themen, schlafsack am klappsofa im Wohnzimmer 
 
+{% include image.html path="media/glasgow-oban/schluessel.jpg" alt="Elis Hand hält einen kleinen Schlüssel der an einer riesigen Suppenkelle hängt" link="https://photos.app.goo.gl/YXnfWBLgNSJsCrye8" %}
+
+{% include image.html path="media/glasgow-oban/hafen.jpg" alt="Ein Pier mit vier Fischerbooten, am Horizont sonnige Hügel" link="https://photos.app.goo.gl/B8cSvc3vsgLRGcou6" %}
+
+{% include image.html path="media/glasgow-oban/bahnhof.jpg" alt="Eine Bahnhofshalle überdacht von einem verglasten beige lackierten Stahlgerüst" link="https://photos.app.goo.gl/NhTy4hp2KHS8waai6" %}
+
+{% include video.html path="media/glasgow-oban/faehre.mp4" link="https://photos.app.goo.gl/ThUuSK48N8His1tc7" %}
+
+{% include image.html path="media/glasgow-oban/pissoir.jpg" alt="Kreisförmig angeordnete Pissoirs mit schwarzen Marmorelementen auf einem Mosaikboden" link="https://photos.app.goo.gl/UsTDe4UYGUv3S5AR7" %}
+
+{% include image.html path="media/glasgow-oban/frankwohnzimmer.jpg" alt="Ein Wohnzimmer mit Holzboden, Perserteppich, und zwei samtbezogenen Lehnsesseln vor einem Panoramafenster mit Blick aufs Meer" link="https://photos.app.goo.gl/5FeH46RT7HxCRkGg7" %}
+
+
 Rothesay - campspot
 * frank ist ab 6 munter, nach greenock zu einem arzttermin
 * Ich darf länger schlafen und mich selbst rauslassen, abschied am frühstückstisch
@@ -32,6 +45,16 @@ Rothesay - campspot
 * Durch ein weidetor und auf einem schotterweg voller schafe die hektisch flüchten, runter zum strand, perfekt gemähter rasen
 * Trockene sachen anziehen und einigermaßen gemütlich machen, suppe kochen, nochmal regen dann kommt die sonne raus, wunderbarer strand weiter oben die ruine einer normannischen? Kirche, am horizont die insel jura
 
+{% include video.html path="media/glasgow-oban/regen.mp4" link="https://photos.app.goo.gl/todo" %}
+
+{% include image.html path="media/glasgow-oban/fischer.jpg" alt="Ein Gewässer in regnerischer Witterung, wenig vom Ufer entfernt stehen zwei Fischer hüfthoch im Wasser" link="https://photos.app.goo.gl/obJGbv4nZfoVcpxs9" %}
+
+{% include image.html path="media/glasgow-oban/faehre.jpg" alt="Eine kleine Autofähre mit ausgeklappter Rampe" link="https://photos.app.goo.gl/mafPELsXAqfVTx5c7" %}
+
+{% include video.html path="media/glasgow-oban/zeltplatz.mp4" link="https://photos.app.goo.gl/mpCFkiCXSWDMirJm6" %}
+
+
+
 campspot - Oban
 * geweckt von lautem schafblöken, im zeltgap zum boden schafbeine ganz nah
 * Drinnen bleiben und kaffee kochen
@@ -45,6 +68,18 @@ campspot - Oban
 * zu früh für check-in, abwarten im gemütlichen wohnzimmer, wifi geht schon wieder nicht gscheid
 * wie immer reden die wenigsten miteinander
 * stockbett in der mitte vom raum, kein seitengitter
+
+{% include image.html path="media/glasgow-oban/socken.jpg" alt="Ein Paar Socken mit Nessiemotiv und Schottland Schriftzug hängen auf einem Stacheldraht in der Sonne" link="https://photos.app.goo.gl/CeaLrBhh8Qa1RCxC9" %}
+
+{% include image.html path="media/glasgow-oban/nebel.jpg" alt="Eine Straße schlängelt sich sanft bergauf, an der linken Seite grasige Hügel deren Spitzen im Nebel liegen" link="https://photos.app.goo.gl/6MLuxtpzppkn4FFG9" %}
+
+{% include image.html path="media/glasgow-oban/selfie.jpg" alt="Selfie von Eli vor einem sonnigen Kiesstrand" link="https://photos.app.goo.gl/hnZATXWkeUaGmnxM7" %}
+
+{% include image.html path="media/glasgow-oban/landschaft.jpg" alt="Weite Graslandschaft die in schroffe Hügel übergeht" link="https://photos.app.goo.gl/Knxws43fksTZnCjC9" %}
+
+{% include image.html path="media/glasgow-oban/hostel.jpg" alt="Elis Füße in Socken mit Wales Motiv liegen auf einem Sofatisch, Laptop am Schoß in einem Wohnzimmer mit rot gestrichenen Wänden und von dunkelblauen Vorhängen verhangenen Rundbogenfenstern" link="https://photos.app.goo.gl/wxNAmW9YkHi7K5WC8" %}
+
+
 
 
 Oban
@@ -66,3 +101,11 @@ Oban
 * er repariert waschmaschinen als beruf, selbstständig, schon 2000 leute auf couchsurfing gehostet, nachname faccenda, italienische wurzeln, der großvater emigriert nach dem ersten weltkrieg nach oban und macht ein eisgschäft auf, opa und onkel zerstreiten sich und verkaufen den laden, heute ist der trashige morrisons drinnen
 * leo will sich die italienische staatsbürgerschaft holen, urkunden der großeltern notwendig, das dorf im lazio existiert nicht mehr, auskunft vom ministerium drei jahre bearbeitungsdauer nach einreichung
 * in die ‘shed’ nebenan schlafen, eine große matratze und nicht viel mehr, schlafsack ausbreiten
+
+{% include image.html path="media/glasgow-oban/leostrasse.jpg" alt="Eine Straße in regnerischer Witterung mit Blick aufs Meer und einer Turmruine auf einem waldigen Hügel, im Meer ein Fährschiff" link="https://photos.app.goo.gl/FPStPfJzmrNa2Vpd8" %}
+
+{% include image.html path="media/glasgow-oban/leohuegel.jpg" alt="Ein himmelblauer Fiat Panda rechts von einem rostigen Weidetor, dahinter ein steiler Hügel hoch zu einer kleinen Hütte" link="https://photos.app.goo.gl/JHEj3fANoVf5EAUE6" %}
+
+{% include image.html path="media/glasgow-oban/leowohnzimmer.jpg" alt="Blick aus dem Fenster auf den Sonnenuntergang überm Meer, am Fenstersims verstaubte Kerzenhalter, Fensterputzmittel und ein Fernglas" link="https://photos.app.goo.gl/kjGLwH5T1Zzs46d87" %}
+
+{% include image.html path="media/glasgow-oban/shed.jpg" alt="Ein Schlafsack liegt auf einem Bett, davor am Boden mit Perserteppich zwei gelbe Fahrradtaschen, Isomatte und eine Jacke" link="https://photos.app.goo.gl/sDkNeZzhfjk6GDxaA" %}
