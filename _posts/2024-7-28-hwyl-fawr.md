@@ -63,7 +63,7 @@ Eine Frau und ihr Mann sitzen am Tisch gegenüber der Bar, ein gigantischer wei�
 Am Tresen einen Tee bestellen und warten.
 Nach einer Weile resigniert ins Nebenzimmer setzen.
 Rabiates Knurren und über Fliesenboden schlitternde Krallen jedes Mal wie ein Hund das Lokal betritt.
-Nach einer Viertelstunde bringt der bärtige Mann mit *Magic the Gathering* Leiberl endlich die randvolle Tasse Tee und pluttert ordentlich beim Hinstellen.
+Nach einer Viertelstunde bringt der bärtige Mann mit *Magic the Gathering* Leiberl endlich die randvolle Tasse Tee und pluttert[^1] ordentlich beim Hinstellen.
 
 Der Regen vorüber, die letzten 20 km durch eintönige Vororte nach *Birkenhead*.
 Der Ort liegt am linken Ufer des *River Mersey* direkt gegenüber von *Liverpool*.
@@ -137,3 +137,8 @@ Der Spuk vorüber noch eine Weile in den Loungesesseln der Bar sitzen und die *B
 Ein Scharfschütze schießt auf das Ohr von Donald Trump.
 Ein großgewachsener junger Mann aus Bermuda erzählt uns von seiner eigenartigen Heimat.
 Wieder vor den *Mates* im Bett.
+
+---
+{: data-content=" Fußnoten "}
+
+[^1]: Südtiroler Dialekt für 'klecksen', 'verschütten'
