@@ -5,10 +5,10 @@ title:  "Der Sprung vorwärts"
 {% include map.html url="https://en.frame.mapy.cz/s/nalamumota" %}
 
 Die *Pennines* beginnen etwa auf der Höhe von *Liverpool* und erstrecken sich gen Norden bis zur schottischen Grenze.
-2018 gute 250 km das Mittelgebirge bis zum Hadrianswall abwandern.
-Eine ausreichende Ausrede um die Strecke von *Liverpool* bis *Carlisle* zu überspringen.
+2018 das Mittelgebirge gute 250 km bis zum Hadrianswall abwandern.
+Ausrede genug um Nordengland zwischen *Liverpool* und *Carlisle* zu überspringen.
 
-Der Süden von Schottland ist halt auch ziemlich flaches fades Weideland.
+Der Süden von Schottland ist halt auch ziemlich flach und fade.
 Also frisch[^1] nach *Glasgow* fahren.
 
 ### Von Liverpool nach Glasgow
