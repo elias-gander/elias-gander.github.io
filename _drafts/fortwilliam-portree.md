@@ -39,3 +39,11 @@ Skye - Portree
 * den abend in der lounge sitzen und schreiben, um 11 leert sich die lounge, nur zwei junge frauen sitzen noch und sprechen eine unbekannte sprache, eine spricht mich an, sie wollen wäsche waschen
 * fragen wo sie herkommen, richtig raten, israel! alex und ravel, viel sinn für humor, reisen eine woche durch schottland
 * noch eine weile tippen, spät ins zimmer schleichen alle schlafen schon
+
+
+Portree
+* später als die anderen aufstehen und gemütlich frühstücken, den ganzen tag sehr regnerisch, in der lounge sitzen und schreiben, nicht nachkommen
+* ein afrikanischer mann verbringt auch den tag im hostel und telefoniert von 11 bis 16 uhr…
+* am abend füllt sich die lounge mit neuankömmlingen, alex und ravel kommen von ihrem daytrip zurück, gemeinsam in den … pub, es spielen zwei alte herren an acoustikgitarre und bass
+* alex wird heute nach 21, im finsteren portree herumspazieren und eine weile am ausgestorbenen hafen sitzen, in der hostel lounge bis spät am abend plaudern, opfer des tiktop trends 'how often do you think about the roman empire'
+* wieder ins zimmer schleichen, keiner scharcht!

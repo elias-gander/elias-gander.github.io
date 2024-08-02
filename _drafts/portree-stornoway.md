@@ -2,13 +2,6 @@
 title:  "Portree - Stornoway"
 ---
 
-Portree
-* später als die anderen aufstehen und gemütlich frühstücken, den ganzen tag sehr regnerisch, in der lounge sitzen und schreiben, nicht nachkommen
-* ein afrikanischer mann verbringt auch den tag im hostel und telefoniert von 11 bis 16 uhr…
-* am abend füllt sich die lounge mit neuankömmlingen, alex und ravel kommen von ihrem daytrip zurück, gemeinsam in den … pub, es spielen zwei alte herren an acoustikgitarre und bass
-* alex wird heute nach 21, im finsteren portree herumspazieren und eine weile am ausgestorbenen hafen sitzen, in der hostel lounge bis spät am abend plaudern
-* wieder ins zimmer schleichen, keiner scharcht!
-
 Portree - North Uist
 * wieder spät aufstehen, der check-in nicht so streng, so lange in der lounge aufhalten wie man will
 * ravel hat für alex einen geburtstagskuchen gekauft, die beiden haben kein feuerzeug, alle 16 kerzen anzünden und ausblasen, gemeinsam frühstücken und kuchen essen
