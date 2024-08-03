@@ -1,5 +1,5 @@
 ---
-title:  "Glasgow - Oban"
+title:  "La Gelateria"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/dofecomaru" %}
@@ -36,7 +36,7 @@ An der Rezeption den Schlüssel für den Fahrradkeller holen.
 Mit dem riesigen Schöpflöffel in der Hand der weite Weg in die Gasse hinterm Haus zum Fahrradkeller.
 Um halb elf losradln.
 
-{% include image.html path="media/glasgow-oban/schluessel.jpg" alt="Elis Hand hält einen kleinen Schlüssel der an einer riesigen Suppenkelle hängt" link="https://photos.app.goo.gl/YXnfWBLgNSJsCrye8" %}
+{% include image.html path="media/la-gelateria/schluessel.jpg" alt="Elis Hand hält einen kleinen Schlüssel der an einer riesigen Suppenkelle hängt" link="https://photos.app.goo.gl/YXnfWBLgNSJsCrye8" %}
 
 Sonnenschein.
 15 km auf einem Radweg am rechten Ufer des *River Clyde* entlang raus aus *Glasgow* und seine Vororte.
@@ -52,7 +52,7 @@ Danke an David aus *Lampeter* für das Bandl seiner kaputten *F-91W*.
 Weiter am Ufer des *Firth of Cylde*, dem Ästuar des *River Clyde*.
 Im Norden *Loch Long* und die sonnenbeschienenen Berge des *Loch Lomond National Park*.
 
-{% include image.html path="media/glasgow-oban/hafen.jpg" alt="Ein Pier mit vier Fischerbooten, am Horizont sonnige Hügel" link="https://photos.app.goo.gl/B8cSvc3vsgLRGcou6" %}
+{% include image.html path="media/la-gelateria/hafen.jpg" alt="Ein Pier mit vier Fischerbooten, am Horizont sonnige Hügel" link="https://photos.app.goo.gl/B8cSvc3vsgLRGcou6" %}
 
 Als *Loch* bezeichnen die Schottinnen und Schotten Seen und Fjorde (also auch Meergewässer), nicht aber Ästuare (*Firth*).
 *Loch* spricht man wie das gleichnamige Wort im Deutschen aus.
@@ -68,7 +68,7 @@ Die pittoreske Station ein Überbleibsel der Blütezeit von *Rothesay* in der zw
 Halb *Glasgow* fährt damals mit Zug und Schiff nach *Rothesay* auf Badeurlaub.
 Wie in allen anderen britischen Seebädern beenden erschwinglich gewordene Flugreisen in den Süden Europas diese goldene Ära.
 
-{% include image.html path="media/glasgow-oban/bahnhof.jpg" alt="Eine Bahnhofshalle überdacht von einem verglasten beige lackierten Stahlgerüst" link="https://photos.app.goo.gl/NhTy4hp2KHS8waai6" %}
+{% include image.html path="media/la-gelateria/bahnhof.jpg" alt="Eine Bahnhofshalle überdacht von einem verglasten beige lackierten Stahlgerüst" link="https://photos.app.goo.gl/NhTy4hp2KHS8waai6" %}
 
 Wenig Zeit die Station zu bewundern.
 Ticket kaufen und gleich zum Boarding, Fahrräder müssen mit den Autos von der Straße auf die Fähre.
@@ -77,7 +77,7 @@ Die *Caledonian MacBrayn* oder *CalMac* verlangt dafür 3.80 £.
 Das staatliche Unternehmen stellt die überwältigende Mehrheit der Fährverbindungen an Schottlands Westküste.
 Der Name *Caledonia* entsteht im Römischen Reich und bezeichnet die Gebiete des heutigen Schottlands nördlich des *River Forth* (etwa 30 km nördlich von *Glasgow*).
 
-{% include video.html path="media/glasgow-oban/faehre.mp4" link="https://photos.app.goo.gl/ThUuSK48N8His1tc7" %}
+{% include video.html path="media/la-gelateria/faehre.mp4" link="https://photos.app.goo.gl/ThUuSK48N8His1tc7" %}
 
 Der andere Radler an Bord ein pensionierter Maurer mit seinem Carbon Rennradl.
 Er ist ziemlich fertig von der der langen Radlrunde.
@@ -85,7 +85,7 @@ Mit seinem Campervan steht er auf *Bute* und muss am Freitag heim zu seiner Frau
 Angekommen in *Rothesay* schickt er mich zum viktorianischen Heisl[^1] direkt am Pier, sehenswert meint er und hat Recht.
 Pissoirs mit schwarzem Marmordekor, Mosaikboden und kunstvolle Fliesen.
 
-{% include image.html path="media/glasgow-oban/pissoir.jpg" alt="Kreisförmig angeordnete Pissoirs mit schwarzen Marmorelementen auf einem Mosaikboden" link="https://photos.app.goo.gl/UsTDe4UYGUv3S5AR7" %}
+{% include image.html path="media/la-gelateria/pissoir.jpg" alt="Kreisförmig angeordnete Pissoirs mit schwarzen Marmorelementen auf einem Mosaikboden" link="https://photos.app.goo.gl/UsTDe4UYGUv3S5AR7" %}
 
 Die *Victoria* und *Argyle Street* runterradln.
 Ausschau halten nach einem gerüstbedeckten Haus, die Wegbeschreibung von Frank im Kopf.
@@ -101,7 +101,7 @@ Ein für sein Alter außergewöhnlich aufgeweckter Mensch.
 An dem Abend kocht er Curry und bäckt Sauerteigbrot.
 Lange in den samtbezogenen Lehnsesseln am Panoramafenster plaudern, dann am Klappsofa den Schlafsack ausrollen.
 
-{% include image.html path="media/glasgow-oban/frankwohnzimmer.jpg" alt="Ein Wohnzimmer mit Holzboden, Perserteppich, und zwei samtbezogenen Lehnsesseln vor einem Panoramafenster mit Blick aufs Meer" link="https://photos.app.goo.gl/5FeH46RT7HxCRkGg7" %}
+{% include image.html path="media/la-gelateria/frankwohnzimmer.jpg" alt="Ein Wohnzimmer mit Holzboden, Perserteppich, und zwei samtbezogenen Lehnsesseln vor einem Panoramafenster mit Blick aufs Meer" link="https://photos.app.goo.gl/5FeH46RT7HxCRkGg7" %}
 
 Frank ist ab sechs munter, der Krankenhaustermin in *Greenock* um acht.
 Ich darf länger schlafen und mich selbst rauslassen.
@@ -119,7 +119,7 @@ Zehn Kilometer blind die A886 der Küste entlang.
 Als einziger Passagier die kurze Fährfahrt nach *Colintraive*.
 Zurück auf schottischem Festland.
 
-{% include video.html path="media/glasgow-oban/regen.mp4" link="https://photos.app.goo.gl/V4jzC3rRvs78Nn6M9" %}
+{% include video.html path="media/la-gelateria/regen.mp4" link="https://photos.app.goo.gl/V4jzC3rRvs78Nn6M9" %}
 
 20 km in unablässigem Regen ohne Sicht und Orientierung um das *Loch Riddon*.
 In *Tighnabruaich* lässt der Regen nach.
@@ -127,7 +127,7 @@ Vor dem Minimarkt fröstelnd und nass auf die Knochen ein *Cheese and Onion Sand
 In der Teestube nebenan Glashausklima, Heizgebläse und Luftentfeuchter laufen auf Hochtouren.
 Mit beschlagener Brille zu einem Tisch stolpern und langsam aufwärmen.
 
-{% include image.html path="media/glasgow-oban/fischer.jpg" caption="Wenn der Regen nicht nass genug ist" alt="Ein Gewässer in regnerischer Witterung, wenig vom Ufer entfernt stehen zwei Fischer hüfthoch im Wasser" link="https://photos.app.goo.gl/obJGbv4nZfoVcpxs9" %}
+{% include image.html path="media/la-gelateria/fischer.jpg" caption="Wenn der Regen nicht nass genug ist" alt="Ein Gewässer in regnerischer Witterung, wenig vom Ufer entfernt stehen zwei Fischer hüfthoch im Wasser" link="https://photos.app.goo.gl/obJGbv4nZfoVcpxs9" %}
 
 Socken und Schuhe hoffnungslos durchnässt.
 Eine halbe Stunde nach *Portavadie*.
@@ -135,7 +135,7 @@ An der Anlegestelle der Fähre nach *Tarbert* ein beheiztes Wartehütterl.
 Mit Föhn in der Toilette endlich die feuchten Socken und Schuhe trocknen.
 20 Minuten Fahrt über das *Loch Eyne* nach *Tarbert*.
 
-{% include image.html path="media/glasgow-oban/faehre.jpg" alt="Eine kleine Autofähre mit ausgeklappter Rampe" link="https://photos.app.goo.gl/mafPELsXAqfVTx5c7" %}
+{% include image.html path="media/la-gelateria/faehre.jpg" alt="Eine kleine Autofähre mit ausgeklappter Rampe" link="https://photos.app.goo.gl/mafPELsXAqfVTx5c7" %}
 
 25 km auf der schmalen ausgestorbenen B8024 zu dem auf der Satellitenkarte gefundenen Zeltplatz am Meer.
 Wieder ausgedehnte Regenschauer.
@@ -147,21 +147,21 @@ Warm werden bei einer Suppe vom Gaskocher.
 In den letzten Tagesstunden setzt sich endlich die Sonne durch.
 Am Horizont die Gipfel der Insel *Jura*.
 
-{% include video.html path="media/glasgow-oban/zeltplatz.mp4" link="https://photos.app.goo.gl/mpCFkiCXSWDMirJm6" %}
+{% include video.html path="media/la-gelateria/zeltplatz.mp4" link="https://photos.app.goo.gl/mpCFkiCXSWDMirJm6" %}
 
 Geweckt von lautem Blöken, Schafhufe erspähen durch den Spalt zwischen Außenzelt und Boden.
 Kaffee kochen und frühstücken im Zelt.
 Ein letzter Schauer dann Morgensonne.
 Die feuchte Ausrüstung am Weidezaun hinterm Strand aufhängen.
 
-{% include image.html path="media/glasgow-oban/socken.jpg" alt="Ein Paar Socken mit Nessiemotiv und Schottland Schriftzug hängen auf einem Stacheldraht in der Sonne" link="https://photos.app.goo.gl/CeaLrBhh8Qa1RCxC9" %}
+{% include image.html path="media/la-gelateria/socken.jpg" alt="Ein Paar Socken mit Nessiemotiv und Schottland Schriftzug hängen auf einem Stacheldraht in der Sonne" link="https://photos.app.goo.gl/CeaLrBhh8Qa1RCxC9" %}
 
 Früh losradln, knappe 90 km bis *Oban*.
 Mit Rückenwind machbar.
 Nach hügeligen 15 km auf der B8024 200 Höhenmeter bergauf zum *Loch Arail*.
 Die Sonne verschwindet im dichten Nebel.
 
-{% include image.html path="media/glasgow-oban/nebel.jpg" alt="Eine Straße schlängelt sich sanft bergauf, an der linken Seite grasige Hügel deren Spitzen im Nebel liegen" link="https://photos.app.goo.gl/6MLuxtpzppkn4FFG9" %}
+{% include image.html path="media/la-gelateria/nebel.jpg" alt="Eine Straße schlängelt sich sanft bergauf, an der linken Seite grasige Hügel deren Spitzen im Nebel liegen" link="https://photos.app.goo.gl/6MLuxtpzppkn4FFG9" %}
 
 Snackpause am gespenstisch stillen *Loch*.
 Rasante Abfahrt auf frischem Asphalt zur A83.
@@ -171,12 +171,12 @@ In einem Café eine riesige Tasse wässrigen Kaffee.
 Die restlichen 60 km nach *Oban* auf der relativ ruhigen A816.
 Malerische Hügel und Küste, die *Highlands* hier noch nicht besonders wild.
 
-{% include image.html path="media/glasgow-oban/landschaft.jpg" alt="Weite Graslandschaft die in schroffe Hügel übergeht" link="https://photos.app.goo.gl/Knxws43fksTZnCjC9" %}
+{% include image.html path="media/la-gelateria/landschaft.jpg" alt="Weite Graslandschaft die in schroffe Hügel übergeht" link="https://photos.app.goo.gl/Knxws43fksTZnCjC9" %}
 
 Am frühen Nachmittag setzt sich die Sonne durch.
 Pause an einem Strand kurz vor *Arduaine*.
 
-{% include image.html path="media/glasgow-oban/selfie.jpg" alt="Selfie von Eli vor einem sonnigen Kiesstrand" link="https://photos.app.goo.gl/hnZATXWkeUaGmnxM7" %}
+{% include image.html path="media/la-gelateria/selfie.jpg" alt="Selfie von Eli vor einem sonnigen Kiesstrand" link="https://photos.app.goo.gl/hnZATXWkeUaGmnxM7" %}
 
 Abgeschlagen vom Wind die letzten 30 km durchdrücken.
 Geschlaucht in *Oban* ankommen.
@@ -193,7 +193,7 @@ Im Zimmer zehn Betten, meines das obere mitten im Raum.
 Leicht unwohl zweieinhalb Meter über dem Boden ohne Begrenzung an den Seiten.
 Bis spätabends im Aufenthaltsraum sitzen.
 
-{% include image.html path="media/glasgow-oban/hostel.jpg" alt="Elis Füße in Socken mit Wales Motiv liegen auf einem Sofatisch, Laptop am Schoß in einem Wohnzimmer mit rot gestrichenen Wänden und von dunkelblauen Vorhängen verhangenen Rundbogenfenstern" link="https://photos.app.goo.gl/wxNAmW9YkHi7K5WC8" %}
+{% include image.html path="media/la-gelateria/hostel.jpg" alt="Elis Füße in Socken mit Wales Motiv liegen auf einem Sofatisch, Laptop am Schoß in einem Wohnzimmer mit rot gestrichenen Wänden und von dunkelblauen Vorhängen verhangenen Rundbogenfenstern" link="https://photos.app.goo.gl/wxNAmW9YkHi7K5WC8" %}
 
 Nicht vom Bett fallen und nicht gut schlafen.
 Beim Frühstück spricht mich eine Gruppe Deutsche an, entlarvt am Telefon mit Kathi.
@@ -213,22 +213,23 @@ Die Straßen von *Oban* zu jeder Tageszeit gleich verstopft.
 Um sechs das Radl aus dem Hostel schieben, die Flasche Wein an einer Tasche eingespannt.
 Es hat eben aufgehört zu regnen.
 
-{% include image.html path="media/glasgow-oban/leostrasse.jpg" alt="Eine Straße in regnerischer Witterung mit Blick aufs Meer und einer Turmruine auf einem waldigen Hügel, im Meer ein Fährschiff" link="https://photos.app.goo.gl/FPStPfJzmrNa2Vpd8" %}
+{% include image.html path="media/la-gelateria/leostrasse.jpg" alt="Eine Straße in regnerischer Witterung mit Blick aufs Meer und einer Turmruine auf einem waldigen Hügel, im Meer ein Fährschiff" link="https://photos.app.goo.gl/FPStPfJzmrNa2Vpd8" %}
 
 Zwei Kilometer die *Ganavan Road* der Küste entlang.
 Eine verwucherte Einfahrt, ein liebes *Cottage*, ein rostiges Weidetor.
 Vorm Tor ein himmelblauer *Fiat Panda* inmitten allerhand Gerümpel.
 Ein absurd steiler Weg führt durch nasses kniehohes Gras den Hügel hoch.
 
-{% include image.html path="media/glasgow-oban/leohuegel.jpg" alt="Ein himmelblauer Fiat Panda rechts von einem rostigen Weidetor, dahinter ein steiler Hügel hoch zu einer kleinen Hütte" link="https://photos.app.goo.gl/JHEj3fANoVf5EAUE6" %}
+{% include image.html path="media/la-gelateria/leohuegel.jpg" alt="Ein himmelblauer Fiat Panda rechts von einem rostigen Weidetor, dahinter ein steiler Hügel hoch zu einer kleinen Hütte" link="https://photos.app.goo.gl/JHEj3fANoVf5EAUE6" %}
 
 Oben eine kleine zweigeschossige Hütte, eine Sprossenleiter erschließt das Obergeschoss.
+Neben dem Eingang die Komposttoilette.
 Drinnen noch rustikaler als draußen, Leo reicht gleich eine dampfende Tasse Tee.
 Spaghetti kochen auf der mobilen Induktionsplatte im Wohnzimmer und den *Rioja* aufmachen, der Abend verfliegt im Nu.
 Leo repariert Waschmaschinen in *Oban* und Umgebung, ein Freiberufler und -geist.
 Über Jahrzehnte beherbergt er über 2.000 Reisende via *Couchsurfing* und *Warmshowers*.
 
-{% include image.html path="media/glasgow-oban/leowohnzimmer.jpg" alt="Blick aus dem Fenster auf den Sonnenuntergang überm Meer, am Fenstersims verstaubte Kerzenhalter, Fensterputzmittel und ein Fernglas" link="https://photos.app.goo.gl/kjGLwH5T1Zzs46d87" %}
+{% include image.html path="media/la-gelateria/leowohnzimmer.jpg" alt="Blick aus dem Fenster auf den Sonnenuntergang überm Meer, am Fenstersims verstaubte Kerzenhalter, Fensterputzmittel und ein Fernglas" link="https://photos.app.goo.gl/kjGLwH5T1Zzs46d87" %}
 
 Sein Nachname eindeutig italienisch.
 Die Großeltern aus einem heute verlassenen Ort im *Lazio*.
@@ -240,7 +241,7 @@ Laut der zuständigen italienischen Behörde beträgt die Bearbeitungsdauer nach
 
 Spätabends in der *Shed* nebenan den Schlafsack ausbreiten.
 
-{% include image.html path="media/glasgow-oban/shed.jpg" alt="Ein Schlafsack liegt auf einem Bett, davor am Boden mit Perserteppich zwei gelbe Fahrradtaschen, Isomatte und eine Jacke" link="https://photos.app.goo.gl/sDkNeZzhfjk6GDxaA" %}
+{% include image.html path="media/la-gelateria/shed.jpg" alt="Ein Schlafsack liegt auf einem Bett, davor am Boden mit Perserteppich zwei gelbe Fahrradtaschen, Isomatte und eine Jacke" link="https://photos.app.goo.gl/sDkNeZzhfjk6GDxaA" %}
 
 ---
 {: data-content=" Fußnoten "}
