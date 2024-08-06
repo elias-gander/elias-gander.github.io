@@ -4,6 +4,8 @@ title:  "Glens, Bens und Midges"
 
 {% include map.html url="https://en.frame.mapy.cz/s/rejosulapo" %}
 
+Funfact: Die längste Tagesetappe der bisherigen Reise.
+
 ### Von Oban nach Fort William
 
 {% include subheading.html text="21. bis 23. Juli 2024" %}  
