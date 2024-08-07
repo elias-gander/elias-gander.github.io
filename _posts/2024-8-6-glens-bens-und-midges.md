@@ -4,7 +4,7 @@ title:  "Glens, Bens und Midges"
 
 {% include map.html url="https://en.frame.mapy.cz/s/rejosulapo" %}
 
-Die längste Tagesetappe auf dieser Reise.
+Ungewollt die längste Tagesetappe der vergangenen viereinhalb Monate
 
 ### Von Oban nach Fort William
 
