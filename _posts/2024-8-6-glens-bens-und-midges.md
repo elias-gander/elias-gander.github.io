@@ -4,7 +4,7 @@ title:  "Glens, Bens und Midges"
 
 {% include map.html url="https://en.frame.mapy.cz/s/rejosulapo" %}
 
-Ungewollt die längste Tagesetappe der vergangenen viereinhalb Monate
+Ungewollt der längste Radltag der vergangenen viereinhalb Monate.
 
 ### Von Oban nach Fort William
 
