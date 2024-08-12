@@ -2,6 +2,12 @@
 title:  "Portree - Stornoway"
 ---
 
+{% include map.html url="https://en.frame.mapy.cz/s/luhaseluva" %}
+
+### Von Portree nach Stornoway
+
+{% include subheading.html text="28. bis 30. Juli 2024" %} 
+
 Portree - North Uist
 * wieder spät aufstehen, der check-in nicht so streng, so lange in der lounge aufhalten wie man will
 * ravel hat für alex einen geburtstagskuchen gekauft, die beiden haben kein feuerzeug, alle 16 kerzen anzünden und ausblasen, gemeinsam frühstücken und kuchen essen
@@ -28,6 +34,32 @@ Portree - North Uist
 * Auf berneray hinterm weißen east beach platzieren, hinterm strand entlang einige camper und zelte, die sonne schon untergegangen, rosa wolken verweisen auf den roten sonnenuntergang am west beach
 * Die stinkezechn im eiskalten und glasklaren wasser der hebriden waschen und bald ins zelt schlüpfen
 
+{% include video.html path="media/portree-stornoway/geburtstag.mp4" alt="todo" link="https://photos.app.goo.gl/KQLtpa544s3ybX1w9" %}
+
+{% include image.html path="media/portree-stornoway/portree.jpg" alt="todo" link="https://photos.app.goo.gl/4oVjHEuJyQsZA7fB6" %}
+
+{% include image.html path="media/portree-stornoway/poser.jpg" alt="todo" link="https://photos.app.goo.gl/VdkAeuDhaZh3MusG9" %}
+
+{% include video.html path="media/portree-stornoway/parkplatz.mp4" link="https://photos.app.goo.gl/5GQndJizzsfNi29Y6" %}
+ 
+{% include image.html path="media/portree-stornoway/abdruck.jpg" alt="todo" link="https://photos.app.goo.gl/dqaoDTaGrynbkqXv5" %}
+
+{% include image.html path="media/portree-stornoway/weite.jpg" alt="todo" link="https://photos.app.goo.gl/zXtbBeHNboQuaChx6" %}
+
+{% include image.html path="media/portree-stornoway/pass.jpg" alt="todo" link="https://photos.app.goo.gl/42U6t3JCFHwZunky9" %}
+
+{% include image.html path="media/portree-stornoway/uig.jpg" alt="todo" link="https://photos.app.goo.gl/BMYNvahempbUmCFN7" %}
+
+{% include image.html path="media/portree-stornoway/faehre.jpg" alt="todo" link="https://photos.app.goo.gl/eXwAD3HEb1tqMfHQ6" %}
+
+{% include image.html path="media/portree-stornoway/weite2.jpg" alt="todo" link="https://photos.app.goo.gl/RViPnuEJj3oEnqLh9" %}
+
+{% include video.html path="media/portree-stornoway/schatten.mp4" link="https://photos.app.goo.gl/jNyvimijoTzHakaDA" %}
+
+{% include image.html path="media/portree-stornoway/otter.jpg" alt="todo" link="https://photos.app.goo.gl/kJQLTWo8Bf8bPh1x8" %}
+
+
+
 Berneray - Stornoway
 * Am frühen morgen schafgeblök und regenprasseln, früh aufstehen weil die fähre um halb 10 nach leversburg geht
 * Um halb 9 kommt die sonne raus, der strand noch weißer, das wasser türkisblau
@@ -49,6 +81,26 @@ Berneray - Stornoway
 * Riesenportion curry essen und mit vollem bauch ins ledersofa sinken, meine einzige zimmergenossin eine ältere radlerin bietet mir ein glas whisky an
 * Bald ins bett legen und zu den nocturnes eindösen
 
+{% include image.html path="media/portree-stornoway/strand.jpg" alt="todo" link="https://photos.app.goo.gl/2dZRpzLpHgjKfVSC8" %}
+
+{% include video.html path="media/portree-stornoway/faehre.mp4" link="https://photos.app.goo.gl/Fjm1qJV8xJfFogFA7" %}
+
+{% include image.html path="media/portree-stornoway/passingplace.jpg" alt="todo" link="https://photos.app.goo.gl/LWZ7frJGtQST6ctS6" %}
+
+{% include image.html path="media/portree-stornoway/weite3.jpg" alt="todo" link="https://photos.app.goo.gl/uNW9NCFTan3meXDZ6" %}
+
+{% include video.html path="media/portree-stornoway/robbe.mp4" link="https://photos.app.goo.gl/nFD2MAkN3Qk8err89" %}
+
+{% include image.html path="media/portree-stornoway/abfahrt.jpg" alt="todo" link="https://photos.app.goo.gl/axwrEZSgM5zYWzUx7" %}
+
+{% include image.html path="media/portree-stornoway/weite4.jpg" alt="todo" link="https://photos.app.goo.gl/SQdrWsPN5EbZi4UZ7" %}
+
+{% include image.html path="media/portree-stornoway/borkenkaefer.jpg" alt="todo" link="https://photos.app.goo.gl/snfL1hnkJjUGqRic9" %}
+
+{% include image.html path="media/portree-stornoway/wohnzimmer.jpg" alt="todo" link="https://photos.app.goo.gl/Ddr1noGNnYQ5mT5t6" %}
+
+
+
 Stornoway 
 * Über 10 stunden schlafen wie ein stein, ich brauche noch einen rest day
 * Beim frühstück ein extrem langsam sprechender alter österreicher, hubert, unterhält sich mit einer jungen frau aus nordirland, sie reist mit ihrer mom die cholerisch extrem schnell spricht
@@ -62,3 +114,11 @@ Stornoway
 * die küche voll, ins zimmer legen, hubert weiß jetzt auch dass ich österreicher bin, christine hats ihm gesagt, verdammt, um halb 10 geht er schlafen und ich in die küche
 * mit der nordirin und ihrer mom beide sprechen ur schnell zu abend essen, die radlerin aus portree ist auch da, französin aus paris…
 * lange in der lounge tippen, erst um halb 2 ins zimmer schleichen
+
+{% include image.html path="media/portree-stornoway/denkmal.jpg" alt="todo" link="https://photos.app.goo.gl/kakxL19PYZbJHqGV8" %}
+
+{% include video.html path="media/portree-stornoway/ebbe.mp4" link="https://photos.app.goo.gl/vSNEPhsdF4WP7xnU7" %}
+
+{% include image.html path="media/portree-stornoway/sitzen.jpg" alt="todo" link="https://photos.app.goo.gl/Kma3edbLsjgoPiP46" %}
+
+{% include video.html path="media/portree-stornoway/nackt.mp4" %}

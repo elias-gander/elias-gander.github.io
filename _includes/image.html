@@ -1,9 +1,11 @@
 <figure>
     <div class="media-container">
         <img src="{{ include.path }}" alt="{{ include.alt }}" class="media">
+        {% if include.link != null and include.link != "" %}
         <a href="{{ include.link }}" target="_blank" rel="noopener noreferrer">
             <img src="../media-link.svg" width="32" height="32" class="media-link">
         </a>
+        {% endif %}
     </div>
     <figcaption>{{ include.caption }}</figcaption>
 </figure>
