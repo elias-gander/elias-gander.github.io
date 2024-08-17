@@ -8,56 +8,106 @@ title:  "Portree - Stornoway"
 
 {% include subheading.html text="28. bis 30. Juli 2024" %} 
 
-Portree - North Uist
-* wieder spät aufstehen, der check-in nicht so streng, so lange in der lounge aufhalten wie man will
-* ravel hat für alex einen geburtstagskuchen gekauft, die beiden haben kein feuerzeug, alle 16 kerzen anzünden und ausblasen, gemeinsam frühstücken und kuchen essen
-* eine letzte runde in portree machen, die beiden fahren am abend nach inverness weiter
-* nochmal runter zum hafen am kiesstrand sitzen und steine springen lassen
-* die zahllosen souvenirläden von portree durchstöbern, internationales publikum in portree, insbesondere asiatische touristen
-* am frühen nachmittag mittagssnack und abschied nehmen
-* von portree hochradeln auf eine weite wunderschöne hochebene, die a… bald einspurig, haufenweise autos und caravans, nervig
-* grandioser blick auf den … und den old man of stowe, rückenwind, lichtspiel an der grashängen
-* … km weiter nach staffin, kleiner umweg zum beach, dinosaurierspuren suchen, auch hier viele touris
-* zurück auf die a… beim schalten reisst das kabel (schon wieder)
-* hektisch am straßenrand wechseln, nur eine gute stunde um nach uig zu kommen (fähre nach north uist..)
-* alles klappt, hochkeuchen auf 2… m, grandiose blicke auf die … berge, zu viele autos, immer wieder vorbeilassen müssen, über den pass ohne stehenzubleiben, ein mann im auto meint well done, geh scheissen
-* oben starker gegenwind, endlose hochebene sanft bergab, das meer und hohe klippen kommen langsam in sicht
-* steil den hügel runter nach uig und ins ferry terminal, gscheid gebrettert, noch eine halbe stunde zeit
-* große fähre zu den hebrides, auf der leeren 3er lane vor allen autos einreihen und als erster an bord rollen
-* müde in stinkesocken in der lounge sitzen und wlan zuzln
-* Sicherheitsdurchsage in gälisch, suf den hebriden spricht man das noch, auf Skye?
-* am fenster oft offenes meer, fast zwei stunden überfahrt
-* das gute wetter hält sich, 20 km an der nördlichen zipfel von north uist, die wind wieder im rücken
-* Um halb 9 stille straßen, wenige verstreute gebäude, desolate Landschaft, in the middle of nowhere
-* Die abendsonne kommt noch raus, taucht die landschaft in gold, lange schatten
-* immer wieder wildgänse aufschrecken
-* Auf berneray hinterm weißen east beach platzieren, hinterm strand entlang einige camper und zelte, die sonne schon untergegangen, rosa wolken verweisen auf den roten sonnenuntergang am west beach
-* Die stinkezechn im eiskalten und glasklaren wasser der hebriden waschen und bald ins zelt schlüpfen
+Spät aufstehen.
+Alex sitzt in der Lounge vor Puzzle und Geburtstagskuchen.
+Ravel hat ihn für sie gekauft, auch Kerzen aber die beiden haben kein Feuerzeug.
+Ich schon, schnell die 16 Kerzen anzünden vors der *Warden* sieht.
 
-{% include video.html path="media/portree-stornoway/geburtstag.mp4" alt="todo" link="https://photos.app.goo.gl/KQLtpa544s3ybX1w9" %}
+{% include video.html path="media/portree-stornoway/geburtstag.mp4" caption="Lang may yer lum reek, Alex! (wörtlich: 'Lang möge dein Schornstein rauchen')" link="https://photos.app.goo.gl/KQLtpa544s3ybX1w9" %}
+
+Die beiden fahren am Nachmittag mit dem Bus weiter nach *Inverness*.
+Ich peile die Abendfähre nach *North Uist* um halb sieben an.
+Zeit für eine kleine Runde durch *Portree*.
+Steine übers Wasser springen lassen am Hafen, ein ramschiger *Thrift Shop* am Kai, ein netter Buchladen gegenüber dem *Co-op*.
+*Portree* ist voll mit asiatischen Touris.
 
 {% include image.html path="media/portree-stornoway/portree.jpg" alt="todo" link="https://photos.app.goo.gl/4oVjHEuJyQsZA7fB6" %}
 
+Früher Nachmittag, Ravel fährt mit dem Bus zum *Old Man of Storr*.
+Mit Alex im Hostel Kaffee trinken.
+Abschied nehmen.
+
+Auf der A855 fünf Kilometer bergauf, raus aus *Portree* und auf die *Trotternish* Halbinsel.
+Die Straße voller Campervans und anderen motorisierten Ausflügler:innen.
+Mit grandiosem Ausblick über eine weite Hochebene, vorbei an *Loch Fada*, *Loch Leathan* und dem *Old Man of Storr*.
+
 {% include image.html path="media/portree-stornoway/poser.jpg" alt="todo" link="https://photos.app.goo.gl/VdkAeuDhaZh3MusG9" %}
+
+Die etwa 50 Meter hohe Felsnadel und restliche *Trotternish Ridge* entstehen in einem riesigen Erdrutsch vor gut 60 Millionen Jahren.
+Riesige Lavamassen ergießen sich auf fragilere Schichten aus Sedimentgestein und bringen diese zum Einsturz.
+Stehen bleibt die Steilwand aus vulkanischem Basalt.
+Einzigartige Felsformationen die jeder sehen will.
 
 {% include video.html path="media/portree-stornoway/parkplatz.mp4" link="https://photos.app.goo.gl/5GQndJizzsfNi29Y6" %}
  
+Mit Rückenwind 20 km weiter die Steilküste entlang nach *Staffin*.
+Hinter dem kleinen Ort führt eine einspurige Straße zum *Staffin Beach*.
+Der Parkplatz voll, Menschen spazieren mit gesenkten Köpfen den Strand entlang.
+Vor etwa 166 Millionen Jahren liegt *Skye* südlich des Äquator, ein Rudel *Megalosauri* läuft durch den Sand.
+Ihre Fußabdrücke heute Fossile im Sedimentgestein.
+
 {% include image.html path="media/portree-stornoway/abdruck.jpg" alt="todo" link="https://photos.app.goo.gl/dqaoDTaGrynbkqXv5" %}
+
+Langsam wirds spät, noch 15 km nach *Uig*.
+Kalorien tanken und losradln.
+Die einspurige *Quiraing Road* führt über einen gut 250 Meter hohen Pass nach *Uig*, direkter als die flachere A855.
+Kurz vor der Abzweigung auf die Passstraße reißt das Schaltkabel.
+Hektisch am Straßenrand das Kabel tauschen und nahe am Maximalpuls den Pass hochhetzen.
+Wie immer zu viele Touris in Auto und Campervan die für einen tollen Ausblick die enge Passstraße hochdüsen.
+Stau an den *Passing Places*.
+Zur linken grandiose Blicke auf die *Trotternish Ridge*.
 
 {% include image.html path="media/portree-stornoway/weite.jpg" alt="todo" link="https://photos.app.goo.gl/zXtbBeHNboQuaChx6" %}
 
+Auf den letzten Höhenmeter Blick zurück auf den *Quiraing*.
+Die Steilwände aus schwarzem Basalt markieren die Abbruchkante des massiven Erdrutsches vor gut 60 Millionen Jahren.
+
 {% include image.html path="media/portree-stornoway/pass.jpg" alt="todo" link="https://photos.app.goo.gl/42U6t3JCFHwZunky9" %}
+
+Am Pass ein voller Parkplatz.
+Den Fährfahrplan im Nacken direkt weiterradln nach *Uig*.
+Eine weite Hochebene fällt sanft zum Meer ab, kaum noch Verkehr in diese Richtung.
+Den letzten Kilometer auf Serpentinen steil runter nach *Uig*.
+Die Fähre nach *Lochmaddy* um 18:30 geht sich aus.
 
 {% include image.html path="media/portree-stornoway/uig.jpg" alt="todo" link="https://photos.app.goo.gl/BMYNvahempbUmCFN7" %}
 
+Die bisher längste Fährenfahrt in Schottland, fast zwei Stunden nach *North Uist*, eine Insel in der südlichen Hälfte der Äußeren Hebriden.
+Die *Calmac* Sicherheitsdurchsage ertönt auf Schottisch-Gälisch.
+Am Fenster das offene Meer.
+Fast 60 % der Bewohner:innen der Äußeren Hebriden sprechen die indigene Sprache, der höchste Anteil in ganz Schottland.
+
 {% include image.html path="media/portree-stornoway/faehre.jpg" alt="todo" link="https://photos.app.goo.gl/eXwAD3HEb1tqMfHQ6" %}
+
+Ankunft nach acht, ein Ticken frischer als am Festland.
+20 km nach *Berneray*, von hier geht die Fähre nach *Lewis and Harris* der nördlichen Hälfte der Äußeren Hebriden.
+Losradln auf der ausgestorbenen A865.
+Endlose Graslandschaft, verästelte *Lochs* und zahllose winzige Inseln.
+Eine handvoll verstreuter Häuser, das Gefühl völliger Abgeschiedenheit.
 
 {% include image.html path="media/portree-stornoway/weite2.jpg" alt="todo" link="https://photos.app.goo.gl/RViPnuEJj3oEnqLh9" %}
 
+Die Abendsonne bricht durch die Wolkendecke und vergoldet die braunen Grashalme.
+Auf den Schafweiden immer wieder kleine Rudel Wildgänse die im Vorbeiradln unter lautem Geschrei davonfliegen.
+Alles zieht lange Schatten.
+
 {% include video.html path="media/portree-stornoway/schatten.mp4" link="https://photos.app.goo.gl/jNyvimijoTzHakaDA" %}
+
+Eine Brücke verbindet *Berneray* mit *North Uist*.
+Die morgige Fähre nach *Lewis and Harris* liegt schon vor Anker.
 
 {% include image.html path="media/portree-stornoway/otter.jpg" alt="todo" link="https://photos.app.goo.gl/kJQLTWo8Bf8bPh1x8" %}
 
+Noch 5 km zum *East Beach* von *Berneray*.
+Auf dem Grashang hinter dem weißen Sandstrand stehen ein paar einsame Campervans und Zelte.
+Die Sonne schon hinterm Horizont, rosa Wolken im Osten.
+Ein Platzerl suchen, Zelt aufstellen und runter zum Strand.
+Die Stinkefüße waschen im eiskalten glasklaren Wasser.
+
+Am frühen Morgen ein Regenschauer, dann Sonnenschein, die Bucht türkisblau.
+Früh aufstehen und zampacken, die Fähre nach *Leversburg* geht um halb zehn.
+
+{% include image.html path="media/portree-stornoway/strand.jpg" alt="todo" link="https://photos.app.goo.gl/2dZRpzLpHgjKfVSC8" %}
 
 
 Berneray - Stornoway
@@ -81,7 +131,6 @@ Berneray - Stornoway
 * Riesenportion curry essen und mit vollem bauch ins ledersofa sinken, meine einzige zimmergenossin eine ältere radlerin bietet mir ein glas whisky an
 * Bald ins bett legen und zu den nocturnes eindösen
 
-{% include image.html path="media/portree-stornoway/strand.jpg" alt="todo" link="https://photos.app.goo.gl/2dZRpzLpHgjKfVSC8" %}
 
 {% include video.html path="media/portree-stornoway/faehre.mp4" link="https://photos.app.goo.gl/Fjm1qJV8xJfFogFA7" %}
 
@@ -93,7 +142,7 @@ Berneray - Stornoway
 
 {% include image.html path="media/portree-stornoway/abfahrt.jpg" alt="todo" link="https://photos.app.goo.gl/axwrEZSgM5zYWzUx7" %}
 
-{% include image.html path="media/portree-stornoway/weite4.jpg" alt="todo" link="https://photos.app.goo.gl/SQdrWsPN5EbZi4UZ7" %}
+{% include image.html path="media/portree-stornoway/weite4.jpg" alt="todo" link="https://photos.app.goo.gl/mT8ga967n7k6aNZXA" %}
 
 {% include image.html path="media/portree-stornoway/borkenkaefer.jpg" alt="todo" link="https://photos.app.goo.gl/snfL1hnkJjUGqRic9" %}
 
