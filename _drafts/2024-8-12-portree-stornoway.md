@@ -109,65 +109,124 @@ Früh aufstehen und zampacken, die Fähre nach *Leversburg* geht um halb zehn.
 
 {% include image.html path="media/portree-stornoway/strand.jpg" alt="todo" link="https://photos.app.goo.gl/2dZRpzLpHgjKfVSC8" %}
 
-
-Berneray - Stornoway
-* Am frühen morgen schafgeblök und regenprasseln, früh aufstehen weil die fähre um halb 10 nach leversburg geht
-* Um halb 9 kommt die sonne raus, der strand noch weißer, das wasser türkisblau
-* Die fähre gut besucht, knappe stunde fahrt, niemand fragt nach ticket, der fairness halber eins am schiff kaufen, der skipper schaut mich fast verwundert an
-* In leversburg ein regenguss, in die wartehalle flüchten und knabbern
-* Bald wieder sonne, weiter auf einer einspurigen straße die südküste von harris? entlang
-* Endlose gletschergeschliffene steinlandschaft, keine sau nur ein paar schafe
-* Torfstecher, säcke liegen herum, nass glänzende stichflächen
-* Die schären? Steil hügel rauf und runter, zu viele schlaglöcher zum schwung holen, auch das hinterrad!
-* In … plötzlich touri traube, alle fotografieren das meer, ein mann sitzt im gras und spielt auf seiner flöte
-* Auf den felsen liegen robben (alle mit dem rücken zu uns)! Der flötenspieler ist der tourguide, wie sie wegfahren reckt die glänzende robbe sorgenvoll den blick nach hinten
-* Wie sie fahren beginnts zu regnen, nass werden
-* Zache anstiege zur a…
-* noch ein stück nach tarbert, mit supermarktsnacks in der sonne sitzen
-* schon müde aber das navi sagt noch 60 km nach stornoway
-* Grandiose landschaften vorbei an den höchsten erhebungen der hebriden, gottseidank den wind im rücken
-* Die letzten 30 km flacht es ab und der verkehr nimmt zu, abschalten und durchdrücken
-* In stornoway ins heb hostel, gemütlich familiär, ein phlegmatischer volunteer mit französischem akzent lässt mich rein, geheimtipp von einem ws host der mich nicht hosten kann
-* Riesenportion curry essen und mit vollem bauch ins ledersofa sinken, meine einzige zimmergenossin eine ältere radlerin bietet mir ein glas whisky an
-* Bald ins bett legen und zu den nocturnes eindösen
-
+Die Fähre gut besucht, niemand fragt nach dem Ticket.
+Der Ehrlichkeit halber zum Minibüro am Aussichtsdeck, der Mitarbeiter in neongelber Warnweste und Plastikhelm fast verwundert wie ich ihn um ein Ticket bitte.
 
 {% include video.html path="media/portree-stornoway/faehre.mp4" link="https://photos.app.goo.gl/Fjm1qJV8xJfFogFA7" %}
 
+Eine knappe Stunde später in *Leversburg* am südlichen Ende der Insel *Lewis and Harris*.
+Wasser auffüllen in dem Warteraum, den plötzlichen Regenschauer aussitzen.
+Eine dicke Frau in Trainingsanzug, ihr Sohn versunken in seine *Nintendo Switch*.
+Der Regen treibt eine Gruppe Wandernder in den Warteraum.
+Bald scheint wieder die Sonne.
+
+Eine einspurige Straße durch endloses Moor.
+Entlang der Straße immer wieder Spuren von Torfstich, die Stichflächen perfekt senkrecht und nass-glänzend.
+Selten überholt ein einsames Auto an einem der zahlreichen *Passing Places*.
+
 {% include image.html path="media/portree-stornoway/passingplace.jpg" alt="todo" link="https://photos.app.goo.gl/LWZ7frJGtQST6ctS6" %}
+
+Die Straße führt an die Südostküste von *Harris*, gletschergeschliffenes Gestein durchsetzt die Landschaft.
+Absolute Menschenleere.
+Steil hügelig die steinige Küste entlang, Schwung holen schwierig wegen dem angeschlagenen Hinterrad.
 
 {% include image.html path="media/portree-stornoway/weite3.jpg" alt="todo" link="https://photos.app.goo.gl/uNW9NCFTan3meXDZ6" %}
 
+Entlang der Küste doch immer wieder kleine entlegene Siedlungen.
+Kurz nach *Fionnsbhagh* eine Menschentraube.
+Ein Mann sitzt im Gras und spielt auf einer Holzflöte, die übrigen richten ihre Kameras aufs Meer.
+Der Flötenspieler ein Tourguide, das Fotomotiv eine Gruppe Robben die uns demonstrativ den Rücken zukehrend auf kleinen Felsinseln in der Bucht liegt.
+Wie der Tourbus davonbraust blicken sie sich verstohlen um.
+
 {% include video.html path="media/portree-stornoway/robbe.mp4" link="https://photos.app.goo.gl/nFD2MAkN3Qk8err89" %}
+
+Dicke Tropfen fallen, nass werden auf den 15 km zur A859.
+Fünf Kilometer sanfte Abfahrt nach *Tarbert* mit grandioser Aussicht.
 
 {% include image.html path="media/portree-stornoway/abfahrt.jpg" alt="todo" link="https://photos.app.goo.gl/axwrEZSgM5zYWzUx7" %}
 
+In *Tarbert* Snacks aus dem Supermarkt holen und auf einem Bankerl in der Sonne futtern.
+Schon ziemlich schlapp fühlen, das Navi sagt noch 60 km nach *Stornoway*.
+
+Fünf Kilometer die sonnige Küste entlang und 200 Höhenmeter eine Passstraße hoch, den Wind zum Glück im Rücken.
+Die höchsten Gipfel von *Harris* in dichten Nebel gehüllt.
+
 {% include image.html path="media/portree-stornoway/weite4.jpg" alt="todo" link="https://photos.app.goo.gl/mT8ga967n7k6aNZXA" %}
+
+Die einsamen Landschaften verschmelzen, der ständige Wind in den Ohren zehrt.
+Das Gefühl für die Distanz verlieren, irgendwann flacht die Landschaft ab und der Verkehr nimmt zu.
+Die letzten 30 km nach *Stornoway* im Autopilot.
 
 {% include image.html path="media/portree-stornoway/borkenkaefer.jpg" alt="todo" link="https://photos.app.goo.gl/snfL1hnkJjUGqRic9" %}
 
+Geschlaucht ankommen beim *Heb Hostel* im Zentrum von *Stornoway*.
+Ein junger phlegmatischer *Volunteer* mit starkem französischem Akzent lässt mich rein.
+Die einzige Zimmergenossin eine ältere Radlerin aus England.
+
+In der Küche eine Riesenportion Curry kochen und mit vollem Bauch in eines der Ledersofas im gemütlichen Wohnzimmer sinken.
+Die ältere Radlerin schenkt mir ein kleinen Glas Whisky ein.
+Eindösen zu Chopins *Nocturnes*.
+
 {% include image.html path="media/portree-stornoway/wohnzimmer.jpg" alt="todo" link="https://photos.app.goo.gl/Ddr1noGNnYQ5mT5t6" %}
 
+Zehn Stunden schlafen wie ein Stein.
+In der Küche beim Frühstück eine junge Frau aus Nordirland und Hubert, ein älterer Österreicher mit schläfrigem Blick und langem schütterem Haar.
+Für jeden Satz braucht er eine gefühlte Ewigkeit.
+Die junge Frau reist zusammen mit ihrer Mutter die so schnell Englisch spricht, dass ich oft um Wiederholung bitten muss.
+Beide sprechen Irisch-Gälisch und suchen den Kontakt zu den Schottisch-Gälisch-Sprechenden auf *Lewis and Harris*.
+Die beiden Sprachen sind großteils gegenseitig verständlich.
 
+Am späten Vormittag sind alle ausgeflogen.
+Bei der Gastgeberin Christine um eine Nacht verlängern und zum Tippen ins Wohnzimmer setzen.
+Am Sonntag ist auf den Äußeren Hebriden so ziemlich alles geschlossen.
+In der Gemeinschaftslade in der Küche ein Packerl Instant-Ramen finden.
+
+Eine schweizer Großfamilie checkt ein und poltert durchs Haus, draußen der sonnige Nachmittag.
+Die ältere Radlerin meinte in der Früh sie wolle zu einem Stand radln und baden, ich bekomme auch Lust. 
+Im frischen Wind zur Tankstelle an der *Sandwick Road*, der einzige offene Laden am Sonntag.
+Der Laden voll die Regale leer, mit *Bounty* und Erdnüssen auf der B895 die Ostküste von *Lewis* entlang.
+
+Eigentlich will ich zum *Garry Beach* aber die 25 km Rückweg im Gegenwind schrecken ab.
+Nach guten zehn Kilometern beim *Gress Beach* das Radl anketten.
+Der Strand fast 200 Meter breit, es herrscht Ebbe.
+Lange herumlatschen auf der Suche nach einem Badeplatz, das Meer viel zu seicht.
+
+{% include video.html path="media/portree-stornoway/ebbe.mp4" caption="Wo soll ich da schwimmen?" link="https://photos.app.goo.gl/vSNEPhsdF4WP7xnU7" %}
+
+Vor die Düne am Ende des Strands setzen, Nüsse knabbern und lange aufs Meer schauen.
+Es ist eh viel zu kalt.
+
+{% include image.html path="media/portree-stornoway/sitzen.jpg" alt="todo" link="https://photos.app.goo.gl/Kma3edbLsjgoPiP46" %}
+
+Hinterm Strand das *Gress Raiders Monument*, ein wellenförmiger Graben umgibt eine Skulptur aus geschichteten Steinen.
+Der Graben symbolisiert die Schützengräben des Ersten Weltkriegs in dem auch lokal ansässige *Crofter* kämpften.
+
+{% include image.html path="media/portree-stornoway/denkmal.jpg" alt="todo" link="https://photos.app.goo.gl/kakxL19PYZbJHqGV8" %}
+
+Als *Crofter* bezeichnet man in Schottland einen Kleinbauern der gepachtetes Land bearbeitet.
+Ursprünglich bewirtschaftet die Lokalbevölkerung das Land ihrer Umgebung gemeinschaftlich.
+Um den Ertrag ihrer Ländereien zu erhöhen beginnen die Landbesitzer Mitte des 18. Jahrhunderts damit den Bauern fixe Parzellen zu verpachten, vor allem in schlechten Lagen entlang der Küste.
+Die Bauerngemeinden zerbrechen, auf dem bisher von ihnen bewirtschafteten Land entstehen große Schaffarmen.
+
+Anfang des 19. Jahrhunderts die zweite Phase dieser sogenannten *Highland Clearances*: die Landbesitzer beenden die Pachtverträge der *Crofter* um auch ihr restliches Land für die profitablere Schafzucht zu nutzen.
+Viele werden mit Gewalt vertrieben, anderen bezahlt man die Überfahrt nach Nordamerika.
+1886 beendet der *Crofters' Holdings (Scotland) Act* die Vertreibungen und garantiert den *Crofters* ihr Pachtland.
+
+Die *Gress Raiders* formieren sich 1919 also lange nach dem *Crofters' Holdings (Scotland) Act*.
+Wenige Jahre zuvor kauft der englische Industrielle William Lever die gesamte Insel *Lewis and Harris* um heute umgerechnet 25 Millionen Pfund.
+Er will die Insel industrialisieren und weigert sich signifikante Teile seines Besitzes an die *Crofter* zu verpachten.
+Es folgen *Land Raids*, die Kriegsrückkehrer unterteilen, besetzen und bewirtschaften sein Land auf eigene Faust.
+Wenige Jahre später gibt sich William Lever geschlagen und zieht sich von *Lewis and Harris* zurück.
+
+...
 
 Stornoway 
-* Über 10 stunden schlafen wie ein stein, ich brauche noch einen rest day
-* Beim frühstück ein extrem langsam sprechender alter österreicher, hubert, unterhält sich mit einer jungen frau aus nordirland, sie reist mit ihrer mom die cholerisch extrem schnell spricht
-* Alle fliegen aus und ich tippe im wohnzimmer
-* Am sonntag wirklich alles geschlossen auf lewis, ein ramenpackerl aus der gemeinschaftslade nehmen, eine laute familie aus der schweiz poltert herein
-* am nachmittag wirds sonnig, doch lust bekommen auf eine runde, die ältere dame aus meinem zimmer ist zur bridge to nowhere und einen swim geradelt (guy mit seifenfabrik?)
-* um dreiviertl 4 aufbrechen und 5 minuten vor schluss in den einzig offenen laden bei der tanke, alles zu am sonntag, ur viel los, erdnüsse und ein bounty
-* die 25 km zur bridge sind mir zu weit, nach 10 km beim gress beach stehenbleiben, der wasserstand ist so niedrig, ebbe dass ich nicht schwimmen kann, den weiten strand ablaufen auf suche nach einem badeplatz dann aufgeben und in die dünen setzen, es ist ur windig
 * Landraub denkmal, was sind crofts?
 * am heimweg machen, zacher gegenwind, am coll beach schauts besser aus, abzweigen, riesige erdhöhlen, dann nackig machen am menschenleeren strand und ins kalte nass springen, eiskalt, beim rauskommen brennen auf der haut, voll angezogen dann unkontrolliertes zittern, heimradln und bei der heißen dusche richtig warm werden
 * die küche voll, ins zimmer legen, hubert weiß jetzt auch dass ich österreicher bin, christine hats ihm gesagt, verdammt, um halb 10 geht er schlafen und ich in die küche
 * mit der nordirin und ihrer mom beide sprechen ur schnell zu abend essen, die radlerin aus portree ist auch da, französin aus paris…
 * lange in der lounge tippen, erst um halb 2 ins zimmer schleichen
 
-{% include image.html path="media/portree-stornoway/denkmal.jpg" alt="todo" link="https://photos.app.goo.gl/kakxL19PYZbJHqGV8" %}
 
-{% include video.html path="media/portree-stornoway/ebbe.mp4" link="https://photos.app.goo.gl/vSNEPhsdF4WP7xnU7" %}
-
-{% include image.html path="media/portree-stornoway/sitzen.jpg" alt="todo" link="https://photos.app.goo.gl/Kma3edbLsjgoPiP46" %}
 
 {% include video.html path="media/portree-stornoway/nackt.mp4" %}
