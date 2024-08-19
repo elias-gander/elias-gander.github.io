@@ -6,8 +6,7 @@ title:  "The Western Isles"
 
 Die Inseln westlich dem schottischen Festland gehören zum Archipel der Hebriden.
 So etwa die *Isle of Skye*.
-*The Little Minch*, eine Meerenge entlang der Nordwestküste von *Skye* trennt die Inneren von den Äußeren Hebriden.
-Man nennt diese Äußeren auch *Western Isles*.
+*The Little Minch*, eine Meerenge entlang der Nordwestküste von *Skye* trennt die Inneren von den Äußeren Hebriden, den *Western Isles*.
 
 ### Von Portree nach Stornoway
 
