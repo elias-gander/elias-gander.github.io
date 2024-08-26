@@ -4,7 +4,7 @@ title:  "The Western Isles"
 
 {% include map.html url="https://en.frame.mapy.cz/s/luhaseluva" %}
 
-Die Inseln westlich dem schottischen Festland gehören zum Archipel der Hebriden.
+Die Inseln westlich des schottischen Festlands gehören zum Archipel der Hebriden.
 So etwa die *Isle of Skye*.
 *The Little Minch*, eine Meerenge entlang der Nordwestküste von *Skye* trennt die Inneren von den Äußeren Hebriden, den *Western Isles*.
 
