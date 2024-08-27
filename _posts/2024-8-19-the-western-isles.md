@@ -25,7 +25,7 @@ Genügend Zeit für eine kleine Runde durch *Portree*.
 Steine übers Wasser springen lassen am Hafen, ein ramschiger *Thrift Shop* am Kai, ein netter Buchladen gegenüber dem *Co-op*.
 *Portree* ist voll mit asiatischen Touris.
 
-{% include image.html path="media/the-western-isles/portree.jpg" alt="todo" link="https://photos.app.goo.gl/4oVjHEuJyQsZA7fB6" %}
+{% include image.html path="media/the-western-isles/portree.jpg" alt="Zwei junge Frauen an einem Kiesstrand, im Hintergrund eine bunte Häuserreihe" link="https://photos.app.goo.gl/4oVjHEuJyQsZA7fB6" %}
 
 Früher Nachmittag, Ravel fährt mit dem Bus zum *Old Man of Storr*.
 Mit Alex im Hostel Kaffee trinken und Abschied nehmen.
@@ -34,7 +34,7 @@ Auf der A855 fünf Kilometer bergauf, raus aus *Portree* und auf die *Trotternis
 Die Straße voller Campervans und anderen motorisierten Ausflüglern.
 Mit grandiosem Ausblick über eine weite Hochebene, vorbei an *Loch Fada*, *Loch Leathan* und dem *Old Man of Storr*.
 
-{% include image.html path="media/the-western-isles/poser.jpg" alt="todo" link="https://photos.app.goo.gl/VdkAeuDhaZh3MusG9" %}
+{% include image.html path="media/the-western-isles/poser.jpg" alt="Eli lehnt an eine Leitplanke entlang einer Straße im Hintergrund grasiges Hügelland durchbrochen von einer dunklen Bergkette" link="https://photos.app.goo.gl/VdkAeuDhaZh3MusG9" %}
 
 Die etwa 50 Meter hohe Felsnadel und restliche *Trotternish Ridge* entstehen in einem gigantischen Erdrutsch vor gut 60 Millionen Jahren.
 Riesige Lavamassen ergießen sich auf fragilere Schichten aus Sedimentgestein und bringen diese zum Einsturz.
@@ -49,7 +49,7 @@ Der Parkplatz voll, Menschen spazieren mit gesenkten Köpfen den Strand entlang.
 Vor etwa 166 Millionen Jahren liegt *Skye* südlich des Äquators, ein Rudel *Megalosauri* läuft durch den Sand.
 Ihre riesigen Fußabdrücke heute Fossile im Sedimentgestein.
 
-{% include image.html path="media/the-western-isles/abdruck.jpg" alt="todo" link="https://photos.app.goo.gl/dqaoDTaGrynbkqXv5" %}
+{% include image.html path="media/the-western-isles/abdruck.jpg" alt="Elis Hand in einem versteinerten Krallenabdruck eines Dinosauriers" link="https://photos.app.goo.gl/dqaoDTaGrynbkqXv5" %}
 
 Langsam wirds spät, noch 15 km nach *Uig*.
 Kalorien tanken und losradln.
@@ -60,12 +60,12 @@ Zu viele Touris düsen in ihren Autos und Campervans für einen tollen Ausblick 
 Stau an den *Passing Places*.
 Zur linken grandiose Blicke auf die *Trotternish Ridge*.
 
-{% include image.html path="media/the-western-isles/weite.jpg" alt="todo" link="https://photos.app.goo.gl/zXtbBeHNboQuaChx6" %}
+{% include image.html path="media/the-western-isles/weite.jpg" alt="Weite Graslandschaft durchbrochen von einer dunklen Bergkette" link="https://photos.app.goo.gl/zXtbBeHNboQuaChx6" %}
 
 Auf den letzten Höhenmeter Blick zurück auf den *Quiraing*.
 Die Steilwände aus schwarzem Basalt markieren die Abbruchkante des massiven Erdrutsches vor gut 60 Millionen Jahren.
 
-{% include image.html path="media/the-western-isles/pass.jpg" alt="todo" link="https://photos.app.goo.gl/42U6t3JCFHwZunky9" %}
+{% include image.html path="media/the-western-isles/pass.jpg" alt="Eine Straße führt hoch durch zerklüftete Felsformationen" link="https://photos.app.goo.gl/42U6t3JCFHwZunky9" %}
 
 Am Pass ein voller Parkplatz.
 Den Fährfahrplan im Nacken ohne Pause weiterradln nach *Uig*.
@@ -73,14 +73,14 @@ Die weite Hochebene fällt sanft in Richtung Meer ab, auf dieser Seite des Passe
 Den letzten Kilometer auf Serpentinen steil runter nach *Uig*.
 Die Fähre nach *Lochmaddy* um halb sieben geht sich aus.
 
-{% include image.html path="media/the-western-isles/uig.jpg" alt="todo" link="https://photos.app.goo.gl/BMYNvahempbUmCFN7" %}
+{% include image.html path="media/the-western-isles/uig.jpg" alt="Ein kleiner Ort am Meer mit Fährhafen, eine Fähre am Weg dorthin, im Hintergrund Steilklippen" link="https://photos.app.goo.gl/BMYNvahempbUmCFN7" %}
 
 Die bisher längste Fährenfahrt in Schottland, fast zwei Stunden nach *North Uist*, eine Insel in der südlichen Hälfte der Äußeren Hebriden.
 Die *Calmac* Sicherheitsdurchsage ertönt auf Schottisch-Gälisch.
 Am Fenster das offene Meer.
 Fast 60 % der Bewohner:innen der Äußeren Hebriden sprechen die indigene Sprache, der höchste Anteil in ganz Schottland.
 
-{% include image.html path="media/the-western-isles/faehre.jpg" alt="todo" link="https://photos.app.goo.gl/eXwAD3HEb1tqMfHQ6" %}
+{% include image.html path="media/the-western-isles/faehre.jpg" alt="Die hochgeklappte Schnauze einer angelegten Fähre, drinnen grün lackierte Autogarage" link="https://photos.app.goo.gl/eXwAD3HEb1tqMfHQ6" %}
 
 Ankunft nach acht, ein Ticken frischer als am Festland.
 20 km nach *Berneray*, von hier geht die Fähre nach *Lewis and Harris*, die nördliche Hälfte der Äußeren Hebriden.
@@ -88,7 +88,7 @@ Losradln auf der ausgestorbenen A865.
 Endlose Graslandschaft, verästelte *Lochs* und zahllose winzige Inseln.
 Eine Handvoll verstreuter Häuser, das Gefühl völliger Abgeschiedenheit.
 
-{% include image.html path="media/the-western-isles/weite2.jpg" alt="todo" link="https://photos.app.goo.gl/RViPnuEJj3oEnqLh9" %}
+{% include image.html path="media/the-western-isles/weite2.jpg" alt="Eine rostige Wellblechhütte am Meer, im Hintergrund Berge in der Abendsonne" link="https://photos.app.goo.gl/RViPnuEJj3oEnqLh9" %}
 
 Die Abendsonne bricht durch die Wolkendecke und vergoldet die braunen Grashalme.
 Auf den Schafweiden immer wieder Gruppen von Wildgänsen die im Vorbeiradln unter lautem Geschrei davonfliegen.
@@ -99,7 +99,7 @@ Alles zieht lange Schatten.
 Eine Brücke verbindet *Berneray* mit *North Uist*.
 Die morgige Fähre nach *Lewis and Harris* liegt schon vor Anker.
 
-{% include image.html path="media/the-western-isles/otter.jpg" alt="todo" link="https://photos.app.goo.gl/kJQLTWo8Bf8bPh1x8" %}
+{% include image.html path="media/the-western-isles/otter.jpg" alt="Eine Brücke übers Meer, am Ufer ein Fährschiff, an der Straße ein Schild auf dem steht 'CAUTION Otters Crossing'" link="https://photos.app.goo.gl/kJQLTWo8Bf8bPh1x8" %}
 
 Noch fünf Kilometer zum *East Beach* von *Berneray*.
 Auf dem Grashang hinter dem weißen Sandstrand stehen ein paar einsame Campervans und Zelte.
@@ -110,7 +110,7 @@ Die Stinkefüße waschen im eiskalten glasklaren Wasser.
 Am frühen Morgen ein Regenschauer, dann Sonnenschein, die Bucht türkisblau.
 Früh aufstehen und zampacken, die Fähre nach *Leversburg* geht um halb zehn.
 
-{% include image.html path="media/the-western-isles/strand.jpg" alt="todo" link="https://photos.app.goo.gl/2dZRpzLpHgjKfVSC8" %}
+{% include image.html path="media/the-western-isles/strand.jpg" alt="Ein weißer Sandstrand mit türkisblauem Wasser" link="https://photos.app.goo.gl/2dZRpzLpHgjKfVSC8" %}
 
 Die Fähre gut ausgelastet, niemand fragt nach einem Ticket.
 Der Ehrlichkeit halber zum Minibüro am Aussichtsdeck, der Mitarbeiter in neongelber Warnweste und Plastikhelm scheint verwundert wie ich ihn um ein Ticket bitte.
@@ -128,13 +128,13 @@ Eine einspurige Straße durch endloses Moor.
 Entlang der Straße immer wieder Spuren von Torfstich, die Stichflächen perfekt senkrecht und nass-glänzend.
 Selten überholt ein einsames Auto an einem der zahlreichen *Passing Places*.
 
-{% include image.html path="media/the-western-isles/passingplace.jpg" alt="todo" link="https://photos.app.goo.gl/LWZ7frJGtQST6ctS6" %}
+{% include image.html path="media/the-western-isles/passingplace.jpg" alt="Ein Schild auf dem 'Passing Place' steht und der behornte Schädel eines Schafes hängt, im Hintergrund zwei Schafe in weitem Moor" link="https://photos.app.goo.gl/LWZ7frJGtQST6ctS6" %}
 
 Die Straße führt an die Südostküste von *Harris*, gletschergeschliffenes Gestein durchsetzt die Landschaft.
 Absolute Menschenleere.
 Steil hügelig die steinige Küste entlang, Schwung holen schwierig wegen des angeschlagenen Hinterrads.
 
-{% include image.html path="media/the-western-isles/weite3.jpg" alt="todo" link="https://photos.app.goo.gl/uNW9NCFTan3meXDZ6" %}
+{% include image.html path="media/the-western-isles/weite3.jpg" alt="Weite Steinlandschaft durchzogen von braunen Grasbüscheln" link="https://photos.app.goo.gl/uNW9NCFTan3meXDZ6" %}
 
 Entlang der Küste doch immer wieder kleine entlegene Siedlungen.
 Kurz nach *Fionnsbhagh* eine Menschentraube.
@@ -147,7 +147,7 @@ Wie der Tourbus davonbraust blicken sie sich verstohlen um.
 Dicke Tropfen fallen, nass werden auf den 15 km zurück zur A859.
 Fünf Kilometer sanfte Abfahrt nach *Tarbert* mit grandioser Aussicht.
 
-{% include image.html path="media/the-western-isles/abfahrt.jpg" alt="todo" link="https://photos.app.goo.gl/axwrEZSgM5zYWzUx7" %}
+{% include image.html path="media/the-western-isles/abfahrt.jpg" alt="Eine Straße führt durch steinige Graslandschaft sanft bergab, im Hintergrund höhere Berge" link="https://photos.app.goo.gl/axwrEZSgM5zYWzUx7" %}
 
 In *Tarbert* Snacks aus dem Supermarkt holen und auf einem Bankerl in der Sonne futtern.
 Schon ziemlich schlapp fühlen, das Navi sagt noch 60 km nach *Stornoway*.
@@ -155,13 +155,13 @@ Schon ziemlich schlapp fühlen, das Navi sagt noch 60 km nach *Stornoway*.
 Fünf Kilometer die sonnige Küste entlang und 200 Höhenmeter eine Passstraße hoch, den Wind zum Glück im Rücken.
 Die höchsten Gipfel von *Harris* in dichten Nebel gehüllt.
 
-{% include image.html path="media/the-western-isles/weite4.jpg" alt="todo" link="https://photos.app.goo.gl/mT8ga967n7k6aNZXA" %}
+{% include image.html path="media/the-western-isles/weite4.jpg" alt="Ein Straße führt vorbei an einigen wenigen Häusern hin zu höheren Bergen deren Spitzen in einer dichten Nebeldecke stecken" link="https://photos.app.goo.gl/mT8ga967n7k6aNZXA" %}
 
 Die einsamen Landschaften verschmelzen, der ständige Wind in den Ohren zehrt.
 Das Gefühl für die Distanz verlieren, irgendwann flacht die Landschaft ab und der Verkehr nimmt zu.
 Die letzten 30 km nach *Stornoway* im Autopilot.
 
-{% include image.html path="media/the-western-isles/borkenkaefer.jpg" alt="todo" link="https://photos.app.goo.gl/snfL1hnkJjUGqRic9" %}
+{% include image.html path="media/the-western-isles/borkenkaefer.jpg" alt="Ein See und angrenzender Nadelwald durchzogen von grauen Bäumen" link="https://photos.app.goo.gl/snfL1hnkJjUGqRic9" %}
 
 Geschlaucht ankommen beim *Heb Hostel* im Zentrum von *Stornoway*.
 Ein junger phlegmatischer *Volunteer* mit starkem französischem Akzent lässt mich rein.
@@ -171,7 +171,7 @@ In der Küche eine Riesenportion Curry kochen und mit vollem Bauch in eines der 
 Die ältere Radlerin schenkt mir ein kleines Glas Whisky ein.
 Eindösen zu Chopins *Nocturnes*.
 
-{% include image.html path="media/the-western-isles/wohnzimmer.jpg" alt="todo" link="https://photos.app.goo.gl/Ddr1noGNnYQ5mT5t6" %}
+{% include image.html path="media/the-western-isles/wohnzimmer.jpg" alt="Ein beengtes Wohnzimmer mit großen Ledersesseln und Sofas, an der Wand ein Kamin" link="https://photos.app.goo.gl/Ddr1noGNnYQ5mT5t6" %}
 
 Zehn Stunden schlafen wie ein Stein.
 In der Küche beim Frühstück eine junge Frau aus Nordirland und Hubert, ein älterer Österreicher mit schläfrigem Blick und langem schütterem Haar.
@@ -200,12 +200,12 @@ Lange herumlatschen auf der Suche nach einem Badeplatz, das Meer viel zu seicht.
 Vor die Düne am Ende des Strands setzen, Nüsse knabbern und lange aufs Meer schauen.
 Es ist eh viel zu kalt.
 
-{% include image.html path="media/the-western-isles/sitzen.jpg" alt="todo" link="https://photos.app.goo.gl/Kma3edbLsjgoPiP46" %}
+{% include image.html path="media/the-western-isles/sitzen.jpg" alt="Eli sitzt in Windjacke an einer grasbewachsenen Düne am Strand" link="https://photos.app.goo.gl/Kma3edbLsjgoPiP46" %}
 
 Hinterm Strand das *Gress Raiders Monument*, ein wellenförmiger Graben umgibt eine Skulptur aus geschichteten Steinen.
 Der Graben symbolisiert die Schützengräben des Ersten Weltkriegs in denen auch lokal ansässige *Crofter* standen.
 
-{% include image.html path="media/the-western-isles/denkmal.jpg" alt="todo" link="https://photos.app.goo.gl/kakxL19PYZbJHqGV8" %}
+{% include image.html path="media/the-western-isles/denkmal.jpg" alt="Eine Skulptur aus geschichteten Steinen in weitem Weideland" link="https://photos.app.goo.gl/kakxL19PYZbJHqGV8" %}
 
 Als *Crofter* bezeichnet man in Schottland Subsistenzbauern die auf gepachtetem Land leben.
 Ursprünglich bewirtschaften die Bewohner:innen der Dörfer in den *Highlands* das umliegende Land gemeinschaftlich.
