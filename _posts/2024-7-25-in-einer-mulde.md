@@ -1,5 +1,6 @@
 ---
 title:  "In einer Mulde weißer Haseln"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/helonumoho" %}

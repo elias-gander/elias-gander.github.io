@@ -1,5 +1,6 @@
 ---
 title:  "Man spricht Deutsch"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/dejuzecaze" %}

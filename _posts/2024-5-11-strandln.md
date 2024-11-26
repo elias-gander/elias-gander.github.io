@@ -1,5 +1,6 @@
 ---
 title:  "Strandln"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/hacunalaza" %}
@@ -176,7 +177,7 @@ Eine gute Stunde Arbeit, dafür wieder einigermaßen knirschfrei radln.
 
 {% include video.html path="media/strandln/putzen.mp4" link="https://photos.app.goo.gl/h9TGxpaLNF5JBUt19" %}
 
-50 km nach *Huelva*, die ersten 30 von fast auf einer Landstraße durch die Ausläufer des Nationalparks.
+50 km nach *Huelva*, die ersten 30 auf einer Landstraße durch die Ausläufer des Nationalparks.
 Endlose Wälder von Pinien im gelben Sand, Gegenwind.
 
 {% include image.html path="media/strandln/pinien.jpg" alt="Straße durch sandige Pinienwälder" link="https://photos.app.goo.gl/Tt7cNNJHsWRxNQ2f9" %}

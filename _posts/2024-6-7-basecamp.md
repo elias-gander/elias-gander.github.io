@@ -1,5 +1,6 @@
 ---
 title:  "Basecamp"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/kelufeteke" %}

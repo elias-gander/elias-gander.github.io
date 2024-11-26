@@ -1,5 +1,6 @@
 ---
 title:  "Bogs, Tors and bad weather"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/dazetasuvu" %}

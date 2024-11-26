@@ -1,5 +1,6 @@
 ---
 title:  "Die letzte Bratwurst vor Amerika"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/rasenuhone" %}

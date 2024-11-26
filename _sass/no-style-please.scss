@@ -43,6 +43,21 @@ body {
 
 .post-meta { text-align: right; }
 
+.tags { 
+  width: 100%;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  font-size: 0.8rem;
+  opacity: 0.4;
+  
+  a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 2px;
+  }
+}
+
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
 hr { margin: 2rem 0; }

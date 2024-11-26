@@ -1,5 +1,6 @@
 ---
 title:  "Die letzte Invasion Großbritanniens"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/gorunogaho" %}

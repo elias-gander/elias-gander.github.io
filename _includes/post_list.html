@@ -1,5 +1,5 @@
-{%-if include.category-%}
-  {%-assign posts = site.categories[include.category]-%}  
+{%-if include.tag-%}
+  {%-assign posts = site.posts | where_exp: "post", "post.tags contains page.tag" %}  
 {%-else-%}
   {%-assign posts = site.posts-%}
 {%-endif-%}
@@ -16,6 +16,7 @@
         <li>
           <span>{{- post.date | date: site.theme_config.date_format -}}</span>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {% include tags.html tags=post.tags %}
         </li>
     {%- endfor -%}
     {%- if include.show_more and limit_exceeded -%}

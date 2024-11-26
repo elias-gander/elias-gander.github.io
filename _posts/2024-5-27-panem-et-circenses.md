@@ -1,5 +1,6 @@
 ---
 title:  "Panem et circenses"
+tags: [reisen, fahrrad]
 ---
 
 Die vergangene Woche eine knappe Stunde geradlt.

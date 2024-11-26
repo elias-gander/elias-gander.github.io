@@ -1,5 +1,6 @@
 ---
 title:  "Sonido del mar"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/hukafubano" %}

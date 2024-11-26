@@ -1,5 +1,6 @@
 ---
 title:  "The Western Isles"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/luhaseluva" %}

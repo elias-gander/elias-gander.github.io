@@ -1,5 +1,6 @@
 ---
 title:  "Cianin cianin, cosse t’ei sprescia?"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/cevahobose" %}

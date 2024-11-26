@@ -1,5 +1,6 @@
 ---
 title:  "Glens, Bens und Midges"
+tags: [reisen, fahrrad]
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/rejosulapo" %}
