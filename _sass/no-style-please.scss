@@ -43,6 +43,11 @@ body {
 
 .post-meta { text-align: right; }
 
+.post-date {
+  font-size: 0.8rem;
+  opacity: 0.4;
+}
+
 .tags { 
   width: 100%;
   text-transform: uppercase;
@@ -186,24 +191,21 @@ button {
   opacity: 0.3;
 }
 
-.comment-footer {
-  margin-top: 0.5rem;
-  margin-bottom: 3rem;
+.comment-meta {
   font-size: 0.8rem;
-  opacity: 0.5;
-  button {
-    font-size: 0.8rem;
-  }
+  opacity: 0.4;
 }
 
-.comment-meta {
-  text-align: right;
+.comment-respond-button {
   float: right;
-  font-style: italic;
+  font-size: 0.8rem;
 }
 
 .comment-message {
   white-space: pre-line;
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 3rem;
 }
 
 p:has(.subheading) {

@@ -9,14 +9,12 @@
 {% assign replies = replies | sort: 'date' %}
 
 <article id="{{include.id}}">
+    <span class="comment-meta">
+        <span>{{ include.name | escape }}, am </span>
+        <time datetime="{{ include.date }}">{{ include.date | date: site.theme_config.date_format }}</time>
+    </span>
+    <button class="comment-respond-button" type=button onclick="respondTo('{{include.id}}', '{{include.email}}', '{{include.name}}');">Antworten</button>
     <div class="comment-message">{{ include.message | escape }}</div>
-    <div class="comment-footer">
-        <button type=button onclick="respondTo('{{include.id}}', '{{include.email}}', '{{include.name}}');">Antworten</button>
-        <span class="comment-meta">
-            <span>von {{ include.name | escape }}, am </span>
-            <time datetime="{{ include.date }}">{{ include.date | date: site.theme_config.date_format }}</time>
-        </span>
-    </div>
 </article>
 
 <div style="padding-left: 15px;margin-left: 15px; border-left: medium solid #f2f2f2;">
