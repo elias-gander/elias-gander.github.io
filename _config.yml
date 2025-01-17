@@ -12,7 +12,7 @@ goat_counter: "eliasgander" # put your GoatCounter name if you want to use GoatC
 
 #theme: no-style-please 
 # if you are using GitHub Pages, change it to 
-remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please@08d3f16
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"

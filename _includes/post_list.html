@@ -15,8 +15,9 @@
     {%- for post in posts limit: include.limit -%}
         <li>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br/>
-          <span class="post-date">{{- post.date | date: site.theme_config.date_format -}}</span>
-          {% include tags.html tags=post.tags %}
+          <span class="post-list-meta">
+            {{- post.date | date: site.theme_config.date_format -}}&nbsp;- {% include tags.html tags=post.tags %}
+          </span>
         </li>
     {%- endfor -%}
     {%- if include.show_more and limit_exceeded -%}
