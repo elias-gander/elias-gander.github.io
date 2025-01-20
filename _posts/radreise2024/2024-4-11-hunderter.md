@@ -105,7 +105,7 @@ Eine witzige und eine schöne Postkarte kaufen.
 Den *Mercado Central* durchstreifen, alles schaut köstlich aus und nix ist vegan.
 Draußen eine echte *Horchata* und einen *Fartón* holen.
 
-{% include image.html path="media/hunderter/farton.jpg" alt="Kathi beißt in einen Fartón" caption="Der Fartón" link="https://photos.app.goo.gl/3RRyZkK5Dm1S7aNP6" %}
+{% include image.html path="media/hunderter/horchata.jpg" alt="Eli trinkt ein Glas Horchata" caption="Die Horchata" link="https://photos.app.goo.gl/6eWeU7tST9NzM9L19" %}
 
 Im netten *Barrio del Carmen* umherwandern und im *Centre del carme* gratis eine witzige Kunstausstellung ansehen.
 Für die Jause zum Taco Bell.
