@@ -1,0 +1,58 @@
+---
+permalink: /quartett
+---
+
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Verkehr Wien</title>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
+    <link rel="stylesheet" href="/index.80d6deee.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.1/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.1/dist/MarkerCluster.Default.css"
+    />
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.1/dist/leaflet.markercluster.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="card-container">
+      <div id="card" class="flipped">
+        <div id="inner-card-front">
+          <span id="category-id"></span> <span id="category"></span>
+          <span id="location-name"></span> <span id="description"></span>
+          <span id="plz"></span> <img id="photo" src="/img.4070da0c.jpg" />
+          <img id="bezirkswappen" />
+          <div id="links">
+            <span id="link-1"></span> <span id="link-2"></span>
+            <span id="link-3"></span>
+          </div>
+          <span class="stat-label" id="dtvms-label">Kfz pro Tag:</span>
+          <span class="stat" id="dtvms"></span>
+          <span class="stat-label" id="trend-label"
+            >Entwicklung seit 2019:</span
+          >
+          <span class="stat" id="trend"></span>
+          <span class="stat-label" id="lkwratio-label"
+            >Anteil Schwerverkehr:</span
+          >
+          <span class="stat" id="lkwratio"></span>
+          <span class="stat-label" id="lanes-label">Fahrspuren:</span>
+          <span class="stat" id="lanes"></span>
+        </div>
+        <div id="inner-card-back"></div>
+      </div>
+    </div>
+    <script type="module" src="/index.3faeb561.js"></script>
+  </body>
+</html>
