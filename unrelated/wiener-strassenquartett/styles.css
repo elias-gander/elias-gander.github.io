@@ -61,12 +61,12 @@ body {
 }
 
 #inner-card-front {
-  background-image: url("card_blank.jpg");
+  background-image: url("assets/card/card_blank.jpg");
   background-size: cover;
 }
 
 #inner-card-back {
-  background-image: url("card_back.jpg");
+  background-image: url("assets/card/card_back.jpg");
   background-size: cover;
   transform: rotateY(180deg);
 }

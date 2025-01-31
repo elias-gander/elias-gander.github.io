@@ -64,11 +64,13 @@ data.forEach((record) => {
     setTimeout(() => {
       document.getElementById("category-id").textContent = record.CATEGORY_ID;
       document.getElementById("category").textContent = record.CATEGORY;
+      document.getElementById("photo").src =
+        "assets/photos/" + record.ZST_ID + ".jpg";
       document.getElementById("location-name").textContent = record.ZST_NAME;
       document.getElementById("description").textContent = record.DESCRIPTION;
       document.getElementById("plz").textContent = record.PLZ;
       document.getElementById("bezirkswappen").src =
-        "bezirkswappen/pngs/" + record.PLZ + ".png";
+        "assets/bezirkswappen/pngs/" + record.PLZ + ".png";
       document.getElementById("link-1").textContent = record.LINK1;
       document.getElementById("link-2").textContent = record.LINK2;
       document.getElementById("link-3").textContent = record.LINK3;
