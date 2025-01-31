@@ -8,8 +8,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  width: 100vw;
+  height: 100dvh;
+  width: 100dvw;
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
@@ -18,17 +18,17 @@ body {
 
 #map {
   position: fixed;
-  width: 100%;
-  height: 100%;
+  width: 100dvw;
+  height: 100dvh;
 }
 
 #card-container {
   position: relative;
-  height: min(90%, 90vw / var(--card-aspect-ratio));
+  height: min(90%, 90dvw / var(--card-aspect-ratio));
   max-height: 1200px;
   max-width: 90%;
   aspect-ratio: var(--card-aspect-ratio);
-  perspective: 1000px;
+  perspective: max(100dvh, 100dvw);
   pointer-events: none;
 }
 
@@ -36,8 +36,8 @@ body {
   position: relative;
   height: 100%;
   width: 100%;
-  border-radius: 4vh;
-  box-shadow: 0 0 4vh rgba(0, 0, 0, 0.6);
+  border-radius: min(4dvh, 4dvw / var(--card-aspect-ratio));
+  box-shadow: 0 0 min(4dvh, 4dvw / var(--card-aspect-ratio)) rgba(0, 0, 0, 0.6);
   transform-style: preserve-3d;
   pointer-events: auto;
   transition: transform 0.3s;
@@ -76,12 +76,13 @@ body {
   left: 14%;
   transform: translate(-50%, 0);
   top: 3%;
-  font-size: min(6vh, 6vw / var(--card-aspect-ratio));
+  font-size: min(6dvh, 6dvw / var(--card-aspect-ratio));
   font-weight: bolder;
   font-style: italic;
   color: white;
-  -webkit-text-stroke: 0.25vh black;
-  text-shadow: 0.5vh 0.5vh 0 rgba(0, 0, 0, 0.2);
+  -webkit-text-stroke: min(0.25dvh, 0.25dvw / var(--card-aspect-ratio)) black;
+  text-shadow: min(0.5dvh, 0.5dvw / var(--card-aspect-ratio))
+    min(0.5dvh, 0.5dvw / var(--card-aspect-ratio)) 0 rgba(0, 0, 0, 0.2);
   font-family: "Orbitron", sans-serif;
   font-weight: 1000;
 }
@@ -95,7 +96,7 @@ body {
   font-weight: bold;
   font-family: "Sofia Sans Condensed";
   font-weight: 700;
-  font-size: min(2.5vh, 2.5vw / var(--card-aspect-ratio));
+  font-size: min(2.5dvh, 2.5dvw / var(--card-aspect-ratio));
 }
 
 #photo {
@@ -113,7 +114,7 @@ body {
   right: 0;
   top: 54.5%;
   text-align: center;
-  font-size: min(4vh, 4vw / var(--card-aspect-ratio));
+  font-size: min(4dvh, 4dvw / var(--card-aspect-ratio));
   font-style: italic;
   font-weight: 800;
   font-family: "Sofia Sans Condensed";
@@ -123,7 +124,7 @@ body {
   position: absolute;
   right: 9%;
   top: 60%;
-  font-size: min(1.6vh, 1.6vw / var(--card-aspect-ratio));
+  font-size: min(1.6dvh, 1.6dvw / var(--card-aspect-ratio));
   font-style: italic;
 }
 
@@ -134,44 +135,48 @@ body {
   aspect-ratio: 125 / 163;
   width: 13%;
   max-width: 125px;
-  filter: drop-shadow(0.3vh 0.3vh 0 rgba(0, 0, 0, 0.2));
+  filter: drop-shadow(
+    min(0.3dvh, 0.3dvw / var(--card-aspect-ratio))
+      min(0.3dvh, 0.3dvw / var(--card-aspect-ratio)) 0 rgba(0, 0, 0, 0.2)
+  );
 }
 
 #plz {
   position: absolute;
   left: 12%;
   top: 77%;
-  font-size: min(2vh, 2vw / var(--card-aspect-ratio));
+  font-size: min(2dvh, 2dvw / var(--card-aspect-ratio));
   font-weight: bold;
   background: white;
   border-radius: 50%;
-  padding: 0.8vh;
-  border: 0.25vh solid black;
-  box-shadow: 0.3vh 0.3vh 0 rgba(0, 0, 0, 0.2);
+  padding: min(0.8dvh, 0.8dvw / var(--card-aspect-ratio));
+  border: min(0.25dvh, 0.25dvw / var(--card-aspect-ratio)) solid black;
+  box-shadow: min(0.3dvh, 0.3dvw / var(--card-aspect-ratio))
+    min(0.3dvh, 0.3dvw / var(--card-aspect-ratio)) 0 rgba(0, 0, 0, 0.2);
 }
 
 #links {
   position: absolute;
   bottom: 4%;
-  font-size: min(1.4vh, 1.4vw / var(--card-aspect-ratio));
+  font-size: min(1.4dvh, 1.4dvw / var(--card-aspect-ratio));
   max-width: 15%;
   left: 11%;
   line-height: 1.2;
   hyphens: auto;
   font-style: italic;
-  text-indent: max(-1.5vh, -1.5vw / var(--card-aspect-ratio));
+  text-indent: max(-1.5dvh, -1.5dvw / var(--card-aspect-ratio));
 }
 
 #links span {
   display: block;
-  margin-top: 0.4vh;
+  margin-top: min(0.4dvh, 0.4dvw / var(--card-aspect-ratio));
 }
 
 .stat-label {
   position: absolute;
   left: 42%;
   top: 66.5%;
-  font-size: min(1.8vh, 1.8vw / var(--card-aspect-ratio));
+  font-size: min(1.8dvh, 1.8dvw / var(--card-aspect-ratio));
   font-style: italic;
 }
 
@@ -191,7 +196,7 @@ body {
   position: absolute;
   right: 8.5%;
   top: 66%;
-  font-size: min(3.5vh, 3.5vw / var(--card-aspect-ratio));
+  font-size: min(3.5dvh, 3.5dvw / var(--card-aspect-ratio));
   font-style: italic;
 }
 
@@ -208,9 +213,6 @@ body {
 }
 
 .crosshair-icon {
-  width: 30px;
-  height: 30px;
-  background: transparent;
   position: relative;
 }
 
@@ -218,12 +220,11 @@ body {
 .crosshair-icon:after {
   content: "";
   position: absolute;
-  background-color: #ff0000;
-  box-shadow: 0 0 8px rgba(255, 0, 0, 0.6);
+  background-color: red;
 }
 
 .crosshair-icon:before {
-  width: 4px;
+  width: 3px;
   height: 100%;
   left: 50%;
   top: 0;
@@ -231,7 +232,7 @@ body {
 }
 
 .crosshair-icon:after {
-  height: 4px;
+  height: 3px;
   width: 100%;
   top: 50%;
   left: 0;

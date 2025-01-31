@@ -25,12 +25,6 @@ const markers = L.markerClusterGroup({
   },
 });
 
-const crosshairIcon = L.divIcon({
-  className: "crosshair-icon",
-  iconSize: [20, 20],
-  iconAnchor: [10, 20],
-});
-
 const card = document.getElementById("card");
 
 function showCard() {
@@ -43,8 +37,13 @@ function hideCard() {
   setTimeout(() => (card.style.visibility = "hidden"), 250);
 }
 
-import data from "./quartett.json" with { type: "json" };
+import data from "./quartett.json" with { type: "json"};
 data.forEach((record) => {
+  const crosshairIcon = L.divIcon({
+    className: "crosshair-icon",
+    iconSize: [24, 24],
+    iconAnchor: [12, 24],
+  });
   const marker = L.marker(
     [parseFloat(record.LATITUDE), parseFloat(record.LONGITUDE)],
     {
@@ -99,6 +98,10 @@ data.forEach((record) => {
 });
 map.addLayer(markers);
 
+addEventListener("resize", (event) => {
+  console.log("resize");
+  updateMarkerSize();
+});
 document.addEventListener("click", (event) => {
   if (card.style.visibility !== "hidden" && !card.contains(event.target)) {
     hideCard();
