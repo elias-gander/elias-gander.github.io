@@ -11,7 +11,7 @@ const map = L.map("map", {
 });
 
 L.tileLayer(
-  "https://tiles.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}{r}.png",
+  "https://tiles-eu.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}{r}.png?api_key=9cb5a2cf-4b74-4e87-ade1-320768b874d4",
   {
     attribution:
       '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://stamen.com">Stamen Design</a>',
