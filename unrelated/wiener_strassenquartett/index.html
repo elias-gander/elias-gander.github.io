@@ -1,11 +1,7 @@
----
-permalink: /quartett
----
-
 <!DOCTYPE html>
 <html lang="de">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
     <title>Verkehr Wien</title>
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
@@ -13,7 +9,9 @@ permalink: /quartett
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
     />
-    <link rel="stylesheet" href="/index.80d6deee.css" />
+
+    <link rel="stylesheet" href="styles.css" />
+
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet.markercluster@1.5.1/dist/MarkerCluster.css"
@@ -22,26 +20,36 @@ permalink: /quartett
       rel="stylesheet"
       href="https://unpkg.com/leaflet.markercluster@1.5.1/dist/MarkerCluster.Default.css"
     />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Sofia+Sans+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap"
+      rel="stylesheet"
+    />
     <script src="https://unpkg.com/leaflet.markercluster@1.5.1/dist/leaflet.markercluster.js"></script>
   </head>
   <body>
     <div id="map"></div>
+
     <div id="card-container">
       <div id="card" class="flipped">
         <div id="inner-card-front">
-          <span id="category-id"></span> <span id="category"></span>
-          <span id="location-name"></span> <span id="description"></span>
-          <span id="plz"></span> <img id="photo" src="/img.4070da0c.jpg" />
+          <span id="category-id"></span>
+          <span id="category"></span>
+          <span id="location-name"></span>
+          <span id="description"></span>
+          <span id="plz"></span>
+          <img id="photo" src="img.jpg" />
           <img id="bezirkswappen" />
           <div id="links">
-            <span id="link-1"></span> <span id="link-2"></span>
+            <span id="link-1"></span>
+            <span id="link-2"></span>
             <span id="link-3"></span>
           </div>
           <span class="stat-label" id="dtvms-label">Kfz pro Tag:</span>
           <span class="stat" id="dtvms"></span>
-          <span class="stat-label" id="trend-label"
-            >Entwicklung seit 2019:</span
-          >
+          <span class="stat-label" id="trend-label">Seit 2019:</span>
           <span class="stat" id="trend"></span>
           <span class="stat-label" id="lkwratio-label"
             >Anteil Schwerverkehr:</span
@@ -53,6 +61,7 @@ permalink: /quartett
         <div id="inner-card-back"></div>
       </div>
     </div>
-    <script type="module" src="/index.3faeb561.js"></script>
+
+    <script type="module" src="script.js"></script>
   </body>
 </html>

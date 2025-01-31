@@ -10,8 +10,8 @@ permalink: /:year-:i_month-:i_day-:slug
 
 goat_counter: "eliasgander" # put your GoatCounter name if you want to use GoatCounter analytics
 
-#theme: no-style-please 
-# if you are using GitHub Pages, change it to 
+#theme: no-style-please
+# if you are using GitHub Pages, change it to
 remote_theme: riggraz/no-style-please@08d3f16
 
 theme_config:
@@ -30,10 +30,10 @@ plugins:
   - jekyll-sitemap
 
 defaults:
-    -
-      scope:
-        path: ""
-      values:
-        layout: "post"
-        comments: true
-        
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+      comments: true
+
+include: ["unrelated"]
