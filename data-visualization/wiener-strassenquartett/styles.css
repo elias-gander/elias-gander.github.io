@@ -6,8 +6,6 @@ html,
 body {
   position: relative;
   display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100dvh;
   width: 100dvw;
   margin: 0;
@@ -16,11 +14,136 @@ body {
   color: black;
 }
 
+@media (min-aspect-ratio: 838 / 1200) {
+  html,
+  body {
+    justify-content: right;
+    align-items: center;
+  }
+}
+
+@media (max-aspect-ratio: 838 / 1200) {
+  html,
+  body {
+    justify-content: center;
+    align-items: last baseline;
+  }
+}
+
+/* ----- LANDKARTE UND MARKERS ----- */
+
 #map {
   position: fixed;
   width: 100dvw;
   height: 100dvh;
 }
+
+.crosshair-icon {
+  position: relative;
+}
+
+.crosshair-icon:before,
+.crosshair-icon:after {
+  content: "";
+  position: absolute;
+  background-color: red;
+  transition: transform 0.3s;
+}
+
+.crosshair-icon:before {
+  width: 3px;
+  height: 100%;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+}
+
+.crosshair-icon:after {
+  height: 3px;
+  width: 100%;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.crosshair-icon.selected:before {
+  transform: translateX(-50%) rotate(45deg);
+}
+.crosshair-icon.selected::after {
+  transform: translateY(-50%) rotate(45deg);
+}
+
+.marker-cluster span {
+  font-weight: bold;
+  color: white;
+}
+
+.marker-cluster-large {
+  background-color: rgba(255, 0, 0, 0.8) !important;
+}
+
+.marker-cluster-large div {
+  background-color: rgba(255, 0, 0, 0.8) !important;
+}
+
+.marker-cluster-medium {
+  background-color: rgba(255, 0, 0, 0.6) !important;
+}
+
+.marker-cluster-medium div {
+  background-color: rgba(255, 0, 0, 0.6) !important;
+}
+
+.marker-cluster-small {
+  background-color: rgba(255, 0, 0, 0.4) !important;
+}
+
+.marker-cluster-small div {
+  background-color: rgba(255, 0, 0, 0.4) !important;
+}
+
+/* ----- INFOS ----- */
+
+#infos-link {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 10px;
+  color: red;
+  font-size: 20px;
+  border: 2px solid red;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+  text-align: center;
+  line-height: 24px;
+}
+
+#infos {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  transition: width 0.3s, height 0.3s, padding 0.3s;
+  max-width: 400px;
+  max-height: 160px;
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#infos.visible {
+  pointer-events: auto;
+  width: 100dvw;
+  height: 100dvh;
+  padding: 30px;
+}
+
+/* ----- QUARTETTKARTE ----- */
 
 #card-container {
   position: relative;
@@ -28,6 +151,7 @@ body {
   max-height: 1200px;
   max-width: 90%;
   aspect-ratio: var(--card-aspect-ratio);
+  padding: 5%;
   perspective: max(100dvh, 100dvw);
   pointer-events: none;
 }
@@ -116,7 +240,7 @@ body {
   text-align: center;
   font-size: min(4dvh, 4dvw / var(--card-aspect-ratio));
   font-style: italic;
-  font-weight: 800;
+  font-weight: 900;
   font-family: "Sofia Sans Condensed";
 }
 
@@ -210,60 +334,4 @@ body {
 
 #lanes {
   margin-top: 33%;
-}
-
-.crosshair-icon {
-  position: relative;
-}
-
-.crosshair-icon:before,
-.crosshair-icon:after {
-  content: "";
-  position: absolute;
-  background-color: red;
-}
-
-.crosshair-icon:before {
-  width: 3px;
-  height: 100%;
-  left: 50%;
-  top: 0;
-  transform: translateX(-50%);
-}
-
-.crosshair-icon:after {
-  height: 3px;
-  width: 100%;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
-}
-
-.marker-cluster span {
-  font-weight: bold;
-  color: white;
-}
-
-.marker-cluster-large {
-  background-color: rgba(255, 0, 0, 0.8) !important;
-}
-
-.marker-cluster-large div {
-  background-color: rgba(255, 0, 0, 0.8) !important;
-}
-
-.marker-cluster-medium {
-  background-color: rgba(255, 0, 0, 0.6) !important;
-}
-
-.marker-cluster-medium div {
-  background-color: rgba(255, 0, 0, 0.6) !important;
-}
-
-.marker-cluster-small {
-  background-color: rgba(255, 0, 0, 0.4) !important;
-}
-
-.marker-cluster-small div {
-  background-color: rgba(255, 0, 0, 0.4) !important;
 }
