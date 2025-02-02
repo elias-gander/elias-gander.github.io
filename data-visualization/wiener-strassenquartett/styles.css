@@ -124,23 +124,17 @@ body {
   position: fixed;
   top: 0;
   right: 0;
-  width: 0;
-  height: 0;
-  pointer-events: none;
-  transition: width 0.3s, height 0.3s, padding 0.3s;
+  padding: 20px;
+  transition: transform 0.3s;
   max-width: 400px;
-  max-height: 160px;
   background: rgba(255, 255, 255, 0.95);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
-  overflow: hidden;
+  transform: translate(100%, -100%);
 }
 
 #infos.visible {
-  pointer-events: auto;
-  width: 100dvw;
-  height: 100dvh;
-  padding: 30px;
+  transform: translate(0);
 }
 
 /* ----- QUARTETTKARTE ----- */
