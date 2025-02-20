@@ -30,6 +30,10 @@ const map = new maplibregl.Map({
   maxZoom: maxZoom,
   minZoom: 10,
   pitch: 30,
+  dragRotate: false,
+  pitchWithRotate: false,
+  rollEnabled: false,
+  touchPitch: false,
   maxBounds: [
     [gridBounds.minx, gridBounds.miny],
     [gridBounds.maxx, gridBounds.maxy],
