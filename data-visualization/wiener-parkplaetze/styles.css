@@ -1,0 +1,122 @@
+html,
+body {
+  height: 100dvh;
+  width: 100dvw;
+  margin: 0;
+  padding: 0;
+  font-family: "VT323", monospace;
+  font-size: 20px;
+}
+
+#map {
+  position: fixed;
+  width: 100dvw;
+  height: 100dvh;
+}
+
+#infos-link {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  font-size: 22px;
+  border-radius: 3px;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  background: white;
+  border: 3px solid black;
+}
+
+#infos {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 10px 40px 10px 10px;
+  border-radius: 3px;
+  transition: transform 0.3s;
+  max-width: 200px;
+  background: white;
+  border: 3px solid black;
+  transform: translate(110%, -110%);
+}
+
+#infos.visible {
+  transform: translate(0);
+}
+
+#stats {
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  position: fixed;
+  font-size: 1rem;
+  background: white;
+  border: 3px solid black;
+  pointer-events: none;
+  padding: 0.5rem;
+  border-radius: 3px;
+  display: grid;
+  grid-template-columns: max-content max-content;
+  column-gap: 10px;
+}
+
+#stats .label {
+  justify-self: start;
+}
+#stats .stat {
+  justify-self: end;
+  font-weight: bold;
+}
+
+#zoom-hint {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  border-radius: 3px;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  background: white;
+  border: 3px solid black;
+  transition: opacity 0.5s;
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+#zoom-hint.hidden {
+  opacity: 0;
+}
+
+#loading-indicator {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  border: 3px solid black;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite, opacity 0.5s;
+  pointer-events: none;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#loading-indicator.hidden {
+  opacity: 0;
+}
+
+#explosion {
+  aspect-ratio: 200/173;
+}

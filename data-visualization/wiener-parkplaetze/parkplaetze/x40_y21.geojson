@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "x40_y21",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 214974, "properties": { "rotation": 45, "vehicle_id": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.401866017858033, 48.227999791140981 ], [ 16.401886465204274, 48.228011489705295 ], [ 16.401833799245736, 48.228052585316142 ], [ 16.401813351895107, 48.228040886742512 ], [ 16.401866017858033, 48.227999791140981 ] ] ] } }
+]
+}
