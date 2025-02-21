@@ -34,7 +34,7 @@ const map = new maplibregl.Map({
   pitchWithRotate: false,
   rollEnabled: false,
   touchPitch: false,
-  touchZoomRotate: false,
+  touchZoomRotate: { around: "center" },
   maxBounds: [
     [gridBounds.minx, gridBounds.miny],
     [gridBounds.maxx, gridBounds.maxy],
