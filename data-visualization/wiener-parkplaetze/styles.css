@@ -91,10 +91,6 @@ body {
   transform: translate(-50%, calc(100% + 10px));
 }
 
-#loading-indicator.hidden {
-  opacity: 0;
-}
-
 #explosion {
   aspect-ratio: 200/173;
 }
