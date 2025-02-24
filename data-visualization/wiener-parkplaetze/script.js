@@ -1,5 +1,5 @@
-const minZoom = 17;
-const maxZoom = 21;
+const minZoom = 16;
+const maxZoom = 20;
 const tileSize = 0.005;
 const gridBounds = {
   minx: 16.20183574,
@@ -14,7 +14,9 @@ const vehicleAssetRotations = [
 const vehicleAssetCount = 5;
 const treeAssetCount = 1;
 const zoomHintElement = document.getElementById("zoom-hint");
-const loadingIndicatorElement = document.getElementById("loading-indicator");
+const loadingIndicatorElement = document.getElementById(
+  "loading-indicator-container"
+);
 const infosLinkElement = document.getElementById("infos-link");
 const infosElement = document.getElementById("infos");
 const remainingParkingSpotsElement = document.getElementById(
@@ -263,7 +265,9 @@ infosLinkElement.addEventListener("click", () => {
 });
 map.on("load", async () => {
   map.on("sourcedata", (e) => {
-    loadingIndicatorElement.classList.remove("hidden");
+    if (map.getZoom() >= minZoom) {
+      loadingIndicatorElement.classList.remove("hidden");
+    }
   });
   map.on("idle", () => {
     loadingIndicatorElement.classList.add("hidden");
@@ -286,6 +290,7 @@ map.on("load", async () => {
     if (map.getZoom() >= minZoom) {
       zoomHintElement.classList.add("hidden");
     } else {
+      loadingIndicatorElement.classList.add("hidden");
       zoomHintElement.classList.remove("hidden");
     }
   });
