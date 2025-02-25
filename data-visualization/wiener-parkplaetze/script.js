@@ -12,7 +12,7 @@ const vehicleAssetRotations = [
   0, 22, 45, 68, 90, 112, 135, 158, 180, 202, 225, 248, 270, 292, 315, 338,
 ];
 const vehicleAssetCount = 5;
-const treeAssetCount = 1;
+const treeAssetCount = 5;
 const zoomHintElement = document.getElementById("zoom-hint");
 const loadingIndicatorElement = document.getElementById(
   "loading-indicator-container"
@@ -27,6 +27,7 @@ const explosionElement = document.getElementById("explosion");
 const map = new maplibregl.Map({
   container: "map",
   style: "https://tiles.stadiamaps.com/styles/stamen_toner_lite.json",
+  attributionControl: false,
   center: [16.3738, 48.2082],
   zoom: 12,
   maxZoom: maxZoom,
@@ -108,10 +109,10 @@ function plantTree(lngLat, sourceId, featureId) {
     const data = JSON.parse(JSON.stringify(source._data));
     data.features = data.features.map((feature) => {
       if (feature.id === featureId) {
-        if (!feature.properties.isTree) {
+        if (feature.properties.tree_id === undefined) {
           treesPlantedElement.textContent = format(++treesPlanted);
           remainingParkingSpots.textContent = format(--remainingParkingSpots);
-          feature.properties.isTree = true;
+          feature.properties.tree_id = feature.properties.vehicle_id;
         }
       }
       return feature;
@@ -137,6 +138,7 @@ async function loadTiles() {
         type: "fill",
         source: tileId,
         minzoom: minZoom,
+        filter: ["==", ["get", "tree_id"], null],
         paint: {
           "fill-opacity": 0,
         },
@@ -146,7 +148,7 @@ async function loadTiles() {
         type: "line",
         source: tileId,
         minzoom: minZoom,
-        filter: ["==", ["coalesce", ["get", "isTree"], false], false],
+        filter: ["==", ["get", "tree_id"], null],
         paint: {
           "line-opacity": 0.2,
           "line-dasharray": [3, 2],
@@ -179,7 +181,7 @@ async function loadTiles() {
             minzoom: minZoom,
             filter: [
               "all",
-              ["==", ["coalesce", ["get", "isTree"], false], false],
+              ["==", ["get", "tree_id"], null],
               ["==", ["get", "rotation"], rotation],
               ["==", ["get", "vehicle_id"], i],
             ],
@@ -206,7 +208,7 @@ async function loadTiles() {
           type: "symbol",
           source: tileId,
           minzoom: minZoom,
-          filter: ["==", ["coalesce", ["get", "isTree"], false], true],
+          filter: ["==", ["get", "tree_id"], i],
           layout: {
             "icon-image": ["literal", `tree${i}`],
             "icon-size": [
@@ -220,23 +222,22 @@ async function loadTiles() {
             ],
             "icon-allow-overlap": true,
             "icon-padding": 0,
+            "icon-anchor": "bottom",
           },
         });
       }
 
-      map.on("mousemove", tileId, (e) => {
-        map.getCanvas().style.cursor = e.features[0].properties.isTree
-          ? ""
-          : "crosshair";
-      });
-      map.on("mouseleave", tileId, (e) => {
+      map.on(
+        "mousemove",
+        tileId,
+        () => (map.getCanvas().style.cursor = "crosshair")
+      );
+      map.on("mouseleave", tileId, () => {
         map.getCanvas().style.cursor = "";
       });
-      map.on("click", tileId, (e) => {
-        if (!e.features[0].properties.isTree) {
-          plantTree(e.lngLat, tileId, e.features[0].id);
-        }
-      });
+      map.on("click", tileId, (e) =>
+        plantTree(e.lngLat, tileId, e.features[0].id)
+      );
     }
   }
 }
@@ -272,7 +273,7 @@ map.on("load", async () => {
     }
   }
   for (let i = 0; i < treeAssetCount; i++) {
-    const response = await map.loadImage(`assets/tree${i}.png`);
+    const response = await map.loadImage(`assets/trees/tree${i}.png`);
     map.addImage(`tree${i}`, response.data);
   }
 

@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "VT323", monospace;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 #map {
@@ -18,13 +18,12 @@ body {
   position: fixed;
   top: 10px;
   right: 10px;
-  font-size: 22px;
   border-radius: 3px;
   cursor: pointer;
-  width: 30px;
-  height: 30px;
+  width: 1.5rem;
+  height: 1.5rem;
   text-align: center;
-  line-height: 30px;
+  line-height: 1.5rem;
   background: white;
   border: 3px solid black;
 }
@@ -33,13 +32,21 @@ body {
   position: fixed;
   top: 10px;
   right: 10px;
+  margin-left: 10px;
   padding: 10px 40px 10px 10px;
   border-radius: 3px;
   transition: transform 0.3s;
-  max-width: 200px;
+  max-width: 400px;
   background: white;
   border: 3px solid black;
   transform: translate(110%, -110%);
+}
+
+#infos p:first-of-type {
+  margin-top: 0;
+}
+#infos p:last-of-type {
+  margin-bottom: 0;
 }
 
 #infos.visible {
