@@ -59,7 +59,6 @@ body {
   left: 50%;
   transform: translateX(-50%);
   position: fixed;
-  font-size: 1rem;
   background: white;
   border: 3px solid black;
   pointer-events: none;
@@ -78,6 +77,10 @@ body {
   font-weight: bold;
 }
 
+#explosion {
+  aspect-ratio: 200/173;
+}
+
 #zoom-hint,
 #loading-indicator-container {
   position: fixed;
@@ -89,7 +92,6 @@ body {
   background: white;
   border: 3px solid black;
   transition: transform 0.3s;
-  font-size: 1rem;
   text-align: center;
   padding: 0.5rem;
 }
@@ -99,12 +101,9 @@ body {
   transform: translate(-50%, calc(100% + 10px));
 }
 
-#explosion {
-  aspect-ratio: 200/173;
-}
-
 #loading-indicator-text {
   padding-left: 30px;
+  display: inline-block;
 }
 #loading-indicator {
   animation: spin 1s linear infinite;
