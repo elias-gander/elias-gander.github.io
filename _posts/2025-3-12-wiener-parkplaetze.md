@@ -12,7 +12,7 @@ Es gibt in unserer Gasse keinen Baum.
 Auch keinen Strauch.
 Eigentlich nicht mal einen Grashalm.
 
-Parkplätze gibts einige.
+Parkplätze gibt's einige.
 Man könnte sagen viele.
 Hundert und zweiundzwanzig.
 Aber die Bergsteiggasse ist ja auch recht lang.
@@ -28,10 +28,10 @@ Die längerfristige Nutzung schwierig.
 Der Parkplatz wartet, will stets bereit sein für das Auto.
 Mich kann man weghupen, einen Baum nicht.
 
-Wie viele Parkplätze gibts in Wien?
-Ganz genau wirds nicht stimmen aber aber ich komme auf **258.205**.
+Wie viele Parkplätze gibt's in Wien?
+Ganz genau wird's nicht stimmen, aber ich komme auf **258.205**.
 
-Du willst wahrscheinlich wissen wie ich gezählt habe.
+Du willst wahrscheinlich wissen, wie ich gezählt habe.
 
 ## Datenbasis
 
@@ -41,13 +41,13 @@ So beschreibt die Magistratsabteilung für Stadtvermessung (MA 41) ihre Flächen
 Die FMZK steht zur [freien Verfügung](https://www.data.gv.at/katalog/dataset/7cf0da04-1f77-4321-929e-78172c74aa0b){:target="\_blank"} und definiert, neben vielen anderen Dingen, welche Flächen für den _ruhenden Verkehr_ vorgesehen sind.
 
 Laut Auskunft ermittelt die MA 41 diese Flächen auf Basis des [Orthofotos](https://www.data.gv.at/katalog/dataset/orthofoto-2023-wien){:target="\_blank"}, also den dort sichtbaren Kfz und Straßenmarkierungen.
-Keine perfekte Datenbasis denn manche der Flächen sind gar keine Parkplätze:
+Keine perfekte Datenbasis, denn manche der Flächen sind gar keine Parkplätze:
 
 - Ladezonen
 - In Vergangenheit auch: Fahrradabstellanlagen.  
   Inzwischen entfernt die MA 41 sie wieder aus der FMZK. Einige können aber trotzdem drinnen sein, die Bereinigung ist noch im Gange.
 
-Andererseits scheinen nicht straßenmarkierte Parkflächen in Siedlungsstraßen mit der erforderlichen Mindestbreite nicht in der FMZK auf.
+Andererseits scheinen nicht straßenmarkierte Parkflächen in Siedlungsstraßen mit der erforderlichen Mindestbreite in der FMZK nicht auf.
 
 Hält sich das die Waage?
 Keine Ahnung.
@@ -89,7 +89,7 @@ Der LIR-Ansatz ist robust auch bei durchlöcherten und besonders unregelmäßige
 
 _Wie groß ist ein Parkplatz?_  
 Mindestens sechs mal zwei Meter.
-Eigentlich sind Parkplätze etwas breiter als zwei Meter aber im Falle gekrümmten Parkflächen-Polygons sind die LIRs stehts schmäler als das Polygon, deshalb etwas Toleranz.
+Eigentlich sind Parkplätze etwas breiter als zwei Meter, aber im Falle eines gekrümmten Parkflächen-Polygons sind die LIRs stets schmäler als das Polygon - deshalb etwas Toleranz.
 
 _Warum GeoJSON?_  
 Weil die Parkplätze auf einer interaktiven Karte im Browser dargestellt werden und Javascript gut mit GeoJSON kann.
@@ -109,14 +109,14 @@ Eine graue Stadt, viele bunte Autos.
 Tausende Elemente auf einer interaktiven Karte darstellen?
 Ein Fall für _WebGL_, [eindeutig](http://kuanbutts.com/2019/08/31/mbgl-vs-leaflet/){:target="\_blank"}.
 _Maplibre GL JS_ kann das.
-Das Open-Source Projekt ist ein Fork des Platzhirschen _Mapbox GL JS_ der Ende 2020 auf eine proprietäre Lizenz wechselt.
+Das Open-Source Projekt ist ein Fork des Platzhirschen _Mapbox GL JS_, der Ende 2020 auf eine proprietäre Lizenz wechselte.
 
-Die wunderschönen bunten Autos gibts [hier](https://opengameart.org/content/isometric-vehicles){:target="\_blank"}.
-Zwölf Modelle in je zwölf Farben und je sechzehn Persektiven (in 22.5° Schritten) macht 2304 PNGs und 17 MB an Assets.
-Das ist etwas arg viel deswegen [split_and_sample.py](https://github.com/elias-gander/WienerParkplaetze/blob/main/web/assets/vehicles/split_and_sample.py){:target="\_blank"}.
+Die wunderschönen bunten Autos gibt's [hier](https://opengameart.org/content/isometric-vehicles){:target="\_blank"}.
+Zwölf Modelle in je zwölf Farben und je sechzehn Perspektiven (in 22.5° Schritten) - macht 2304 PNGs und 17 MB an Assets.
+Das ist etwas arg viel, deswegen [split_and_sample.py](https://github.com/elias-gander/WienerParkplaetze/blob/main/web/assets/vehicles/split_and_sample.py){:target="\_blank"}.
 
 Das PNG mit der passendsten Perspektive wird während der Datenaufbereitung bestimmt.
-Um die LIRs in einzelne Parkplätze aufzuteilen, werden diese mit ihrer längsten Seite parallel zur x-Achse hinrotiert:
+Um die LIRs in einzelne Parkplätze aufzuteilen, werden diese mit ihrer längsten Seite parallel zur x-Achse ausgerichtet:
 
 ```
 def split_parkflaeche(poly, min_parallel=6, min_perp=3):
@@ -136,9 +136,9 @@ def split_parkflaeche(poly, min_parallel=6, min_perp=3):
    poly_rot = affinity.rotate(poly, -theta, origin=cen)
 ```
 
-Die einzelnen Parkplätze werden dann um den Schwerpunkt des LIR wieder zurückrotiert.
-**theta** liegt im Bereich von [180, -180]° und wird mit jedem Parkplatz verspeichert.
-Handelt es sich um einen Schrägparkplatz müssen zusätzliche 90° abgezogen werden.
+Die einzelnen Parkplätze werden dann um den Schwerpunkt des LIR in ihre ursprüngliche Ausrichtung zurückrotiert.
+**theta** liegt im Bereich von [180, -180]° und wird zusammen mit jedem Parkplatz gespeichert.
+Handelt es sich um einen Schrägparkplatz, müssen zusätzliche 90° abgezogen werden.
 Wie bringt man **theta** auf die näheste der verfügbaren Auto-Perspektiven: [0, 22.5, 45, ..., 337.5]?
 
 ```
@@ -148,7 +148,7 @@ parkplaetze["rotation"] = parkplaetze["rotation"].apply(lambda degrees: round(ro
 
 Et voilà.
 
-Wie viele Parkplätze gibts in eurer Gasse?
+Wie viele Parkplätze gibt's in eurer Gasse?
 
 <iframe src="{{ site.baseurl }}/data-visualization/wiener-parkplaetze" width="100%" height="600px" style="border:none;"></iframe>
 
