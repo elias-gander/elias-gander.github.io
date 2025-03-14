@@ -29,7 +29,7 @@ Der Parkplatz wartet, will stets bereit sein für das Auto.
 Mich kann man weghupen, einen Baum nicht.
 
 Wie viele Parkplätze gibt's in Wien?
-Ganz genau wird's nicht stimmen, aber ich komme auf **258.205**.
+Ganz genau wird's nicht stimmen, aber ich komme auf **241.468**.
 
 Du willst wahrscheinlich wissen, wie ich gezählt habe.
 
