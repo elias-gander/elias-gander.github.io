@@ -12,6 +12,7 @@ body {
   padding: 0;
   font-family: Arial, sans-serif;
   color: black;
+  overflow: hidden;
 }
 
 @media (min-aspect-ratio: 838 / 1200) {
@@ -37,40 +38,11 @@ body {
   width: 100dvw;
   height: 100dvh;
 }
-
-.crosshair-icon {
-  position: relative;
-}
-
-.crosshair-icon:before,
-.crosshair-icon:after {
-  content: "";
-  position: absolute;
-  background-color: red;
+.crosshair-icon svg {
   transition: transform 0.3s;
 }
-
-.crosshair-icon:before {
-  width: 3px;
-  height: 100%;
-  left: 50%;
-  top: 0;
-  transform: translateX(-50%);
-}
-
-.crosshair-icon:after {
-  height: 3px;
-  width: 100%;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
-}
-
-.crosshair-icon.selected:before {
-  transform: translateX(-50%) rotate(45deg);
-}
-.crosshair-icon.selected::after {
-  transform: translateY(-50%) rotate(45deg);
+.crosshair-icon.selected svg {
+  transform: rotate(45deg);
 }
 
 .marker-cluster span {
@@ -106,35 +78,51 @@ body {
 
 #infos-link {
   position: fixed;
-  top: 0;
-  right: 0;
-  margin: 10px;
-  color: red;
-  font-size: 20px;
-  border: 2px solid red;
-  border-radius: 5px;
+  top: 10px;
+  right: 10px;
+  font-size: 22px;
+  font-weight: bolder;
   cursor: pointer;
-  width: 24px;
-  height: 24px;
+  width: 30px;
+  height: 30px;
   text-align: center;
-  line-height: 24px;
+  line-height: 30px;
+  background: black;
+  color: white;
+  font-family: Helvetica, sans-serif;
 }
 
 #infos {
   position: fixed;
-  top: 0;
-  right: 0;
-  padding: 20px;
-  transition: transform 0.3s;
+  opacity: 0;
+  visibility: hidden;
+  top: 10px;
+  right: 10px;
+  margin-left: 10px;
+  padding: 15px 40px 15px 15px;
+  transition: opacity 0.3s, visibility 0.3s;
   max-width: 400px;
-  background: rgba(255, 255, 255, 0.95);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  border-radius: 5px;
-  transform: translate(100%, -100%);
+  background: black;
+  color: white;
+  font-weight: bolder;
+  font-family: Helvetica, sans-serif;
+}
+
+#infos p:first-of-type {
+  margin-top: 0;
+}
+#infos p:last-of-type {
+  margin-bottom: 0;
+}
+
+#infos a {
+  color: red;
+  text-decoration: none;
 }
 
 #infos.visible {
-  transform: translate(0);
+  opacity: 1;
+  visibility: visible;
 }
 
 /* ----- QUARTETTKARTE ----- */
@@ -148,6 +136,9 @@ body {
   padding: 5%;
   perspective: max(100dvh, 100dvw);
   pointer-events: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: default;
 }
 
 #card {
@@ -220,10 +211,22 @@ body {
 #photo {
   position: absolute;
   left: 7%;
-  top: 14.5%;
+  top: 14.25%;
   aspect-ratio: 722 / 455;
   width: 86.5%;
   height: auto;
+}
+
+#no-photo-watermark {
+  position: absolute;
+  left: 7%;
+  right: 7%;
+  top: 30%;
+  text-align: center;
+  font-size: min(3dvh, 3dvw / var(--card-aspect-ratio));
+  color: rgba(255, 255, 255, 0.4);
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
 }
 
 #location-name {
