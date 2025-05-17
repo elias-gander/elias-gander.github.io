@@ -23,7 +23,9 @@ const card = document.getElementById("card");
 const noPhotoWatermark = document.getElementById("no-photo-watermark");
 var openCardZstId = undefined;
 
-function showCard(record) {
+async function showCard(record) {
+  card.style.visibility = "visible";
+
   openCardZstId = record.ZST_ID;
   const hasPhoto = zstIdsWithPhoto.includes(record.ZST_ID);
   if (!hasPhoto) {
@@ -36,11 +38,13 @@ function showCard(record) {
   document.getElementById("category").textContent = record.CATEGORY;
   document.getElementById("photo").src =  
     "assets/photos/" + (hasPhoto ? record.ZST_ID : "placeholder") + ".jpg";
+  await waitForImage(document.getElementById("photo"));
   document.getElementById("location-name").textContent = record.ZST_NAME;
   document.getElementById("description").textContent = record.DESCRIPTION;
   document.getElementById("plz").textContent = record.PLZ;
   document.getElementById("bezirkswappen").src =
     "assets/bezirkswappen/pngs/" + record.PLZ + ".png";
+  await waitForImage(document.getElementById("bezirkswappen"));
   document.getElementById("link-1").textContent = record.LINK1;
   document.getElementById("link-2").textContent = record.LINK2;
   document.getElementById("link-3").textContent = record.LINK3;
@@ -61,8 +65,17 @@ function showCard(record) {
     " %";
   document.getElementById("lanes").textContent = record.LANES;
   
-  card.style.visibility = "visible";
   card.classList.remove("flipped");
+}
+
+function waitForImage(imgElem) {
+    return new Promise(res => {
+        if (imgElem.complete) {
+            return res();
+        }
+        imgElem.onload = () => res();
+        imgElem.onerror = () => res();
+    });
 }
 
 function hideCard() {
@@ -120,7 +133,6 @@ data.forEach((record) => {
       e.target._icon.classList.add("selected");
       showCard(record);
     }
-
   });
 
   markers.addLayer(marker);
