@@ -13,6 +13,7 @@ const map = L.map("map", {
   attributionControl: false
 });
 const markers = L.markerClusterGroup({
+  maxClusterRadius: 30,
   polygonOptions: {
     color: "red",
   },
