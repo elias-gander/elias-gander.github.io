@@ -1,31 +1,145 @@
+import { createApp, reactive } from "https://unpkg.com/petite-vue?module";
+
+const metricColors = ["#FF00E6", "#AA0099", "#55004D", "#000000"];
+const baeumeCount = 91178;
+
+window.App = reactive({
+  isInfosPresented: false,
+  isLegendPresented: true,
+  selectedTree: null,
+  explanationTextId: null,
+
+  get gattungPercentileText() {
+    if (this.selectedTree?.properties?.GATTUNG_ART == "unbekannt") {
+      return "";
+    }
+    return `${this.selectedTree?.properties?.GATTUNG_ART_FREQUENCY} Exemplare`;
+  },
+
+  get alterPercentileText() {
+    return this.getPercentileText(
+      this.selectedTree?.properties?.ALTER_PERCENTILE
+    );
+  },
+
+  get stammdurchmesserPercentileText() {
+    return this.getPercentileText(
+      this.selectedTree?.properties?.STAMMDURCHMESSER_PERCENTILE
+    );
+  },
+
+  get hoehePercentileText() {
+    return this.getPercentileText(
+      this.selectedTree?.properties?.BAUMHOEHE_PERCENTILE
+    );
+  },
+
+  get kronendurchmesserPercentileText() {
+    return this.getPercentileText(
+      this.selectedTree?.properties?.KRONENDURCHMESSER_PERCENTILE
+    );
+  },
+
+  get gattungColor() {
+    const f = this.selectedTree?.properties?.GATTUNG_ART_FREQUENCY;
+    if (f < 10) {
+      return metricColors[0];
+    } else if (f < 100) {
+      return metricColors[1];
+    } else if (f < 1000) {
+      return metricColors[2];
+    } else {
+      return metricColors[3];
+    }
+  },
+
+  get alterColor() {
+    return this.getMetricColor(this.selectedTree?.properties?.ALTER_PERCENTILE);
+  },
+
+  get stammdurchmesserColor() {
+    return this.getMetricColor(
+      this.selectedTree?.properties?.STAMMDURCHMESSER_PERCENTILE
+    );
+  },
+
+  get hoeheColor() {
+    return this.getMetricColor(
+      this.selectedTree?.properties?.BAUMHOEHE_PERCENTILE
+    );
+  },
+
+  get kronendurchmesserColor() {
+    return this.getMetricColor(
+      this.selectedTree?.properties?.KRONENDURCHMESSER_PERCENTILE
+    );
+  },
+
+  get gattungPercentileExplanationText() {
+    const fAbs = this.selectedTree?.properties?.GATTUNG_ART_FREQUENCY;
+    const fRel100 = Math.round(
+      (this.selectedTree?.properties?.GATTUNG_ART_FREQUENCY / baeumeCount) * 100
+    );
+    return `${fAbs} bzw. ${fRel100}% der ${baeumeCount} Straßenbäume sind dieser Gattung`;
+  },
+
+  get alterPercentileExplanationText() {
+    return `${this.selectedTree?.properties?.ALTER_PERCENTILE}% der Straßenbäume sind jünger oder gleich alt`;
+  },
+
+  get stammdurchmesserPercentileExplanationText() {
+    return `${this.selectedTree?.properties?.STAMMDURCHMESSER_PERCENTILE}% der Straßenbäume haben einen dünneren oder gleich dicken Stamm`;
+  },
+
+  get hoehePercentileExplanationText() {
+    return `${this.selectedTree?.properties?.BAUMHOEHE_PERCENTILE}% der Straßenbäume sind niedriger oder gleich hoch`;
+  },
+
+  get kronendurchmesserPercentileExplanationText() {
+    return `${this.selectedTree?.properties?.KRONENDURCHMESSER_PERCENTILE}% der Straßenbäume sind schmäler oder gleich breit`;
+  },
+
+  getMetricColor(p) {
+    if (p > 90) {
+      return metricColors[0];
+    } else if (p > 75) {
+      return metricColors[1];
+    } else if (p > 50) {
+      return metricColors[2];
+    } else {
+      return metricColors[3];
+    }
+  },
+
+  getPercentileText(p) {
+    if (p == null) {
+      return "";
+    }
+    return `P(${p})`;
+  },
+});
+
+createApp(window.App).mount();
+
 const map = new maplibregl.Map({
   container: "map",
   style: "street-labels-style.json",
   attributionControl: false,
   center: [16.3738, 48.2082],
   maxBounds: [
-    [16.20068877, 48.12345476],
-    [16.54747745, 48.31978987],
+    [16.15990817, 48.09620512],
+    [16.58841854, 48.34667157],
   ],
   zoom: 12,
   maxZoom: 20,
-  minZoom: 11.5,
+  minZoom: 12,
   dragRotate: false,
   pitchWithRotate: false,
   rollEnabled: false,
   touchPitch: false,
 });
-const maxHeatmapZoom = 17;
-const infosLinkElement = document.getElementById("infos-link");
-const infosElement = document.getElementById("infos");
-const legendElement = document.getElementById("legend");
-var selectedTree = null;
-const treeDetailsElement = document.getElementById("tree-details");
-const gattungElement = document.getElementById("gattung");
-const pflanzjahrElement = document.getElementById("pflanzjahr");
-const stammumfangElement = document.getElementById("stammumfang");
-const hoeheElement = document.getElementById("hoehe");
-const kronendurchmesserElement = document.getElementById("kronendurchmesser");
+const minTreeCrownZoom = 17;
+const maxHeatmapZoom = 17.5;
 
 function getPixelCount(metres, zoom) {
   const lat = map.getCenter().lat;
@@ -36,54 +150,18 @@ function getPixelCount(metres, zoom) {
   return metres / metersPerPixel;
 }
 
-function format(number) {
-  return new Intl.NumberFormat("de-DE", { useGrouping: "always" }).format(
-    number
-  );
-}
-
-function updateTreeDetails() {
-  if (selectedTree) {
-    treeDetailsElement.classList.remove("hidden");
-    gattungElement.textContent = selectedTree.properties.GATTUNG_ART;
-    pflanzjahrElement.textContent = selectedTree.properties.PFLANZJAHR_TXT;
-    stammumfangElement.textContent = selectedTree.properties.STAMMUMFANG_TXT;
-    hoeheElement.textContent = selectedTree.properties.BAUMHOEHE_TXT;
-    kronendurchmesserElement.textContent =
-      selectedTree.properties.KRONENDURCHMESSER_TXT;
-  } else {
-    treeDetailsElement.classList.add("hidden");
-  }
-}
-
 function deselect() {
-  if (selectedTree) {
+  if (App.selectedTree) {
     map.setFeatureState(
-      { source: "baeume", id: selectedTree.id },
+      { source: "baeume", id: App.selectedTree.id },
       { selected: false }
     );
-    selectedTree = null;
+    App.selectedTree = null;
   }
 }
-
-infosLinkElement.addEventListener("click", () => {
-  if (infosElement.classList.contains("visible")) {
-    infosElement.classList.remove("visible");
-    infosLinkElement.textContent = "?";
-  } else {
-    infosElement.classList.add("visible");
-    infosLinkElement.textContent = "X";
-  }
-});
 
 map.on("load", async () => {
   map.touchZoomRotate.disableRotation();
-  map.on("sourcedata", () => {
-    // TODO loading indicator anzeigen
-  });
-  map.on("idle", () => {
-    // TODO loading indicator verstecken
-  });
 
   map.on(
     "mousemove",
@@ -95,10 +173,10 @@ map.on("load", async () => {
   });
   map.on("zoom", () => {
     if (map.getZoom() > maxHeatmapZoom) {
-      legendElement.classList.add("hidden");
-    } else {
-      legendElement.classList.remove("hidden");
-      treeDetailsElement.classList.add("hidden");
+      App.isLegendPresented = false;
+    } else if (map.getZoom() < minTreeCrownZoom) {
+      App.isLegendPresented = true;
+      App.isTreeDetailsPresented = false;
       deselect();
     }
   });
@@ -108,13 +186,12 @@ map.on("load", async () => {
       layers: ["tree_crowns"],
     });
     if (features.length > 0) {
-      selectedTree = features[0];
+      App.selectedTree = features[0];
       map.setFeatureState(
-        { source: "baeume", id: selectedTree.id },
+        { source: "baeume", id: App.selectedTree.id },
         { selected: true }
       );
     }
-    updateTreeDetails();
   });
 
   map.addSource("inverted_strassenflaechen", {
@@ -152,28 +229,33 @@ map.on("load", async () => {
         1,
         "rgb(21, 165, 88)",
       ],
-      "heatmap-weight": ["/", ["get", "KRONENDURCHMESSER"], 8],
+      "heatmap-weight": ["/", ["get", "KRONENDURCHMESSER"], 22], // maximaler kronendurchmesser
       "heatmap-radius": [
         "interpolate",
-        ["linear"],
+        ["exponential", 2],
         ["zoom"],
         map.getMinZoom(),
-        [
-          "*",
-          ["get", "KRONENDURCHMESSER"],
-          getPixelCount(12, map.getMinZoom()),
-        ],
+        getPixelCount(300, map.getMinZoom()),
         maxHeatmapZoom,
-        ["*", ["get", "KRONENDURCHMESSER"], getPixelCount(3, maxHeatmapZoom)],
+        getPixelCount(100, maxHeatmapZoom),
       ],
       "heatmap-intensity": [
         "interpolate",
         ["linear"],
         ["zoom"],
         map.getMinZoom(),
-        0.25,
+        0.33,
         maxHeatmapZoom,
         1,
+      ],
+      "heatmap-opacity": [
+        "interpolate",
+        ["linear"],
+        ["zoom"],
+        minTreeCrownZoom,
+        1,
+        maxHeatmapZoom,
+        0,
       ],
     },
   });
@@ -190,17 +272,17 @@ map.on("load", async () => {
     id: "tree_crowns",
     type: "circle",
     source: "baeume",
-    minzoom: maxHeatmapZoom,
+    minzoom: minTreeCrownZoom,
     paint: {
       "circle-radius": [
         "interpolate",
         ["exponential", 2],
         ["zoom"],
-        maxHeatmapZoom,
+        minTreeCrownZoom,
         [
           "*",
           ["/", ["get", "KRONENDURCHMESSER"], 2],
-          getPixelCount(1, maxHeatmapZoom),
+          getPixelCount(1, minTreeCrownZoom),
         ],
         map.getMaxZoom(),
         [
@@ -213,8 +295,8 @@ map.on("load", async () => {
         "interpolate",
         ["exponential", 2],
         ["zoom"],
-        maxHeatmapZoom,
-        getPixelCount(0.5, maxHeatmapZoom),
+        minTreeCrownZoom,
+        getPixelCount(0.5, minTreeCrownZoom),
         map.getMaxZoom(),
         getPixelCount(0.5, map.getMaxZoom()),
       ],
@@ -224,6 +306,24 @@ map.on("load", async () => {
         ["boolean", ["feature-state", "selected"], false],
         "rgb(21, 165, 88)",
         "rgba(21, 165, 88, 0.5)",
+      ],
+      "circle-opacity": [
+        "interpolate",
+        ["linear"],
+        ["zoom"],
+        minTreeCrownZoom,
+        0,
+        maxHeatmapZoom,
+        1,
+      ],
+      "circle-stroke-opacity": [
+        "interpolate",
+        ["linear"],
+        ["zoom"],
+        minTreeCrownZoom,
+        0,
+        maxHeatmapZoom,
+        1,
       ],
     },
   });

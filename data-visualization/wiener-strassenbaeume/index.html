@@ -6,56 +6,120 @@
     <title>Wiener Straßenbäume</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=VT323&display=swap"
-      rel="stylesheet"
-    />
     <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
     <link
       rel="stylesheet"
       href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css"
     />
+    <link
+      href="https://fonts.googleapis.com/css2?family=VT323&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body>
+  <body v-scope="App">
     <div id="map"></div>
-    <div id="legend">
+    <div id="legend" v-bind:class="{ hidden: !App.isLegendPresented }">
+      <span id="legend-header">Straßenbaumdichte</span>
       <div id="legend-gradient"></div>
       <div id="legend-labels">
-        <span>Wenige Bäume</span>
-        <span>Viele Bäume</span>
+        <span>Niedrig</span>
+        <span>Hoch</span>
       </div>
     </div>
-    <div id="tree-details" class="hidden">
+    <div id="tree-details" v-bind:class="{ hidden: App.selectedTree === null }">
+      <span class="label">Baum #</span>
+      <span class="value">{{ App.selectedTree?.properties?.BAUMNUMMER }}</span>
       <span class="label">Gattung</span>
-      <span id="gattung"></span>
-      <span class="label">Pflanzjahr</span>
-      <span id="pflanzjahr"></span>
-      <span class="label">Stammumfang</span>
-      <span id="stammumfang"></span>
+      <div>
+        <span class="value" :style="{ color: App.gattungColor }"
+          >{{ App.selectedTree?.properties?.GATTUNG_ART }}</span
+        >
+        <span
+          class="percentile"
+          @click="App.explanationTextId = App.explanationTextId === 0 ? null : 0"
+          >{{ App.gattungPercentileText }}</span
+        >
+        <span class="percentile-explanation" v-if="App.explanationTextId === 0"
+          >{{ App.gattungPercentileExplanationText }}</span
+        >
+      </div>
+      <span class="label">Alter</span>
+      <div>
+        <span class="value" :style="{ color: App.alterColor }"
+          >{{ App.selectedTree?.properties?.ALTER_TXT }}</span
+        >
+        <span
+          class="percentile"
+          @click="App.explanationTextId = App.explanationTextId === 1 ? null : 1"
+          >{{ App.alterPercentileText }}</span
+        >
+        <span class="percentile-explanation" v-if="App.explanationTextId === 1"
+          >{{ App.alterPercentileExplanationText }}</span
+        >
+      </div>
+      <span class="label">Stamm Ø</span>
+      <div>
+        <span class="value" :style="{ color: App.stammdurchmesserColor }"
+          >{{ App.selectedTree?.properties?.STAMMDURCHMESSER_TXT }}</span
+        >
+        <span
+          class="percentile"
+          @click="App.explanationTextId = App.explanationTextId === 2 ? null : 2"
+          >{{ App.stammdurchmesserPercentileText }}</span
+        >
+        <span class="percentile-explanation" v-if="App.explanationTextId === 2"
+          >{{ App.stammdurchmesserPercentileExplanationText }}</span
+        >
+      </div>
       <span class="label">Höhe</span>
-      <span id="hoehe"></span>
-      <span class="label">Kronendurchmesser</span>
-      <span id="kronendurchmesser"></span>
+      <div>
+        <span class="value" :style="{ color: App.hoeheColor }"
+          >{{ App.selectedTree?.properties?.BAUMHOEHE_TXT }}</span
+        >
+        <span
+          class="percentile"
+          @click="App.explanationTextId = App.explanationTextId === 3 ? null : 3"
+          >{{ App.hoehePercentileText }}</span
+        >
+        <span class="percentile-explanation" v-if="App.explanationTextId === 3"
+          >{{ App.hoehePercentileExplanationText }}</span
+        >
+      </div>
+      <span class="label">Krone Ø</span>
+      <div>
+        <span class="value" :style="{ color: App.kronendurchmesserColor }"
+          >{{ App.selectedTree?.properties?.KRONENDURCHMESSER_TXT }}</span
+        >
+        <span
+          class="percentile"
+          @click="App.explanationTextId = App.explanationTextId === 4 ? null : 4"
+          >{{ App.kronendurchmesserPercentileText }}</span
+        >
+        <span class="percentile-explanation" v-if="App.explanationTextId === 4"
+          >{{ App.kronendurchmesserPercentileExplanationText }}</span
+        >
+      </div>
     </div>
-    <div id="infos">
+    <div id="infos" v-bind:class="{ visible: App.isInfosPresented }">
       <p>
         Position und Abmessungen der Bäume stammen aus dem Wiener
         <a
           href="https://www.data.gv.at/katalog/de/dataset/stadt-wien_baumkatasterderstadtwien"
           target="_blank"
           >Baumkataster</a
-        >. Die Visualisierung berücksichtigt nur Straßenbäume, also solche die
-        mit ihrer Krone in die Straße ragen.
+        >. Die Visualisierung berücksichtigt nur Bäume die mit ihrer Krone in
+        die Straße ragen.
       </p>
       <p>
-        Das Straßennetz ist abgeleitet aus dem Wiener
+        Die Straßenflächen stammen aus dem Wiener
         <a
           href="https://www.data.gv.at/katalog/dataset/stadt-wien_straengraphwien"
           target="_blank"
           >Straßengraphen</a
         >.
       </p>
+      <p>Stand der visualisierten Daten: 31.05.2025</p>
       <p>
         <a
           href="https://elias-gander.github.io/2025-6-3-wiener-strassenbaeume"
@@ -77,7 +141,9 @@
         >
       </p>
     </div>
-    <span id="infos-link">?</span>
-    <script src="script.js"></script>
+    <span id="infos-link" @click="App.isInfosPresented = !App.isInfosPresented"
+      >{{ App.isInfosPresented ? 'X' : '?'}}</span
+    >
+    <script type="module" src="script.js"></script>
   </body>
 </html>

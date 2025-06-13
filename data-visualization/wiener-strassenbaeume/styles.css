@@ -20,7 +20,8 @@ body {
   position: fixed;
   bottom: 10px;
   left: 50%;
-  max-width: 300px;
+  width: 90%;
+  max-width: 350px;
   transform: translate(-50%, 0);
   border-radius: 3px;
   background: white;
@@ -32,6 +33,13 @@ body {
 #tree-details.hidden,
 #legend.hidden {
   transform: translate(-50%, calc(100% + 10px));
+}
+
+#legend-header {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 5px;
 }
 
 #legend {
@@ -51,22 +59,37 @@ body {
 #legend-labels {
   display: flex;
   justify-content: space-between;
-  margin-top: 4px;
+  margin-top: 5px;
 }
 
 #tree-details {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: auto 1fr;
   gap: 5px 10px;
 }
 
 #tree-details .label {
   text-align: right;
-  opacity: 0.5;
+  color: rgb(180, 180, 180);
 }
 
-#tree-details :not(.label) {
+#tree-details .value {
   text-align: left;
+  vertical-align: top;
+}
+
+.percentile {
+  margin-left: 5px;
+  color: rgb(180, 180, 180);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  cursor: help;
+}
+
+.percentile-explanation {
+  display: block;
+  color: rgb(180, 180, 180);
+  font-size: 0.75rem;
 }
 
 #infos-link {
