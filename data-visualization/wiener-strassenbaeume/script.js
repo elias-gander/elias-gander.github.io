@@ -1,9 +1,11 @@
 import { createApp, reactive } from "https://unpkg.com/petite-vue?module";
 
 const metricColors = ["#FF00E6", "#AA0099", "#55004D", "#000000"];
-const baeumeCount = 91178;
 
 window.App = reactive({
+  allBaeumeCount: null,
+  visibleBaeumeCount: null,
+  isVisibleBaeumeCountLoading: false,
   isInfosPresented: false,
   isLegendPresented: true,
   selectedTree: null,
@@ -77,26 +79,23 @@ window.App = reactive({
 
   get gattungPercentileExplanationText() {
     const fAbs = this.selectedTree?.properties?.GATTUNG_ART_FREQUENCY;
-    const fRel100 = Math.round(
-      (this.selectedTree?.properties?.GATTUNG_ART_FREQUENCY / baeumeCount) * 100
-    );
-    return `${fAbs} bzw. ${fRel100}% der ${baeumeCount} Straßenbäume sind dieser Gattung`;
+    return `Insgesamt ${fAbs} Straßenbäume gehören zu dieser Gattung`;
   },
 
   get alterPercentileExplanationText() {
-    return `${this.selectedTree?.properties?.ALTER_PERCENTILE}% der Straßenbäume sind jünger oder gleich alt`;
+    return `${this.selectedTree?.properties?.ALTER_PERCENTILE}% der Straßenbäume sind gleich alt oder jünger`;
   },
 
   get stammdurchmesserPercentileExplanationText() {
-    return `${this.selectedTree?.properties?.STAMMDURCHMESSER_PERCENTILE}% der Straßenbäume haben einen dünneren oder gleich dicken Stamm`;
+    return `${this.selectedTree?.properties?.STAMMDURCHMESSER_PERCENTILE}% der Straßenbäume haben einen gleich dicken oder dünneren Stamm`;
   },
 
   get hoehePercentileExplanationText() {
-    return `${this.selectedTree?.properties?.BAUMHOEHE_PERCENTILE}% der Straßenbäume sind niedriger oder gleich hoch`;
+    return `${this.selectedTree?.properties?.BAUMHOEHE_PERCENTILE}% der Straßenbäume sind gleich hoch oder niedriger`;
   },
 
   get kronendurchmesserPercentileExplanationText() {
-    return `${this.selectedTree?.properties?.KRONENDURCHMESSER_PERCENTILE}% der Straßenbäume sind schmäler oder gleich breit`;
+    return `${this.selectedTree?.properties?.KRONENDURCHMESSER_PERCENTILE}% der Straßenbäume haben eine gleich breite oder schmälere Krone`;
   },
 
   getMetricColor(p) {
@@ -140,6 +139,7 @@ const map = new maplibregl.Map({
 });
 const minTreeCrownZoom = 17;
 const maxHeatmapZoom = 17.5;
+var baeume = null;
 
 function getPixelCount(metres, zoom) {
   const lat = map.getCenter().lat;
@@ -151,6 +151,7 @@ function getPixelCount(metres, zoom) {
 }
 
 function deselect() {
+  App.explanationTextId = null;
   if (App.selectedTree) {
     map.setFeatureState(
       { source: "baeume", id: App.selectedTree.id },
@@ -160,7 +161,30 @@ function deselect() {
   }
 }
 
+function debounce(fn, delay) {
+  let timeout;
+  return function (...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => fn.apply(this, args), delay);
+  };
+}
+
+function updateVisibleBaeumeCount() {
+  const bounds = map.getBounds();
+  const visibleBaeume = baeume.filter((f) => {
+    const [lon, lat] = f.geometry.coordinates;
+    return bounds.contains([lon, lat]);
+  });
+  App.visibleBaeumeCount = visibleBaeume.length;
+  App.isVisibleBaeumeCountLoading = false;
+}
+
 map.on("load", async () => {
+  baeume = (await (await fetch("baeume.geojson")).json()).features;
+  App.allBaeumeCount = baeume.length;
+  App.isVisibleBaeumeCountLoading = true;
+  updateVisibleBaeumeCount();
+
   map.touchZoomRotate.disableRotation();
 
   map.on(
@@ -172,6 +196,7 @@ map.on("load", async () => {
     map.getCanvas().style.cursor = "";
   });
   map.on("zoom", () => {
+    App.isVisibleBaeumeCountLoading = true;
     if (map.getZoom() > maxHeatmapZoom) {
       App.isLegendPresented = false;
     } else if (map.getZoom() < minTreeCrownZoom) {
@@ -193,6 +218,9 @@ map.on("load", async () => {
       );
     }
   });
+  map.on("move", () => (App.isVisibleBaeumeCountLoading = true));
+  map.on("moveend", debounce(updateVisibleBaeumeCount, 500));
+  map.on("zoomend", debounce(updateVisibleBaeumeCount, 500));
 
   map.addSource("inverted_strassenflaechen", {
     type: "geojson",

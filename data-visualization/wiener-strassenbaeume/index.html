@@ -19,6 +19,18 @@
   </head>
   <body v-scope="App">
     <div id="map"></div>
+    <div id="tree-count">
+      <span id="loading-indicator-container"
+        ><span
+          v-bind:style="{visibility: App.isVisibleBaeumeCountLoading ? 'hidden' : 'visible'}"
+          >{{ App.visibleBaeumeCount }}</span
+        ><span
+          id="loading-indicator"
+          v-if="App.isVisibleBaeumeCountLoading"
+        ></span
+      ></span>
+      von {{ App.allBaeumeCount }} Bäumen
+    </div>
     <div id="legend" v-bind:class="{ hidden: !App.isLegendPresented }">
       <span id="legend-header">Straßenbaumdichte</span>
       <div id="legend-gradient"></div>
