@@ -134,7 +134,7 @@
       <p>Stand der visualisierten Daten: 31.05.2025</p>
       <p>
         <a
-          href="https://elias-gander.github.io/2025-6-3-wiener-strassenbaeume"
+          href="https://elias-gander.github.io/2025-6-17-wiener-strassenbaeume"
           target="_blank"
           >Weitere Informationen und source code.</a
         >
@@ -156,6 +156,11 @@
     <span id="infos-link" @click="App.isInfosPresented = !App.isInfosPresented"
       >{{ App.isInfosPresented ? 'X' : '?'}}</span
     >
+
+    <div v-if="!App.isReady" id="global-loading-indicator-container">
+      <span></span>
+    </div>
+
     <script type="module" src="script.js"></script>
   </body>
 </html>

@@ -3,6 +3,7 @@ import { createApp, reactive } from "https://unpkg.com/petite-vue?module";
 const metricColors = ["#FF00E6", "#AA0099", "#55004D", "#000000"];
 
 window.App = reactive({
+  isReady: false,
   allBaeumeCount: null,
   visibleBaeumeCount: null,
   isVisibleBaeumeCountLoading: false,
@@ -182,11 +183,15 @@ function updateVisibleBaeumeCount() {
 map.on("load", async () => {
   baeume = (await (await fetch("baeume.geojson")).json()).features;
   App.allBaeumeCount = baeume.length;
-  App.isVisibleBaeumeCountLoading = true;
   updateVisibleBaeumeCount();
 
   map.touchZoomRotate.disableRotation();
 
+  const finishLoading = () => {
+    App.isReady = true;
+    map.off("idle", finishLoading);
+  };
+  map.on("idle", finishLoading);
   map.on(
     "mousemove",
     "tree_crowns",
