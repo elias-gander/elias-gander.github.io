@@ -36,7 +36,7 @@ _Tipp: Auch mal weiter reinzoomen und Bäume anklicken._
 
 <iframe src="{{ site.baseurl }}/data-visualization/wiener-strassenbaeume" width="100%" height="600px" style="border:none;"></iframe>
 
-[Vollbildversion]({{ site.baseurl }}/data-visualization/wiener-strassenquartett){:target="\_blank"}
+[Vollbildversion]({{ site.baseurl }}/data-visualization/wiener-strassenbaeume){:target="\_blank"}
 
 ## Nitty gritty
 
