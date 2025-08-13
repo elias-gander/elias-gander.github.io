@@ -43,7 +43,7 @@ _Tipp: Auch mal weiter reinzoomen und Bäume anklicken._
 Straßenbaumdichte: niedrig / hoch - sehr hilfreich!
 Für alle, die es etwas genauer wissen wollen:
 
-- Jeder Baum ist linear mit seinem Kronendurchmesser gewichtet. Heißt: Ein Baum mit 10 m Kronendurchmesser trägt nur halb so viel zur Farbintensität (also der _density_ am jeweiligen Punkt) bei.
+- Jeder Baum ist linear mit seinem Kronendurchmesser gewichtet. Heißt: Ein Baum mit 10 m Kronendurchmesser trägt nur halb so viel zur Farbintensität (also der _density_ am jeweiligen Punkt) bei wie ein Baum mit 20 m Kronendurchmesser.
 - Jeder Baum hat einen Einflussbereich von 100 m Radius **am höchsten Zoomlevel** (an dem die Heatmap noch sichtbar ist). Am niedrigsten Zoomlevel sinds 300 m. Also je weiter rausgezoomt, desto glatter die Heatmap.
 - Um den wachsenden Einflussbereich mit abnehmendem Zoomlevel auszugleichen, sinkt die Gesamtintensität der Heatmap bei niedrigstem Zoomlevel auf ein Drittel der Intensität bei höchstem Zoomlevel.
 
