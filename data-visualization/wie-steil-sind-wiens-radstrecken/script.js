@@ -105,12 +105,13 @@ const map = new maplibregl.Map({
   ],
   zoom: 12,
   maxZoom: 20,
-  minZoom: 10,
+  minZoom: 9,
   dragRotate: false,
   pitchWithRotate: false,
   rollEnabled: false,
   touchPitch: false,
 });
+let spatialSegmentIndex = undefined;
 
 function toPercentageString(p) {
   return p > 0 && p < 1
@@ -177,17 +178,41 @@ function updateSlopePopup(feature) {
   }
 }
 
-function updateSegmentLengths() {
-  const features = map
-    .queryRenderedFeatures({
-      layers: ["segments"],
+function initSpatialSegmentIndex(segments) {
+  spatialSegmentIndex = new RBush();
+  spatialSegmentIndex.load(
+    segments.map((feature, _) => {
+      const coords = feature.geometry.coordinates;
+      let minX = Infinity,
+        minY = Infinity,
+        maxX = -Infinity,
+        maxY = -Infinity;
+      coords.forEach(([lng, lat]) => {
+        minX = Math.min(minX, lng);
+        minY = Math.min(minY, lat);
+        maxX = Math.max(maxX, lng);
+        maxY = Math.max(maxY, lat);
+      });
+      return { minX, minY, maxX, maxY, feature };
     })
-    .filter((feature) => feature.properties.slope != null);
+  );
+}
+
+function updateSegmentLengths() {
+  const bounds = map.getBounds();
+  const visibleSegments = spatialSegmentIndex
+    .search({
+      minX: bounds.getWest(),
+      minY: bounds.getSouth(),
+      maxX: bounds.getEast(),
+      maxY: bounds.getNorth(),
+    })
+    .map((item) => item.feature);
   App.visibleSegmentLength = Math.trunc(
-    features.reduce((sum, feature) => sum + feature.properties.length, 0)
+    visibleSegments.reduce((sum, feature) => sum + feature.properties.length, 0)
   );
   App.filteredSegmentLength = Math.trunc(
-    features.reduce((sum, feature) => {
+    visibleSegments.reduce((sum, feature) => {
       const slope = feature.properties.slope;
       if (slope < App.lowerThumbValue || slope > App.upperThumbValue) {
         return sum + feature.properties.length;
@@ -200,11 +225,12 @@ function updateSegmentLengths() {
 map.on("load", async () => {
   map.touchZoomRotate.disableRotation();
 
-  const finishLoading = () => {
-    App.isReady = true;
-    map.off("idle", finishLoading);
-  };
-  map.on("idle", finishLoading);
+  map.on("sourcedata", function waitForSource(e) {
+    if (e.sourceId === "segments" && e.isSourceLoaded) {
+      App.isReady = true;
+      map.off("sourcedata", waitForSource);
+    }
+  });
   map.on("moveend", fetchContours);
   map.on("moveend", updateSegmentLengths);
   map.on("mousemove", "segments", (e) => {
@@ -233,10 +259,10 @@ map.on("load", async () => {
     });
   }
 
-  map.addSource("segments", {
-    type: "geojson",
-    data: "segments.geojson",
-  });
+  const data = await (await fetch("segments.geojson")).json();
+  initSpatialSegmentIndex(data.features);
+  updateSegmentLengths();
+  map.addSource("segments", { type: "geojson", data });
   map.addSource("selected-segment", {
     type: "geojson",
     data: {
