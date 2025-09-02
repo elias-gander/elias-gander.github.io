@@ -283,6 +283,13 @@ map.on("load", async () => {
   });
 
   map.addLayer({
+    id: "background",
+    type: "background",
+    paint: {
+      "background-color": "white",
+    },
+  });
+  map.addLayer({
     id: "contour",
     type: "line",
     source: "contour",
