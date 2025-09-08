@@ -10,7 +10,7 @@ Bergauf radln ist anstrengend:
 
 Den Exelberg hochschwitzen und dann die Serpentinen runterfetzen?
 Ja!  
-Bei Abgasduft und Motorgeheul den Mariahilfergürtel hoch?
+Bei Abgasduft und Motorlärm den Mariahilfergürtel hoch?
 Nein danke.
 
 Jede:r hat sie, die persönlichen Hass-Rampen die es immer wieder hoch geht.  
