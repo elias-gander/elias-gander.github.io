@@ -167,7 +167,7 @@ function updateSlopePopup(feature) {
   } else {
     App.slopeLabel =
       feature.properties.slope == null
-        ? "Brücke oder Tunnel"
+        ? "Auf oder unter Brücke"
         : `${(feature.properties.slope * 100).toFixed(2)}% Neigung`;
     App.lengthLabel = `über ${feature.properties.length.toFixed(2)} m`;
     map.getSource("selected-segment").setData({
@@ -364,11 +364,13 @@ map.on("load", async () => {
       "line-width": 1,
     },
   });
+  const streetnames = await (await fetch("streetnames.json")).json();
   map.addLayer({
     id: "street-labels",
     type: "symbol",
     source: "maptiler-labels",
     "source-layer": "transportation_name",
+    filter: ["match", ["get", "name"], streetnames, true, false],
     layout: {
       "text-field": ["get", "name"],
       "symbol-placement": "line",
