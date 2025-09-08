@@ -43,7 +43,7 @@ Der Ansatz ausführlich dokumentiert im Jupyter Notebook:
 
 <iframe src="{{ site.baseurl }}/data-visualization/wie-steil-sind-wiens-radstrecken/notebook.html" width="100%" height="600px" style="border:none;"></iframe>
 
-Alles weitere im [Repository](https://github.com/elias-gander/WieSteilSindWiensRadstrecken){:target="\_blank"}
+Alles Weitere im [Repository](https://github.com/elias-gander/WieSteilSindWiensRadstrecken){:target="\_blank"}
 
 ---
 
