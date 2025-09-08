@@ -22,12 +22,12 @@ Meine:
 
 Wie steil sind diese Strecken eigentlich?
 
-Die Karte drunter zeigt: auf allen drei Strecken bleibt die Steigung gut unter 4 %.
+Die Karte drunter zeigt: auf allen drei bleibt die Steigung gut unter 4 %.
 Halb so wild, es nerven wohl eher Lärm und Abgase.
 
 Wien ist nicht zu steil zum Radln!
 
-(Außer die Gallitzinstraße, da gehts anscheinend mit bis zu 16% Steigung hoch)
+(Mal abgesehen von der Gallitzinstraße - abschnittsweise Steigungen bis 16%!)
 
 <iframe src="{{ site.baseurl }}/data-visualization/wie-steil-sind-wiens-radstrecken" width="100%" height="600px" style="border:none;"></iframe>
 
