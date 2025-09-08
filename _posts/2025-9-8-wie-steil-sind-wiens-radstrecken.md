@@ -33,7 +33,7 @@ Wien ist nicht zu steil zum Radln!
 
 [Vollbildversion]({{ site.baseurl }}/data-visualization/wie-steil-sind-wiens-radstrecken){:target="\_blank"}
 
-Datenbasis ist diesmal das [Geländemodell als Schichtenlinien](https://www.data.gv.at/datasets/e45374c0-3e40-434c-92dc-203492ccee49) der Magistratsabteilung für Stadtvermessung - MA 41.
+Datenbasis ist diesmal das Wiener [Hauptradverkehrsnetz](https://www.data.gv.at/datasets/1ea3d3e8-fa07-4c37-af68-eb588d439de2) und das [Geländemodell als Schichtenlinien](https://www.data.gv.at/datasets/e45374c0-3e40-434c-92dc-203492ccee49) der Magistratsabteilung für Stadtvermessung - MA 41.
 
 Höhenlinien in 1-Meter Abständen und respektable Genauigkeit:
 
