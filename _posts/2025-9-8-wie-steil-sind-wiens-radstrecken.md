@@ -14,7 +14,7 @@ Bei Abgasduft und Motorgeheul den Mariahilfergürtel hoch?
 Nein danke.
 
 Jede:r hat sie, die persönlichen Hass-Rampen die es immer wieder hoch geht.  
-Für mich:
+Meine:
 
 - Getreidemarkt
 - Vom Margaretengürtel zum Westbahnhof
