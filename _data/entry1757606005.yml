@@ -1,0 +1,17 @@
+!!python/object:app.models.Comment
+__dict__:
+  id: 7197a780-2027-48d6-8a41-14232d5531ff
+  text: huhu
+  name: eli
+  email: asdf@asdf.de
+  parentid: null
+  timestamp: 1757606004
+__pydantic_extra__: null
+__pydantic_fields_set__: !!set
+  timestamp: null
+  email: null
+  parentid: null
+  name: null
+  id: null
+  text: null
+__pydantic_private__: null
