@@ -1,5 +1,5 @@
-_id: cf67a790-c044-11ee-ba2a-393ff374c5aa
+id: cf67a790-c044-11ee-ba2a-393ff374c5aa
 name: eli
-message: Danke dir!
-parentId: f9a673b0-b49b-11ee-ba2a-393ff374c5aa
-date: 1706711226
+text: Danke dir!
+parent_id: f9a673b0-b49b-11ee-ba2a-393ff374c5aa
+timestamp: 1706711226

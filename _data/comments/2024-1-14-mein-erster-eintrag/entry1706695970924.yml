@@ -1,4 +1,5 @@
-_id: 4a0db490-c021-11ee-ba2a-393ff374c5aa
+id: 4a0db490-c021-11ee-ba2a-393ff374c5aa
 name: eli
-message: "javascript injection test\r\n\r\n<script> \r\nconsole.log(\"hello world\");\r\n</script>"
-date: 1706695970
+text: "javascript injection test\r\n\r\n<script> \r\nconsole.log(\"hello world\");\r\
+  \n</script>"
+timestamp: 1706695970

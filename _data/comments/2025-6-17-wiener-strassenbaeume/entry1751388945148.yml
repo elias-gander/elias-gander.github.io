@@ -1,6 +1,9 @@
-_id: 3a9d7550-569c-11f0-b775-55e35c2e5166
+id: 3a9d7550-569c-11f0-b775-55e35c2e5166
 name: Alex
-message: "Hey,\r\nCooles Projekt! Ich habe das als Vorlage genommen um etwas ähnliches für Zürich zu machen (genau gleich ging leider nicht, weil es nicht dieselben Informationen gibt):\r\nhttps://alexanderguentert.github.io/ZuercherStrassenbaeume/\r\nLiebe Grüsse\r\nAlex"
+text: "Hey,\r\nCooles Projekt! Ich habe das als Vorlage genommen um etwas ähnliches\
+  \ für Zürich zu machen (genau gleich ging leider nicht, weil es nicht dieselben\
+  \ Informationen gibt):\r\nhttps://alexanderguentert.github.io/ZuercherStrassenbaeume/\r\
+  \nLiebe Grüsse\r\nAlex"
 email: ''
-parentId: ''
-date: 1751388945
+parent_id: ''
+timestamp: 1751388945

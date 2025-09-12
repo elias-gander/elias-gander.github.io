@@ -1,6 +1,6 @@
 ---
-title:  "Baba Wien"
-tags: [reisen, fahrrad]
+title: "Baba Wien"
+tags: [Reisen, Fahrrad]
 ---
 
 Wie fein wärs wenns einen nie woanders hinziehen würd?\
@@ -35,16 +35,17 @@ Verpackt schaut das alles dann schon wieder recht harmlos aus:
 
 {% include image.html path="media/baba-wien/gepaeck-verpackt.jpg" alt="Bild mit fertig gepackten Fahrradtaschen" caption="Hex-Hex!" link="https://photos.app.goo.gl/k3asqaFVFszGswD79" %}
 
-*Du hast sicher ein super Radl!*\
-Nein, ein einfaches tuts auch. 
+_Du hast sicher ein super Radl!_\
+Nein, ein einfaches tuts auch.
 Solang es rollt, bremst und fein zum Draufsitzen ist, kannst damit schon um die halbe Welt fahren.
 Wenns hügelig wird (und das wirds fast immer) sind ein paar leichte Gänge wichtig.
 Packlträger wär auch nicht schlecht.
 
 Gewicht Fun-Facts:
- - Beide Taschen: 13,8 kg
- - Fahrrad: 14,1 kg
- - Eli: 66,8 kg
+
+- Beide Taschen: 13,8 kg
+- Fahrrad: 14,1 kg
+- Eli: 66,8 kg
 
 ### Die Formalitäten
 
@@ -58,7 +59,7 @@ Bildungskarenz, unbezahlter Urlaub oder Kündigung?\
 Bei mir ist es der unbezahlte Urlaub geworden: keine Kohle, keine Sorgen und ein bissi Freiheit.
 
 Wer in Österreich nicht arbeitet (oder so tut als ob), ist nicht krankenversichert.
-Dafür gibts bei fehlendem Einkommen die Selbstversicherung zum Sondertarif um *nur* 120 € im Monat.
+Dafür gibts bei fehlendem Einkommen die Selbstversicherung zum Sondertarif um _nur_ 120 € im Monat.
 
 Die Zimmerpflanzen am besten bei einer netten Freundin mit großer Wohnung ums Eck unterbringen.
 Grazie mille Anna!

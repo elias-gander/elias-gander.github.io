@@ -1,6 +1,6 @@
-_id: f94573c0-0212-11ef-bb01-ddae0cf5dbc7
+id: f94573c0-0212-11ef-bb01-ddae0cf5dbc7
 name: Daniel
-message: "Sehr schön dokumentiert und geschrieben \U0001F970"
+text: Sehr schön dokumentiert und geschrieben 🥰
 email: ''
-parentId: ''
-date: 1713946599
+parent_id: ''
+timestamp: 1713946599

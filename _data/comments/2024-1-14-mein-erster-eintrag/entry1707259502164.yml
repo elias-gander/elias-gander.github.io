@@ -1,5 +1,5 @@
-_id: 5ccd0430-c541-11ee-ba2a-393ff374c5aa
+id: 5ccd0430-c541-11ee-ba2a-393ff374c5aa
 name: Kathi (die allerechte)
-message: das ist meine Antwort!
-parentId: a8420200-c38c-11ee-ba2a-393ff374c5aa
-date: 1707259502
+text: das ist meine Antwort!
+parent_id: a8420200-c38c-11ee-ba2a-393ff374c5aa
+timestamp: 1707259502

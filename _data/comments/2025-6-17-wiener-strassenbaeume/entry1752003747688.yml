@@ -1,8 +1,7 @@
-_id: ad818740-5c33-11f0-b775-55e35c2e5166
+id: ad818740-5c33-11f0-b775-55e35c2e5166
 name: Eli
-message: >-
-  Hey Alex, das freut mich sehr! Danke fürs Teilen und super Idee mit der
-  Schattenwirkung! LG Elias
+text: Hey Alex, das freut mich sehr! Danke fürs Teilen und super Idee mit der Schattenwirkung!
+  LG Elias
 email: ''
-parentId: 3a9d7550-569c-11f0-b775-55e35c2e5166
-date: 1752003747
+parent_id: 3a9d7550-569c-11f0-b775-55e35c2e5166
+timestamp: 1752003747

@@ -1,6 +1,6 @@
-_id: df826740-30d4-11ef-bb01-ddae0cf5dbc7
+id: df826740-30d4-11ef-bb01-ddae0cf5dbc7
 name: Eli
-message: "Danke ❤️\r\nWoas nit, schwimmen hot bisher nit gegluschtet haha"
+text: "Danke ❤️\r\nWoas nit, schwimmen hot bisher nit gegluschtet haha"
 email: ''
-parentId: ''
-date: 1719087631
+parent_id: ''
+timestamp: 1719087631

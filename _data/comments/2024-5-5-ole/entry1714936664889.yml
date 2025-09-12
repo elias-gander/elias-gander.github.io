@@ -1,6 +1,7 @@
-_id: 266fd750-0b14-11ef-bb01-ddae0cf5dbc7
+id: 266fd750-0b14-11ef-bb01-ddae0cf5dbc7
 name: Markus Gander
-message: "Wunderbare texte und bilder\r\nSchont euch\r\nEinen \U0001F490 für jeden (Kati\r\ngrößer:) \U0001F340 und lG"
+text: "Wunderbare texte und bilder\r\nSchont euch\r\nEinen \U0001F490 für jeden (Kati\r\
+  \ngrößer:) \U0001F340 und lG"
 email: ''
-parentId: ''
-date: 1714936664
+parent_id: ''
+timestamp: 1714936664

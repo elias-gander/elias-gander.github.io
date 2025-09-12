@@ -1,5 +1,5 @@
-_id: c92c0942-6a68-4d13-82c7-1378c0c687fe
-parentId: 4a0db490-c021-11ee-ba2a-393ff374c5aa
+id: c92c0942-6a68-4d13-82c7-1378c0c687fe
+parent_id: 4a0db490-c021-11ee-ba2a-393ff374c5aa
 name: eli
-message: "testantwort"
-date: 1706695971
+text: testantwort
+timestamp: 1706695971

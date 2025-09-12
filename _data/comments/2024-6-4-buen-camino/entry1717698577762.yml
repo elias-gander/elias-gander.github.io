@@ -1,6 +1,6 @@
-_id: bac8c7e0-2432-11ef-bb01-ddae0cf5dbc7
+id: bac8c7e0-2432-11ef-bb01-ddae0cf5dbc7
 name: Italiano Medio
-message: 'Krasse reise, vecio!'
+text: Krasse reise, vecio!
 email: ''
-parentId: ''
-date: 1717698577
+parent_id: ''
+timestamp: 1717698577

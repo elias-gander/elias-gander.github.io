@@ -1,6 +1,9 @@
-_id: ecd0dcf0-148d-11ef-bb01-ddae0cf5dbc7
+id: ecd0dcf0-148d-11ef-bb01-ddae0cf5dbc7
 name: Dad
-message: "Den Reisebericht mitlesen ist \U0001F914 wie wenn man selber mitradeln würde nur treten andere in die pedale \U0001F604 und selbst braucht man nur schauen \U0001F913\U0001F9D0\U0001F60E staunen \U0001F632 lachen \U0001F606 mitfühlen \U0001F92D\U0001F61F\U0001F641\r\nCool \U0001F340\U0001F917"
+text: "Den Reisebericht mitlesen ist \U0001F914 wie wenn man selber mitradeln würde\
+  \ nur treten andere in die pedale \U0001F604 und selbst braucht man nur schauen\
+  \ \U0001F913\U0001F9D0\U0001F60E staunen \U0001F632 lachen \U0001F606 mitfühlen\
+  \ \U0001F92D\U0001F61F\U0001F641\r\nCool \U0001F340\U0001F917"
 email: ''
-parentId: ''
-date: 1715978527
+parent_id: ''
+timestamp: 1715978527

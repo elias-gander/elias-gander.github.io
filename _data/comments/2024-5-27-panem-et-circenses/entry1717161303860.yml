@@ -1,6 +1,7 @@
-_id: ca934020-1f4f-11ef-bb01-ddae0cf5dbc7
+id: ca934020-1f4f-11ef-bb01-ddae0cf5dbc7
 name: Sibille
-message: "Geschichtsträchtige Erlebnisse und häufig Portwein, scheint euch zu schmecken \U0001F609\r\nBeste Wünsche und Grüße aus den Bergen"
+text: "Geschichtsträchtige Erlebnisse und häufig Portwein, scheint euch zu schmecken\
+  \ \U0001F609\r\nBeste Wünsche und Grüße aus den Bergen"
 email: ''
-parentId: ''
-date: 1717161303
+parent_id: ''
+timestamp: 1717161303

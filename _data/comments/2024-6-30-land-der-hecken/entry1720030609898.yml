@@ -1,6 +1,7 @@
-_id: 6a46edb0-3968-11ef-bb01-ddae0cf5dbc7
+id: 6a46edb0-3968-11ef-bb01-ddae0cf5dbc7
 name: Markus
-message: "Des Groaßbritannien wert mir olleweil sympatischer je mer i les und drfrog\r\nBuen ciclino \U0001F917"
+text: "Des Groaßbritannien wert mir olleweil sympatischer je mer i les und drfrog\r\
+  \nBuen ciclino \U0001F917"
 email: ''
-parentId: ''
-date: 1720030609
+parent_id: ''
+timestamp: 1720030609

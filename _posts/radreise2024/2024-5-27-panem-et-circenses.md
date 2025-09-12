@@ -1,36 +1,36 @@
 ---
-title:  "Panem et circenses"
-tags: [reisen, fahrrad]
+title: "Panem et circenses"
+tags: [Reisen, Fahrrad]
 ---
 
 Die vergangene Woche eine knappe Stunde geradlt.
-Von *Lisboa* nach *Porto* und weiter nach *Braga*, insgesamt gute 500 km Zugfahren.
-Dem Meer entlang von *Lisboa* nach *Porto* wohl wenig spannend, der Umweg über die *Serra da Estrela* zu zeitaufwendig.
-Hinter *Braga* bald die Grenze zu *Galicia*, die Sehnsucht nach den einsameren Landschaften Spaniens.
+Von _Lisboa_ nach _Porto_ und weiter nach _Braga_, insgesamt gute 500 km Zugfahren.
+Dem Meer entlang von _Lisboa_ nach _Porto_ wohl wenig spannend, der Umweg über die _Serra da Estrela_ zu zeitaufwendig.
+Hinter _Braga_ bald die Grenze zu _Galicia_, die Sehnsucht nach den einsameren Landschaften Spaniens.
 
 Vorher eine Woche Stadtleben.
 
 ### Lisboa
 
-{% include subheading.html text="19. und 20. Mai 2024" %} 
+{% include tagline.html text="19. und 20. Mai 2024" %}
 
-Erstes Ziel ist der *Ponte 25 de Abril* über den am Vortag unser Zug rollte.
-Die Hängebrücke über den *Tejo* ist 3.2 km lang und erinnert ihrer Farbe wegen stark an die *Golden Gate Bridge* in *San Francisco*.
+Erstes Ziel ist der _Ponte 25 de Abril_ über den am Vortag unser Zug rollte.
+Die Hängebrücke über den _Tejo_ ist 3.2 km lang und erinnert ihrer Farbe wegen stark an die _Golden Gate Bridge_ in _San Francisco_.
 Am Tag rollen etwa 150.000 Fahrzeuge und 160 Züge über die sechs Spuren und zwei Gleise.
 Für zu Fuß Gehende oder Radelnde kein Platz.
 
 {% include image.html path="media/panem-et-circenses/ponte.jpg" alt="Der Ponte do 25 Abril" caption="Am rechten Ufer der Christo Rei, eine 28 Meter hohe Christusstatue" link="https://photos.app.goo.gl/vNbWKgAChNgpSonW7" %}
 
-Reges Treiben am *Passeio Carlos do Carmo*, der Promenade entlang des *Tejo*.
-Dekadent mit dem E-Scooter zur *Torre de Belém*, dem Wahrzeichen von *Lisboa*.
+Reges Treiben am _Passeio Carlos do Carmo_, der Promenade entlang des _Tejo_.
+Dekadent mit dem E-Scooter zur _Torre de Belém_, dem Wahrzeichen von _Lisboa_.
 Mehr Schieben als Zischen, die Menschenmassen zu dicht.
 
 {% include image.html path="media/panem-et-circenses/bird.jpg" caption="Am Weg zur Torre de Belém der Padrão dos Descobrimentos, das 'Denkmal der Entdeckungen'" alt="Eli steht auf einem E-Scooter vor dem Padrão dos Descobrimentos" link="https://photos.app.goo.gl/L6nmThENSBXUWAwy8" %}
 
-Die portugiesischen Entdecker des 16. Jahrhunderts stechen an der *Torre de Belém* in See und jene die zurückkehren legen hier an.
-1521 erbaut aus *Lioz* Kalkstein im Manuelinischen Stil.
+Die portugiesischen Entdecker des 16. Jahrhunderts stechen an der _Torre de Belém_ in See und jene die zurückkehren legen hier an.
+1521 erbaut aus _Lioz_ Kalkstein im Manuelinischen Stil.
 Der Turm überlebt das verheerende Erdbeben von 1755.
-Am Ticketschalter ein Zettel *Estimated waiting time 2 hours*.
+Am Ticketschalter ein Zettel _Estimated waiting time 2 hours_.
 Unter einem großen Oleanderbusch ins Gras legen und den Trubel beobachten.
 Ein Violinist interpretiert schmalzige Popsongs und erntet großen Applaus.
 
@@ -38,74 +38,74 @@ Ein Violinist interpretiert schmalzige Popsongs und erntet großen Applaus.
 
 {% include image.html path="media/panem-et-circenses/lioz.jpg" caption="Lioz Kalkstein stammt aus dem Umland von Lisboa, verwendet für Monumentalbauten in Portugal und Brasilien" alt="Nahaufnahme einer Mauer aus Lioz Kalkstein" link="https://photos.app.goo.gl/Nhbm8Kdj9PYH7hDP6" %}
 
-Weiter zum *Jerónimos* Kloster, wieder *Lioz* Kalkstein, wieder Manuelinischer Stil.
+Weiter zum _Jerónimos_ Kloster, wieder _Lioz_ Kalkstein, wieder Manuelinischer Stil.
 Dutzende andere Beispiele für diesen flüchtigen Architekturstil gehen bei dem Erdbeben verloren.
 Eine elendig lange Menschenschlange reiht sich vorm Eingang in der Mittagshitze.
 
 {% include video.html path="media/panem-et-circenses/kloster.mp4" caption="Das lassen wir lieber" link="https://photos.app.goo.gl/TZ1yDA4eLCVWtjoo9" %}
 
-Rechts die *Rua de Belém* an der die berühmte *Fábrica de Pastéis de Belém* liegt.
-Hier werden die 'originalen' *Pastéis de nata* hergestellt und verkauft.
+Rechts die _Rua de Belém_ an der die berühmte _Fábrica de Pastéis de Belém_ liegt.
+Hier werden die 'originalen' _Pastéis de nata_ hergestellt und verkauft.
 Wieder eine lange Menschenschlange am Eingang.
 
-Die köstlichen *Pastéis de nata* verkauft in Portugal jede Bar und jeder Supermarkt.
-Erfunden haben sie die Mönche des *Jerónimos* Kloster im 18. Jahrhundert.
+Die köstlichen _Pastéis de nata_ verkauft in Portugal jede Bar und jeder Supermarkt.
+Erfunden haben sie die Mönche des _Jerónimos_ Kloster im 18. Jahrhundert.
 Eiklar als Wäschestärke fürs Gewand, Eigelb für die Kucherl.
-Infolge der *Revolução Liberal* in die Krise geraten, verkaufen die Mönche 1834 das Rezept an eine Zuckerraffinerie.
-Ein paar Jahre später eröffnet diese hier die *Fábrica* die bis heute läuft.
-20.000 *pastéis* verkaufen sich hier pro Tag.
+Infolge der _Revolução Liberal_ in die Krise geraten, verkaufen die Mönche 1834 das Rezept an eine Zuckerraffinerie.
+Ein paar Jahre später eröffnet diese hier die _Fábrica_ die bis heute läuft.
+20.000 _pastéis_ verkaufen sich hier pro Tag.
 
-Der Hunger treibt in ein finsteres Chinarestaurant gegenüber, ein Teller traurige *Chow Mein*.
-Kaffee und Mehlspeisen in der *Pastelaria Versailles*, *Baba au rhum* und *Croissant aux amandes*.
+Der Hunger treibt in ein finsteres Chinarestaurant gegenüber, ein Teller traurige _Chow Mein_.
+Kaffee und Mehlspeisen in der _Pastelaria Versailles_, _Baba au rhum_ und _Croissant aux amandes_.
 
-Eine Stunde mit dem Stadtbus zum *Decathlon*, Gaskartusche und endlich neue Heringe.
+Eine Stunde mit dem Stadtbus zum _Decathlon_, Gaskartusche und endlich neue Heringe.
 Daheim kochen.
 
-Am nächsten Morgen mit der Metro in den Bezirk *Baixa*.
+Am nächsten Morgen mit der Metro in den Bezirk _Baixa_.
 Die Straßen exakt rasterförmig angelegt, das Viertel wurde während des Erdbebens 1755 massiv beschädigt und im Anschluss komplett neu errichtet.
-Das und einiges mehr erfährt man im *Lisbon Story Center*, ein Video- und Audio-basiertes Museum zur Stadtgeschichte.
+Das und einiges mehr erfährt man im _Lisbon Story Center_, ein Video- und Audio-basiertes Museum zur Stadtgeschichte.
 Etwas trashy aber auch catchy.
 
 {% include image.html path="media/panem-et-circenses/baixa.jpg" alt="Kathi geht durch die Gassen von Baixa" link="https://photos.app.goo.gl/hFNwdgvJZDosgb477" %}
 
-Das Museum liegt direkt an der *Praça do Comérçio*.
-Auch der Platz wird nach dem Erdbeben neu gestaltet, ein u-förmiger Arkadenbau trennt ihn vom Bezirk *Baixa*, an der Südseite das Ufer des *Tejo*.
-Früher hieß der Platz *Terreiro do Paço* und grenzte an den *Paço da Ribeira*, das Stadtschloss Manuels I. am Ufer des *Tejo*.
+Das Museum liegt direkt an der _Praça do Comérçio_.
+Auch der Platz wird nach dem Erdbeben neu gestaltet, ein u-förmiger Arkadenbau trennt ihn vom Bezirk _Baixa_, an der Südseite das Ufer des _Tejo_.
+Früher hieß der Platz _Terreiro do Paço_ und grenzte an den _Paço da Ribeira_, das Stadtschloss Manuels I. am Ufer des _Tejo_.
 Man ahnt es schon, das Schloss zerstört beim Erdbeben.
 Bei dem Beben sterben 50.000 Menschen, ökonomischer Schaden im Ausmaß von gut einem Drittel der gesamten portugiesischen Wirtschaftsleistung.
 
 {% include image.html path="media/panem-et-circenses/praca.jpg" alt="Blick über die Praça do Comérçio" link="https://photos.app.goo.gl/5Ke4C3NmV5rDED7Q7" %}
 
-Am Weg zur Kathedrale vorbei an der *Casa dos Bicos*, dem 'Haus der Stacheln'.
-Die seltsame Stachelfassade aus *Lioz* Kalkstein erinnert an den *Palazzo dei Diamanti* in *Ferrara*.
-Und tatsächlich, der Auftraggeber *Brás de Albuquerque* lebt 1521 für einige Zeit in Italien und liebt die Architektur der italienischen Renaissance.
+Am Weg zur Kathedrale vorbei an der _Casa dos Bicos_, dem 'Haus der Stacheln'.
+Die seltsame Stachelfassade aus _Lioz_ Kalkstein erinnert an den _Palazzo dei Diamanti_ in _Ferrara_.
+Und tatsächlich, der Auftraggeber _Brás de Albuquerque_ lebt 1521 für einige Zeit in Italien und liebt die Architektur der italienischen Renaissance.
 
 {% include image.html path="media/panem-et-circenses/stachli.jpg" alt="Nahaufnahme der Fassade der Casa dos Bicos" link="https://photos.app.goo.gl/pT17yKriQeUThU1t6" %}
 
 Die steilen Gassen hoch zur Kathedrale, der Vorplatz zugeparkt von Autorikschas.
 An der Biegung fährt die bummvolle 28er Bim vorbei, Postkartenmotiv.
 
-Auf der *Praça da Figueira* in die *Pastelaria Suíça*.
+Auf der _Praça da Figueira_ in die _Pastelaria Suíça_.
 Die Qual der Wahl zwischen köstlichen Mehlspeisen.
-Zwei *Croissants do Porto*.
+Zwei _Croissants do Porto_.
 Portugiesische Croissants sind nicht aus Blätter- sondern aus Briocheteig.
 Noch besser in etwas Portwein getränkt.
 
-Am Abend sehr lange Busfahrt zum *Ponte Vasco da Gama*.
-Die Brücke überspannt den *Tejo* auf über 12 Kilometern Länge und ist nach der Krim-Brücke die zweitlängste Europas.
+Am Abend sehr lange Busfahrt zum _Ponte Vasco da Gama_.
+Die Brücke überspannt den _Tejo_ auf über 12 Kilometern Länge und ist nach der Krim-Brücke die zweitlängste Europas.
 Wieder 6 Spuren Autobahn, wieder kein Platz für zu Fuß Gehende oder Radelnde.
 
 {% include image.html path="media/panem-et-circenses/ponte2.jpg" alt="Kathi steht vorm Ponte de Vasco da Gama" link="https://photos.app.goo.gl/QrZxhhwUbQjzWvF3A" %}
 
-Die *Tejo* Promenade entlang zur *Torre Vasco da Gama*.
+Die _Tejo_ Promenade entlang zur _Torre Vasco da Gama_.
 Der mickrige Turm ist mit 145 Metern das höchste Gebäude Portugals.
-In dem weitläufigen modernen Viertel befindet sich die *Feira Internacional de Lisboa*, das Messegelände.
+In dem weitläufigen modernen Viertel befindet sich die _Feira Internacional de Lisboa_, das Messegelände.
 Am Flussufer reihen sich hippe Restaurants.
-Im *Zhang Lala* einen Teller handgezogene ur scharfe Nudeln.
+Im _Zhang Lala_ einen Teller handgezogene ur scharfe Nudeln.
 
 {% include image.html path="media/panem-et-circenses/nudeln.jpg" alt="Ein Teller chinesische Nudeln" caption="Leiwand" link="https://photos.app.goo.gl/U1mBBzyKYGeHGVrv6" %}
 
-Weiterspazieren zum *Centro Vasco da Gama*, ein riesiges Shoppingcenter.
+Weiterspazieren zum _Centro Vasco da Gama_, ein riesiges Shoppingcenter.
 Es ist halb 11 aber die Geschäfte sind noch bis Mitternacht offen.
 Dinge von denen Richard Lugner nachts träumt.
 
@@ -113,37 +113,37 @@ Weil hier gefühlt alles seinen Namen trägt: Vasco da Gama war ein portugiesisc
 
 {% include image.html path="media/panem-et-circenses/bankerl.jpg" alt="Eli sitzt auf einem Bankerl im Supermarkt" caption="Wenn man um halb 12 einkaufen geht" link="https://photos.app.goo.gl/JN1c7x2zt1zu9d8bA" %}
 
-### Porto ###
+### Porto
 
-{% include subheading.html text="21. und 22. Mai 2024" %} 
+{% include tagline.html text="21. und 22. Mai 2024" %}
 
-Zum kleinen Bahnhof *Santa Apolónia* radln und mit dem Intercity 4 Stunden nach *Porto*.
-Vom Bahnhof *Campanhã* in *Porto* Höllenritt zur Unterkunft.
-*Porto* ist nicht radgeeignet, ur steile Gassen und durchgehend grobes Pflaster.
+Zum kleinen Bahnhof _Santa Apolónia_ radln und mit dem Intercity 4 Stunden nach _Porto_.
+Vom Bahnhof _Campanhã_ in _Porto_ Höllenritt zur Unterkunft.
+_Porto_ ist nicht radgeeignet, ur steile Gassen und durchgehend grobes Pflaster.
 Die Straßen verstopft mit Autos, im Schneckentempo grantig und gestresst von Ampel zu Ampel.
 
 {% include image.html path="media/panem-et-circenses/zug.jpg" alt="Kathi schiebt ihr Rad durch den Bahnhof von Lisboa zum Zug nach Porto" link="https://photos.app.goo.gl/3AKRG5PAo8YndXtu5" %}
 
-Vom Gepäck befreit zur nähesten Radlwerkstatt, *Velo Invicta Capas Peneda*.
+Vom Gepäck befreit zur nähesten Radlwerkstatt, _Velo Invicta Capas Peneda_.
 Das winzige Geschäftslokal gesteckt voll mit Rädern aller Art.
 Der Mechaniker bestätigt meine Befürchtung, die Kette ist über-überlang und hat Ritzel und Kettenblätter verschlissen.
 Hilft nur mehr alles tauschen, zum Glück hat er passende Ersatzteile da, am nächsten Tag kann ich's abholen.
 
-Den restlichen Abend durch die Altstadt zum *Rio Douro* spazieren.
-Die Häuser in *Porto* schmal und in schön gemusterten Fliesen gekleidet.
+Den restlichen Abend durch die Altstadt zum _Rio Douro_ spazieren.
+Die Häuser in _Porto_ schmal und in schön gemusterten Fliesen gekleidet.
 Kirchen und Statuen aus Granit, das Gestein kommt in der Gegend häufig vor.
 
 {% include image.html path="media/panem-et-circenses/porto.jpg" alt="Gasse mit fliesenbekleideten Fassaden in Porto" link="https://photos.app.goo.gl/7sASP1RbkySXrZS97" %}
 
-Zum *Francesinhas Al Forno da Baixa* eine vegane *Francesinha* probieren.
+Zum _Francesinhas Al Forno da Baixa_ eine vegane _Francesinha_ probieren.
 Ein käseüberbackener Toast in einer Suppe aus Tomaten, Bier und Senf, kann das gut sein?\\
 Nein.
 
 {% include image.html path="media/panem-et-circenses/toast.jpg" alt="Kathi vor einer Francesinha" link="https://photos.app.goo.gl/yF3kWTU7YX8oQ4YA7" %}
 
-Am Ufer des *Rio Douro* Menschenmassen und Restaurants mit riesigen Schanigärten.
-Rechts der Blick auf die Fachwerkbrücke *Ponte Dom Luís I*.
-Am anderen Flussufer die Portweinkeller von *Ferreira*, *Sandeman*, *Calem*, etc.
+Am Ufer des _Rio Douro_ Menschenmassen und Restaurants mit riesigen Schanigärten.
+Rechts der Blick auf die Fachwerkbrücke _Ponte Dom Luís I_.
+Am anderen Flussufer die Portweinkeller von _Ferreira_, _Sandeman_, _Calem_, etc.
 
 {% include image.html path="media/panem-et-circenses/eli.jpg" alt="Eli am Kai des Rio Douro" link="https://photos.app.goo.gl/asUiddWrdi8YDPZ7A" %}
 
@@ -151,79 +151,79 @@ Zurück in die Unterkunft, ein abgewohntes aber schönes dreistöckiges Haus mit
 Eine ausladende hölzerne Wendeltreppe führt zu den Zimmern.
 Pasta kochen in der offenen Wohnküche.
 
-Am zweiten Tag zur *Praça de Carlos Alberto* und in der *Banco de Materiais* hunderte Fliesen anschauen.
+Am zweiten Tag zur _Praça de Carlos Alberto_ und in der _Banco de Materiais_ hunderte Fliesen anschauen.
 Überlegen welche am besten gefällt.
 
 {% include image.html path="media/panem-et-circenses/fliese.jpg" alt="Nahaufnahme einer beige Fliese mit dunkelgrünem Blumenmuster" caption="Die hier" link="https://photos.app.goo.gl/EpnmR3qURLYT5khG7" %}
 
-Einen Katzensprung weiter zur *Igreja do Carmo* und der *Fonte dos Leões*.
-Die Westfassade der Barockkirche aus Granit ist von einem riesigen *Azulejo* bedeckt.
-*Azulejos* sind aus bemalten Fliesen zusammengesetzte Bilder.
+Einen Katzensprung weiter zur _Igreja do Carmo_ und der _Fonte dos Leões_.
+Die Westfassade der Barockkirche aus Granit ist von einem riesigen _Azulejo_ bedeckt.
+_Azulejos_ sind aus bemalten Fliesen zusammengesetzte Bilder.
 
 {% include image.html path="media/panem-et-circenses/brunnen.jpg" alt="Die Fonte dos Leõnes und Igreja do Carmo" link="https://photos.app.goo.gl/qF1LM5hXRaJttcRK8" %}
 
-Weiter Richtung Innenstadt zum Ufer des *Rio Douro*.
-Am erhöhten Gehsteig durch den *Túnel da Ribeira* und dahinter eine Stiege hoch zum *Ponte Dom Luís I*.
+Weiter Richtung Innenstadt zum Ufer des _Rio Douro_.
+Am erhöhten Gehsteig durch den _Túnel da Ribeira_ und dahinter eine Stiege hoch zum _Ponte Dom Luís I_.
 Der obere Übergang ist für Bims und Fußgänger reserviert, unten fahren Autos.
 
 Mit einer Pizza den Hunger stillen und runterspazieren zum linken Flussufer.
 Die Promenade vor den Portweinkellern ist bummvoll, in den Schanigärten verkosten Tourist:innen Portwein.
-Im Fluss schaukeln einige *Rabelos*, die fragil wirkenden dunklen Holzboote transportierten früher Weinfässer vom oberen *Douro* zu den Portweinkellern in *Porto*.
-Vor Errichtung der Eisenbahnlinie entlang des *Douro* Tals war dies der schnellste Weg.
-Heute reist der Wein im Lkw und die *Rabelos* sind nur mehr zum Anschauen da.
+Im Fluss schaukeln einige _Rabelos_, die fragil wirkenden dunklen Holzboote transportierten früher Weinfässer vom oberen _Douro_ zu den Portweinkellern in _Porto_.
+Vor Errichtung der Eisenbahnlinie entlang des _Douro_ Tals war dies der schnellste Weg.
+Heute reist der Wein im Lkw und die _Rabelos_ sind nur mehr zum Anschauen da.
 
 {% include image.html path="media/panem-et-circenses/boote.jpg" alt="Traditionelle Portweinfähren am Rio Douro" link="https://photos.app.goo.gl/LbpxiGLFysbdAL718" %}
 
 Im Touristenstrom über die untere Brücke zurück zum rechten Flussufer.
-Obwohl nur wenige Schritte von der bummvollen Promenade herrscht im Lokalgeschichtemuseum *Casa do Infante* gähnende Leere.
+Obwohl nur wenige Schritte von der bummvollen Promenade herrscht im Lokalgeschichtemuseum _Casa do Infante_ gähnende Leere.
 Der Eintritt kostet fast nichts, zurecht.
 
-Die steilen Gassen wieder hoch zum Bahnhof *São Bento*.
+Die steilen Gassen wieder hoch zum Bahnhof _São Bento_.
 Um den Bahnhof eng, eine riesige Baustelle für die neue Metrolinie versperrt den Blick auf das schöne Gebäude.
-Drinnen noch schöner, die große lichte Halle ist auf allen Seiten bedeckt von riesigen *Azulejos*.
+Drinnen noch schöner, die große lichte Halle ist auf allen Seiten bedeckt von riesigen _Azulejos_.
 
 {% include image.html path="media/panem-et-circenses/bahnhof.jpg" alt="Der Bahnhof São Bento" link="https://photos.app.goo.gl/v8eBrVdiqKqnU2ku6" %}
 
-Im *Café Aliança* am Rathausplatz endlich zwei Gläser Portwein.
+Im _Café Aliança_ am Rathausplatz endlich zwei Gläser Portwein.
 Abwechselnd am roten und weißen nippen und sich nicht entscheiden können welcher besser schmeckt.
 
 {% include image.html path="media/panem-et-circenses/wein.jpg" alt="Kathi vor einem Glas roten und weißen Portwein" link="https://photos.app.goo.gl/jeRZCevQnHsrouRWA" %}
 
 Die Hosentasche voller Bargeld zwei Blocks weiter zum Radlmechaniker.
-Das *Kona* läuft wieder picobello, Kurbel, Ritzel, Kette und Hinterradbremsscheibe sind neu.
+Das _Kona_ läuft wieder picobello, Kurbel, Ritzel, Kette und Hinterradbremsscheibe sind neu.
 135 € Lehrgeld, eine Kette sollte man nicht 10.000 km fahren.
 
 {% include image.html path="media/panem-et-circenses/radl.jpg" alt="Eli sitzt happy vor sein Radl mit neuer Kassette, Kette und Kurbel" link="https://photos.app.goo.gl/nxLh5znNuy5vCCGr6" %}
 
 ### Braga
 
-{% include subheading.html text="23. und 24. Mai 2024" %} 
+{% include tagline.html text="23. und 24. Mai 2024" %}
 
-Der Zug nach *Braga* geht am frühen Nachmittag.
-Gepäck deponieren und auf einen letzten Schlenderer durch *Porto*.
-An der *Rua das Carmelitas* im Schanigarten vorm *Amorino* sitzen und schreiben.
-Zwei Straßenmusiker spielen Jazz, den *Passeio* entlang zur *Torre dos Clérigos* schauen.
+Der Zug nach _Braga_ geht am frühen Nachmittag.
+Gepäck deponieren und auf einen letzten Schlenderer durch _Porto_.
+An der _Rua das Carmelitas_ im Schanigarten vorm _Amorino_ sitzen und schreiben.
+Zwei Straßenmusiker spielen Jazz, den _Passeio_ entlang zur _Torre dos Clérigos_ schauen.
 
 {% include image.html path="media/panem-et-circenses/torre.jpg" alt="Kathi sitzt am Fuße der Torre do Clérigos" link="https://photos.app.goo.gl/HJY8UDvdHnLwjNAS8" %}
 
-Wieder am *São Bento* Bahnhof mit dem Ticketautomaten kämpfen.
+Wieder am _São Bento_ Bahnhof mit dem Ticketautomaten kämpfen.
 Genug Platz im Zug aber es fehlt eine Befestigungsmöglichkeit für die Räder.
 Die ganze Fahrt danebenstehen.
 
 {% include image.html path="media/panem-et-circenses/radl2.jpg" alt="Eli steht im Zug nach Braga vor den Radln und schaut genervt" link="https://photos.app.goo.gl/apTDkfkpdtv3hANv7" %}
 
-Wohnen an der *Avenida Central*, Räder wie immer in den obersten Stock tragen.
-Zufällig zur richtigen Zeit in *Braga*, es ist *Braga Romana*, im ganzen Stadtzentrum historisches *Reenactment* der Römerzeit.
-*Braga*, vor gut 2.000 Jahren noch *Bracara Augusta*, war Hauptstadt der römischen Provinz *Gallaecia* (das heutige Gebiet von Nordportugal, *Galicia*, *Asturias* und *León*).
+Wohnen an der _Avenida Central_, Räder wie immer in den obersten Stock tragen.
+Zufällig zur richtigen Zeit in _Braga_, es ist _Braga Romana_, im ganzen Stadtzentrum historisches _Reenactment_ der Römerzeit.
+_Braga_, vor gut 2.000 Jahren noch _Bracara Augusta_, war Hauptstadt der römischen Provinz _Gallaecia_ (das heutige Gebiet von Nordportugal, _Galicia_, _Asturias_ und _León_).
 
 {% include image.html path="media/panem-et-circenses/bragaromana.jpg" alt="Ein rotes Banner auf dem Braga Romana steht hängt vor der Kathedrale von Braga" link="https://photos.app.goo.gl/WyaBkacBmYSAXMZr9" %}
 
-Durch die Altstadt zieht sich ein langer Markt, die Marktstandler:innen in Tuniken und Sandalen verkaufen Holzschwerter, Seifen, Magiesteine, Gewürze, Haarkränze, Spanferkel, Baumkuchen, *Crêpes* ...
-Ein Stamperl *Ginja*, einen portugiesischen Likör aus Sauerkirschen aus einem winzigen Tonfasserl trinken.
+Durch die Altstadt zieht sich ein langer Markt, die Marktstandler:innen in Tuniken und Sandalen verkaufen Holzschwerter, Seifen, Magiesteine, Gewürze, Haarkränze, Spanferkel, Baumkuchen, _Crêpes_ ...
+Ein Stamperl _Ginja_, einen portugiesischen Likör aus Sauerkirschen aus einem winzigen Tonfasserl trinken.
 
 {% include video.html path="media/panem-et-circenses/crepe.mp4" link="https://photos.app.goo.gl/GUDn9eU55e3esx9D9" %}
 
-Abseits des Festivals ist *Braga* eine wunderschöne Stadt, ein altertümlicher wirkendes flaches *Porto* ohne *Rio Douro* und mit viel weniger internationalen Tourismus.
+Abseits des Festivals ist _Braga_ eine wunderschöne Stadt, ein altertümlicher wirkendes flaches _Porto_ ohne _Rio Douro_ und mit viel weniger internationalen Tourismus.
 
 {% include image.html path="media/panem-et-circenses/braga.jpg" alt="Verschieden geflieste Häuserfassaden" link="https://photos.app.goo.gl/CYJby6zyyKyzR3vH8" %}
 
@@ -232,7 +232,7 @@ Am Nachmittag dem blutigen Jupiter-Ritual beiwohnen, nachts wilde Feuer-Akrobati
 
 {% include video.html path="media/panem-et-circenses/geburtstag.mp4" caption="Zwei Jahre alt und schon Pistaziencroissant essen" link="https://photos.app.goo.gl/ZpubXmzUYJNVYu6x5" %}
 
-Nach einem Geburtstagsfrühstück zur Kathedrale von *Braga*.
+Nach einem Geburtstagsfrühstück zur Kathedrale von _Braga_.
 Die romanische Kirche ist fast 1.000 Jahre alt, das Interieur passend mystisch schummrig.
 Kontrast schafft eine absurd protzige Chorempore über dem Eingang.
 
@@ -240,7 +240,7 @@ Kontrast schafft eine absurd protzige Chorempore über dem Eingang.
 
 {% include image.html path="media/panem-et-circenses/fenster.jpg" alt="Sonnenlicht fällt durch ein kleines Fenster in der Kathedrale von Braga, darüber eine Holzvertäfelung" link="https://photos.app.goo.gl/ihSt3B8sfLy4Xynx5" %}
 
-Kaffeepause im *Frigideiras do Cantinho*, Postkarten schreiben und den Markttrubel beobachten.
+Kaffeepause im _Frigideiras do Cantinho_, Postkarten schreiben und den Markttrubel beobachten.
 Das Mittagessen dem ausgiebigen Frühstück wegen ausfallen lassen.
 Am Nachmittag zum Waschsalon.
 
@@ -248,15 +248,15 @@ Am Nachmittag zum Waschsalon.
 
 Am Abend marschiert ein endloser Triumphzug durch die Altstadt.
 Legionäre und Prätorianer führen die Kolonne an.
-Es folgt jede und jeder der irgendwie bei der *Braga Romana* beteiligt war.
+Es folgt jede und jeder der irgendwie bei der _Braga Romana_ beteiligt war.
 Wie sich endlich alle zur Schau gestellt haben werden die Absperrungen entfernt und wir gelangen in die Cocktailbar auf der anderen Straßenseite.
-Zwei *Negroni* auf Kathis Geburtstag.
+Zwei _Negroni_ auf Kathis Geburtstag.
 
 {% include video.html path="media/panem-et-circenses/legion.mp4" caption="Salve!" link="https://photos.app.goo.gl/dThzUXUSqH9czH9x5" %}
 
-Vorm Schlafengehen noch zur *Praça do Pópulo*.
+Vorm Schlafengehen noch zur _Praça do Pópulo_.
 In Scheinwerferlicht und ohrenbetäubendem Moderatorgeschrei werden Wagenrennen und Gladiatorenkämpfe inszeniert.
-*Reenactment*-gesättigt heimgehen.
+_Reenactment_-gesättigt heimgehen.
 
 {% include image.html path="media/panem-et-circenses/circus.jpg" alt="Circus Maximus Inszenierung mit Scheinwerfer und Projektion auf der Praça do Pópulo in Braga" link="https://photos.app.goo.gl/GxnPcR3GuV812vjt6" %}
 

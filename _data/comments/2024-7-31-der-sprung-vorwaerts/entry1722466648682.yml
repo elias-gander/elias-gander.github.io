@@ -1,6 +1,6 @@
-_id: 429c9e20-4f90-11ef-bb01-ddae0cf5dbc7
+id: 429c9e20-4f90-11ef-bb01-ddae0cf5dbc7
 name: Eli
-message: "Ha sel stimmp \U0001F9D1‍\U0001F4BB"
+text: Ha sel stimmp 🧑‍💻
 email: ''
-parentId: 8ae3a6e0-4f83-11ef-bb01-ddae0cf5dbc7
-date: 1722466648
+parent_id: 8ae3a6e0-4f83-11ef-bb01-ddae0cf5dbc7
+timestamp: 1722466648

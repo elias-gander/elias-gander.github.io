@@ -1,6 +1,7 @@
-_id: 8b2ba290-5016-11ef-bb01-ddae0cf5dbc7
+id: 8b2ba290-5016-11ef-bb01-ddae0cf5dbc7
 name: Dad
-message: "Vinschger Geschichte in Glasgow\U0001F62F Nichtraucherzimmer\U0001F6AD gibt es bitte auch Nichtschnarcherzimmer \U0001F634\U0001F609\U0001F340\U0001F33B\U0001F917"
+text: Vinschger Geschichte in Glasgow😯 Nichtraucherzimmer🚭 gibt es bitte auch Nichtschnarcherzimmer
+  😴😉🍀🌻🤗
 email: ''
-parentId: ''
-date: 1722524323
+parent_id: ''
+timestamp: 1722524323

@@ -1,6 +1,6 @@
-_id: c4f85d40-22b9-11ef-bb01-ddae0cf5dbc7
+id: c4f85d40-22b9-11ef-bb01-ddae0cf5dbc7
 name: Katharina
-message: "Vielen lieben Dank \U0001F60A \U0001F490"
+text: Vielen lieben Dank 😊 💐
 email: ''
-parentId: b0694700-1f57-11ef-bb01-ddae0cf5dbc7
-date: 1717536674
+parent_id: b0694700-1f57-11ef-bb01-ddae0cf5dbc7
+timestamp: 1717536674

@@ -1,6 +1,10 @@
-_id: 9e974ca0-647d-11ef-bb01-ddae0cf5dbc7
+id: 9e974ca0-647d-11ef-bb01-ddae0cf5dbc7
 name: Dad
-message: "Eine wirklich rauhe Gegend und doch so viele Touris allen Alters\r\nDer Wind hat auch manchmal etwas gutes \U0001F99F☀️\U0001F6B4‍♂️\r\nDer grobe Teer frisst Reifenprofil\r\nUnd nie krank bei der Kälte Meerluft?\r\nGott sei Dank alles gut geradelt\r\nRespekt vor so viel geistigem und körperlichen \r\nBiss \U0001F44F\U0001F44F\U0001F44F\r\nDanke für die tollen\r\nReiseberichte \U0001F44B"
+text: "Eine wirklich rauhe Gegend und doch so viele Touris allen Alters\r\nDer Wind\
+  \ hat auch manchmal etwas gutes \U0001F99F☀️\U0001F6B4‍♂️\r\nDer grobe Teer frisst\
+  \ Reifenprofil\r\nUnd nie krank bei der Kälte Meerluft?\r\nGott sei Dank alles gut\
+  \ geradelt\r\nRespekt vor so viel geistigem und körperlichen \r\nBiss \U0001F44F\
+  \U0001F44F\U0001F44F\r\nDanke für die tollen\r\nReiseberichte \U0001F44B"
 email: ''
-parentId: ''
-date: 1724767617
+parent_id: ''
+timestamp: 1724767617

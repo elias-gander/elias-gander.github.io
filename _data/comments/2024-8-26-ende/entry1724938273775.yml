@@ -1,6 +1,7 @@
-_id: f5dde1c0-660a-11ef-bb01-ddae0cf5dbc7
+id: f5dde1c0-660a-11ef-bb01-ddae0cf5dbc7
 name: Dad
-message: "Und ein großes Dankeschön all den netten, hilfsbereiten und interessanten Menschen denen Kati und du begegnet\r\nseit ♥️\U0001F490\U0001F917"
+text: "Und ein großes Dankeschön all den netten, hilfsbereiten und interessanten Menschen\
+  \ denen Kati und du begegnet\r\nseit ♥️\U0001F490\U0001F917"
 email: ''
-parentId: ''
-date: 1724938273
+parent_id: ''
+timestamp: 1724938273

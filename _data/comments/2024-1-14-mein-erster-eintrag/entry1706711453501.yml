@@ -1,5 +1,5 @@
-_id: 566881b0-c045-11ee-ba2a-393ff374c5aa
+id: 566881b0-c045-11ee-ba2a-393ff374c5aa
 name: kathi
-message: 'Wow, zwei elis ♥️'
-parentId: c92c0942-6a68-4d13-82c8-1378c0c687fe
-date: 1706711453
+text: Wow, zwei elis ♥️
+parent_id: c92c0942-6a68-4d13-82c8-1378c0c687fe
+timestamp: 1706711453

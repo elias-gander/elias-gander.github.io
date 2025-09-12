@@ -1,6 +1,6 @@
 ---
 title: "Wiener Straßenquartett"
-tags: [daten, verkehr]
+tags: [Daten, verkehr]
 ---
 
 Am Gürtel an der Ampel stehen.

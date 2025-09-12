@@ -1,6 +1,6 @@
 ---
 title: "Wiener Parkplätze"
-tags: [daten, verkehr]
+tags: [Daten, Verkehr]
 ---
 
 Die Bergsteiggasse in Hernals.
