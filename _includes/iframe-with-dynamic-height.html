@@ -1,0 +1,22 @@
+<iframe
+  id="iframe-with-dynamic-height"
+  src="{{ iframe_src }}"
+  width="100%"
+  frameborder="0"
+></iframe>
+
+<script>
+  function adjustIframeHeight() {
+    var iframe = document.getElementById("iframe-with-dynamic-height");
+    if (iframe && iframe.contentWindow && iframe.contentWindow.document) {
+      iframe.style.height = "0px";
+      iframe.style.height =
+        iframe.contentWindow.document.documentElement.scrollHeight + "px";
+    }
+  }
+
+  var iframeEl = document.getElementById("iframe-with-dynamic-height");
+  iframeEl.onload = adjustIframeHeight;
+
+  window.addEventListener("resize", adjustIframeHeight);
+</script>

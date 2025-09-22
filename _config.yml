@@ -1,0 +1,22 @@
+title: Elis Blog
+author: Elias Gander
+email: eliasgander@icloud.com
+url: https://elias-gander.github.io
+description: Eli schreibt hier seine Gedanken auf
+# theme: jekyll-theme
+remote_theme: elias-gander/jekyll-theme@main
+permalink: /:year-:i_month-:i_day-:slug
+include: ["unrelated"]
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      comments: true
+
+favicon: "favicon.png"
+goat_counter: "eliasgander"
+backend_url: "https://that-popular-git-service-page-backend.fly.dev"
+github_username: "elias-gander"
+about_label: "Eli?"
+recaptcha_site_key: "6LetZtErAAAAAICcBpb4a-ryWnORQmuEMfbiX7M2"
