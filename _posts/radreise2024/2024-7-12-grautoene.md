@@ -97,6 +97,4 @@ Eine Gruppe junger Leute sammelt Treibholz für ein Lagerfeuer.
 
 ---
 
-{: data-content=" Fußnoten "}
-
 [^1]: [Die Simpsons, Staffel 9, Episode 14](https://www.youtube.com/watch?v=qv1Clb_2F9o)

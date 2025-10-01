@@ -141,6 +141,4 @@ Wieder vor den _Mates_ im Bett.
 
 ---
 
-{: data-content=" Fußnoten "}
-
 [^1]: Südtiroler Dialekt für 'klecksen', 'verschütten'

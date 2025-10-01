@@ -154,4 +154,4 @@ Wie viele Parkplätze gibt's in eurer Gasse?
 
 [Vollbildversion]({{ site.baseurl }}/data-visualization/wiener-parkplaetze){:target="\_blank"}
 
-[Repository](https://github.com/elias-gander/WienerParkplaetze){:target="\_blank"}
+[Repository](https://github.com/elias-gander/wiener-parkplaetze){:target="\_blank"}

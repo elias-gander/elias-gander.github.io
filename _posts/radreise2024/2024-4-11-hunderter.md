@@ -118,6 +118,4 @@ Städte besichtigen ist anstrengender als Radln.
 
 ---
 
-{: data-content=" Fußnoten "}
-
 [^1]: Wikipedia-Artikel zu [Horchata](https://de.wikipedia.org/wiki/Horchata)

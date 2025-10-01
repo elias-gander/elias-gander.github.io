@@ -40,7 +40,7 @@ Viel Spaß beim Durchblättern!
 
 [Vollbildversion]({{ site.baseurl }}/data-visualization/wiener-strassenquartett){:target="\_blank"}
 
-[Repository](https://github.com/elias-gander/WienerStrassenquartett){:target="\_blank"}
+[Repository](https://github.com/elias-gander/wiener-strassenquartett){:target="\_blank"}
 
 Und so wurds gemacht:
 

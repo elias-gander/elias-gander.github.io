@@ -91,6 +91,4 @@ Ich bin gespannt auf die Fahrradsituation in Barcelona.
 
 ---
 
-{: data-content=" Fußnoten "}
-
 [^1]: La città vecchia, Fabrizio De André ([Apple Music](https://music.apple.com/at/album/la-citt%C3%A0-vecchia/270320375?i=270320665&l=en-GB), [Spotify](https://open.spotify.com/track/6yD3a5FqzQjUC8oHVOiPQv?si=ea4199cf23184b2c))

@@ -52,13 +52,11 @@ Trial and error.
 
 Alles weitere im:
 
-[Repository](https://github.com/elias-gander/WienerStrassenbaeume){:target="\_blank"} und Jupyter Notebook:
+[Repository](https://github.com/elias-gander/wiener-strassenbaeume){:target="\_blank"} und Jupyter Notebook:
 
 <iframe src="{{ site.baseurl }}/data-visualization/wiener-strassenbaeume/notebook.html" width="100%" height="600px" style="border:none;"></iframe>
 
 ---
-
-{: data-content=" Fußnoten "}
 
 [^1]: [Öffentlich zugängliche Grünflächen - Analyse](https://www.wien.gv.at/umweltschutz/umweltgut/oeffentlich.html)
 [^2]: Der Datensatz ist ein Graph aus Straßenlinien und -knoten. Die Straßenbreite ist leider nur für gut die Hälfte der Abschnitte vorhanden. Für alle anderen nehme ich den Median der vorhandenen Straßenbreiten.

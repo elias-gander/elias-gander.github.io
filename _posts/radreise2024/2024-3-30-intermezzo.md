@@ -99,6 +99,4 @@ Stockfinster die Abfahrt nach Tortosa.
 
 ---
 
-{: data-content=" Fußnoten "}
-
 [^1]: DeepL Übersetzung eines [spanischen Wikipedia Eintrags](<https://es.wikipedia.org/wiki/Dip_(mitología)>)

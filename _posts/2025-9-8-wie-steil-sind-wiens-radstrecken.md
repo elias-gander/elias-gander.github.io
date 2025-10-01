@@ -43,10 +43,8 @@ Der Ansatz ausführlich dokumentiert im Jupyter Notebook:
 
 <iframe src="{{ site.baseurl }}/data-visualization/wie-steil-sind-wiens-radstrecken/notebook.html" width="100%" height="600px" style="border:none;"></iframe>
 
-Alles Weitere im [Repository](https://github.com/elias-gander/WieSteilSindWiensRadstrecken){:target="\_blank"}
+Alles Weitere im [Repository](https://github.com/elias-gander/wie-steil-sind-wiens-radstrecken){:target="\_blank"}
 
 ---
-
-{: data-content=" Fußnoten "}
 
 [^1]: [Geländemodell Produktinformation](https://www.wien.gv.at/stadtentwicklung/stadtvermessung/geodaten/dgm/produkt.html)

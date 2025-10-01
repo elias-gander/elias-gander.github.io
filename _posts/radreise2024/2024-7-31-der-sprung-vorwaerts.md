@@ -194,6 +194,4 @@ Schleichen überflüssig.
 
 ---
 
-{: data-content=" Fußnoten "}
-
 [^1]: Im Südtiroler Dialekt hat das Wort 'frisch' die zusätzliche Bedeutung 'gleich'.

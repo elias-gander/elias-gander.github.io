@@ -246,6 +246,4 @@ Spätabends in der _Shed_ nebenan den Schlafsack ausbreiten.
 
 ---
 
-{: data-content=" Fußnoten "}
-
 [^1]: Klo
