@@ -3,7 +3,7 @@ author: Elias Gander
 email: eliasgander@icloud.com
 url: https://elias-gander.github.io
 description: Eli schreibt hier seine Gedanken auf
-# theme: jekyll-theme
+#theme: jekyll-theme
 remote_theme: elias-gander/jekyll-theme@main
 permalink: /:year-:i_month-:i_day-:slug
 include: ["unrelated"]
