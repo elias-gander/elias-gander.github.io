@@ -221,7 +221,7 @@ Früher rollten die Züge der _Somerset and Dorset Joint Railway_ durch diese Tu
 {% include tagline.html text="20. Juni 2024" %}
 
 Die meisten Gebäude in _Bath_ bestehen aus beigem Kalkstein, _Bath Stone_.
-In der Mittleren Jura vor gut 150 Jahren liegt die Gegend von _Bath_ unterm Meer, die damaligen Sedimentablagerungen bilden den heutigen Stein.
+In der Mittleren Jura vor gut 150 Millionen Jahren liegt die Gegend von _Bath_ unterm Meer, die damaligen Sedimentablagerungen bilden den heutigen Stein.
 Der _Buckingham Palace_ und auch das Haus in dem wir wohnen sind in _Bath Stone_ gekleidet.
 In der Einfahrt ein riesiger SUV, die Räder kommen in die Garage.
 Ein glatzköpfiger Mann mit breiten gebleichtem Grinser führt ins Zimmer im Obergeschoss mit Blick auf den steril gestalteten Garten.
