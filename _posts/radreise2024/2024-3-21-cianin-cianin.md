@@ -1,6 +1,7 @@
 ---
 title: "Cianin cianin, cosse t’ei sprescia?"
 tags: [Reisen, Fahrrad]
+image: "/media/cianin-cianin/flixbus.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/cevahobose" %}

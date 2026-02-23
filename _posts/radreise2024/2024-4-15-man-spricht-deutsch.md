@@ -1,6 +1,7 @@
 ---
 title: "Man spricht Deutsch"
 tags: [Reisen, Fahrrad]
+image: "/media/man-spricht-deutsch/man-spricht-deutsch.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/dejuzecaze" %}

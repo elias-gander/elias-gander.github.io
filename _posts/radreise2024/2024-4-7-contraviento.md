@@ -1,6 +1,7 @@
 ---
 title: "Contraviento"
 tags: [Reisen, Fahrrad]
+image: "/media/contraviento/pausenspot.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/purebajocu" %}

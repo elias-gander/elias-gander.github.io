@@ -1,6 +1,7 @@
 ---
 title: "Panem et circenses"
 tags: [Reisen, Fahrrad]
+image: "/media/panem-et-circenses/radl.jpg"
 ---
 
 Die vergangene Woche eine knappe Stunde geradlt.

@@ -1,6 +1,7 @@
 ---
 title: "Strandln"
 tags: [Reisen, Fahrrad]
+image: "/media/strandln/eli2.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/hacunalaza" %}

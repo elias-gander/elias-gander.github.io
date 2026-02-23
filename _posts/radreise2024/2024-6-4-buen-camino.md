@@ -1,6 +1,7 @@
 ---
 title: "¡Buen Camino!"
 tags: [Reisen, Fahrrad]
+image: "/media/buen-camino/pass.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/barorepode" %}

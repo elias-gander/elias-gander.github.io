@@ -1,6 +1,7 @@
 ---
 title: "Bogs, Tors and bad weather"
 tags: [Reisen, Fahrrad]
+image: "/media/bogs-tors-and-bad-weather/tor.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/dazetasuvu" %}
@@ -209,4 +210,5 @@ Unter spontanen Stadiongesängen im Pub gewinnt England 1-0, das Tor fällt vor 
 ---
 
 [^1]: [_Dartmoor Factsheet_ zu _Tor Formation_](https://www.dartmoor.gov.uk/__data/assets/pdf_file/0025/72097/lab-tors.pdf)
+
 [^2]: [_Dartmoor Factsheet_ zu _Bogs and Wetlands_](https://www.dartmoor.gov.uk/__data/assets/pdf_file/0017/72107/lab-bogs.pdf)

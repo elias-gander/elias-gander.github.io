@@ -1,6 +1,7 @@
 ---
 title: "Grautöne"
 tags: [Reisen, Fahrrad]
+image: "/media/grautoene/daumen.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/nucasefesa" %}

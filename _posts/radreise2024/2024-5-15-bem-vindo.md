@@ -1,6 +1,7 @@
 ---
 title: "Bem-vindo"
 tags: [Reisen, Fahrrad]
+image: "/media/bem-vindo/ahoi.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/razehogude" %}

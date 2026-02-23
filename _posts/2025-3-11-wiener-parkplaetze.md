@@ -1,6 +1,7 @@
 ---
 title: "Wiener Parkplätze"
 tags: [Daten, Verkehr]
+image: "/media/wiener-parkplaetze/screenshot.png"
 ---
 
 Die Bergsteiggasse in Hernals.

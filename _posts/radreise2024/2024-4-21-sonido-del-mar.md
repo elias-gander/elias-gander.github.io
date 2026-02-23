@@ -1,6 +1,7 @@
 ---
 title: "Sonido del mar"
 tags: [Reisen, Fahrrad]
+image: "/media/sonido/topf.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/hukafubano" %}

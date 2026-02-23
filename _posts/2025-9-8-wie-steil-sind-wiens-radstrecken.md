@@ -1,6 +1,7 @@
 ---
 title: "Wie steil sind Wiens Radstrecken?"
 tags: [Daten, Fahrrad]
+image: "/media/wie-steil-sind-wiens-radstrecken/screenshot.png"
 ---
 
 Bergauf radln ist anstrengend:

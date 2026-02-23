@@ -1,6 +1,7 @@
 ---
 title: "Wie breit sind Wiens Fahrrad-Einbahnen?"
 tags: [Daten, Fahrrad]
+image: "/media/wie-breit-sind-wiens-fahrrad-einbahnen/screenshot.png"
 ---
 
 Am 6. Juli 2022 beschließt die damalige Bundesregierung die 33. StVO-Novelle.

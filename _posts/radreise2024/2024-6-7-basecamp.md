@@ -1,6 +1,7 @@
 ---
 title: "Basecamp"
 tags: [Reisen, Fahrrad]
+image: "/media/basecamp/hundi.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/kelufeteke" %}

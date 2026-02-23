@@ -1,6 +1,7 @@
 ---
 title: "Der Sprung vorwärts"
 tags: [Reisen, Fahrrad]
+image: "/media/der-sprung-vorwaerts/tickets.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/nalamumota" %}

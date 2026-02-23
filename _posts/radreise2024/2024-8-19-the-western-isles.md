@@ -1,6 +1,7 @@
 ---
 title: "The Western Isles"
 tags: [Reisen, Fahrrad]
+image: "/media/the-western-isles/sitzen.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/luhaseluva" %}

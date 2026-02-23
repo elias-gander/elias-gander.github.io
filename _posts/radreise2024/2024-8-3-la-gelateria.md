@@ -1,6 +1,7 @@
 ---
 title: "La Gelateria"
 tags: [Reisen, Fahrrad]
+image: "/media/la-gelateria/leowohnzimmer.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/dofecomaru" %}

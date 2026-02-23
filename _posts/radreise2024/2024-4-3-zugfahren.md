@@ -1,6 +1,7 @@
 ---
 title: "Zugfahren"
 tags: [Reisen, Fahrrad]
+image: "/media/zugfahren/tunnel.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/hahunutuze" %}

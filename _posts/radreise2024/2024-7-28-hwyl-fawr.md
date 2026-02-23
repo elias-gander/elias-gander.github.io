@@ -1,6 +1,7 @@
 ---
 title: "Hwyl fawr"
 tags: [Reisen, Fahrrad]
+image: "/media/hwyl-fawr/socken.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/noromubare" %}

@@ -1,6 +1,7 @@
 ---
 title: "Intermezzo"
 tags: [Reisen, Fahrrad]
+image: "/media/intermezzo/patschen.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/gakojodedu" %}

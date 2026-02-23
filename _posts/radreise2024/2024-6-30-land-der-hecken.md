@@ -1,6 +1,7 @@
 ---
 title: "Land der Hecken"
 tags: [Reisen, Fahrrad]
+image: "/media/land-der-hecken/aussicht.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/mafuvamozu" %}

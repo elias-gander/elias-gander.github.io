@@ -1,6 +1,7 @@
 ---
 title: "Côf a lithr, llythyrau a geidw"
 tags: [Reisen, Fahrrad]
+image: "/media/cof-a-lithr/colliers.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/jotohukeda" %}

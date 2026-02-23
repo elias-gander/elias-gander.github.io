@@ -1,6 +1,7 @@
 ---
 title: "Glens, Bens und Midges"
 tags: [Reisen, Fahrrad]
+image: "/media/glens-bens-und-midges/abendsonne.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/rejosulapo" %}

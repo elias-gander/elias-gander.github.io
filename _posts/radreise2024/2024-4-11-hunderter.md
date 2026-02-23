@@ -1,6 +1,7 @@
 ---
 title: "Hunderter"
 tags: [Reisen, Fahrrad]
+image: "/media/hunderter/albarracin.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/hujocogeba" %}

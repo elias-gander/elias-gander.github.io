@@ -1,6 +1,7 @@
 ---
 title: "Die letzte Bratwurst vor Amerika"
 tags: [Reisen, Fahrrad]
+image: "/media/die-letzte-bratwurst/wurst.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/rasenuhone" %}

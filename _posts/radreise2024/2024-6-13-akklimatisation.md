@@ -1,6 +1,7 @@
 ---
 title: "Akklimatisation"
 tags: [Reisen, Fahrrad]
+image: "/media/akklimatisation/schnecke.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/hotevazejo" %}

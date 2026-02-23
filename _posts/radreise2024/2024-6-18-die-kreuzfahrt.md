@@ -1,6 +1,7 @@
 ---
 title: "Die Kreuzfahrt"
 tags: [Reisen, Fahrrad]
+image: "/media/die-kreuzfahrt/pool.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/garubasojo" %}

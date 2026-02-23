@@ -1,6 +1,7 @@
 ---
 title: "Baba Wien"
 tags: [Reisen, Fahrrad]
+image: "/media/baba-wien/gepaeck.jpg"
 ---
 
 Wie fein wärs wenns einen nie woanders hinziehen würd?\

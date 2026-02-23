@@ -1,6 +1,7 @@
 ---
 title: "In einer Mulde weißer Haseln"
 tags: [Reisen, Fahrrad]
+image: "/media/in-einer-mulde/gogogo.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/helonumoho" %}

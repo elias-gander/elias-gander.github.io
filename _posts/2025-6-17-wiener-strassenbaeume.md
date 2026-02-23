@@ -1,6 +1,7 @@
 ---
 title: "Wiener Straßenbäume"
 tags: [Daten, Begrünung]
+image: "/media/wiener-strassenbaeume/screenshot.png"
 ---
 
 Gut 226.000 Bäume in Wien, so der Wiener [Baumkataster](https://www.data.gv.at/katalog/de/dataset/stadt-wien_baumkatasterderstadtwien).
@@ -59,4 +60,5 @@ Alles weitere im:
 ---
 
 [^1]: [Öffentlich zugängliche Grünflächen - Analyse](https://www.wien.gv.at/umweltschutz/umweltgut/oeffentlich.html)
+
 [^2]: Der Datensatz ist ein Graph aus Straßenlinien und -knoten. Die Straßenbreite ist leider nur für gut die Hälfte der Abschnitte vorhanden. Für alle anderen nehme ich den Median der vorhandenen Straßenbreiten.

@@ -1,6 +1,7 @@
 ---
 title: "Abschied"
 tags: [Reisen, Fahrrad]
+image: "/media/abschied/telefon.jpg"
 ---
 
 {% include map.html url="https://en.frame.mapy.cz/s/dujupamane" %}
