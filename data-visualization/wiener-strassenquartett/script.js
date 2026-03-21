@@ -1,4 +1,10 @@
-const zstIdsWithPhoto = [1078, 1607, 1621, 1222, 1204, 1625, 1214, 1217, 1203, 1210, 1131, 1220, 1205, 1616, 1615, 1170, 1627, 1213]
+import { createApp, reactive } from "https://unpkg.com/petite-vue?module";
+
+const zstIdsWithPhoto = [
+  1078, 1607, 1621, 1222, 1204, 1625, 1214, 1217, 1203, 1210, 1131, 1220, 1205,
+  1616, 1615, 1170, 1627, 1213, 1075, 1089, 1096, 1206, 1209, 1219, 1223, 1600,
+  1613, 1614,
+];
 const map = L.map("map", {
   center: [48.2082, 16.3738],
   zoom: 12,
@@ -10,7 +16,7 @@ const map = L.map("map", {
   ],
   tap: false,
   zoomControl: false,
-  attributionControl: false
+  attributionControl: false,
 });
 const markers = L.markerClusterGroup({
   maxClusterRadius: 30,
@@ -18,142 +24,134 @@ const markers = L.markerClusterGroup({
     color: "red",
   },
 });
-const infosLink = document.getElementById("infos-link");
-const infos = document.getElementById("infos");
-const card = document.getElementById("card");
-const noPhotoWatermark = document.getElementById("no-photo-watermark");
-var openCardZstId = undefined;
+let currentSelectedMarker = null;
 
-async function showCard(record) {
-  card.style.visibility = "visible";
+window.App = reactive({
+  selectedRecord: null,
+  isCardPresented: false,
+  isInfosPresented: false,
 
-  openCardZstId = record.ZST_ID;
-  const hasPhoto = zstIdsWithPhoto.includes(record.ZST_ID);
-  if (!hasPhoto) {
-    noPhotoWatermark.style.visibility = "visible";
-  } else {
-    noPhotoWatermark.style.visibility = "hidden";
-  }
+  get hasPhoto() {
+    return zstIdsWithPhoto.includes(this.selectedRecord?.ZST_ID);
+  },
+  get photoSrc() {
+    return `assets/photos/${this.hasPhoto ? this.selectedRecord?.ZST_ID : "placeholder"}.jpg`;
+  },
+  get bezirkswappenSrc() {
+    return `assets/bezirkswappen/pngs/${this.selectedRecord?.PLZ ?? "1010"}.png`;
+  },
+  get dtvms() {
+    return (Math.round(this.selectedRecord?.DTVMS / 100) * 100)
+      .toLocaleString("de-AT")
+      .replace(".", " ");
+  },
+  get trend() {
+    return (
+      (this.selectedRecord?.TREND > 0 ? "+" : "") +
+      (this.selectedRecord?.TREND * 100).toLocaleString("de-AT", {
+        maximumFractionDigits: 1,
+      }) +
+      " %"
+    );
+  },
+  get lkwratio() {
+    return (
+      (this.selectedRecord?.LKWRATIO * 100).toLocaleString("de-AT", {
+        maximumFractionDigits: 1,
+      }) + " %"
+    );
+  },
 
-  document.getElementById("category-id").textContent = record.CATEGORY_ID;
-  document.getElementById("category").textContent = record.CATEGORY;
-  document.getElementById("photo").src =  
-    "assets/photos/" + (hasPhoto ? record.ZST_ID : "placeholder") + ".jpg";
-  await waitForImage(document.getElementById("photo"));
-  document.getElementById("location-name").textContent = record.ZST_NAME;
-  document.getElementById("description").textContent = record.DESCRIPTION;
-  document.getElementById("plz").textContent = record.PLZ;
-  document.getElementById("bezirkswappen").src =
-    "assets/bezirkswappen/pngs/" + record.PLZ + ".png";
-  await waitForImage(document.getElementById("bezirkswappen"));
-  document.getElementById("link-1").textContent = record.LINK1;
-  document.getElementById("link-2").textContent = record.LINK2;
-  document.getElementById("link-3").textContent = record.LINK3;
-  document.getElementById("dtvms").textContent = (
-    Math.round(record.DTVMS / 100) * 100
-  )
-    .toLocaleString("de-AT")
-    .replace(".", " ");
-  document.getElementById("lkwratio").textContent =
-    (record.LKWRATIO * 100).toLocaleString("de-AT", {
-      maximumFractionDigits: 1,
-    }) + " %";
-  document.getElementById("trend").textContent =
-    (record.TREND > 0 ? "+" : "") +
-    (record.TREND * 100).toLocaleString("de-AT", {
-      maximumFractionDigits: 1,
-    }) +
-    " %";
-  document.getElementById("lanes").textContent = record.LANES;
-  
-  card.classList.remove("flipped");
-}
+  async showCard(record) {
+    this.isCardPresented = true;
+    const startTime = Date.now();
+    await waitForImage(document.getElementById("photo"));
+    await waitForImage(document.getElementById("bezirkswappen"));
+    const elapsedTime = Date.now() - startTime;
+    const remainingDelay = Math.max(0, 250 - elapsedTime);
+    await await new Promise((r) => setTimeout(r, remainingDelay));
+    this.selectedRecord = record;
+  },
+  async hideCard() {
+    this.selectedRecord = null;
+    await await new Promise((r) => setTimeout(r, 250));
+    this.isCardPresented = false;
+  },
+});
+createApp(window.App).mount();
 
 function waitForImage(imgElem) {
-    return new Promise(res => {
-        if (imgElem.complete) {
-            return res();
-        }
-        imgElem.onload = () => res();
-        imgElem.onerror = () => res();
-    });
+  return new Promise((res) => {
+    if (imgElem.complete) {
+      return res();
+    }
+    imgElem.onload = () => res();
+    imgElem.onerror = () => res();
+  });
 }
 
-function hideCard() {
-  openCardZstId = undefined;
-  card.classList.add("flipped");
-  setTimeout(() => (card.style.visibility = "hidden"), 250);
-}
-
-function deselectAllMarkers() {
-  Array.from(document.getElementsByClassName("crosshair-icon")).forEach(marker => marker.classList.remove("selected"));
+function createMarkerIcon(label, isSelected) {
+  return L.divIcon({
+    className: "marker-icon",
+    html: `
+      <svg viewBox="0 0 50 24" width="50" height="24" xmlns="http://www.w3.org/2000/svg">
+        <text x="50%" y="56%" text-anchor="middle" dominant-baseline="middle" font-family="Orbitron, sans-serif" font-size="20" font-weight="1000" fill="${isSelected ? "white" : "red"}" stroke="${isSelected ? "red" : "white"}" stroke-width="5" paint-order="stroke"}>
+          ${label}
+        </text>
+      </svg>
+    `,
+    iconSize: [50, 24],
+    iconAnchor: [25, 12],
+  });
 }
 
 L.tileLayer(
   "https://tiles-eu.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}{r}.png?api_key=9cb5a2cf-4b74-4e87-ade1-320768b874d4",
   {
     maxZoom: 18,
-  }
+  },
 ).addTo(map);
 
-import data from "./quartett.json" with { type: "json"};
+import data from "./quartett.json" with { type: "json" };
 data.forEach((record) => {
-  const crosshairIcon = L.divIcon({
-    className: "crosshair-icon",
-    html: `<svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
-      <rect style="fill:white" width="100%" height="20%" x="0%" y="40%" />
-      <rect style="fill:white" width="20%" height="100%" x="40%" y="0%" />
-      <rect style="fill:red" width="90%" height="10%" x="5%" y="45%" />
-      <rect style="fill:red" width="10%" height="90%" x="45%" y="5%" />
-    </svg>`,
-    iconSize: [28, 28],
-    iconAnchor: [14, 14],
-  });
-
   const marker = L.marker(
     [parseFloat(record.LATITUDE), parseFloat(record.LONGITUDE)],
-    {
-      icon: crosshairIcon,
-    }
+    {},
   );
-
-  marker.on("click", (e) => {
+  marker.categoryId = record.CATEGORY_ID;
+  marker.setIcon(createMarkerIcon("?", false));
+  marker.on("click", async (e) => {
     e.originalEvent.stopPropagation();
-    if (openCardZstId === record.ZST_ID) {
+    if (App.selectedRecord?.ZST_ID === record.ZST_ID) {
       return;
     }
 
-    deselectAllMarkers();
-    if (openCardZstId) {
-      hideCard();
-      setTimeout(() => {
-        e.target._icon.classList.add("selected");
-        showCard(record)
-      }, 250);
-    } else {
-      e.target._icon.classList.add("selected");
-      showCard(record);
+    marker.setIcon(createMarkerIcon(record.CATEGORY_ID, true));
+    if (currentSelectedMarker) {
+      currentSelectedMarker.setIcon(
+        createMarkerIcon(currentSelectedMarker.categoryId, false),
+      );
+      currentSelectedMarker = null;
+      await App.hideCard();
     }
+
+    currentSelectedMarker = marker;
+    await App.showCard(record);
   });
 
   markers.addLayer(marker);
 });
 map.addLayer(markers);
 
-document.addEventListener("click", (event) => {
-  if (!card.contains(event.target)) {
-    hideCard();
-    deselectAllMarkers();
-  }
-});
-
-infosLink.addEventListener("click", (event) => {
-  event.stopPropagation();
-  if (infos.classList.contains("visible")) {
-    infos.classList.remove("visible");
-    infosLink.textContent = "?";
-  } else {
-    infos.classList.add("visible");
-    infosLink.textContent = "X";
+document.addEventListener("click", async (event) => {
+  const cardContainer = document.getElementById("card-container");
+  if (!cardContainer.contains(event.target)) {
+    await App.hideCard();
+    if (currentSelectedMarker) {
+      currentSelectedMarker.setIcon(
+        createMarkerIcon(currentSelectedMarker.categoryId, false),
+      );
+      currentSelectedMarker = null;
+    }
   }
 });

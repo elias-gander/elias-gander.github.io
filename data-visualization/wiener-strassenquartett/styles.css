@@ -38,12 +38,6 @@ body {
   width: 100dvw;
   height: 100dvh;
 }
-.crosshair-icon svg {
-  transition: transform 0.3s;
-}
-.crosshair-icon.selected svg {
-  transform: rotate(45deg);
-}
 
 .marker-cluster span {
   font-weight: bold;
@@ -100,7 +94,9 @@ body {
   right: 10px;
   margin-left: 10px;
   padding: 15px 40px 15px 15px;
-  transition: opacity 0.3s, visibility 0.3s;
+  transition:
+    opacity 0.3s,
+    visibility 0.3s;
   max-width: 400px;
   background: black;
   color: white;
@@ -150,7 +146,6 @@ body {
   transform-style: preserve-3d;
   pointer-events: auto;
   transition: transform 0.3s;
-  visibility: hidden;
 }
 
 #card.flipped {

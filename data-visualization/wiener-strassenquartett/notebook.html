@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>quartett</title><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script><script type="module">
+<title>notebook</title><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script><script type="module">
   import mermaid from 'https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs';
   mermaid.initialize({ startOnLoad: true });
 </script>
@@ -13098,14 +13098,14 @@ div#notebook {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Z%C3%A4hlstellen">Zählstellen<a class="anchor-link" href="#Z%C3%A4hlstellen">¶</a></h2><p>Das sind die Stellen in der Stadt an denen Verkehrsaufkommen gemessen wird.<br/>
-Quelle: <a href="https://www.data.gv.at/katalog/dataset/4707e82a-154f-48b2-864c-89fffc6334e1">https://www.data.gv.at/katalog/dataset/4707e82a-154f-48b2-864c-89fffc6334e1</a><br/>
+Quelle: <a href="https://www.data.gv.at/datasets/3d66f423-def8-467e-af82-2fa98146b967">https://www.data.gv.at/datasets/3d66f423-def8-467e-af82-2fa98146b967</a><br/>
 Abgerufen: 18.05.2025</p>
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [2]:</div>
+<div class="prompt input_prompt">In [44]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
@@ -13119,7 +13119,7 @@ Abgerufen: 18.05.2025</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[2]:</div>
+<div class="prompt output_prompt">Out[44]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -13156,8 +13156,8 @@ Abgerufen: 18.05.2025</p>
 <tbody>
 <tr>
 <th>0</th>
-<td>DAUERZAEHLOGD.507937</td>
-<td>507937</td>
+<td>DAUERZAEHLOGD.558646</td>
+<td>558646</td>
 <td>POINT (16.379336322827115 48.292896928422145)</td>
 <td>1194</td>
 <td>Prager Straße</td>
@@ -13172,8 +13172,8 @@ Abgerufen: 18.05.2025</p>
 </tr>
 <tr>
 <th>1</th>
-<td>DAUERZAEHLOGD.507938</td>
-<td>507938</td>
+<td>DAUERZAEHLOGD.558647</td>
+<td>558647</td>
 <td>POINT (16.341178158960396 48.135722503775334)</td>
 <td>1201</td>
 <td>Vorarlberger Allee Ost</td>
@@ -13188,8 +13188,8 @@ Abgerufen: 18.05.2025</p>
 </tr>
 <tr>
 <th>2</th>
-<td>DAUERZAEHLOGD.507939</td>
-<td>507939</td>
+<td>DAUERZAEHLOGD.558648</td>
+<td>558648</td>
 <td>POINT (16.33910997225494 48.13491173912837)</td>
 <td>1202</td>
 <td>Spange Vösendorf</td>
@@ -13204,8 +13204,8 @@ Abgerufen: 18.05.2025</p>
 </tr>
 <tr>
 <th>3</th>
-<td>DAUERZAEHLOGD.507940</td>
-<td>507940</td>
+<td>DAUERZAEHLOGD.558649</td>
+<td>558649</td>
 <td>POINT (16.317131840072264 48.163835316772314)</td>
 <td>1207</td>
 <td>Altmannsdorfer Straße II</td>
@@ -13220,8 +13220,8 @@ Abgerufen: 18.05.2025</p>
 </tr>
 <tr>
 <th>4</th>
-<td>DAUERZAEHLOGD.507941</td>
-<td>507941</td>
+<td>DAUERZAEHLOGD.558650</td>
+<td>558650</td>
 <td>POINT (16.338386633791632 48.13637270019372)</td>
 <td>1200</td>
 <td>Vorarlberger Allee West</td>
@@ -13251,7 +13251,7 @@ Hier nicht relevant, deshalb entfernen.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [3]:</div>
+<div class="prompt input_prompt">In [45]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlstellen</span> <span class="o">=</span> <span class="n">zaehlstellen</span><span class="p">[</span><span class="n">zaehlstellen</span><span class="p">[</span><span class="s1">'GERAETEART'</span><span class="p">]</span> <span class="o">!=</span> <span class="s1">'R_SG'</span><span class="p">]</span>
@@ -13271,7 +13271,7 @@ Abgerufen 18.05.2025</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [4]:</div>
+<div class="prompt input_prompt">In [46]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">lanes_mapping</span> <span class="o">=</span> <span class="p">{</span>
@@ -13360,7 +13360,7 @@ Abgerufen 18.05.2025</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[4]:</div>
+<div class="prompt output_prompt">Out[46]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -13432,7 +13432,7 @@ Dafür Wien-Geschichte-Wiki-Artikel (<a href="https://www.geschichtewiki.wien.gv
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [5]:</div>
+<div class="prompt input_prompt">In [47]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">description_mapping</span> <span class="o">=</span> <span class="p">{</span>
@@ -13522,7 +13522,7 @@ Dafür Wien-Geschichte-Wiki-Artikel (<a href="https://www.geschichtewiki.wien.gv
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[5]:</div>
+<div class="prompt output_prompt">Out[47]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -13594,7 +13594,7 @@ Auf separate Long- und Lat-Spalten verteilen.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [6]:</div>
+<div class="prompt input_prompt">In [48]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlstellen</span><span class="p">[</span><span class="s1">'LATITUDE'</span><span class="p">]</span> <span class="o">=</span> <span class="n">zaehlstellen</span><span class="p">[</span><span class="s1">'SHAPE'</span><span class="p">]</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="nb">float</span><span class="p">(</span><span class="n">x</span><span class="p">[</span><span class="mi">7</span><span class="p">:]</span><span class="o">.</span><span class="n">split</span><span class="p">()[</span><span class="mi">1</span><span class="p">][:</span><span class="o">-</span><span class="mi">1</span><span class="p">]))</span>
@@ -13607,7 +13607,7 @@ Auf separate Long- und Lat-Spalten verteilen.</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[6]:</div>
+<div class="prompt output_prompt">Out[48]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -13679,7 +13679,7 @@ Dafür PLZ der Zählstellenkoordinate ermitteln.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [7]:</div>
+<div class="prompt input_prompt">In [49]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">joblib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Memory</span>
@@ -13718,7 +13718,7 @@ Dafür PLZ der Zählstellenkoordinate ermitteln.</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[7]:</div>
+<div class="prompt output_prompt">Out[49]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -13783,7 +13783,7 @@ Dafür PLZ der Zählstellenkoordinate ermitteln.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [8]:</div>
+<div class="prompt input_prompt">In [50]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlstellen</span><span class="p">[</span><span class="o">~</span><span class="n">zaehlstellen</span><span class="p">[</span><span class="s1">'PLZ'</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'1'</span><span class="p">)]</span>
@@ -13794,7 +13794,7 @@ Dafür PLZ der Zählstellenkoordinate ermitteln.</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[8]:</div>
+<div class="prompt output_prompt">Out[50]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -13859,7 +13859,7 @@ Abgerufen: 18.05.2025</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [9]:</div>
+<div class="prompt input_prompt">In [51]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">"datasets/zaehlungen.csv"</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s2">"latin"</span><span class="p">,</span> <span class="n">sep</span><span class="o">=</span><span class="s2">";"</span><span class="p">)</span>
@@ -13871,7 +13871,7 @@ Abgerufen: 18.05.2025</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[9]:</div>
+<div class="prompt output_prompt">Out[51]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -13912,103 +13912,103 @@ Abgerufen: 18.05.2025</p>
 <tbody>
 <tr>
 <th>0</th>
-<td>2024</td>
-<td>DEZ.</td>
+<td>2025</td>
+<td>MÄRZ</td>
 <td>1075</td>
 <td>Reichsbrücke</td>
 <td>B</td>
 <td>8</td>
 <td>Leopoldstadt</td>
 <td>Kfz</td>
-<td>17629</td>
-<td>20578</td>
-<td>18756</td>
-<td>21370</td>
-<td>20676</td>
-<td>14684</td>
-<td>10886</td>
-<td>26516</td>
-<td>Do,05.12.</td>
+<td>26977</td>
+<td>28544</td>
+<td>28550</td>
+<td>28126</td>
+<td>29791</td>
+<td>24767</td>
+<td>22602</td>
+<td>47760</td>
+<td>Do,27.03.</td>
 </tr>
 <tr>
 <th>1</th>
-<td>2024</td>
-<td>DEZ.</td>
+<td>2025</td>
+<td>MÄRZ</td>
 <td>1075</td>
 <td>Reichsbrücke</td>
 <td>B</td>
 <td>8</td>
 <td>Leopoldstadt</td>
 <td>LkwÄ</td>
-<td>552</td>
-<td>732</td>
-<td>702</td>
-<td>768</td>
-<td>672</td>
-<td>290</td>
-<td>186</td>
-<td>1076</td>
-<td>Do,05.12.</td>
+<td>1674</td>
+<td>1688</td>
+<td>1846</td>
+<td>1590</td>
+<td>1782</td>
+<td>1657</td>
+<td>1634</td>
+<td>5081</td>
+<td>So,30.03.</td>
 </tr>
 <tr>
 <th>2</th>
-<td>2024</td>
-<td>DEZ.</td>
+<td>2025</td>
+<td>MÄRZ</td>
 <td>1075</td>
 <td>Reichsbrücke</td>
 <td>B</td>
 <td>8</td>
 <td>Donaustadt</td>
 <td>Kfz</td>
-<td>13422</td>
-<td>14907</td>
-<td>14163</td>
-<td>15230</td>
-<td>14950</td>
-<td>12429</td>
-<td>9747</td>
-<td>18146</td>
-<td>*Do,19.12.</td>
+<td>16067</td>
+<td>17416</td>
+<td>16563</td>
+<td>17705</td>
+<td>17615</td>
+<td>14382</td>
+<td>12089</td>
+<td>19871</td>
+<td>Do,20.03.</td>
 </tr>
 <tr>
 <th>3</th>
-<td>2024</td>
-<td>DEZ.</td>
+<td>2025</td>
+<td>MÄRZ</td>
 <td>1075</td>
 <td>Reichsbrücke</td>
 <td>B</td>
 <td>8</td>
 <td>Donaustadt</td>
 <td>LkwÄ</td>
-<td>517</td>
-<td>682</td>
-<td>641</td>
-<td>725</td>
-<td>614</td>
-<td>304</td>
-<td>167</td>
-<td>956</td>
-<td>*Mi,18.12.</td>
+<td>282</td>
+<td>365</td>
+<td>371</td>
+<td>381</td>
+<td>310</td>
+<td>121</td>
+<td>96</td>
+<td>462</td>
+<td>Di,25.03.</td>
 </tr>
 <tr>
 <th>4</th>
-<td>2024</td>
-<td>DEZ.</td>
+<td>2025</td>
+<td>MÄRZ</td>
 <td>1075</td>
 <td>Reichsbrücke</td>
 <td>B</td>
 <td>8</td>
 <td>Gesamt</td>
 <td>Kfz</td>
-<td>31051</td>
-<td>35485</td>
-<td>32919</td>
-<td>36601</td>
-<td>35626</td>
-<td>27112</td>
-<td>20633</td>
-<td>43147</td>
-<td>Do,05.12.</td>
+<td>43044</td>
+<td>45960</td>
+<td>45112</td>
+<td>45831</td>
+<td>47406</td>
+<td>39150</td>
+<td>34691</td>
+<td>66394</td>
+<td>Do,27.03.</td>
 </tr>
 </tbody>
 </table>
@@ -14026,7 +14026,7 @@ Abgerufen: 18.05.2025</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [10]:</div>
+<div class="prompt input_prompt">In [52]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">month_mapping</span> <span class="o">=</span> <span class="p">{</span>
@@ -14044,7 +14044,7 @@ Abgerufen: 18.05.2025</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[10]:</div>
+<div class="prompt output_prompt">Out[52]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -14070,27 +14070,27 @@ Abgerufen: 18.05.2025</p>
 <tbody>
 <tr>
 <th>0</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>Reichsbrücke</td>
 </tr>
 <tr>
 <th>1</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>Reichsbrücke</td>
 </tr>
 <tr>
 <th>2</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>Reichsbrücke</td>
 </tr>
 <tr>
 <th>3</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>Reichsbrücke</td>
 </tr>
 <tr>
 <th>4</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>Reichsbrücke</td>
 </tr>
 </tbody>
@@ -14116,7 +14116,7 @@ Abgerufen: 18.05.2025</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [11]:</div>
+<div class="prompt input_prompt">In [53]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">set</span><span class="p">(</span><span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'ZNR'</span><span class="p">])</span> <span class="o">-</span> <span class="nb">set</span><span class="p">(</span><span class="n">zaehlstellen</span><span class="p">[</span><span class="s1">'ZST_ID'</span><span class="p">])</span>
@@ -14127,7 +14127,7 @@ Abgerufen: 18.05.2025</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[11]:</div>
+<div class="prompt output_prompt">Out[53]:</div>
 <div class="output_text output_subarea output_execute_result">
 <pre>{1185, 1605, 1606}</pre>
 </div>
@@ -14145,7 +14145,7 @@ Welche Zählstellen fehlen?</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [12]:</div>
+<div class="prompt input_prompt">In [54]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">set</span><span class="p">(</span><span class="n">zaehlungen</span><span class="p">[(</span><span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'ZNR'</span><span class="p">]</span> <span class="o">==</span> <span class="mi">1185</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'ZNR'</span><span class="p">]</span> <span class="o">==</span> <span class="mi">1605</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'ZNR'</span><span class="p">]</span> <span class="o">==</span> <span class="mi">1606</span><span class="p">)][</span><span class="s1">'ZNAME'</span><span class="p">])</span>
@@ -14156,7 +14156,7 @@ Welche Zählstellen fehlen?</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[12]:</div>
+<div class="prompt output_prompt">Out[54]:</div>
 <div class="output_text output_subarea output_execute_result">
 <pre>{'Burggasse', 'Leopoldsdorfer Str.', 'Neustiftgasse'}</pre>
 </div>
@@ -14175,7 +14175,7 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [13]:</div>
+<div class="prompt input_prompt">In [55]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlstellen</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">zaehlstellen</span><span class="p">,</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="o">.</span><span class="n">from_records</span><span class="p">([{</span> <span class="s1">'ZST_ID'</span><span class="p">:</span> <span class="mi">1185</span><span class="p">,</span> <span class="s1">'ZST_NAME'</span><span class="p">:</span> <span class="s1">'Neustiftgasse'</span> <span class="p">,</span><span class="s1">'LONGITUDE'</span><span class="p">:</span> <span class="mf">16.34754073472826</span><span class="p">,</span> <span class="s1">'LATITUDE'</span><span class="p">:</span> <span class="mf">48.205706700846775</span><span class="p">,</span> <span class="s1">'PLZ'</span><span class="p">:</span> <span class="mi">1070</span><span class="p">,</span> <span class="s1">'LANES'</span><span class="p">:</span> <span class="mi">2</span> <span class="p">,</span> <span class="s1">'DESCRIPTION'</span><span class="p">:</span> <span class="s1">'Einer der ältesten Verkehrswege Wiens, seit 1862 benannt.'</span> <span class="p">}])])</span>
@@ -14203,7 +14203,7 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [14]:</div>
+<div class="prompt input_prompt">In [56]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="p">[[</span><span class="s1">'DATE'</span><span class="p">,</span> <span class="s1">'ZST_ID'</span><span class="p">,</span> <span class="s1">'ZST_NAME'</span><span class="p">,</span> <span class="s1">'DESCRIPTION'</span><span class="p">,</span> <span class="s1">'LATITUDE'</span><span class="p">,</span> <span class="s1">'LONGITUDE'</span><span class="p">,</span> <span class="s1">'PLZ'</span><span class="p">,</span> <span class="s1">'RINAME'</span><span class="p">,</span> <span class="s1">'FZTYP'</span><span class="p">,</span> <span class="s1">'DTVMS'</span><span class="p">,</span> <span class="s1">'LANES'</span><span class="p">]]</span>
@@ -14215,7 +14215,7 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[14]:</div>
+<div class="prompt output_prompt">Out[56]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -14250,7 +14250,7 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 <tbody>
 <tr>
 <th>0</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>1194</td>
 <td>Prager Straße</td>
 <td>Historische Reichsstraße nach Prag, seit 1728.</td>
@@ -14259,12 +14259,12 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 <td>1210</td>
 <td>Zentrum</td>
 <td>Kfz</td>
-<td>4887</td>
+<td>4813</td>
 <td>3</td>
 </tr>
 <tr>
 <th>1</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>1194</td>
 <td>Prager Straße</td>
 <td>Historische Reichsstraße nach Prag, seit 1728.</td>
@@ -14273,12 +14273,12 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 <td>1210</td>
 <td>Zentrum</td>
 <td>LkwÄ</td>
-<td>148</td>
+<td>163</td>
 <td>3</td>
 </tr>
 <tr>
 <th>2</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>1194</td>
 <td>Prager Straße</td>
 <td>Historische Reichsstraße nach Prag, seit 1728.</td>
@@ -14287,12 +14287,12 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 <td>1210</td>
 <td>Langenzersd.</td>
 <td>Kfz</td>
-<td>4775</td>
+<td>4654</td>
 <td>3</td>
 </tr>
 <tr>
 <th>3</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>1194</td>
 <td>Prager Straße</td>
 <td>Historische Reichsstraße nach Prag, seit 1728.</td>
@@ -14301,12 +14301,12 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 <td>1210</td>
 <td>Langenzersd.</td>
 <td>LkwÄ</td>
-<td>142</td>
+<td>159</td>
 <td>3</td>
 </tr>
 <tr>
 <th>4</th>
-<td>2024-12-01</td>
+<td>2025-03-01</td>
 <td>1194</td>
 <td>Prager Straße</td>
 <td>Historische Reichsstraße nach Prag, seit 1728.</td>
@@ -14315,7 +14315,7 @@ Fehlende Zählstellen konstruieren, einfügen und die beiden Datensätze verknü
 <td>1210</td>
 <td>Gesamt</td>
 <td>Kfz</td>
-<td>9662</td>
+<td>9467</td>
 <td>3</td>
 </tr>
 </tbody>
@@ -14348,7 +14348,7 @@ Zählwerte reduzieren auf jene mit dem höchsten Messwert.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [15]:</div>
+<div class="prompt input_prompt">In [57]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">zaehlungen</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s1">'DTVMS'</span><span class="p">,</span> <span class="s1">'RINAME'</span><span class="p">])),</span> <span class="n">as_index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span><span class="o">.</span><span class="n">agg</span><span class="p">({</span> <span class="s1">'DTVMS'</span><span class="p">:</span> <span class="s1">'max'</span> <span class="p">})</span>
@@ -14360,7 +14360,7 @@ Zählwerte reduzieren auf jene mit dem höchsten Messwert.</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[15]:</div>
+<div class="prompt output_prompt">Out[57]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -14473,7 +14473,7 @@ Zählwerte reduzieren auf jene mit dem höchsten Messwert.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [16]:</div>
+<div class="prompt input_prompt">In [58]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">dtvms_sum</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">zaehlungen</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s1">'DTVMS'</span><span class="p">,</span> <span class="s1">'FZTYP'</span><span class="p">])))[</span><span class="s1">'DTVMS'</span><span class="p">]</span><span class="o">.</span><span class="n">transform</span><span class="p">(</span><span class="s1">'sum'</span><span class="p">)</span>
@@ -14489,7 +14489,7 @@ Zählwerte reduzieren auf jene mit dem höchsten Messwert.</p>
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[16]:</div>
+<div class="prompt output_prompt">Out[58]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -14603,7 +14603,7 @@ Dazu zunächst die durchschnittlichen Zählwerte für das Jahr 2019 berechnen un
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [17]:</div>
+<div class="prompt input_prompt">In [59]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">dtvms2019</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="p">[</span><span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'DATE'</span><span class="p">]</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span> <span class="o">==</span> <span class="mi">2019</span><span class="p">]</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">'ZST_NAME'</span><span class="p">)[</span><span class="s1">'DTVMS'</span><span class="p">]</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
@@ -14617,7 +14617,7 @@ Dazu zunächst die durchschnittlichen Zählwerte für das Jahr 2019 berechnen un
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[17]:</div>
+<div class="prompt output_prompt">Out[59]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -14736,7 +14736,7 @@ Dazu zunächst die durchschnittlichen Zählwerte für das Jahr 2019 berechnen un
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [18]:</div>
+<div class="prompt input_prompt">In [60]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="p">[</span><span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'DATE'</span><span class="p">]</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span> <span class="o">==</span> <span class="mi">2024</span><span class="p">]</span>
@@ -14749,7 +14749,7 @@ Dazu zunächst die durchschnittlichen Zählwerte für das Jahr 2019 berechnen un
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[18]:</div>
+<div class="prompt output_prompt">Out[60]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -14862,7 +14862,7 @@ Dazu zunächst die durchschnittlichen Zählwerte für das Jahr 2019 berechnen un
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [19]:</div>
+<div class="prompt input_prompt">In [61]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'TREND'</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'DTVMS'</span><span class="p">]</span> <span class="o">-</span> <span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'DTVMS2019'</span><span class="p">])</span> <span class="o">/</span> <span class="n">zaehlungen</span><span class="p">[</span><span class="s1">'DTVMS2019'</span><span class="p">]</span>
@@ -14875,7 +14875,7 @@ Dazu zunächst die durchschnittlichen Zählwerte für das Jahr 2019 berechnen un
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt output_prompt">Out[19]:</div>
+<div class="prompt output_prompt">Out[61]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -14993,7 +14993,7 @@ Jede Karte enthält auch drei Verweise auf die anderen Karten in der jeweiligen 
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [20]:</div>
+<div class="prompt input_prompt">In [62]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">categories</span> <span class="o">=</span> <span class="p">{</span>
@@ -15104,14 +15104,12 @@ Jede Karte enthält auch drei Verweise auf die anderen Karten in der jeweiligen 
         <span class="p">)</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span>
         <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">linked_strings</span><span class="p">)</span> <span class="o">!=</span> <span class="mi">3</span><span class="p">:</span>
             <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">"Zu jeder Quartett-Kategorie muss es genau vier Karten geben"</span><span class="p">)</span>
-        <span class="n">linked_strings</span> <span class="o">=</span> <span class="n">linked_strings</span><span class="p">[:</span><span class="mi">3</span><span class="p">]</span>
         <span class="n">linked_entries</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">linked_strings</span><span class="p">)</span>
     <span class="n">group</span> <span class="o">=</span> <span class="n">group</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
     <span class="n">group</span><span class="p">[[</span><span class="s1">'LINK1'</span><span class="p">,</span> <span class="s1">'LINK2'</span><span class="p">,</span> <span class="s1">'LINK3'</span><span class="p">]]</span> <span class="o">=</span> <span class="n">linked_entries</span>
     <span class="k">return</span> <span class="n">group</span>
 
-<span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">'CATEGORY_ID'</span><span class="p">,</span> <span class="n">group_keys</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">as_index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">group</span><span class="p">:</span> <span class="n">create_linked_strings</span><span class="p">(</span><span class="n">group</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)),</span> <span class="n">include_groups</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-<span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">'CATEGORY_ID'</span><span class="p">])</span>
+<span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">'CATEGORY_ID'</span><span class="p">,</span> <span class="n">group_keys</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">as_index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">group</span><span class="p">:</span> <span class="n">create_linked_strings</span><span class="p">(</span><span class="n">group</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)))</span>
 <span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'CATEGORY_ID_UNIQUE'</span><span class="p">:</span> <span class="s1">'CATEGORY_ID'</span><span class="p">})</span>
 <span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
 <span class="n">zaehlungen</span><span class="p">[[</span><span class="s1">'ZST_NAME'</span><span class="p">,</span> <span class="s1">'ZST_ID'</span><span class="p">,</span> <span class="s1">'CATEGORY'</span><span class="p">,</span> <span class="s1">'CATEGORY_ID'</span><span class="p">,</span> <span class="s1">'LINK1'</span><span class="p">,</span> <span class="s1">'LINK2'</span><span class="p">,</span> <span class="s1">'LINK3'</span><span class="p">]]</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
@@ -15122,15 +15120,7 @@ Jede Karte enthält auch drei Verweise auf die anderen Karten in der jeweiligen 
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="prompt"></div>
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>/var/folders/q5/nzz5_jt15v76ywqnh46qpm9w0000gn/T/ipykernel_4858/2571595554.py:115: DeprecationWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
-  zaehlungen = zaehlungen.groupby('CATEGORY_ID', group_keys=False, as_index=False).apply(lambda group: create_linked_strings(group.reset_index(drop=True)), include_groups=True)
-</pre>
-</div>
-</div>
-<div class="output_area">
-<div class="prompt output_prompt">Out[20]:</div>
+<div class="prompt output_prompt">Out[62]:</div>
 <div class="output_html rendered_html output_subarea output_execute_result"><div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -15225,7 +15215,7 @@ Jede Karte enthält auch drei Verweise auf die anderen Karten in der jeweiligen 
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [21]:</div>
+<div class="prompt input_prompt">In [63]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlungen</span> <span class="o">=</span> <span class="n">zaehlungen</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s1">'DTVMS'</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
@@ -16585,7 +16575,7 @@ Jede Karte enthält auch drei Verweise auf die anderen Karten in der jeweiligen 
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [22]:</div>
+<div class="prompt input_prompt">In [64]:</div>
 <div class="inner_cell">
 <div class="input_area">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">zaehlungen</span><span class="o">.</span><span class="n">to_json</span><span class="p">(</span><span class="s1">'web/quartett.json'</span><span class="p">,</span> <span class="n">orient</span><span class="o">=</span><span class="s2">"records"</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>

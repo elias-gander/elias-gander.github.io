@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
   <head>
     <meta charset="UTF-8" />
@@ -8,7 +8,6 @@
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -33,41 +32,47 @@
     />
     <script src="https://unpkg.com/leaflet.markercluster@1.5.1/dist/leaflet.markercluster.js"></script>
   </head>
-  <body>
+  <body v-scope="App">
     <div id="map"></div>
 
     <div id="card-container">
-      <div id="card" class="flipped">
+      <div
+        id="card"
+        v-bind:class="{ flipped: !App.selectedRecord }"
+        v-show="App.isCardPresented"
+      >
         <div id="inner-card-front">
-          <span id="category-id"></span>
-          <span id="category"></span>
-          <span id="location-name"></span>
-          <span id="description"></span>
-          <span id="plz"></span>
-          <img id="photo" />
-          <span id="no-photo-watermark">Noch kein Foto</span>
-          <img id="bezirkswappen" />
+          <span id="category-id">{{ App.selectedRecord?.CATEGORY_ID }}</span>
+          <span id="category">{{ App.selectedRecord?.CATEGORY }}</span>
+          <span id="location-name">{{ App.selectedRecord?.ZST_NAME }}</span>
+          <span id="description">{{ App.selectedRecord?.DESCRIPTION }}</span>
+          <span id="plz">{{ App.selectedRecord?.PLZ }}</span>
+          <img id="photo" :src="App.photoSrc" />
+          <span id="no-photo-watermark" v-show="!App.hasPhoto"
+            >Noch kein Foto</span
+          >
+          <img id="bezirkswappen" :src="App.bezirkswappenSrc" />
           <div id="links">
-            <span id="link-1"></span>
-            <span id="link-2"></span>
-            <span id="link-3"></span>
+            <span id="link-1">{{ App.selectedRecord?.LINK1 }}</span>
+            <span id="link-2">{{ App.selectedRecord?.LINK2 }}</span>
+            <span id="link-3">{{ App.selectedRecord?.LINK3 }}</span>
           </div>
           <span class="stat-label" id="dtvms-label">Kfz pro Tag:</span>
-          <span class="stat" id="dtvms"></span>
+          <span class="stat" id="dtvms">{{ App.dtvms }}</span>
           <span class="stat-label" id="trend-label">Seit 2019:</span>
-          <span class="stat" id="trend"></span>
+          <span class="stat" id="trend">{{ App.trend }}</span>
           <span class="stat-label" id="lkwratio-label"
             >Anteil Schwerverkehr:</span
           >
-          <span class="stat" id="lkwratio"></span>
+          <span class="stat" id="lkwratio">{{ App.lkwratio }}</span>
           <span class="stat-label" id="lanes-label">Fahrspuren:</span>
-          <span class="stat" id="lanes"></span>
+          <span class="stat" id="lanes">{{ App.selectedRecord?.LANES }}</span>
         </div>
         <div id="inner-card-back"></div>
       </div>
     </div>
 
-    <div id="infos">
+    <div id="infos" v-bind:class="{ visible: App.isInfosPresented }">
       <p>
         Basierend auf den Daten der Magistratsabteilung für Verkehrsorganisation
         und technische Verkehrsangelegenheiten MA 46:
@@ -81,7 +86,7 @@
           href="https://www.data.gv.at/katalog/dataset/4707e82a-154f-48b2-864c-89fffc6334e1"
           target="_blank"
           >Zählwerte</a
-        >. Verwendete Messwerte im Zeitraum von 2019 - 2023
+        >. Verwendete Messwerte im Zeitraum von 2019 - 2024
       </p>
       <p>
         <a
@@ -116,14 +121,16 @@
       </p>
       <p>Eigene Fotografien, aufgenommen mit einer Kodak Funsaver</p>
       <p>
-        50 der 68 Karten fehlt noch ein Foto. Du kannst Analogfotos beisteuern?
+        40 der 68 Karten fehlt noch ein Foto. Du kannst Analogfotos beisteuern?
         <a
           href="mailto:eliasgander@icloud.com?subject=Wiener-Strassenquartett-Fotobeitrag&body=(Wenn du in den Credits erwähnt werden möchtest, dann gib auch einen Namen und, falls gewünscht, einen Link zu deiner Website, Social-Media-Profil, etc. an.)"
           >Schick sie mir!</a
         >
       </p>
     </div>
-    <span id="infos-link">?</span>
+    <span id="infos-link" @click="App.isInfosPresented = !App.isInfosPresented"
+      >{{ App.isInfosPresented ? 'X' : '?'}}</span
+    >
     <script type="module" src="script.js"></script>
   </body>
 </html>
