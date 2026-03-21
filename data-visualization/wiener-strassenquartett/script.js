@@ -64,17 +64,18 @@ window.App = reactive({
 
   async showCard(record) {
     this.isCardPresented = true;
+    await new Promise(requestAnimationFrame);
     const startTime = Date.now();
     await waitForImage(document.getElementById("photo"));
     await waitForImage(document.getElementById("bezirkswappen"));
     const elapsedTime = Date.now() - startTime;
     const remainingDelay = Math.max(0, 250 - elapsedTime);
-    await await new Promise((r) => setTimeout(r, remainingDelay));
+    await new Promise((r) => setTimeout(r, remainingDelay));
     this.selectedRecord = record;
   },
   async hideCard() {
     this.selectedRecord = null;
-    await await new Promise((r) => setTimeout(r, 250));
+    await new Promise((r) => setTimeout(r, 250));
     this.isCardPresented = false;
   },
 });
