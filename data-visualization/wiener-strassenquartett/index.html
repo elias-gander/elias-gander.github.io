@@ -47,11 +47,11 @@
           <span id="location-name">{{ App.selectedRecord?.ZST_NAME }}</span>
           <span id="description">{{ App.selectedRecord?.DESCRIPTION }}</span>
           <span id="plz">{{ App.selectedRecord?.PLZ }}</span>
-          <img id="photo" :src="App.photoSrc" />
+          <img id="photo" />
           <span id="no-photo-watermark" v-show="!App.hasPhoto"
             >Noch kein Foto</span
           >
-          <img id="bezirkswappen" :src="App.bezirkswappenSrc" />
+          <img id="bezirkswappen" />
           <div id="links">
             <span id="link-1">{{ App.selectedRecord?.LINK1 }}</span>
             <span id="link-2">{{ App.selectedRecord?.LINK2 }}</span>
