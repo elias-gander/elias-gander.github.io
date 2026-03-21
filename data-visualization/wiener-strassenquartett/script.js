@@ -64,6 +64,7 @@ window.App = reactive({
 
   async showCard(record) {
     this.isCardPresented = true;
+    await new Promise(requestAnimationFrame);
     document.getElementById("photo").src = this.photoSrc;
     document.getElementById("bezirkswappen").src = this.bezirkswappenSrc;
     const startTime = Date.now();
