@@ -34,12 +34,6 @@ window.App = reactive({
   get hasPhoto() {
     return zstIdsWithPhoto.includes(this.selectedRecord?.ZST_ID);
   },
-  get photoSrc() {
-    return `assets/photos/${this.hasPhoto ? this.selectedRecord?.ZST_ID : "placeholder"}.jpg`;
-  },
-  get bezirkswappenSrc() {
-    return `assets/bezirkswappen/pngs/${this.selectedRecord?.PLZ ?? "1010"}.png`;
-  },
   get dtvms() {
     return (Math.round(this.selectedRecord?.DTVMS / 100) * 100)
       .toLocaleString("de-AT")
@@ -65,8 +59,10 @@ window.App = reactive({
   async showCard(record) {
     this.isCardPresented = true;
     await new Promise(requestAnimationFrame);
-    document.getElementById("photo").src = this.photoSrc;
-    document.getElementById("bezirkswappen").src = this.bezirkswappenSrc;
+    document.getElementById("photo").src =
+      `assets/photos/${zstIdsWithPhoto.includes(record.ZST_ID) ? record.ZST_ID : "placeholder"}.jpg`;
+    document.getElementById("bezirkswappen").src =
+      `assets/bezirkswappen/pngs/${record.PLZ}.png`;
     const startTime = Date.now();
     await Promise.all([
       waitForImage(document.getElementById("photo")),
