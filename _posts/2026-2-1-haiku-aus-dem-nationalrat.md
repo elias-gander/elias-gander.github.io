@@ -1,7 +1,7 @@
 ---
 title: "Haiku aus dem Nationalrat"
 tags: [Daten, Politik]
-image: "media/haiku-aus-dem-nationalrat/screenshot.png"
+image: "/media/haiku-aus-dem-nationalrat/screenshot.png"
 ---
 
 _Das ist eigentlich_  
